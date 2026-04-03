@@ -1,0 +1,1533 @@
+{
+  "meta": {
+    "excluded_category": {
+      "id": 9,
+      "name": "Portugal"
+    },
+    "unavailable_label": "programação Indiponivel",
+    "total_categories": 9,
+    "total_channels": 128,
+    "channels_with_epg": 90,
+    "channels_without_epg": 38
+  },
+  "categories": [
+    {
+      "id": 8,
+      "name": "BBB 2026",
+      "total_channels": 10,
+      "channels": [
+        {
+          "id": "bbb1",
+          "name": "BBB - 1",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "bbb2",
+          "name": "BBB - 2",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "bbb3",
+          "name": "BBB - 3",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "bbb4",
+          "name": "BBB - 4",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "bbb5",
+          "name": "BBB - 5",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "bbb6",
+          "name": "BBB - 6",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "bbb7",
+          "name": "BBB - 7",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "bbb8",
+          "name": "BBB - 8",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "bbb9",
+          "name": "BBB - 9",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "bbbmosaico",
+          "name": "BBB - Mosaico",
+          "epg": "programação Indiponivel"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Todos",
+      "total_channels": 128,
+      "channels": [
+        {
+          "id": "24h_chaves",
+          "name": "24H Chaves",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "24h_dragonball",
+          "name": "24H Dragon Ball Z",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "24h_naruto",
+          "name": "24H Naruto Clássico",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "24h_simpsons",
+          "name": "24H Os Simpsons",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "24h_odeiachris",
+          "name": "24H Todo Mundo Odeia o Cris",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "adultswim",
+          "name": "Adult Swim",
+          "epg": "https://epg.pw/api/epg.json?channel_id=417185"
+        },
+        {
+          "id": "ae",
+          "name": "AE",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523311"
+        },
+        {
+          "id": "amc",
+          "name": "AMC",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523312"
+        },
+        {
+          "id": "animalplanet",
+          "name": "Animal Planet",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523297"
+        },
+        {
+          "id": "aparecida",
+          "name": "Aparecida",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523345"
+        },
+        {
+          "id": "axn",
+          "name": "AXN",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523313"
+        },
+        {
+          "id": "bandnews",
+          "name": "Band News",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523314"
+        },
+        {
+          "id": "bandrj",
+          "name": "Band RJ",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523315"
+        },
+        {
+          "id": "bandsp",
+          "name": "Band SP",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523315"
+        },
+        {
+          "id": "bandsports",
+          "name": "Band Sports",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523330"
+        },
+        {
+          "id": "bbb1",
+          "name": "BBB - 1",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "bbb2",
+          "name": "BBB - 2",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "bbb3",
+          "name": "BBB - 3",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "bbb4",
+          "name": "BBB - 4",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "bbb5",
+          "name": "BBB - 5",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "bbb6",
+          "name": "BBB - 6",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "bbb7",
+          "name": "BBB - 7",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "bbb8",
+          "name": "BBB - 8",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "bbb9",
+          "name": "BBB - 9",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "bbbmosaico",
+          "name": "BBB - Mosaico",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "cancaonova",
+          "name": "Canção Nova",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "cartoonnetwork",
+          "name": "Cartoon Network",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523325"
+        },
+        {
+          "id": "cartoonito",
+          "name": "Cartoonito",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426194"
+        },
+        {
+          "id": "caze1",
+          "name": "CazeTV 1",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "caze2",
+          "name": "CazeTV 2",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "caze3",
+          "name": "CazeTV 3",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "cinemax",
+          "name": "Cinemax",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523277"
+        },
+        {
+          "id": "cnnbrasil",
+          "name": "CNN Brasil",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426108"
+        },
+        {
+          "id": "combate",
+          "name": "Combate",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523284"
+        },
+        {
+          "id": "comedycentral",
+          "name": "Comedy Central",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523280"
+        },
+        {
+          "id": "cultura",
+          "name": "Cultura",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523305"
+        },
+        {
+          "id": "discoverychannel",
+          "name": "Discovery Channel",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523309"
+        },
+        {
+          "id": "discoveryhh",
+          "name": "Discovery H&H",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "discoveryid",
+          "name": "Discovery ID",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426189"
+        },
+        {
+          "id": "discoverykids",
+          "name": "Discovery Kids",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523318"
+        },
+        {
+          "id": "discoveryscience",
+          "name": "Discovery Science",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523359"
+        },
+        {
+          "id": "discoverytheather",
+          "name": "Discovery Theater",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523292"
+        },
+        {
+          "id": "discoveryturbo",
+          "name": "Discovery Turbo",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523326"
+        },
+        {
+          "id": "discoveryword",
+          "name": "Discovery World",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523272"
+        },
+        {
+          "id": "disneyplus1",
+          "name": "Disney Plus 1",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "disneyplus2",
+          "name": "Disney Plus 2",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "disneyplus3",
+          "name": "Disney Plus 3",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "espn",
+          "name": "Espn",
+          "epg": "https://epg.pw/api/epg.json?channel_id=418725"
+        },
+        {
+          "id": "espn2",
+          "name": "Espn 2",
+          "epg": "https://epg.pw/api/epg.json?channel_id=418722"
+        },
+        {
+          "id": "espn3",
+          "name": "Espn 3",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523329"
+        },
+        {
+          "id": "espn4",
+          "name": "Espn 4",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523357"
+        },
+        {
+          "id": "espn5",
+          "name": "Espn 5",
+          "epg": "https://epg.pw/api/epg.json?channel_id=418724"
+        },
+        {
+          "id": "espn6",
+          "name": "Espn 6",
+          "epg": "https://epg.pw/api/epg.json?channel_id=417391"
+        },
+        {
+          "id": "fish",
+          "name": "Fish TV",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426053"
+        },
+        {
+          "id": "foodnetwork",
+          "name": "Food Network",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426074"
+        },
+        {
+          "id": "getv",
+          "name": "GeTV",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "globoam",
+          "name": "Globo AM",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523353"
+        },
+        {
+          "id": "globoce",
+          "name": "Globo CE",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523353"
+        },
+        {
+          "id": "globoes",
+          "name": "Globo ES",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523353"
+        },
+        {
+          "id": "globomg",
+          "name": "Globo MG",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523353"
+        },
+        {
+          "id": "globonews",
+          "name": "Globo News",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523341"
+        },
+        {
+          "id": "globopb",
+          "name": "Globo PB",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523353"
+        },
+        {
+          "id": "globope",
+          "name": "Globo PE",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523353"
+        },
+        {
+          "id": "globorj",
+          "name": "Globo RJ",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523353"
+        },
+        {
+          "id": "globors",
+          "name": "Globo RS",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523353"
+        },
+        {
+          "id": "globosp",
+          "name": "Globo SP",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523353"
+        },
+        {
+          "id": "gloob",
+          "name": "Gloob",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523336"
+        },
+        {
+          "id": "gnt",
+          "name": "GNT",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523276"
+        },
+        {
+          "id": "hbo",
+          "name": "HBO",
+          "epg": "https://epg.pw/api/epg.json?channel_id=417383"
+        },
+        {
+          "id": "hbo2",
+          "name": "HBO 2",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523348"
+        },
+        {
+          "id": "hbofamily",
+          "name": "HBO Family",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523290"
+        },
+        {
+          "id": "hbomundi",
+          "name": "HBO Mundi",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426076"
+        },
+        {
+          "id": "hboplus",
+          "name": "HBO Plus",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523328"
+        },
+        {
+          "id": "hbopop",
+          "name": "HBO POP",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426170"
+        },
+        {
+          "id": "hboxtreme",
+          "name": "HBO Xtreme",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426015"
+        },
+        {
+          "id": "hgtv",
+          "name": "HGTV",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426201"
+        },
+        {
+          "id": "history",
+          "name": "History",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523342"
+        },
+        {
+          "id": "history2",
+          "name": "History 2",
+          "epg": "https://epg.pw/api/epg.json?channel_id=417188"
+        },
+        {
+          "id": "masterchef",
+          "name": "Master chef",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "max1",
+          "name": "Max - 1",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "max2",
+          "name": "Max - 2",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "max3",
+          "name": "Max - 3",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "megapix",
+          "name": "Megapix",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523293"
+        },
+        {
+          "id": "mtv",
+          "name": "MTV",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523308"
+        },
+        {
+          "id": "multishow",
+          "name": "Multishow",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523321"
+        },
+        {
+          "id": "off",
+          "name": "OFF",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523285"
+        },
+        {
+          "id": "paramountplus",
+          "name": "Paramount Plus",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "paramountplus2",
+          "name": "Paramount Plus 2",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "playboy",
+          "name": "Play Boy",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "premiere",
+          "name": "Premiere 1",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "premiere2",
+          "name": "Premiere 2",
+          "epg": "https://epg.pw/api/epg.json?channel_id=425970"
+        },
+        {
+          "id": "premiere3",
+          "name": "Premiere 3",
+          "epg": "https://epg.pw/api/epg.json?channel_id=425997"
+        },
+        {
+          "id": "premiere4",
+          "name": "Premiere 4",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426174"
+        },
+        {
+          "id": "premiere5",
+          "name": "Premiere 5",
+          "epg": "https://epg.pw/api/epg.json?channel_id=425985"
+        },
+        {
+          "id": "premiere6",
+          "name": "Premiere 6",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426171"
+        },
+        {
+          "id": "premiere7",
+          "name": "Premiere 7",
+          "epg": "https://epg.pw/api/epg.json?channel_id=425984"
+        },
+        {
+          "id": "premiere8",
+          "name": "Premiere 8",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "primevideo",
+          "name": "Prime Video",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "primevideo2",
+          "name": "Prime Video 2",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "recordmg",
+          "name": "Record MG",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523282"
+        },
+        {
+          "id": "recordrj",
+          "name": "Record RJ",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523282"
+        },
+        {
+          "id": "recordsp",
+          "name": "Record SP",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523282"
+        },
+        {
+          "id": "sbtrj",
+          "name": "SBT RJ",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523298"
+        },
+        {
+          "id": "sbtsp",
+          "name": "SBT SP",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523298"
+        },
+        {
+          "id": "sexyhot",
+          "name": "Sexy Hot",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426158"
+        },
+        {
+          "id": "sonychannel",
+          "name": "Sony Channel",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523333"
+        },
+        {
+          "id": "space",
+          "name": "Space",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523347"
+        },
+        {
+          "id": "sportv",
+          "name": "Sportv",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523358"
+        },
+        {
+          "id": "sportv2",
+          "name": "Sportv 2",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523271"
+        },
+        {
+          "id": "sportv3",
+          "name": "Sportv 3",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523269"
+        },
+        {
+          "id": "sportv4",
+          "name": "Sportv 4",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "starchannel",
+          "name": "Star Channel",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426207"
+        },
+        {
+          "id": "studiouniversal",
+          "name": "Studio Universal",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523320"
+        },
+        {
+          "id": "tcm",
+          "name": "TCM",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426036"
+        },
+        {
+          "id": "telecineaction",
+          "name": "Telecine Action",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523346"
+        },
+        {
+          "id": "telecinecult",
+          "name": "Telecine Cult",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523286"
+        },
+        {
+          "id": "telecinefun",
+          "name": "Telecine Fun",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523288"
+        },
+        {
+          "id": "telecinepipoca",
+          "name": "Telecine Pipoca",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523291"
+        },
+        {
+          "id": "telecinepremium",
+          "name": "Telecine Premium",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523351"
+        },
+        {
+          "id": "telecinetouch",
+          "name": "Telecine Touch",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523306"
+        },
+        {
+          "id": "tlc",
+          "name": "TLC",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523307"
+        },
+        {
+          "id": "tnt",
+          "name": "TNT",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523279"
+        },
+        {
+          "id": "tntnovelas",
+          "name": "TNT Novelas",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426013"
+        },
+        {
+          "id": "tntseries",
+          "name": "TNT Series",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523294"
+        },
+        {
+          "id": "ufcfightpass",
+          "name": "UFC Fight Pass",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "universaltv",
+          "name": "Universal",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523349"
+        },
+        {
+          "id": "warnerchannel",
+          "name": "Warnerchannel",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523350"
+        },
+        {
+          "id": "xsports",
+          "name": "XSports",
+          "epg": "programação Indiponivel"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Esportes",
+      "total_channels": 36,
+      "channels": [
+        {
+          "id": "bandsports",
+          "name": "Band Sports",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523330"
+        },
+        {
+          "id": "caze1",
+          "name": "CazeTV 1",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "caze2",
+          "name": "CazeTV 2",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "caze3",
+          "name": "CazeTV 3",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "combate",
+          "name": "Combate",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523284"
+        },
+        {
+          "id": "disneyplus1",
+          "name": "Disney Plus 1",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "disneyplus2",
+          "name": "Disney Plus 2",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "disneyplus3",
+          "name": "Disney Plus 3",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "espn",
+          "name": "Espn",
+          "epg": "https://epg.pw/api/epg.json?channel_id=418725"
+        },
+        {
+          "id": "espn2",
+          "name": "Espn 2",
+          "epg": "https://epg.pw/api/epg.json?channel_id=418722"
+        },
+        {
+          "id": "espn3",
+          "name": "Espn 3",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523329"
+        },
+        {
+          "id": "espn4",
+          "name": "Espn 4",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523357"
+        },
+        {
+          "id": "espn5",
+          "name": "Espn 5",
+          "epg": "https://epg.pw/api/epg.json?channel_id=418724"
+        },
+        {
+          "id": "espn6",
+          "name": "Espn 6",
+          "epg": "https://epg.pw/api/epg.json?channel_id=417391"
+        },
+        {
+          "id": "getv",
+          "name": "GeTV",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "max1",
+          "name": "Max - 1",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "max2",
+          "name": "Max - 2",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "max3",
+          "name": "Max - 3",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "paramountplus",
+          "name": "Paramount Plus",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "paramountplus2",
+          "name": "Paramount Plus 2",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "premiere",
+          "name": "Premiere 1",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "premiere2",
+          "name": "Premiere 2",
+          "epg": "https://epg.pw/api/epg.json?channel_id=425970"
+        },
+        {
+          "id": "premiere3",
+          "name": "Premiere 3",
+          "epg": "https://epg.pw/api/epg.json?channel_id=425997"
+        },
+        {
+          "id": "premiere4",
+          "name": "Premiere 4",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426174"
+        },
+        {
+          "id": "premiere5",
+          "name": "Premiere 5",
+          "epg": "https://epg.pw/api/epg.json?channel_id=425985"
+        },
+        {
+          "id": "premiere6",
+          "name": "Premiere 6",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426171"
+        },
+        {
+          "id": "premiere7",
+          "name": "Premiere 7",
+          "epg": "https://epg.pw/api/epg.json?channel_id=425984"
+        },
+        {
+          "id": "premiere8",
+          "name": "Premiere 8",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "primevideo",
+          "name": "Prime Video",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "primevideo2",
+          "name": "Prime Video 2",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "sportv",
+          "name": "Sportv",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523358"
+        },
+        {
+          "id": "sportv2",
+          "name": "Sportv 2",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523271"
+        },
+        {
+          "id": "sportv3",
+          "name": "Sportv 3",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523269"
+        },
+        {
+          "id": "sportv4",
+          "name": "Sportv 4",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "ufcfightpass",
+          "name": "UFC Fight Pass",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "xsports",
+          "name": "XSports",
+          "epg": "programação Indiponivel"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Infantil",
+      "total_channels": 9,
+      "channels": [
+        {
+          "id": "24h_chaves",
+          "name": "24H Chaves",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "24h_dragonball",
+          "name": "24H Dragon Ball Z",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "24h_naruto",
+          "name": "24H Naruto Clássico",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "24h_simpsons",
+          "name": "24H Os Simpsons",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "24h_odeiachris",
+          "name": "24H Todo Mundo Odeia o Cris",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "cartoonnetwork",
+          "name": "Cartoon Network",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523325"
+        },
+        {
+          "id": "cartoonito",
+          "name": "Cartoonito",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426194"
+        },
+        {
+          "id": "discoverykids",
+          "name": "Discovery Kids",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523318"
+        },
+        {
+          "id": "gloob",
+          "name": "Gloob",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523336"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Documentarios",
+      "total_channels": 11,
+      "channels": [
+        {
+          "id": "animalplanet",
+          "name": "Animal Planet",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523297"
+        },
+        {
+          "id": "discoverychannel",
+          "name": "Discovery Channel",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523309"
+        },
+        {
+          "id": "discoveryhh",
+          "name": "Discovery H&H",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "discoveryid",
+          "name": "Discovery ID",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426189"
+        },
+        {
+          "id": "discoveryscience",
+          "name": "Discovery Science",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523359"
+        },
+        {
+          "id": "discoverytheather",
+          "name": "Discovery Theater",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523292"
+        },
+        {
+          "id": "discoveryturbo",
+          "name": "Discovery Turbo",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523326"
+        },
+        {
+          "id": "discoveryword",
+          "name": "Discovery World",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523272"
+        },
+        {
+          "id": "fish",
+          "name": "Fish TV",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426053"
+        },
+        {
+          "id": "history",
+          "name": "History",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523342"
+        },
+        {
+          "id": "history2",
+          "name": "History 2",
+          "epg": "https://epg.pw/api/epg.json?channel_id=417188"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Filmes e Séries",
+      "total_channels": 34,
+      "channels": [
+        {
+          "id": "adultswim",
+          "name": "Adult Swim",
+          "epg": "https://epg.pw/api/epg.json?channel_id=417185"
+        },
+        {
+          "id": "ae",
+          "name": "AE",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523311"
+        },
+        {
+          "id": "amc",
+          "name": "AMC",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523312"
+        },
+        {
+          "id": "axn",
+          "name": "AXN",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523313"
+        },
+        {
+          "id": "cinemax",
+          "name": "Cinemax",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523277"
+        },
+        {
+          "id": "comedycentral",
+          "name": "Comedy Central",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523280"
+        },
+        {
+          "id": "gnt",
+          "name": "GNT",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523276"
+        },
+        {
+          "id": "hbo",
+          "name": "HBO",
+          "epg": "https://epg.pw/api/epg.json?channel_id=417383"
+        },
+        {
+          "id": "hbo2",
+          "name": "HBO 2",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523348"
+        },
+        {
+          "id": "hbofamily",
+          "name": "HBO Family",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523290"
+        },
+        {
+          "id": "hbomundi",
+          "name": "HBO Mundi",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426076"
+        },
+        {
+          "id": "hboplus",
+          "name": "HBO Plus",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523328"
+        },
+        {
+          "id": "hbopop",
+          "name": "HBO POP",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426170"
+        },
+        {
+          "id": "hboxtreme",
+          "name": "HBO Xtreme",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426015"
+        },
+        {
+          "id": "hgtv",
+          "name": "HGTV",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426201"
+        },
+        {
+          "id": "megapix",
+          "name": "Megapix",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523293"
+        },
+        {
+          "id": "off",
+          "name": "OFF",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523285"
+        },
+        {
+          "id": "sonychannel",
+          "name": "Sony Channel",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523333"
+        },
+        {
+          "id": "space",
+          "name": "Space",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523347"
+        },
+        {
+          "id": "starchannel",
+          "name": "Star Channel",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426207"
+        },
+        {
+          "id": "studiouniversal",
+          "name": "Studio Universal",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523320"
+        },
+        {
+          "id": "tcm",
+          "name": "TCM",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426036"
+        },
+        {
+          "id": "telecineaction",
+          "name": "Telecine Action",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523346"
+        },
+        {
+          "id": "telecinecult",
+          "name": "Telecine Cult",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523286"
+        },
+        {
+          "id": "telecinefun",
+          "name": "Telecine Fun",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523288"
+        },
+        {
+          "id": "telecinepipoca",
+          "name": "Telecine Pipoca",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523291"
+        },
+        {
+          "id": "telecinepremium",
+          "name": "Telecine Premium",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523351"
+        },
+        {
+          "id": "telecinetouch",
+          "name": "Telecine Touch",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523306"
+        },
+        {
+          "id": "tlc",
+          "name": "TLC",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523307"
+        },
+        {
+          "id": "tnt",
+          "name": "TNT",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523279"
+        },
+        {
+          "id": "tntnovelas",
+          "name": "TNT Novelas",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426013"
+        },
+        {
+          "id": "tntseries",
+          "name": "TNT Series",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523294"
+        },
+        {
+          "id": "universaltv",
+          "name": "Universal",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523349"
+        },
+        {
+          "id": "warnerchannel",
+          "name": "Warnerchannel",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523350"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Noticias",
+      "total_channels": 11,
+      "channels": [
+        {
+          "id": "bandnews",
+          "name": "Band News",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523314"
+        },
+        {
+          "id": "bandrj",
+          "name": "Band RJ",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523315"
+        },
+        {
+          "id": "bandsp",
+          "name": "Band SP",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523315"
+        },
+        {
+          "id": "bandsports",
+          "name": "Band Sports",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523330"
+        },
+        {
+          "id": "cnnbrasil",
+          "name": "CNN Brasil",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426108"
+        },
+        {
+          "id": "globonews",
+          "name": "Globo News",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523341"
+        },
+        {
+          "id": "recordmg",
+          "name": "Record MG",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523282"
+        },
+        {
+          "id": "recordrj",
+          "name": "Record RJ",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523282"
+        },
+        {
+          "id": "recordsp",
+          "name": "Record SP",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523282"
+        },
+        {
+          "id": "sbtrj",
+          "name": "SBT RJ",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523298"
+        },
+        {
+          "id": "sbtsp",
+          "name": "SBT SP",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523298"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Abertos",
+      "total_channels": 24,
+      "channels": [
+        {
+          "id": "aparecida",
+          "name": "Aparecida",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523345"
+        },
+        {
+          "id": "bandnews",
+          "name": "Band News",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523314"
+        },
+        {
+          "id": "bandrj",
+          "name": "Band RJ",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523315"
+        },
+        {
+          "id": "bandsp",
+          "name": "Band SP",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523315"
+        },
+        {
+          "id": "bandsports",
+          "name": "Band Sports",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523330"
+        },
+        {
+          "id": "cancaonova",
+          "name": "Canção Nova",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "cultura",
+          "name": "Cultura",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523305"
+        },
+        {
+          "id": "globoam",
+          "name": "Globo AM",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523353"
+        },
+        {
+          "id": "globoce",
+          "name": "Globo CE",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523353"
+        },
+        {
+          "id": "globoes",
+          "name": "Globo ES",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523353"
+        },
+        {
+          "id": "globomg",
+          "name": "Globo MG",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523353"
+        },
+        {
+          "id": "globonews",
+          "name": "Globo News",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523341"
+        },
+        {
+          "id": "globopb",
+          "name": "Globo PB",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523353"
+        },
+        {
+          "id": "globope",
+          "name": "Globo PE",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523353"
+        },
+        {
+          "id": "globorj",
+          "name": "Globo RJ",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523353"
+        },
+        {
+          "id": "globors",
+          "name": "Globo RS",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523353"
+        },
+        {
+          "id": "globosp",
+          "name": "Globo SP",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523353"
+        },
+        {
+          "id": "mtv",
+          "name": "MTV",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523308"
+        },
+        {
+          "id": "multishow",
+          "name": "Multishow",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523321"
+        },
+        {
+          "id": "recordmg",
+          "name": "Record MG",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523282"
+        },
+        {
+          "id": "recordrj",
+          "name": "Record RJ",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523282"
+        },
+        {
+          "id": "recordsp",
+          "name": "Record SP",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523282"
+        },
+        {
+          "id": "sbtrj",
+          "name": "SBT RJ",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523298"
+        },
+        {
+          "id": "sbtsp",
+          "name": "SBT SP",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523298"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Variedades",
+      "total_channels": 28,
+      "channels": [
+        {
+          "id": "24h_chaves",
+          "name": "24H Chaves",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "24h_dragonball",
+          "name": "24H Dragon Ball Z",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "24h_naruto",
+          "name": "24H Naruto Clássico",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "24h_simpsons",
+          "name": "24H Os Simpsons",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "24h_odeiachris",
+          "name": "24H Todo Mundo Odeia o Cris",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "adultswim",
+          "name": "Adult Swim",
+          "epg": "https://epg.pw/api/epg.json?channel_id=417185"
+        },
+        {
+          "id": "aparecida",
+          "name": "Aparecida",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523345"
+        },
+        {
+          "id": "cancaonova",
+          "name": "Canção Nova",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "cnnbrasil",
+          "name": "CNN Brasil",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426108"
+        },
+        {
+          "id": "cultura",
+          "name": "Cultura",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523305"
+        },
+        {
+          "id": "discoveryscience",
+          "name": "Discovery Science",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523359"
+        },
+        {
+          "id": "disneyplus1",
+          "name": "Disney Plus 1",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "disneyplus2",
+          "name": "Disney Plus 2",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "disneyplus3",
+          "name": "Disney Plus 3",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "fish",
+          "name": "Fish TV",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426053"
+        },
+        {
+          "id": "foodnetwork",
+          "name": "Food Network",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426074"
+        },
+        {
+          "id": "hgtv",
+          "name": "HGTV",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426201"
+        },
+        {
+          "id": "masterchef",
+          "name": "Master chef",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "mtv",
+          "name": "MTV",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523308"
+        },
+        {
+          "id": "multishow",
+          "name": "Multishow",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523321"
+        },
+        {
+          "id": "playboy",
+          "name": "Play Boy",
+          "epg": "programação Indiponivel"
+        },
+        {
+          "id": "recordmg",
+          "name": "Record MG",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523282"
+        },
+        {
+          "id": "recordrj",
+          "name": "Record RJ",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523282"
+        },
+        {
+          "id": "recordsp",
+          "name": "Record SP",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523282"
+        },
+        {
+          "id": "sbtrj",
+          "name": "SBT RJ",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523298"
+        },
+        {
+          "id": "sbtsp",
+          "name": "SBT SP",
+          "epg": "https://epg.pw/api/epg.json?channel_id=523298"
+        },
+        {
+          "id": "sexyhot",
+          "name": "Sexy Hot",
+          "epg": "https://epg.pw/api/epg.json?channel_id=426158"
+        },
+        {
+          "id": "xsports",
+          "name": "XSports",
+          "epg": "programação Indiponivel"
+        }
+      ]
+    }
+  ]
+}

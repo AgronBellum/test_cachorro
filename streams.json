@@ -1,0 +1,1073 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-03T10:23:28.885Z",
+    "total_channels": 118,
+    "successful_extractions": 118,
+    "failed_extractions": 0,
+    "duration_seconds": 4367
+  },
+  "channels": [
+    {
+      "id": "24h_chaves",
+      "name": "24H Chaves",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/dabd7095419addb5a9967956daed81aa/24h_chaves.m3u8",
+      "source_url": "https://www4.embedtv.best/24h_chaves",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:10:49.243Z",
+      "status": "success"
+    },
+    {
+      "id": "24h_dragonball",
+      "name": "24H Dragon Ball Z",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/5e43cf39db9f4ce05ed9af21bea3a404/24h_dragonball.m3u8",
+      "source_url": "https://www4.embedtv.best/24h_dragonball",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:11:26.441Z",
+      "status": "success"
+    },
+    {
+      "id": "24h_naruto",
+      "name": "24H Naruto Clássico",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/f483e71b55d5eba170ea10354f8b6978/24h_naruto.m3u8",
+      "source_url": "https://www4.embedtv.best/24h_naruto",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:12:03.580Z",
+      "status": "success"
+    },
+    {
+      "id": "24h_simpsons",
+      "name": "24H Os Simpsons",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/0c6a3c192c8fe69386a6902a42738f5b/24h_simpsons.m3u8",
+      "source_url": "https://www4.embedtv.best/24h_simpsons",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:12:40.956Z",
+      "status": "success"
+    },
+    {
+      "id": "24h_odeiachris",
+      "name": "24H Todo Mundo Odeia o Cris",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/ff9b87c15789a0e191057f48075a07e5/24h_odeiachris.m3u8",
+      "source_url": "https://www4.embedtv.best/24h_odeiachris",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:13:18.240Z",
+      "status": "success"
+    },
+    {
+      "id": "ae",
+      "name": "AE",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/2111f468e39ef2d926b73144a6a098ae/ae.m3u8",
+      "source_url": "https://www4.embedtv.best/ae",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:13:56.187Z",
+      "status": "success"
+    },
+    {
+      "id": "amc",
+      "name": "AMC",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/20800a2217bab3e7a4af1c25d6ac904f/amc.m3u8",
+      "source_url": "https://www4.embedtv.best/amc",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:14:33.738Z",
+      "status": "success"
+    },
+    {
+      "id": "axn",
+      "name": "AXN",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/3d920eda27bd84d3d7b5b4a6a203f438/axn.m3u8",
+      "source_url": "https://www4.embedtv.best/axn",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:15:11.165Z",
+      "status": "success"
+    },
+    {
+      "id": "adultswim",
+      "name": "Adult Swim",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/2c746f2c08403c3051ebd05cc59709b3/adultswim.m3u8",
+      "source_url": "https://www4.embedtv.best/adultswim",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:15:48.276Z",
+      "status": "success"
+    },
+    {
+      "id": "animalplanet",
+      "name": "Animal Planet",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/01803ca40267d60e6498516426cf375c/animalplanet.m3u8",
+      "source_url": "https://www4.embedtv.best/animalplanet",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:16:25.394Z",
+      "status": "success"
+    },
+    {
+      "id": "aparecida",
+      "name": "Aparecida",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/88be05050daeca403b6a4420fa67688a/aparecida.m3u8",
+      "source_url": "https://www4.embedtv.best/aparecida",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:17:02.650Z",
+      "status": "success"
+    },
+    {
+      "id": "bandnews",
+      "name": "Band News",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/a959f0e3e425b8574e6e3e466da921f6/bandnews.m3u8",
+      "source_url": "https://www4.embedtv.best/bandnews",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:17:39.845Z",
+      "status": "success"
+    },
+    {
+      "id": "bandrj",
+      "name": "Band RJ",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/b5c295335137cfe2db8830a5b75bf062/bandrj.m3u8",
+      "source_url": "https://www4.embedtv.best/bandrj",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:18:17.035Z",
+      "status": "success"
+    },
+    {
+      "id": "bandsp",
+      "name": "Band SP",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/0202ea8ec7ce8bdacf7405d9d8e1897f/bandsp.m3u8",
+      "source_url": "https://www4.embedtv.best/bandsp",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:18:54.469Z",
+      "status": "success"
+    },
+    {
+      "id": "bandsports",
+      "name": "Band Sports",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/41e53b71dc416c02074744bf17b85f25/bandsports.m3u8",
+      "source_url": "https://www4.embedtv.best/bandsports",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:19:31.625Z",
+      "status": "success"
+    },
+    {
+      "id": "cnnbrasil",
+      "name": "CNN Brasil",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/235d4f87090d053662528eb70ef12df1/cnnbrasil.m3u8",
+      "source_url": "https://www4.embedtv.best/cnnbrasil",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:20:08.913Z",
+      "status": "success"
+    },
+    {
+      "id": "cancaonova",
+      "name": "Canção Nova",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/4e7fe44fa3991f9b8f5f19f71a1c5a1d/cancaonova.m3u8",
+      "source_url": "https://www4.embedtv.best/cancaonova",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:20:46.189Z",
+      "status": "success"
+    },
+    {
+      "id": "cartoonnetwork",
+      "name": "Cartoon Network",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/f48258eefff61097b9dcf98509b0cf55/cartoonnetwork.m3u8",
+      "source_url": "https://www4.embedtv.best/cartoonnetwork",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:21:23.381Z",
+      "status": "success"
+    },
+    {
+      "id": "cartoonito",
+      "name": "Cartoonito",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/e20bea42494d23a52decade189846509/cartoonito.m3u8",
+      "source_url": "https://www4.embedtv.best/cartoonito",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:22:00.677Z",
+      "status": "success"
+    },
+    {
+      "id": "caze1",
+      "name": "CazeTV 1",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/733149b5760f066b25c7a43aeab0a59e/caze1.m3u8",
+      "source_url": "https://www4.embedtv.best/caze1",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:22:38.021Z",
+      "status": "success"
+    },
+    {
+      "id": "caze2",
+      "name": "CazeTV 2",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/0c5a4c6ec0fe9bb0cd96b71a7c63cc30/caze2.m3u8",
+      "source_url": "https://www4.embedtv.best/caze2",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:23:15.088Z",
+      "status": "success"
+    },
+    {
+      "id": "caze3",
+      "name": "CazeTV 3",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/9e8551fa6557bc112374ca9628cda980/caze3.m3u8",
+      "source_url": "https://www4.embedtv.best/caze3",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:23:52.169Z",
+      "status": "success"
+    },
+    {
+      "id": "cinemax",
+      "name": "Cinemax",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/9b483433f91c6281cf81a7ae95fdf583/cinemax.m3u8",
+      "source_url": "https://www4.embedtv.best/cinemax",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:24:29.385Z",
+      "status": "success"
+    },
+    {
+      "id": "combate",
+      "name": "Combate",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/f9b62bb9dffed97a0ed031649a1b2f52/combate.m3u8",
+      "source_url": "https://www4.embedtv.best/combate",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:25:06.598Z",
+      "status": "success"
+    },
+    {
+      "id": "comedycentral",
+      "name": "Comedy Central",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/1716134dba9d3d384cb349d63e2446dd/comedycentral.m3u8",
+      "source_url": "https://www4.embedtv.best/comedycentral",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:25:43.791Z",
+      "status": "success"
+    },
+    {
+      "id": "cultura",
+      "name": "Cultura",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/6dd68619b9c8252490e2de9851707125/cultura.m3u8",
+      "source_url": "https://www4.embedtv.best/cultura",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:26:21.062Z",
+      "status": "success"
+    },
+    {
+      "id": "discoverychannel",
+      "name": "Discovery Channel",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/00121adc872dc133d2776ac801c75e86/discoverychannel.m3u8",
+      "source_url": "https://www4.embedtv.best/discoverychannel",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:26:58.269Z",
+      "status": "success"
+    },
+    {
+      "id": "discoveryhh",
+      "name": "Discovery H&H",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/5a0bf975afa75647b932ce4de6d5f7b9/discoveryhh.m3u8",
+      "source_url": "https://www4.embedtv.best/discoveryhh",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:27:35.336Z",
+      "status": "success"
+    },
+    {
+      "id": "discoveryid",
+      "name": "Discovery ID",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/56eaeb7725bf73da7437d8103b66b2f2/discoveryid.m3u8",
+      "source_url": "https://www4.embedtv.best/discoveryid",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:28:12.414Z",
+      "status": "success"
+    },
+    {
+      "id": "discoverykids",
+      "name": "Discovery Kids",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/f86ad42e48196ca930598e12ee5b411f/discoverykids.m3u8",
+      "source_url": "https://www4.embedtv.best/discoverykids",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:28:49.471Z",
+      "status": "success"
+    },
+    {
+      "id": "discoveryscience",
+      "name": "Discovery Science",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/a3b765ba96ba24cddaec23b8341013c2/discoveryscience.m3u8",
+      "source_url": "https://www4.embedtv.best/discoveryscience",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:29:26.696Z",
+      "status": "success"
+    },
+    {
+      "id": "discoverytheather",
+      "name": "Discovery Theater",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/56e9ae65d9625e5d8928caaa1c60bae3/discoverytheather.m3u8",
+      "source_url": "https://www4.embedtv.best/discoverytheather",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:30:03.837Z",
+      "status": "success"
+    },
+    {
+      "id": "discoveryturbo",
+      "name": "Discovery Turbo",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/ffb6e2e79da51917c8fed461935cac35/discoveryturbo.m3u8",
+      "source_url": "https://www4.embedtv.best/discoveryturbo",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:30:40.930Z",
+      "status": "success"
+    },
+    {
+      "id": "discoveryword",
+      "name": "Discovery World",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/ea52445c93f9fb5c43f787184f66b778/discoveryword.m3u8",
+      "source_url": "https://www4.embedtv.best/discoveryword",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:31:18.089Z",
+      "status": "success"
+    },
+    {
+      "id": "disneyplus1",
+      "name": "Disney Plus 1",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/467c711870d1f8cbda519fa968dea1aa/disneyplus1.m3u8",
+      "source_url": "https://www4.embedtv.best/disneyplus1",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:31:55.259Z",
+      "status": "success"
+    },
+    {
+      "id": "disneyplus2",
+      "name": "Disney Plus 2",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/6cd73a3b16a522677ac308005240ecad/disneyplus2.m3u8",
+      "source_url": "https://www4.embedtv.best/disneyplus2",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:32:32.468Z",
+      "status": "success"
+    },
+    {
+      "id": "disneyplus3",
+      "name": "Disney Plus 3",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/d24a912a04cc4e4f768f0e643edeb196/disneyplus3.m3u8",
+      "source_url": "https://www4.embedtv.best/disneyplus3",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:33:09.757Z",
+      "status": "success"
+    },
+    {
+      "id": "espn",
+      "name": "Espn",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/ccb2ec357063de96960828998b379b26/espn.m3u8",
+      "source_url": "https://www4.embedtv.best/espn",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:33:48.841Z",
+      "status": "success"
+    },
+    {
+      "id": "espn2",
+      "name": "Espn 2",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/9b65c4bbc7435bc3cff6cd0013ab0a74/espn2.m3u8",
+      "source_url": "https://www4.embedtv.best/espn2",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:34:25.955Z",
+      "status": "success"
+    },
+    {
+      "id": "espn3",
+      "name": "Espn 3",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/4c213589efc6652813b66a14f5d49483/espn3.m3u8",
+      "source_url": "https://www4.embedtv.best/espn3",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:35:03.164Z",
+      "status": "success"
+    },
+    {
+      "id": "espn4",
+      "name": "Espn 4",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/588b70dc608cfd6e11152bfc252c9140/espn4.m3u8",
+      "source_url": "https://www4.embedtv.best/espn4",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:35:40.381Z",
+      "status": "success"
+    },
+    {
+      "id": "espn5",
+      "name": "Espn 5",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/5fcdde31d8c21273fa27ea8a2dd0999b/espn5.m3u8",
+      "source_url": "https://www4.embedtv.best/espn5",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:36:17.466Z",
+      "status": "success"
+    },
+    {
+      "id": "espn6",
+      "name": "Espn 6",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/dc65724e74096971d05019022bd776e2/espn6.m3u8",
+      "source_url": "https://www4.embedtv.best/espn6",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:36:54.318Z",
+      "status": "success"
+    },
+    {
+      "id": "fish",
+      "name": "Fish TV",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/2184d3d00f8ef16ebb97328c7e080f76/fish.m3u8",
+      "source_url": "https://www4.embedtv.best/fish",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:37:31.575Z",
+      "status": "success"
+    },
+    {
+      "id": "foodnetwork",
+      "name": "Food Network",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/5d7096fcb3e0fbdadb1023b63b3a3577/foodnetwork.m3u8",
+      "source_url": "https://www4.embedtv.best/foodnetwork",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:38:08.768Z",
+      "status": "success"
+    },
+    {
+      "id": "getv",
+      "name": "GeTV",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/e3a864360065881897988b4cba612a1c/getv.m3u8",
+      "source_url": "https://www4.embedtv.best/getv",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:38:45.923Z",
+      "status": "success"
+    },
+    {
+      "id": "gnt",
+      "name": "GNT",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/c0c9195c905c536e8c594ce5ef11cd1a/gnt.m3u8",
+      "source_url": "https://www4.embedtv.best/gnt",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:39:23.173Z",
+      "status": "success"
+    },
+    {
+      "id": "globoam",
+      "name": "Globo AM",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/ce69c6b4828edfff6dfd12945f427391/globoam.m3u8",
+      "source_url": "https://www4.embedtv.best/globoam",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:40:00.544Z",
+      "status": "success"
+    },
+    {
+      "id": "globoce",
+      "name": "Globo CE",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/89431acdb73770446f3159001ff0f163/globoce.m3u8",
+      "source_url": "https://www4.embedtv.best/globoce",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:40:37.658Z",
+      "status": "success"
+    },
+    {
+      "id": "globoes",
+      "name": "Globo ES",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/6367becd1bb08250b5823e01e04cd108/globoes.m3u8",
+      "source_url": "https://www4.embedtv.best/globoes",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:41:14.849Z",
+      "status": "success"
+    },
+    {
+      "id": "globomg",
+      "name": "Globo MG",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/e27eeb7a86c2fce56855b47cbf5b7a53/globomg.m3u8",
+      "source_url": "https://www4.embedtv.best/globomg",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:41:51.990Z",
+      "status": "success"
+    },
+    {
+      "id": "globonews",
+      "name": "Globo News",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/82d9d835482933f22e2d88c5a361ec48/globonews.m3u8",
+      "source_url": "https://www4.embedtv.best/globonews",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:42:29.179Z",
+      "status": "success"
+    },
+    {
+      "id": "globopb",
+      "name": "Globo PB",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/67d60e16628551d31e49c67af948ea6a/globopb.m3u8",
+      "source_url": "https://www4.embedtv.best/globopb",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:43:06.319Z",
+      "status": "success"
+    },
+    {
+      "id": "globope",
+      "name": "Globo PE",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/7cd48030188d158464b121bd0784349c/globope.m3u8",
+      "source_url": "https://www4.embedtv.best/globope",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:43:43.456Z",
+      "status": "success"
+    },
+    {
+      "id": "globorj",
+      "name": "Globo RJ",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/0aeaf14d382c91e83306ececaa6bfa2f/globorj.m3u8",
+      "source_url": "https://www4.embedtv.best/globorj",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:44:20.844Z",
+      "status": "success"
+    },
+    {
+      "id": "globors",
+      "name": "Globo RS",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/a28082846a91aa1ccaa2b00eb29ce9f0/globors.m3u8",
+      "source_url": "https://www4.embedtv.best/globors",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:44:57.972Z",
+      "status": "success"
+    },
+    {
+      "id": "globosp",
+      "name": "Globo SP",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/029da53e5e7b0da1e0cd707bdb0478d9/globosp.m3u8",
+      "source_url": "https://www4.embedtv.best/globosp",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:45:35.150Z",
+      "status": "success"
+    },
+    {
+      "id": "gloob",
+      "name": "Gloob",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/919e7f3aa325f40fe68e17ca6c867dc0/gloob.m3u8",
+      "source_url": "https://www4.embedtv.best/gloob",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:46:12.414Z",
+      "status": "success"
+    },
+    {
+      "id": "hbo",
+      "name": "HBO",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/7163ca713b99bf6c3592da4b6602d796/hbo.m3u8",
+      "source_url": "https://www4.embedtv.best/hbo",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:46:49.468Z",
+      "status": "success"
+    },
+    {
+      "id": "hbo2",
+      "name": "HBO 2",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/94b1ddd9fe312df2d46731a6470cfa6a/hbo2.m3u8",
+      "source_url": "https://www4.embedtv.best/hbo2",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:47:26.785Z",
+      "status": "success"
+    },
+    {
+      "id": "hbofamily",
+      "name": "HBO Family",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/e39a4d20160a3a25cf520aa61a613872/hbofamily.m3u8",
+      "source_url": "https://www4.embedtv.best/hbofamily",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:48:04.266Z",
+      "status": "success"
+    },
+    {
+      "id": "hbomundi",
+      "name": "HBO Mundi",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/46ec4d61e2cecc6cbe1c45b829680294/hbomundi.m3u8",
+      "source_url": "https://www4.embedtv.best/hbomundi",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:48:41.350Z",
+      "status": "success"
+    },
+    {
+      "id": "hbopop",
+      "name": "HBO POP",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/1cfef56a79535387476efe227a9929b8/hbopop.m3u8",
+      "source_url": "https://www4.embedtv.best/hbopop",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:49:18.575Z",
+      "status": "success"
+    },
+    {
+      "id": "hboplus",
+      "name": "HBO Plus",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/4b702819e7c4459437333f3291451be0/hboplus.m3u8",
+      "source_url": "https://www4.embedtv.best/hboplus",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:49:55.735Z",
+      "status": "success"
+    },
+    {
+      "id": "hboxtreme",
+      "name": "HBO Xtreme",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/c74dbb82da74c90503086cbe3483348c/hboxtreme.m3u8",
+      "source_url": "https://www4.embedtv.best/hboxtreme",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:50:33.011Z",
+      "status": "success"
+    },
+    {
+      "id": "hgtv",
+      "name": "HGTV",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/e7192b95aa0030ae19cf6e1f408f3db3/hgtv.m3u8",
+      "source_url": "https://www4.embedtv.best/hgtv",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:51:10.189Z",
+      "status": "success"
+    },
+    {
+      "id": "history",
+      "name": "History",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/4227dc30429541c1179d75edf9cd1420/history.m3u8",
+      "source_url": "https://www4.embedtv.best/history",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:51:47.382Z",
+      "status": "success"
+    },
+    {
+      "id": "history2",
+      "name": "History 2",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/a61c940390e9786e7a1f0fe9219f65e2/history2.m3u8",
+      "source_url": "https://www4.embedtv.best/history2",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:52:24.351Z",
+      "status": "success"
+    },
+    {
+      "id": "mtv",
+      "name": "MTV",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/a099bde3988bf5a2d75f375e5c64df2c/mtv.m3u8",
+      "source_url": "https://www4.embedtv.best/mtv",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:53:01.528Z",
+      "status": "success"
+    },
+    {
+      "id": "masterchef",
+      "name": "Master chef",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/3b7796d4e00bb50ee51b4eb7654b9a5a/masterchef.m3u8",
+      "source_url": "https://www4.embedtv.best/masterchef",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:53:38.587Z",
+      "status": "success"
+    },
+    {
+      "id": "max1",
+      "name": "Max - 1",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/7bb3c127a37ef45de293e7888c0ec0dc/max1.m3u8",
+      "source_url": "https://www4.embedtv.best/max1",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:54:16.118Z",
+      "status": "success"
+    },
+    {
+      "id": "max2",
+      "name": "Max - 2",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/778786a4b51cc834f5e128764cbbf7f3/max2.m3u8",
+      "source_url": "https://www4.embedtv.best/max2",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:54:53.361Z",
+      "status": "success"
+    },
+    {
+      "id": "max3",
+      "name": "Max - 3",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/80f095bd3c3a58c6f17addad9a49e540/max3.m3u8",
+      "source_url": "https://www4.embedtv.best/max3",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:55:30.684Z",
+      "status": "success"
+    },
+    {
+      "id": "megapix",
+      "name": "Megapix",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/01ac0dc9836454726243a6e109abac5c/megapix.m3u8",
+      "source_url": "https://www4.embedtv.best/megapix",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:56:07.777Z",
+      "status": "success"
+    },
+    {
+      "id": "multishow",
+      "name": "Multishow",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/d3a913459a6a16654ec7865412fde933/multishow.m3u8",
+      "source_url": "https://www4.embedtv.best/multishow",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:56:44.948Z",
+      "status": "success"
+    },
+    {
+      "id": "off",
+      "name": "OFF",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/6f39306b9ce4fd0b7c4e4bee7975032c/off.m3u8",
+      "source_url": "https://www4.embedtv.best/off",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:57:22.081Z",
+      "status": "success"
+    },
+    {
+      "id": "paramountplus",
+      "name": "Paramount Plus",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/ce899223f47e059d21d341d63eaea5c9/paramountplus.m3u8",
+      "source_url": "https://www4.embedtv.best/paramountplus",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:58:01.353Z",
+      "status": "success"
+    },
+    {
+      "id": "paramountplus2",
+      "name": "Paramount Plus 2",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/499eb5c2a4dd4354bcb5e8478eb4a5dc/paramountplus2.m3u8",
+      "source_url": "https://www4.embedtv.best/paramountplus2",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:58:38.597Z",
+      "status": "success"
+    },
+    {
+      "id": "playboy",
+      "name": "Play Boy",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/e0bc2fb964f4bb50fb75b59a4c28bf0e/playboy.m3u8",
+      "source_url": "https://www4.embedtv.best/playboy",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:59:16.312Z",
+      "status": "success"
+    },
+    {
+      "id": "premiere",
+      "name": "Premiere 1",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/863075a1df8c05916d374a42a98a4d2f/premiere.m3u8",
+      "source_url": "https://www4.embedtv.best/premiere",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T09:59:53.531Z",
+      "status": "success"
+    },
+    {
+      "id": "premiere2",
+      "name": "Premiere 2",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/1dff4526f64c8911e64b5fc8f436e6c9/premiere2.m3u8",
+      "source_url": "https://www4.embedtv.best/premiere2",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:00:30.757Z",
+      "status": "success"
+    },
+    {
+      "id": "premiere3",
+      "name": "Premiere 3",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/e6de3aaaa9d570f21a643403d44e8e2f/premiere3.m3u8",
+      "source_url": "https://www4.embedtv.best/premiere3",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:01:07.835Z",
+      "status": "success"
+    },
+    {
+      "id": "premiere4",
+      "name": "Premiere 4",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/19b42bb394d45bb7f19ef54fdcf06748/premiere4.m3u8",
+      "source_url": "https://www4.embedtv.best/premiere4",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:01:45.196Z",
+      "status": "success"
+    },
+    {
+      "id": "premiere5",
+      "name": "Premiere 5",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/a0ebcb836efce3cc8f71c739fea6a42d/premiere5.m3u8",
+      "source_url": "https://www4.embedtv.best/premiere5",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:02:22.420Z",
+      "status": "success"
+    },
+    {
+      "id": "premiere6",
+      "name": "Premiere 6",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/7f06ca54257b0f17c3c4fb85c2a0d6e6/premiere6.m3u8",
+      "source_url": "https://www4.embedtv.best/premiere6",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:02:59.617Z",
+      "status": "success"
+    },
+    {
+      "id": "premiere7",
+      "name": "Premiere 7",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/b8783775521c9cc5c3667e3aee84647c/premiere7.m3u8",
+      "source_url": "https://www4.embedtv.best/premiere7",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:03:36.842Z",
+      "status": "success"
+    },
+    {
+      "id": "premiere8",
+      "name": "Premiere 8",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/497588f5da0646e7a8af34f1c2a02c84/premiere8.m3u8",
+      "source_url": "https://www4.embedtv.best/premiere8",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:04:14.017Z",
+      "status": "success"
+    },
+    {
+      "id": "primevideo",
+      "name": "Prime Video",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/8db2b74d4899433a525d5ac8ec43234f/primevideo.m3u8",
+      "source_url": "https://www4.embedtv.best/primevideo",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:04:51.181Z",
+      "status": "success"
+    },
+    {
+      "id": "primevideo2",
+      "name": "Prime Video 2",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/8fa09c5f7b2c259e1697b3c4a067f213/primevideo2.m3u8",
+      "source_url": "https://www4.embedtv.best/primevideo2",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:05:28.455Z",
+      "status": "success"
+    },
+    {
+      "id": "recordmg",
+      "name": "Record MG",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/d9c7390d050dd5af4e73ea48c712eb63/recordmg.m3u8",
+      "source_url": "https://www4.embedtv.best/recordmg",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:06:05.729Z",
+      "status": "success"
+    },
+    {
+      "id": "recordrj",
+      "name": "Record RJ",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/830cd26973e85ae152ad93e5e6ff9ee3/recordrj.m3u8",
+      "source_url": "https://www4.embedtv.best/recordrj",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:06:42.951Z",
+      "status": "success"
+    },
+    {
+      "id": "recordsp",
+      "name": "Record SP",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/9f756f041a40fc048ae4fa59503fda5d/recordsp.m3u8",
+      "source_url": "https://www4.embedtv.best/recordsp",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:07:20.144Z",
+      "status": "success"
+    },
+    {
+      "id": "sbtrj",
+      "name": "SBT RJ",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/92002b11cc5998635f5744d0bad2daff/sbtrj.m3u8",
+      "source_url": "https://www4.embedtv.best/sbtrj",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:07:57.292Z",
+      "status": "success"
+    },
+    {
+      "id": "sbtsp",
+      "name": "SBT SP",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/e1beac1f23b351eb311e1038b25bb62c/sbtsp.m3u8",
+      "source_url": "https://www4.embedtv.best/sbtsp",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:08:34.521Z",
+      "status": "success"
+    },
+    {
+      "id": "sexyhot",
+      "name": "Sexy Hot",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/9950bf3b6d0157b0c289e0a73af0f931/sexyhot.m3u8",
+      "source_url": "https://www4.embedtv.best/sexyhot",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:09:11.742Z",
+      "status": "success"
+    },
+    {
+      "id": "sonychannel",
+      "name": "Sony Channel",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/52ea6dddd8afea20df1a3e595edc070f/sonychannel.m3u8",
+      "source_url": "https://www4.embedtv.best/sonychannel",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:09:48.932Z",
+      "status": "success"
+    },
+    {
+      "id": "space",
+      "name": "Space",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/1a5661b4e965108bcee4dab8459117f4/space.m3u8",
+      "source_url": "https://www4.embedtv.best/space",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:10:26.164Z",
+      "status": "success"
+    },
+    {
+      "id": "sportv",
+      "name": "Sportv",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/9b5085b91082d5e607c0d965ebdd9352/sportv.m3u8",
+      "source_url": "https://www4.embedtv.best/sportv",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:11:03.394Z",
+      "status": "success"
+    },
+    {
+      "id": "sportv2",
+      "name": "Sportv 2",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/8887a98f25b0a27977d3b6cd892d0613/sportv2.m3u8",
+      "source_url": "https://www4.embedtv.best/sportv2",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:11:40.662Z",
+      "status": "success"
+    },
+    {
+      "id": "sportv3",
+      "name": "Sportv 3",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/8c7912117cce9d6081fb3a29b6370b58/sportv3.m3u8",
+      "source_url": "https://www4.embedtv.best/sportv3",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:12:17.909Z",
+      "status": "success"
+    },
+    {
+      "id": "sportv4",
+      "name": "Sportv 4",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/6ffbad2742abd6c9ba574de311fc15a4/sportv4.m3u8",
+      "source_url": "https://www4.embedtv.best/sportv4",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:12:55.141Z",
+      "status": "success"
+    },
+    {
+      "id": "starchannel",
+      "name": "Star Channel",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/74ffa0a70379ac507712c0fcd8330719/starchannel.m3u8",
+      "source_url": "https://www4.embedtv.best/starchannel",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:13:32.475Z",
+      "status": "success"
+    },
+    {
+      "id": "studiouniversal",
+      "name": "Studio Universal",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/45878b5de25dd55cbe54d36c7ff1cfba/studiouniversal.m3u8",
+      "source_url": "https://www4.embedtv.best/studiouniversal",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:14:09.713Z",
+      "status": "success"
+    },
+    {
+      "id": "tcm",
+      "name": "TCM",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/379006a49e0338a066d1242e3c72865f/tcm.m3u8",
+      "source_url": "https://www4.embedtv.best/tcm",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:14:46.796Z",
+      "status": "success"
+    },
+    {
+      "id": "tlc",
+      "name": "TLC",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/883bb0b86ec0053c0d2532b179688ab5/tlc.m3u8",
+      "source_url": "https://www4.embedtv.best/tlc",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:15:23.861Z",
+      "status": "success"
+    },
+    {
+      "id": "tnt",
+      "name": "TNT",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/9db4f81c94b58b320e21d37a2aa2980f/tnt.m3u8",
+      "source_url": "https://www4.embedtv.best/tnt",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:16:01.030Z",
+      "status": "success"
+    },
+    {
+      "id": "tntnovelas",
+      "name": "TNT Novelas",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/ad9d2a266395fcf49cbf05ec6f0f6147/tntnovelas.m3u8",
+      "source_url": "https://www4.embedtv.best/tntnovelas",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:16:38.315Z",
+      "status": "success"
+    },
+    {
+      "id": "tntseries",
+      "name": "TNT Series",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/3f4589cd0a816d528da8ba5d6859e3b2/tntseries.m3u8",
+      "source_url": "https://www4.embedtv.best/tntseries",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:17:15.451Z",
+      "status": "success"
+    },
+    {
+      "id": "telecineaction",
+      "name": "Telecine Action",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/42ea22247fb7b9df556415318e713dbd/telecineaction.m3u8",
+      "source_url": "https://www4.embedtv.best/telecineaction",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:17:53.101Z",
+      "status": "success"
+    },
+    {
+      "id": "telecinecult",
+      "name": "Telecine Cult",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/667a4362b0addd3017a529aac5f33399/telecinecult.m3u8",
+      "source_url": "https://www4.embedtv.best/telecinecult",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:18:31.305Z",
+      "status": "success"
+    },
+    {
+      "id": "telecinefun",
+      "name": "Telecine Fun",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/d1f6b6871953b2095b3b02d347132e66/telecinefun.m3u8",
+      "source_url": "https://www4.embedtv.best/telecinefun",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:19:08.612Z",
+      "status": "success"
+    },
+    {
+      "id": "telecinepipoca",
+      "name": "Telecine Pipoca",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/e65f08b201b46c4957b31b650934224e/telecinepipoca.m3u8",
+      "source_url": "https://www4.embedtv.best/telecinepipoca",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:19:45.787Z",
+      "status": "success"
+    },
+    {
+      "id": "telecinepremium",
+      "name": "Telecine Premium",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/fa1ac5d81ab05bf192f4c433c4bdfe39/telecinepremium.m3u8",
+      "source_url": "https://www4.embedtv.best/telecinepremium",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:20:22.952Z",
+      "status": "success"
+    },
+    {
+      "id": "telecinetouch",
+      "name": "Telecine Touch",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/46c2585f78b5a9f8d02da372bba5c792/telecinetouch.m3u8",
+      "source_url": "https://www4.embedtv.best/telecinetouch",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:21:00.145Z",
+      "status": "success"
+    },
+    {
+      "id": "ufcfightpass",
+      "name": "UFC Fight Pass",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/ff1f0aaed91fa7fdcc762b7c0ca29d8c/ufcfightpass.m3u8",
+      "source_url": "https://www4.embedtv.best/ufcfightpass",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:21:37.145Z",
+      "status": "success"
+    },
+    {
+      "id": "universaltv",
+      "name": "Universal",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/17954b4ea23e24af314ba90dcff91380/universaltv.m3u8",
+      "source_url": "https://www4.embedtv.best/universaltv",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:22:14.270Z",
+      "status": "success"
+    },
+    {
+      "id": "warnerchannel",
+      "name": "Warnerchannel",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/23b2473c2d380065541c2a450ee2ba75/warnerchannel.m3u8",
+      "source_url": "https://www4.embedtv.best/warnerchannel",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:22:51.592Z",
+      "status": "success"
+    },
+    {
+      "id": "xsports",
+      "name": "XSports",
+      "m3u8_url": "https://d1muf25xa04so8hp03.s27-usa-cloudfront-net.online/token/10ecd3d51bfcba5b0387441d499b8f7b/xsports.m3u8",
+      "source_url": "https://www4.embedtv.best/xsports",
+      "extraction_source": "data.channel",
+      "extracted_at": "2026-04-03T10:23:28.852Z",
+      "status": "success"
+    }
+  ]
+}

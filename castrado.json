@@ -1,12 +1,12 @@
 {
   "api_info": {
     "version": "2.0",
-    "generated_at": "2026-04-08T19:42:27.986Z",
+    "generated_at": "2026-04-09T02:04:24.858Z",
     "total_channels": 127,
     "total_categories": 6,
-    "successful_extractions": 126,
-    "failed_extractions": 1,
-    "duration_seconds": 2158,
+    "successful_extractions": 127,
+    "failed_extractions": 0,
+    "duration_seconds": 2169,
     "source": "embedtv.best"
   },
   "categorias": [
@@ -17,77 +17,77 @@
         {
           "id": "animalplanet",
           "nome": "Animal Planet",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/7d8180ea5129709387ef4eb014a76278/animalplanet.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/6401d0d7b9300cfe3250da07953f6f1a/animalplanet.m3u8",
           "numero": 1,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/animalplanet.png"
         },
         {
           "id": "discoverychannel",
           "nome": "Discovery Channel",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/c33aaabb1d9454f236593e21a09ab8b9/discoverychannel.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/a948049ff52de5adc397c7d349f977d3/discoverychannel.m3u8",
           "numero": 2,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/discoverychannel.png"
         },
         {
           "id": "discoveryhh",
           "nome": "Discovery H&H",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/5c370104db8b09edb6c7eaeca252b8a2/discoveryhh.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/e100646bd92807a908fe044f75f7c45f/discoveryhh.m3u8",
           "numero": 3,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/discoveryhh.png"
         },
         {
           "id": "discoveryid",
           "nome": "Discovery ID",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/7f2edb12ae09de595e932e3a3e6f3872/discoveryid.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/9ea05c545b058e7e9eafa91f9830d6e6/discoveryid.m3u8",
           "numero": 4,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/discoveryid.png"
         },
         {
           "id": "discoveryscience",
           "nome": "Discovery Science",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/ed9aaae3be92ef70c19c4754ab5f4fec/discoveryscience.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/1756b28953fb6d1cce20e86fd9ab1dff/discoveryscience.m3u8",
           "numero": 5,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/discoveryscience.png"
         },
         {
           "id": "discoverytheather",
           "nome": "Discovery Theater",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/135659c848b9d4d7fd20a888ad2f0d86/discoverytheather.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/2bbdb8f2aa2b443765e4415a1d982bcf/discoverytheather.m3u8",
           "numero": 6,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/discoverytheather.png"
         },
         {
           "id": "discoveryturbo",
           "nome": "Discovery Turbo",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/62335cd0400daa2cfe40de7541ce9211/discoveryturbo.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/647a6ce8b9d97d9810ef464ec80280ad/discoveryturbo.m3u8",
           "numero": 7,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/discoveryturbo.png"
         },
         {
           "id": "discoveryword",
           "nome": "Discovery World",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/1452aaf931c16f749ed3d6c7d21362a7/discoveryword.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/f93be770890db4da65107e9027ce5b80/discoveryword.m3u8",
           "numero": 8,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/discoveryword.png"
         },
         {
           "id": "fish",
           "nome": "Fish TV",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/1686d9f4df4d140fa976db282186e244/fish.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/103a4097fb0388f9467617ac381a8789/fish.m3u8",
           "numero": 9,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/fish.png"
         },
         {
           "id": "history",
           "nome": "History",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/07544c4936a31aeabe658a66901212b1/history.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/cc8450e066545c68a550c82f621133c1/history.m3u8",
           "numero": 10,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/history.png"
         },
         {
           "id": "history2",
           "nome": "History 2",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/1dc9d04d3b5b0b1adf5dd54420d3a22a/history2.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/d01248bfa1b5f41876ac82cd780bfbb1/history2.m3u8",
           "numero": 11,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/history2.png"
         }
@@ -100,63 +100,63 @@
         {
           "id": "bbb1",
           "nome": "BBB 1",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/38b6fa03d69d030b2abacf6d2518a5ef/bbb1.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/066c9807ad5905b618f6b641798d7aaf/bbb1.m3u8",
           "numero": 12,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/bbb1.png"
         },
         {
           "id": "bbb2",
           "nome": "BBB 2",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/f08ec82da82f24451f09029593159ca4/bbb2.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/ff5ca1125dd5e220faccf55ec3ef979d/bbb2.m3u8",
           "numero": 13,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/bbb2.png"
         },
         {
           "id": "bbb3",
           "nome": "BBB 3 - Banheiros",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/13c784f800fcf2cc26af6cdac43ebdce/bbb3.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/813bae661d85f01c8866c80f9430379e/bbb3.m3u8",
           "numero": 14,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/bbb3.png"
         },
         {
           "id": "bbb4",
           "nome": "BBB 4 - Quarto 1",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/383755b7648d9e5e230b2d834500584f/bbb4.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/a09a728358ef29d1b96b4da5f2601f2f/bbb4.m3u8",
           "numero": 15,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/bbb4.png"
         },
         {
           "id": "bbb5",
           "nome": "BBB 5 - Cozinha 1",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/9e999e5ccb3bc4d5e4a454627ba7d816/bbb5.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/c3a71176c1e42892e015de8434ce5136/bbb5.m3u8",
           "numero": 16,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/bbb5.png"
         },
         {
           "id": "bbb6",
           "nome": "BBB 6 - Cozinha 2",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/ed2045f351e34e1261732324a4e82e49/bbb6.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/3ee75f99da388cdab196af04daa24d05/bbb6.m3u8",
           "numero": 17,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/bbb6.png"
         },
         {
           "id": "bbb7",
           "nome": "BBB 7 - Quarto 2",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/664b81c3b86ed3faf17fbe8729f9f138/bbb7.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/7f0b9d6cdcdcbaa3f3469cfb89b80395/bbb7.m3u8",
           "numero": 18,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/bbb7.png"
         },
         {
           "id": "bbb9",
           "nome": "BBB 9 - Quarto 3",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/4dc74b2c8150c91aa3f71cfea527841f/bbb9.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/6197d3ea65fef5590f7534cb237747c8/bbb9.m3u8",
           "numero": 19,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/bbb9.png"
         },
         {
           "id": "bbbmos",
           "nome": "BBB Mosaico",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/b8d1c31f5cc81c3e50f395e953538543/bbbmos.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/76230fbec6f9151a8807338aefd9f0bc/bbbmos.m3u8",
           "numero": 20,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/bbbmos.png"
         }
@@ -169,168 +169,168 @@
         {
           "id": "bandnews",
           "nome": "Band News",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/90cc8650df2474a94e13d7d592352c5d/bandnews.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/0a9672e80f22f6f0e109580378890084/bandnews.m3u8",
           "numero": 21,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/bandnews.png"
         },
         {
           "id": "bandrj",
           "nome": "Band RJ",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/d28e7b1408f22e1c8b78d2d35806af6c/bandrj.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/ba7330dfe44b08a9123844917a2dbe74/bandrj.m3u8",
           "numero": 22,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/bandrj.png"
         },
         {
           "id": "bandsp",
           "nome": "Band SP",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/e889d68b055f0c95a38879f7aab944c2/bandsp.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/e0794f091c533db92ba44041be20e3bd/bandsp.m3u8",
           "numero": 23,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/bandsp.png"
         },
         {
           "id": "cancaonova",
           "nome": "Canção Nova",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/c111faa4a6853a4bdc9f9bb2f5bb5f15/cancaonova.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/dfe6bb6a878d975bfcce5d2d827c7fcf/cancaonova.m3u8",
           "numero": 24,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/cancaonova.png"
         },
         {
           "id": "cnnbrasil",
           "nome": "CNN Brasil",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/383cf57838fb5ef0a6d95292859307d1/cnnbrasil.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/3e1627f313fdf321009148ec15c2e6fc/cnnbrasil.m3u8",
           "numero": 25,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/cnnbrasil.png"
         },
         {
           "id": "cultura",
           "nome": "Cultura",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/7df06c47e079cd7f6b64a50e1d329e10/cultura.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/6342578eb0c99c184c8d6bec89c68f28/cultura.m3u8",
           "numero": 26,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/cultura.png"
         },
         {
           "id": "globoam",
           "nome": "Globo AM",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/0a8d25087c06a0adda8ea14e531594dc/globoam.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/3b72a1a684003af08d52b7c6e5d534fe/globoam.m3u8",
           "numero": 27,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/globoam.png"
         },
         {
           "id": "globoce",
           "nome": "Globo CE",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/e0f04171628286823ba894ad79ea66c9/globoce.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/86aae5e39061ff79bae6faba75081052/globoce.m3u8",
           "numero": 28,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/globoce.png"
         },
         {
           "id": "globoes",
           "nome": "Globo ES",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/a26a89a931d1fb6d91898b092cf53b4b/globoes.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/06f967a77595245a4dbcbe054eb3ca6a/globoes.m3u8",
           "numero": 29,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/globoes.png"
         },
         {
           "id": "globomg",
           "nome": "Globo MG",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/ebeed7cafe2fcb31a768e7c6fa70728d/globomg.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/20fd5380b22989482a246f79055f0fb5/globomg.m3u8",
           "numero": 30,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/globomg.png"
         },
         {
           "id": "globonews",
           "nome": "Globo News",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/fdb36938d7591c7d9ba90157aa9a4426/globonews.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/93958b9dcc33eeac4851bd4c5ed220bc/globonews.m3u8",
           "numero": 31,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/globonews.png"
         },
         {
           "id": "globopb",
           "nome": "Globo PB",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/cb5f2b6152bf17e47a2661aa92b15492/globopb.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/a096c70615cdfe39f993f4d244d53644/globopb.m3u8",
           "numero": 32,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/globopb.png"
         },
         {
           "id": "globope",
           "nome": "Globo PE",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/f3ecd9006b9d2290034c45c9b6c42a5f/globope.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/eff003cec39c234a569d96ab505b5c9b/globope.m3u8",
           "numero": 33,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/globope.png"
         },
         {
           "id": "globorj",
           "nome": "Globo RJ",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/1007a2909ff36208e24eb1895070db1f/globorj.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/1701a2e6b0bc007804f2f19a8edea630/globorj.m3u8",
           "numero": 34,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/globorj.png"
         },
         {
           "id": "globors",
           "nome": "Globo RS",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/41682c51b06d9a20efece53382a96194/globors.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/7079aa33f01598da61fa0b86808cd7f5/globors.m3u8",
           "numero": 35,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/globors.png"
         },
         {
           "id": "globosp",
           "nome": "Globo SP",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/f2dfc67948dc9530445bcfef46eeb6f4/globosp.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/31b101ff8abbcabca0bd55508221e0f5/globosp.m3u8",
           "numero": 36,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/globosp.png"
         },
         {
           "id": "mtv",
           "nome": "MTV",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/206143818a9b0610cedb7ae8ca0c15ce/mtv.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/b59e9c6304f8b56dba4eb83c069be56f/mtv.m3u8",
           "numero": 37,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/mtv.png"
         },
         {
           "id": "multishow",
           "nome": "Multishow",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/575891e7467aa7f088bbaf4370ae8704/multishow.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/fb968bfc748b66220adcab83d8d4ef9d/multishow.m3u8",
           "numero": 38,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/multishow.png"
         },
         {
           "id": "recordmg",
           "nome": "Record MG",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/213390c6f726f221fb38d77b540d8ff6/recordmg.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/d908f2a36a195e07f16ac11f5c6193b3/recordmg.m3u8",
           "numero": 39,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/recordmg.png"
         },
         {
           "id": "recordrj",
           "nome": "Record RJ",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/c684fca573f71c767e644f1ba19133aa/recordrj.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/b16d2d7a75d9b04236bcbac52b2a5d0f/recordrj.m3u8",
           "numero": 40,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/recordrj.png"
         },
         {
           "id": "recordsp",
           "nome": "Record SP",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/41866046459e22bc06d5f90b612c58a9/recordsp.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/90dedea42812e3fb13740ebf27b59158/recordsp.m3u8",
           "numero": 41,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/recordsp.png"
         },
         {
           "id": "sbtrj",
           "nome": "SBT RJ",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/35ac1f53504c13f8efd8f63d7f75d02d/sbtrj.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/59396b2690d0985f7dc578522f970df4/sbtrj.m3u8",
           "numero": 42,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/sbtrj.png"
         },
         {
           "id": "sbtsp",
           "nome": "SBT SP",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/da3326aa39a458bf01bed5b8d14e3718/sbtsp.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/fcf6796c7d0e35c80fc852304644670d/sbtsp.m3u8",
           "numero": 43,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/sbtsp.png"
         },
         {
           "id": "aparecida",
           "nome": "Aparecida",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/1d3aab0a40da414c9f8601d9ab854309/aparecida.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/3aa6000c9699556128643d3452d3e205/aparecida.m3u8",
           "numero": 44,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/aparecida.png"
         }
@@ -343,252 +343,252 @@
         {
           "id": "adultswim",
           "nome": "Adult Swim",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/ee4278fcdd09dd8d2d1a3f14a089d0eb/adultswim.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/d348f1caad0518107c0ac6a0c854e1de/adultswim.m3u8",
           "numero": 45,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/adultswim.png"
         },
         {
           "id": "ae",
           "nome": "AE",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/d7694bbd3a9d77b72fc2bb790176a0de/ae.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/62fce27242cb30d86c0d8c8613fad1c2/ae.m3u8",
           "numero": 46,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/ae.png"
         },
         {
           "id": "amc",
           "nome": "AMC",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/995bde80ba4813115731b358c9e6f556/amc.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/932c946835044c22982b175a2408d312/amc.m3u8",
           "numero": 47,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/amc.png"
         },
         {
           "id": "axn",
           "nome": "AXN",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/62b88252d12a45e7556e83ccb3f5d9d4/axn.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/2db83ff3deb3ef9297564b59f9f5596d/axn.m3u8",
           "numero": 48,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/axn.png"
         },
         {
           "id": "cinemax",
           "nome": "Cinemax",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/73b2899bf039a52ec7b2c7b1e9805478/cinemax.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/c14fef538212496e8a13df269ed78114/cinemax.m3u8",
           "numero": 49,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/cinemax.png"
         },
         {
           "id": "comedycentral",
           "nome": "Comedy Central",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/575d73d5dad48f01c8f631cfe32b06d6/comedycentral.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/c18c515344017c6e54b2b4a3583c765e/comedycentral.m3u8",
           "numero": 50,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/comedycentral.png"
         },
         {
           "id": "gnt",
           "nome": "GNT",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/271d1b7100289c12746b6852dc2fdcf9/gnt.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/d2c078a53ddc75b76bb62ce08bb213d2/gnt.m3u8",
           "numero": 51,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/gnt.png"
         },
         {
           "id": "hbo",
           "nome": "HBO",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/79be063417f89284d98085d76e48a581/hbo.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/287cc3a9ba70168fab64f320a543603f/hbo.m3u8",
           "numero": 52,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/hbo.png"
         },
         {
           "id": "hbo2",
           "nome": "HBO 2",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/49b223cae1363b914e6f19e2570c3b9e/hbo2.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/2a0666c687d2443a2e95f877145a9a72/hbo2.m3u8",
           "numero": 53,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/hbo2.png"
         },
         {
           "id": "hbofamily",
           "nome": "HBO Family",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/cfeab688d4b23ad2cf1b152f15bf9d62/hbofamily.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/1480b687fd69bd9b92ec1a33ca31f01f/hbofamily.m3u8",
           "numero": 54,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/hbofamily.png"
         },
         {
           "id": "hbomundi",
           "nome": "HBO Mundi",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/4042057ca8c18d9cd8026ac42f030574/hbomundi.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/4ed4c7454060bc393286ed4875f260ae/hbomundi.m3u8",
           "numero": 55,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/hbomundi.png"
         },
         {
           "id": "hboplus",
           "nome": "HBO Plus",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/77fe7509bfb68403678e026192f8d10f/hboplus.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/de610dd0b4f10c1d9dff383922da49f9/hboplus.m3u8",
           "numero": 56,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/hboplus.png"
         },
         {
           "id": "hbopop",
           "nome": "HBO POP",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/4bd58c5518a07cb0575acdb2aec96821/hbopop.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/0f6510bad3c924ba3a9dbe5e61b301f7/hbopop.m3u8",
           "numero": 57,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/hbopop.png"
         },
         {
           "id": "hboxtreme",
           "nome": "HBO Xtreme",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/31e999755934d753eca262c2e5f922db/hboxtreme.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/4d95d24f6b85be7cccea4536cc17f010/hboxtreme.m3u8",
           "numero": 58,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/hboxtreme.png"
         },
         {
           "id": "hgtv",
           "nome": "HGTV",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/2599c5fb0427b7cefd65301d55f6593a/hgtv.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/ce0157daf0b2065303ab4ee0f0d59499/hgtv.m3u8",
           "numero": 59,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/hgtv.png"
         },
         {
           "id": "megapix",
           "nome": "Megapix",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/a270a636a406a407619256f274315873/megapix.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/ab54a84eb8776de9005ea995ea2f2a53/megapix.m3u8",
           "numero": 60,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/megapix.png"
         },
         {
           "id": "off",
           "nome": "OFF",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/26897fe843699baa829154b9aff5e94b/off.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/887d8a1a2642b92bceb725a5862e33d2/off.m3u8",
           "numero": 61,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/off.png"
         },
         {
           "id": "playboy",
           "nome": "Play Boy",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/1e1ba170a45017f974059a8aaafa3c8e/playboy.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/a3ec1ef624272d41a27f87b00ba6f637/playboy.m3u8",
           "numero": 62,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/playboy.png"
         },
         {
           "id": "sexyhot",
           "nome": "Sexy Hot",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/2e6d438d57a271ccacbf1f1a6696efad/sexyhot.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/299b1f56998728492e1080f5270f14c2/sexyhot.m3u8",
           "numero": 63,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/sexyhot.png"
         },
         {
           "id": "sonychannel",
           "nome": "Sony Channel",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/3d65e2638490141cdea2de55f44d1799/sonychannel.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/7de5e8926210b34253ab7ad4b3c55a76/sonychannel.m3u8",
           "numero": 64,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/sonychannel.png"
         },
         {
           "id": "space",
           "nome": "Space",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/4483b9c2ce9acd72278f91a42dfdeba8/space.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/a5d7a9412d6e8ebaa0929f5f247be286/space.m3u8",
           "numero": 65,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/space.png"
         },
         {
           "id": "starchannel",
           "nome": "Star Channel",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/a3657195d792928c40d4096a6ef94039/starchannel.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/1f3a65b122de2c800c6067b2601b80a2/starchannel.m3u8",
           "numero": 66,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/starchannel.png"
         },
         {
           "id": "studiouniversal",
           "nome": "Studio Universal",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/069545b4026b2593da0ae05404329f78/studiouniversal.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/ec1aa2ac4072ce575a9726beaa3e6f1a/studiouniversal.m3u8",
           "numero": 67,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/studiouniversal.png"
         },
         {
           "id": "tcm",
           "nome": "TCM",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/c0aca738f5093c62af847703e7e7cd9a/tcm.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/0100344a0a465aec4e24eccbaefe22d0/tcm.m3u8",
           "numero": 68,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/tcm.png"
         },
         {
           "id": "telecineaction",
           "nome": "Telecine Action",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/922b11c8c340492934e827fffe41ef86/telecineaction.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/8d657e35cde1ecf41ed6bbee2cc93a98/telecineaction.m3u8",
           "numero": 69,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/telecineaction.png"
         },
         {
           "id": "telecinecult",
           "nome": "Telecine Cult",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/b3a0581c180b2729c1b912fca62d2f3e/telecinecult.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/2ea027a9617618835ce88b604e3dde5b/telecinecult.m3u8",
           "numero": 70,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/telecinecult.png"
         },
         {
           "id": "telecinefun",
           "nome": "Telecine Fun",
-          "url": null,
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/54c2b3800f32bc6cdcff4a9369a8f6a7/telecinefun.m3u8",
           "numero": 71,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/telecinefun.png"
         },
         {
           "id": "telecinepipoca",
           "nome": "Telecine Pipoca",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/bed10835f16bd218a98df7eb735f34c6/telecinepipoca.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/8adaaf1de1370a1d8d0a1fa8ffa146d6/telecinepipoca.m3u8",
           "numero": 72,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/telecinepipoca.png"
         },
         {
           "id": "telecinepremium",
           "nome": "Telecine Premium",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/5b0f952ad0bfd506b74798d9f5d1995f/telecinepremium.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/4d3c17c1fbfefb87f198d2e2d5557faf/telecinepremium.m3u8",
           "numero": 73,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/telecinepremium.png"
         },
         {
           "id": "telecinetouch",
           "nome": "Telecine Touch",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/9165e3ecffc0d11e586a1918501c199b/telecinetouch.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/18c05f1f1523691926c98e9d558188b3/telecinetouch.m3u8",
           "numero": 74,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/telecinetouch.png"
         },
         {
           "id": "tlc",
           "nome": "TLC",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/908fe75ad9f494b643bd3943bff84768/tlc.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/c1a2e8b3f9e989cbe041a674b045f217/tlc.m3u8",
           "numero": 75,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/tlc.png"
         },
         {
           "id": "tnt",
           "nome": "TNT",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/31fff821e91586e11b774e18403fed98/tnt.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/167f32b03544ef39af26bf8a151a936c/tnt.m3u8",
           "numero": 76,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/tnt.png"
         },
         {
           "id": "tntnovelas",
           "nome": "TNT Novelas",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/5790583ee311d92379f9b0b55db17131/tntnovelas.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/302b4e43777d54c2d7c547fa77667265/tntnovelas.m3u8",
           "numero": 77,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/tntnovelas.png"
         },
         {
           "id": "tntseries",
           "nome": "TNT Series",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/6c854d3f47c173e36d441a3f09e9da3d/tntseries.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/551031ee87fb291591fc61a32e30e2db/tntseries.m3u8",
           "numero": 78,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/tntseries.png"
         },
         {
           "id": "universaltv",
           "nome": "Universal",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/44c6b0554cc17c43790b75029bf37122/universaltv.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/bf0ae447279af9dd12c5b814001c18d0/universaltv.m3u8",
           "numero": 79,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/universaltv.png"
         },
         {
           "id": "warnerchannel",
           "nome": "Warnerchannel",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/4e4fc8dd83e26ec376ec034ce513cde8/warnerchannel.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/d8c1d5497bf37eea0d82bedab1993046/warnerchannel.m3u8",
           "numero": 80,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/warnerchannel.png"
         }
@@ -601,259 +601,259 @@
         {
           "id": "bandsports",
           "nome": "Band Sports",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/d979e8ea2aa0be000d8f0b3c775b0fbc/bandsports.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/4757fc67f0d0496afdf31f69d0136baf/bandsports.m3u8",
           "numero": 81,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/bandsports.png"
         },
         {
           "id": "caze1",
           "nome": "CazeTV 1",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/dfcd392cc1c1785dd7592d63324eb437/caze1.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/cc142b279cf317a9513a5e4bf64cf451/caze1.m3u8",
           "numero": 82,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/caze1.png"
         },
         {
           "id": "caze2",
           "nome": "CazeTV 2",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/731b2d23321e92186b4c52eafebed128/caze2.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/65f8d768f5114fab99d7bc2dbaf7af83/caze2.m3u8",
           "numero": 83,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/caze2.png"
         },
         {
           "id": "caze3",
           "nome": "CazeTV 3",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/16b161474e631f470400956864be4ceb/caze3.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/dd06d1d95d370179005496715f47c72d/caze3.m3u8",
           "numero": 84,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/caze3.png"
         },
         {
           "id": "combate",
           "nome": "Combate",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/72d8449fdc4275818e83c847759d977d/combate.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/50cd420ffdeb30eddef2724599695135/combate.m3u8",
           "numero": 85,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/combate.png"
         },
         {
           "id": "disneyplus1",
           "nome": "Disney Plus 1",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/bd806f6a150debb20381e7ccde9bec62/disneyplus1.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/1541737d8d4afd2f1b71b1a8f6360b09/disneyplus1.m3u8",
           "numero": 86,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/disneyplus1.png"
         },
         {
           "id": "disneyplus2",
           "nome": "Disney Plus 2",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/0c9b2dcecfa9f9c5c6b6e55b2037f939/disneyplus2.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/c7bc038b95e4b6468068db0338fd0b44/disneyplus2.m3u8",
           "numero": 87,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/disneyplus2.png"
         },
         {
           "id": "disneyplus3",
           "nome": "Disney Plus 3",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/312add236961f50df318327383cf8b07/disneyplus3.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/4ea39def057feb80b8f9b834b8277aad/disneyplus3.m3u8",
           "numero": 88,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/disneyplus3.png"
         },
         {
           "id": "espn",
           "nome": "Espn",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/426aeffa791d5f56883411373812351f/espn.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/6d35ee21b8d3f5dfa05b792c38740db7/espn.m3u8",
           "numero": 89,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/espn.png"
         },
         {
           "id": "espn2",
           "nome": "Espn 2",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/3c9f2f1ee0d9caf7764917f80df4bd1a/espn2.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/d2177b24cadcda84535f560b8e8338dc/espn2.m3u8",
           "numero": 90,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/espn2.png"
         },
         {
           "id": "espn3",
           "nome": "Espn 3",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/9e9c363ce6158ad499e9f0924997f59c/espn3.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/2a7beb327f1b6aba514e3ab1fd1eba01/espn3.m3u8",
           "numero": 91,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/espn3.png"
         },
         {
           "id": "espn4",
           "nome": "Espn 4",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/2866da078380e90b035ea5707530d4ed/espn4.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/b0ed04f17e1e8c45cd57b13eadccb1c1/espn4.m3u8",
           "numero": 92,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/espn4.png"
         },
         {
           "id": "espn5",
           "nome": "Espn 5",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/4f1efa6398737b67edf8ae5071370a82/espn5.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/75239b952654cd577715b67d9bbdaf8b/espn5.m3u8",
           "numero": 93,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/espn5.png"
         },
         {
           "id": "espn6",
           "nome": "Espn 6",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/68f25f60ae3e074ab488a7ef0e351669/espn6.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/8efcc3bc3dda36dc35bc7e7f09977a76/espn6.m3u8",
           "numero": 94,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/espn6.png"
         },
         {
           "id": "getv",
           "nome": "GeTV",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/0cad76c5a87c8854ef3f5f5f23daa812/getv.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/390282b47808ebac5a1ae3bd1948591d/getv.m3u8",
           "numero": 95,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/getv.png"
         },
         {
           "id": "masterchef",
           "nome": "Master chef",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/5cda56e65d2bbf6a2216b5bbe3b41c89/masterchef.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/1092991bbbd2bcecc98935fc2de95557/masterchef.m3u8",
           "numero": 96,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/masterchef.png"
         },
         {
           "id": "max1",
           "nome": "Max - 1",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/9dd5cb1e4cb8eb8eec69abfd9f9881a0/max1.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/9a9f7310ec6ea4d8baf83bd26d13a3bb/max1.m3u8",
           "numero": 97,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/max1.png"
         },
         {
           "id": "max2",
           "nome": "Max - 2",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/784245dd4353847cf5ce48dec643560d/max2.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/177a32a686a567f016eae9bdad86d561/max2.m3u8",
           "numero": 98,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/max2.png"
         },
         {
           "id": "max3",
           "nome": "Max - 3",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/c514f0838a4eb56a8d097e0e2fb087cc/max3.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/397f65c562648c68cc8d7e60226877e1/max3.m3u8",
           "numero": 99,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/max3.png"
         },
         {
           "id": "paramountplus",
           "nome": "Paramount Plus",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/76552360b003a17e8572dd4a43e3b37d/paramountplus.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/4c453e482b73fd23a7e0ad9729e9138f/paramountplus.m3u8",
           "numero": 100,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/paramountplus.png"
         },
         {
           "id": "paramountplus2",
           "nome": "Paramount Plus 2",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/b2e0f695a56809d84d165761cff2e552/paramountplus2.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/5dd1099b99b4ff8fb463e5c78e023b64/paramountplus2.m3u8",
           "numero": 101,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/paramountplus2.png"
         },
         {
           "id": "premiere",
           "nome": "Premiere 1",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/d5bbd11dc624c7f25aa3a3e90c163c52/premiere.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/aaaf689c461d611cae586a58596f3d6d/premiere.m3u8",
           "numero": 102,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/premiere.png"
         },
         {
           "id": "premiere2",
           "nome": "Premiere 2",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/f599a2fbe630533d63c1591f26724c14/premiere2.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/1117bd6f7c63640ae8757228f4e13c90/premiere2.m3u8",
           "numero": 103,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/premiere2.png"
         },
         {
           "id": "premiere3",
           "nome": "Premiere 3",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/0a67a693b72008cf90b4013b19085f5f/premiere3.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/229cc12874e1db29b561aca3aada44d6/premiere3.m3u8",
           "numero": 104,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/premiere3.png"
         },
         {
           "id": "premiere4",
           "nome": "Premiere 4",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/4d6645f17cde0e783e04e0395cf6ca80/premiere4.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/4dffd3d22400e10405af57313ba8aaf5/premiere4.m3u8",
           "numero": 105,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/premiere4.png"
         },
         {
           "id": "premiere5",
           "nome": "Premiere 5",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/04a39640b4db7af2fe31460e166b9b6e/premiere5.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/776a3b9d790f0a4190a9982b887a8d7f/premiere5.m3u8",
           "numero": 106,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/premiere5.png"
         },
         {
           "id": "premiere6",
           "nome": "Premiere 6",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/b6ef01dfe415dfc4800aa444a10b519f/premiere6.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/42a686a673aca9cf17105e94b350b397/premiere6.m3u8",
           "numero": 107,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/premiere6.png"
         },
         {
           "id": "premiere7",
           "nome": "Premiere 7",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/8e766567526d552ab36a46e5433edae2/premiere7.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/05fe81aaa8175b5173a6092c5fe8204f/premiere7.m3u8",
           "numero": 108,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/premiere7.png"
         },
         {
           "id": "premiere8",
           "nome": "Premiere 8",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/25b828a03cb2076d93f4bca57e1230f4/premiere8.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/88101ea5cd0a9d6628f2e3513af73471/premiere8.m3u8",
           "numero": 109,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/premiere8.png"
         },
         {
           "id": "primevideo",
           "nome": "Prime Video",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/a5bfdc952754f0a60ecda11eb9c9c7dd/primevideo.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/e722662560644de4b6685dfa4118e1b8/primevideo.m3u8",
           "numero": 110,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/primevideo.png"
         },
         {
           "id": "primevideo2",
           "nome": "Prime Video 2",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/22cee9e9bb3198b66e9d07c8ac275fc3/primevideo2.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/7be25af39c79c02e4e505bb17b768120/primevideo2.m3u8",
           "numero": 111,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/primevideo2.png"
         },
         {
           "id": "sportv",
           "nome": "Sportv",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/e56f1a3e5f6ae4cbda439c9ec945ac26/sportv.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/f70e7e9839b806f507f3c9fe526333da/sportv.m3u8",
           "numero": 112,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/sportv.png"
         },
         {
           "id": "sportv2",
           "nome": "Sportv 2",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/e41f9b62e83309bc7c425e72d3ec95a8/sportv2.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/ebf2fe2cc75eb8ad3093faed3252e86f/sportv2.m3u8",
           "numero": 113,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/sportv2.png"
         },
         {
           "id": "sportv3",
           "nome": "Sportv 3",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/c9a4330e33fc64293c6819cb99a71b04/sportv3.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/7282a68846b68cb3eb8124691a6538c7/sportv3.m3u8",
           "numero": 114,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/sportv3.png"
         },
         {
           "id": "sportv4",
           "nome": "Sportv 4",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/75dff6fc1a4e02ed1de8e6b13195c039/sportv4.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/6758fe9eda2ecb61c9a81c4584352cce/sportv4.m3u8",
           "numero": 115,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/sportv4.png"
         },
         {
           "id": "ufcfightpass",
           "nome": "UFC Fight Pass",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/1cbb55063157e308f5754d89cfd0635f/ufcfightpass.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/b0d3407868745a5984006d3cfb49e866/ufcfightpass.m3u8",
           "numero": 116,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/ufcfightpass.png"
         },
         {
           "id": "xsports",
           "nome": "XSports",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/e1e88b88a3940058212c091938017bc7/xsports.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/51806ca0fd918afa156e4b140834bba0/xsports.m3u8",
           "numero": 117,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/xsports.png"
         }
@@ -866,70 +866,70 @@
         {
           "id": "24h_chaves",
           "nome": "24H Chaves",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/fd9ed6b6ebf65318d4561c5c92e8b537/24h_chaves.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/d5be25225a2d3def0c6150290a78962e/24h_chaves.m3u8",
           "numero": 118,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/24h_chaves.png"
         },
         {
           "id": "24h_dragonball",
           "nome": "24H Dragon Ball Z",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/1f130e1dc7f6e133b8c920faa1ec2e44/24h_dragonball.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/5a4d62b0d0eea64e59555d348f2e1a17/24h_dragonball.m3u8",
           "numero": 119,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/24h_dragonball.png"
         },
         {
           "id": "24h_naruto",
           "nome": "24H Naruto Clássico",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/23d48231823dbc2359ac1157166c5ca3/24h_naruto.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/5b7d8014f0fe046a5962f6c31ccec726/24h_naruto.m3u8",
           "numero": 120,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/24h_naruto.png"
         },
         {
           "id": "24h_simpsons",
           "nome": "24H Os Simpsons",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/9afda9fb93b8f4ba3e85e730368dc66f/24h_simpsons.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/3fe75614b712ef4c0c1132c9e5d0e59e/24h_simpsons.m3u8",
           "numero": 121,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/24h_simpsons.png"
         },
         {
           "id": "24h_odeiachris",
           "nome": "24H Todo Mundo Odeia o Cris",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/0f2f6341bdffd02323f80513dec6f6f1/24h_odeiachris.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/f50bf8257473e21b3b1836ecf6d71fe4/24h_odeiachris.m3u8",
           "numero": 122,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/24h_odeiachris.png"
         },
         {
           "id": "cartoonito",
           "nome": "Cartoonito",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/e6e4512773d512101ab6e58a7cb42e0e/cartoonito.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/9e720d15664a2074e62edf2098fe61a5/cartoonito.m3u8",
           "numero": 123,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/cartoonito.png"
         },
         {
           "id": "cartoonnetwork",
           "nome": "Cartoon Network",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/54501c2c3ef6c72301ce5bd35af898a2/cartoonnetwork.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/06f418037ea1c787e53a93f96796776e/cartoonnetwork.m3u8",
           "numero": 124,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/cartoonnetwork.png"
         },
         {
           "id": "discoverykids",
           "nome": "Discovery Kids",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/b9bb68ee84edc0470c53eb11c4a52965/discoverykids.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/88e6ced360d294f2230b81d737286dc0/discoverykids.m3u8",
           "numero": 125,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/discoverykids.png"
         },
         {
           "id": "foodnetwork",
           "nome": "Food Network",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/01d1dc9e9cb8d5c63ccc04e7b7dee50a/foodnetwork.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/90a8d041750f41074c615f91b7dc2545/foodnetwork.m3u8",
           "numero": 126,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/foodnetwork.png"
         },
         {
           "id": "gloob",
           "nome": "Gloob",
-          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/6e8d85f1ef2e78174e5644bafec3939d/gloob.m3u8",
+          "url": "https://d1muf25xa04so8hp09.s27-usa-cloudfront-net.online/token/dd84e3e0513980feda7110187295090a/gloob.m3u8",
           "numero": 127,
           "logo": "https://d1muf25xaso8hp.cloudfront.net/https://embedtv.best/assets/images/gloob.png"
         }

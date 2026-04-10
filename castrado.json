@@ -1,831 +1,812 @@
 {
-  "metadata": {
-    "generated_at": "2026-04-09T21:23:24.665Z",
-    "total": 118,
-    "success": 116
+  "api_info": {
+    "version": "2.0",
+    "generated_at": "2026-04-10T04:57:17.139Z",
+    "total_channels": 118,
+    "total_categories": 6,
+    "successful_extractions": 118,
+    "failed_extractions": 0,
+    "duration_seconds": 2164,
+    "source": "embedtv.best"
   },
-  "channels": [
-    {
-      "id": "24h_chaves",
-      "name": "24H Chaves",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:15:44.228Z"
-    },
-    {
-      "id": "24h_dragonball",
-      "name": "24H Dragon Ball Z",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:15:48.009Z"
-    },
-    {
-      "id": "24h_naruto",
-      "name": "24H Naruto Clássico",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:15:51.736Z"
-    },
-    {
-      "id": "24h_simpsons",
-      "name": "24H Os Simpsons",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:15:55.608Z"
-    },
-    {
-      "id": "24h_odeiachris",
-      "name": "24H Todo Mundo Odeia o Cris",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:15:59.326Z"
-    },
-    {
-      "id": "ae",
-      "name": "AE",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:16:03.017Z"
-    },
-    {
-      "id": "amc",
-      "name": "AMC",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:16:06.735Z"
-    },
-    {
-      "id": "axn",
-      "name": "AXN",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:16:10.479Z"
-    },
-    {
-      "id": "adultswim",
-      "name": "Adult Swim",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:16:14.178Z"
-    },
-    {
-      "id": "animalplanet",
-      "name": "Animal Planet",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:16:18.112Z"
-    },
-    {
-      "id": "aparecida",
-      "name": "Aparecida",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:16:21.810Z"
-    },
-    {
-      "id": "bandnews",
-      "name": "Band News",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:16:25.627Z"
-    },
-    {
-      "id": "bandrj",
-      "name": "Band RJ",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:16:29.313Z"
-    },
-    {
-      "id": "bandsp",
-      "name": "Band SP",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:16:33.044Z"
-    },
-    {
-      "id": "bandsports",
-      "name": "Band Sports",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:16:36.892Z"
-    },
-    {
-      "id": "cnnbrasil",
-      "name": "CNN Brasil",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:16:40.578Z"
-    },
-    {
-      "id": "cancaonova",
-      "name": "Canção Nova",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:16:44.312Z"
-    },
-    {
-      "id": "cartoonnetwork",
-      "name": "Cartoon Network",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:16:48.079Z"
-    },
-    {
-      "id": "cartoonito",
-      "name": "Cartoonito",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:16:51.810Z"
-    },
-    {
-      "id": "caze1",
-      "name": "CazeTV 1",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:16:55.501Z"
-    },
-    {
-      "id": "caze2",
-      "name": "CazeTV 2",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:16:59.389Z"
-    },
-    {
-      "id": "caze3",
-      "name": "CazeTV 3",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:17:03.125Z"
-    },
-    {
-      "id": "cinemax",
-      "name": "Cinemax",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:17:07.011Z"
-    },
-    {
-      "id": "combate",
-      "name": "Combate",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:17:10.740Z"
-    },
-    {
-      "id": "comedycentral",
-      "name": "Comedy Central",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:17:14.538Z"
-    },
-    {
-      "id": "cultura",
-      "name": "Cultura",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:17:18.263Z"
-    },
-    {
-      "id": "discoverychannel",
-      "name": "Discovery Channel",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:17:21.946Z"
-    },
-    {
-      "id": "discoveryhh",
-      "name": "Discovery H&H",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:17:25.684Z"
-    },
-    {
-      "id": "discoveryid",
-      "name": "Discovery ID",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:17:29.372Z"
-    },
-    {
-      "id": "discoverykids",
-      "name": "Discovery Kids",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:17:33.219Z"
-    },
-    {
-      "id": "discoveryscience",
-      "name": "Discovery Science",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:17:36.945Z"
-    },
-    {
-      "id": "discoverytheather",
-      "name": "Discovery Theater",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:17:40.791Z"
-    },
-    {
-      "id": "discoveryturbo",
-      "name": "Discovery Turbo",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:17:44.462Z"
-    },
-    {
-      "id": "discoveryword",
-      "name": "Discovery World",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:17:48.216Z"
-    },
-    {
-      "id": "disneyplus1",
-      "name": "Disney Plus 1",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:17:51.901Z"
-    },
-    {
-      "id": "disneyplus2",
-      "name": "Disney Plus 2",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:17:55.642Z"
-    },
-    {
-      "id": "disneyplus3",
-      "name": "Disney Plus 3",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:17:59.416Z"
-    },
-    {
-      "id": "espn",
-      "name": "Espn",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:18:03.277Z"
-    },
-    {
-      "id": "espn2",
-      "name": "Espn 2",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:18:06.975Z"
-    },
-    {
-      "id": "espn3",
-      "name": "Espn 3",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:18:10.713Z"
-    },
-    {
-      "id": "espn4",
-      "name": "Espn 4",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:18:14.404Z"
-    },
-    {
-      "id": "espn5",
-      "name": "Espn 5",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:18:18.189Z"
-    },
-    {
-      "id": "espn6",
-      "name": "Espn 6",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:18:21.872Z"
-    },
-    {
-      "id": "fish",
-      "name": "Fish TV",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:18:25.612Z"
-    },
-    {
-      "id": "foodnetwork",
-      "name": "Food Network",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:18:29.299Z"
-    },
-    {
-      "id": "getv",
-      "name": "GeTV",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:18:33.059Z"
-    },
-    {
-      "id": "gnt",
-      "name": "GNT",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:18:36.900Z"
-    },
-    {
-      "id": "globoam",
-      "name": "Globo AM",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:18:40.583Z"
-    },
-    {
-      "id": "globoce",
-      "name": "Globo CE",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:18:44.334Z"
-    },
-    {
-      "id": "globoes",
-      "name": "Globo ES",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:18:48.019Z"
-    },
-    {
-      "id": "globomg",
-      "name": "Globo MG",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:18:51.758Z"
-    },
-    {
-      "id": "globonews",
-      "name": "Globo News",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:18:55.545Z"
-    },
-    {
-      "id": "globopb",
-      "name": "Globo PB",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:18:59.398Z"
-    },
-    {
-      "id": "globope",
-      "name": "Globo PE",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:19:03.085Z"
-    },
-    {
-      "id": "globorj",
-      "name": "Globo RJ",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:19:06.831Z"
-    },
-    {
-      "id": "globors",
-      "name": "Globo RS",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:19:10.516Z"
-    },
-    {
-      "id": "globosp",
-      "name": "Globo SP",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:19:14.286Z"
-    },
-    {
-      "id": "gloob",
-      "name": "Gloob",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:19:18.426Z"
-    },
-    {
-      "id": "hbo",
-      "name": "HBO",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:19:22.108Z"
-    },
-    {
-      "id": "hbo2",
-      "name": "HBO 2",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:19:25.875Z"
-    },
-    {
-      "id": "hbofamily",
-      "name": "HBO Family",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:19:29.570Z"
-    },
-    {
-      "id": "hbomundi",
-      "name": "HBO Mundi",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:19:33.335Z"
-    },
-    {
-      "id": "hbopop",
-      "name": "HBO POP",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:19:37.097Z"
-    },
-    {
-      "id": "hboplus",
-      "name": "HBO Plus",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:19:40.956Z"
-    },
-    {
-      "id": "hboxtreme",
-      "name": "HBO Xtreme",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:19:44.636Z"
-    },
-    {
-      "id": "hgtv",
-      "name": "HGTV",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:19:48.400Z"
-    },
-    {
-      "id": "history",
-      "name": "History",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:19:52.245Z"
-    },
-    {
-      "id": "history2",
-      "name": "History 2",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:19:55.935Z"
-    },
-    {
-      "id": "mtv",
-      "name": "MTV",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:19:59.679Z"
-    },
-    {
-      "id": "masterchef",
-      "name": "Master chef",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:20:03.373Z"
-    },
-    {
-      "id": "max1",
-      "name": "Max - 1",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:20:07.119Z"
-    },
-    {
-      "id": "max2",
-      "name": "Max - 2",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:20:10.805Z"
-    },
-    {
-      "id": "max3",
-      "name": "Max - 3",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:20:14.597Z"
-    },
-    {
-      "id": "megapix",
-      "name": "Megapix",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:20:18.323Z"
-    },
-    {
-      "id": "multishow",
-      "name": "Multishow",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:20:22.239Z"
-    },
-    {
-      "id": "off",
-      "name": "OFF",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:20:25.968Z"
-    },
-    {
-      "id": "paramountplus",
-      "name": "Paramount Plus",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:20:29.735Z"
-    },
-    {
-      "id": "paramountplus2",
-      "name": "Paramount Plus 2",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:20:33.518Z"
-    },
-    {
-      "id": "playboy",
-      "name": "Play Boy",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:20:37.361Z"
-    },
-    {
-      "id": "premiere",
-      "name": "Premiere 1",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:20:41.064Z"
-    },
-    {
-      "id": "premiere2",
-      "name": "Premiere 2",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:20:44.833Z"
-    },
-    {
-      "id": "premiere3",
-      "name": "Premiere 3",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:20:48.648Z"
-    },
-    {
-      "id": "premiere4",
-      "name": "Premiere 4",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:20:52.490Z"
-    },
-    {
-      "id": "premiere5",
-      "name": "Premiere 5",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:20:56.205Z"
-    },
-    {
-      "id": "premiere6",
-      "name": "Premiere 6",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:20:59.932Z"
-    },
-    {
-      "id": "premiere7",
-      "name": "Premiere 7",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:21:03.683Z"
-    },
-    {
-      "id": "premiere8",
-      "name": "Premiere 8",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:21:07.630Z"
-    },
-    {
-      "id": "primevideo",
-      "name": "Prime Video",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:21:11.497Z"
-    },
-    {
-      "id": "primevideo2",
-      "name": "Prime Video 2",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:21:15.351Z"
-    },
-    {
-      "id": "recordmg",
-      "name": "Record MG",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:21:19.060Z"
-    },
-    {
-      "id": "recordrj",
-      "name": "Record RJ",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:21:22.916Z"
-    },
-    {
-      "id": "recordsp",
-      "name": "Record SP",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:21:26.629Z"
-    },
-    {
-      "id": "sbtrj",
-      "name": "SBT RJ",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:21:30.375Z"
-    },
-    {
-      "id": "sbtsp",
-      "name": "SBT SP",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:21:34.072Z"
-    },
-    {
-      "id": "sexyhot",
-      "name": "Sexy Hot",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:21:37.821Z"
-    },
-    {
-      "id": "sonychannel",
-      "name": "Sony Channel",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:21:41.677Z"
-    },
-    {
-      "id": "space",
-      "name": "Space",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:21:45.573Z"
-    },
-    {
-      "id": "sportv",
-      "name": "Sportv",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:21:49.328Z"
-    },
-    {
-      "id": "sportv2",
-      "name": "Sportv 2",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:21:53.082Z"
-    },
-    {
-      "id": "sportv3",
-      "name": "Sportv 3",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:21:56.843Z"
-    },
-    {
-      "id": "sportv4",
-      "name": "Sportv 4",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:22:00.614Z"
-    },
-    {
-      "id": "starchannel",
-      "name": "Star Channel",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:22:04.379Z"
-    },
-    {
-      "id": "studiouniversal",
-      "name": "Studio Universal",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:22:08.153Z"
-    },
-    {
-      "id": "tcm",
-      "name": "TCM",
-      "status": "failed"
-    },
-    {
-      "id": "tlc",
-      "name": "TLC",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:22:25.232Z"
-    },
-    {
-      "id": "tnt",
-      "name": "TNT",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:22:29.104Z"
-    },
-    {
-      "id": "tntnovelas",
-      "name": "TNT Novelas",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:22:33.018Z"
-    },
-    {
-      "id": "tntseries",
-      "name": "TNT Series",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:22:36.934Z"
-    },
-    {
-      "id": "telecineaction",
-      "name": "Telecine Action",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:22:40.726Z"
-    },
-    {
-      "id": "telecinecult",
-      "name": "Telecine Cult",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:22:44.603Z"
-    },
-    {
-      "id": "telecinefun",
-      "name": "Telecine Fun",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:22:48.452Z"
-    },
-    {
-      "id": "telecinepipoca",
-      "name": "Telecine Pipoca",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:22:52.241Z"
-    },
-    {
-      "id": "telecinepremium",
-      "name": "Telecine Premium",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:22:56.013Z"
-    },
-    {
-      "id": "telecinetouch",
-      "name": "Telecine Touch",
-      "status": "failed"
-    },
-    {
-      "id": "ufcfightpass",
-      "name": "UFC Fight Pass",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:23:13.131Z"
-    },
-    {
-      "id": "universaltv",
-      "name": "Universal",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:23:17.001Z"
-    },
-    {
-      "id": "warnerchannel",
-      "name": "Warnerchannel",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:23:20.770Z"
-    },
-    {
-      "id": "xsports",
-      "name": "XSports",
-      "m3u8_url": "https://t0r4e3w2q1y69.cloudfront.lat/get_token.php",
-      "status": "success",
-      "extracted_at": "2026-04-09T21:23:24.634Z"
+  "categorias": [
+    {
+      "id": "docs",
+      "nome": "Documentários",
+      "canais": [
+        {
+          "id": "animal-planet",
+          "nome": "Animal Planet",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/755c96030c6a5a04e908f438a39d8463/animalplanet.m3u8",
+          "numero": 1
+        },
+        {
+          "id": "discovery-channel",
+          "nome": "Discovery Channel",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/2c3a9d70df88e1e754dfb1192e448b30/discovery.m3u8",
+          "numero": 2
+        },
+        {
+          "id": "discovery-h-amp-h",
+          "nome": "Discovery H&H",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/811b7d5b88277257c5b27b8e34279090/discoveryhh.m3u8",
+          "numero": 3
+        },
+        {
+          "id": "discovery-id",
+          "nome": "Discovery ID",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/5d4444585c57704e6c35c602058e1371/discoveryid.m3u8",
+          "numero": 4
+        },
+        {
+          "id": "discovery-science",
+          "nome": "Discovery Science",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/e05b3e6480e133bf91ccb97792c3a9d7/discoveryscience.m3u8",
+          "numero": 5
+        },
+        {
+          "id": "discovery-theater",
+          "nome": "Discovery Theater",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/f64f8c9b9868f037f375c345b8827725/discoverytheater.m3u8",
+          "numero": 6
+        },
+        {
+          "id": "discovery-turbo",
+          "nome": "Discovery Turbo",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/b1192e448b30d66c4c5a968667b93a02/discoveryturbo.m3u8",
+          "numero": 7
+        },
+        {
+          "id": "discovery-world",
+          "nome": "Discovery World",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/c6b3e05b3e6480e133bf91ccb97792c3/discoveryworld.m3u8",
+          "numero": 8
+        },
+        {
+          "id": "fish-tv",
+          "nome": "Fish TV",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/3e75671613cc538d8755c96030c6a5a0/fishtv.m3u8",
+          "numero": 9
+        },
+        {
+          "id": "history",
+          "nome": "History",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/4e908f438a39d8463f64f8c9b9868f03/history.m3u8",
+          "numero": 10
+        },
+        {
+          "id": "history-2",
+          "nome": "History 2",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/1613cc538d8755c96030c6a5a04e908f/history2.m3u8",
+          "numero": 11
+        }
+      ]
+    },
+    {
+      "id": "bbb",
+      "nome": "BBB",
+      "canais": [
+        {
+          "id": "bbb-1",
+          "nome": "BBB 1",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/480e133bf91ccb97792c3a9d70df88e1/bbb1.m3u8",
+          "numero": 12
+        },
+        {
+          "id": "bbb-2",
+          "nome": "BBB 2",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/6c3e75671613cc538d8755c96030c6a5/bbb2.m3u8",
+          "numero": 13
+        },
+        {
+          "id": "bbb-3",
+          "nome": "BBB 3 - Banheiros",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/57704e6c35c602058e13719463998f43/bbb3.m3u8",
+          "numero": 14
+        },
+        {
+          "id": "bbb-4",
+          "nome": "BBB 4 - Quarto 1",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/e754dfb1192e448b30d66c4c5a968667/bbb4.m3u8",
+          "numero": 15
+        },
+        {
+          "id": "bbb-5",
+          "nome": "BBB 5 - Cozinha 1",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/792c3a9d70df88e1e754dfb1192e448b/bbb5.m3u8",
+          "numero": 16
+        },
+        {
+          "id": "bbb-6",
+          "nome": "BBB 6 - Cozinha 2",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/a04e908f438a39d8463f64f8c9b9868f/bbb6.m3u8",
+          "numero": 17
+        },
+        {
+          "id": "bbb-7",
+          "nome": "BBB 7 - Quarto 2",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/30d66c4c5a968667b93a0279090c2c3a/bbb7.m3u8",
+          "numero": 18
+        },
+        {
+          "id": "bbb-9",
+          "nome": "BBB 9 - Quarto 3",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/9ccb97792c3a9d70df88e1e754dfb119/bbb9.m3u8",
+          "numero": 19
+        },
+        {
+          "id": "bbb-mosaico",
+          "nome": "BBB Mosaico",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/e75671613cc538d8755c96030c6a5a04/bbbmosaico.m3u8",
+          "numero": 20
+        }
+      ]
+    },
+    {
+      "id": "aberta",
+      "nome": "TV Aberta",
+      "canais": [
+        {
+          "id": "band-news",
+          "nome": "Band News",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/375c345b88277257c5b27b8e34279090/bandnews.m3u8",
+          "numero": 21
+        },
+        {
+          "id": "band-rj",
+          "nome": "Band RJ",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/35c602058e13719463998f438a39d846/bandrj.m3u8",
+          "numero": 22
+        },
+        {
+          "id": "band-sp",
+          "nome": "Band SP",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/dfb1192e448b30d66c4c5a968667b93a/bandsp.m3u8",
+          "numero": 23
+        },
+        {
+          "id": "can-o-nova",
+          "nome": "Canção Nova",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/3a9d70df88e1e754dfb1192e448b30d6/cancaonova.m3u8",
+          "numero": 24
+        },
+        {
+          "id": "cnn-brasil",
+          "nome": "CNN Brasil",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/908f438a39d8463f64f8c9b9868f037/cnnbrasil.m3u8",
+          "numero": 25
+        },
+        {
+          "id": "cultura",
+          "nome": "Cultura",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/667b93a0279090c2c3a9d70df88e1e75/cultura.m3u8",
+          "numero": 26
+        },
+        {
+          "id": "globo-am",
+          "nome": "Globo AM",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/b97792c3a9d70df88e1e754dfb1192e4/globoam.m3u8",
+          "numero": 27
+        },
+        {
+          "id": "globo-ce",
+          "nome": "Globo CE",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/71613cc538d8755c96030c6a5a04e908/globoce.m3u8",
+          "numero": 28
+        },
+        {
+          "id": "globo-es",
+          "nome": "Globo ES",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/f375c345b88277257c5b27b8e3427909/globoes.m3u8",
+          "numero": 29
+        },
+        {
+          "id": "globo-mg",
+          "nome": "Globo MG",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/c602058e13719463998f438a39d8463f/globomg.m3u8",
+          "numero": 30
+        },
+        {
+          "id": "globo-news",
+          "nome": "Globo News",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/1192e448b30d66c4c5a968667b93a027/globonews.m3u8",
+          "numero": 31
+        },
+        {
+          "id": "globo-pb",
+          "nome": "Globo PB",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/70df88e1e754dfb1192e448b30d66c4c/globopb.m3u8",
+          "numero": 32
+        },
+        {
+          "id": "globo-pe",
+          "nome": "Globo PE",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/8f438a39d8463f64f8c9b9868f0375c3/globope.m3u8",
+          "numero": 33
+        },
+        {
+          "id": "globo-rj",
+          "nome": "Globo RJ",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/279090c2c3a9d70df88e1e754dfb1192/globorj.m3u8",
+          "numero": 34
+        },
+        {
+          "id": "globo-rs",
+          "nome": "Globo RS",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/c3a9d70df88e1e754dfb1192e448b30d/globors.m3u8",
+          "numero": 35
+        },
+        {
+          "id": "globo-sp",
+          "nome": "Globo SP",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/a39d8463f64f8c9b9868f0375c345b88/globosp.m3u8",
+          "numero": 36
+        },
+        {
+          "id": "mtv",
+          "nome": "MTV",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/b1192e448b30d66c4c5a968667b93a02/mtv.m3u8",
+          "numero": 37
+        },
+        {
+          "id": "multishow",
+          "nome": "Multishow",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/e754dfb1192e448b30d66c4c5a968667/multishow.m3u8",
+          "numero": 38
+        },
+        {
+          "id": "record-mg",
+          "nome": "Record MG",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/3a9d70df88e1e754dfb1192e448b30d6/recordmg.m3u8",
+          "numero": 39
+        },
+        {
+          "id": "record-rj",
+          "nome": "Record RJ",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/438a39d8463f64f8c9b9868f0375c345/recordrj.m3u8",
+          "numero": 40
+        },
+        {
+          "id": "record-sp",
+          "nome": "Record SP",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/93a0279090c2c3a9d70df88e1e754dfb/recordsp.m3u8",
+          "numero": 41
+        },
+        {
+          "id": "sbt-rj",
+          "nome": "SBT RJ",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/e1e754dfb1192e448b30d66c4c5a9686/sbtrj.m3u8",
+          "numero": 42
+        },
+        {
+          "id": "sbt-sp",
+          "nome": "SBT SP",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/792c3a9d70df88e1e754dfb1192e448b/sbtsp.m3u8",
+          "numero": 43
+        },
+        {
+          "id": "aparecida",
+          "nome": "Aparecida",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/04e908f438a39d8463f64f8c9b9868f0/aparecida.m3u8",
+          "numero": 44
+        }
+      ]
+    },
+    {
+      "id": "filmes",
+      "nome": "Filmes e Séries",
+      "canais": [
+        {
+          "id": "adult-swim",
+          "nome": "Adult Swim",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/6c4c5a968667b93a0279090c2c3a9d70/adultswim.m3u8",
+          "numero": 45
+        },
+        {
+          "id": "ae",
+          "nome": "AE",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/4e6c35c602058e13719463998f438a39/ae.m3u8",
+          "numero": 46
+        },
+        {
+          "id": "amc",
+          "nome": "AMC",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/dfb1192e448b30d66c4c5a968667b93a/amc.m3u8",
+          "numero": 47
+        },
+        {
+          "id": "axn",
+          "nome": "AXN",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/3a9d70df88e1e754dfb1192e448b30d6/axn.m3u8",
+          "numero": 48
+        },
+        {
+          "id": "cinemax",
+          "nome": "Cinemax",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/08f438a39d8463f64f8c9b9868f0375c/cinemax.m3u8",
+          "numero": 49
+        },
+        {
+          "id": "comedy-central",
+          "nome": "Comedy Central",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/3a0279090c2c3a9d70df88e1e754dfb1/comedycentral.m3u8",
+          "numero": 50
+        },
+        {
+          "id": "gnt",
+          "nome": "GNT",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/e754dfb1192e448b30d66c4c5a968667/gnt.m3u8",
+          "numero": 51
+        },
+        {
+          "id": "hbo",
+          "nome": "HBO",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/d66c4c5a968667b93a0279090c2c3a9d/hbo.m3u8",
+          "numero": 52
+        },
+        {
+          "id": "hbo-2",
+          "nome": "HBO 2",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/70df88e1e754dfb1192e448b30d66c4c/hbo2.m3u8",
+          "numero": 53
+        },
+        {
+          "id": "hbo-family",
+          "nome": "HBO Family",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/8f438a39d8463f64f8c9b9868f0375c3/hbofamily.m3u8",
+          "numero": 54
+        },
+        {
+          "id": "hbo-mundi",
+          "nome": "HBO Mundi",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/279090c2c3a9d70df88e1e754dfb1192/hbomundi.m3u8",
+          "numero": 55
+        },
+        {
+          "id": "hbo-plus",
+          "nome": "HBO Plus",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/c3a9d70df88e1e754dfb1192e448b30d/hboplus.m3u8",
+          "numero": 56
+        },
+        {
+          "id": "hbo-pop",
+          "nome": "HBO POP",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/a39d8463f64f8c9b9868f0375c345b88/hbopop.m3u8",
+          "numero": 57
+        },
+        {
+          "id": "hbo-xtreme",
+          "nome": "HBO Xtreme",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/35b88277257c5b27b8e34279090c2c3a/hboxtreme.m3u8",
+          "numero": 58
+        },
+        {
+          "id": "hgtv",
+          "nome": "HGTV",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/9ccb97792c3a9d70df88e1e754dfb119/hgtv.m3u8",
+          "numero": 59
+        },
+        {
+          "id": "megapix",
+          "nome": "Megapix",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/2e448b30d66c4c5a968667b93a027909/megapix.m3u8",
+          "numero": 60
+        },
+        {
+          "id": "off",
+          "nome": "OFF",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/e75671613cc538d8755c96030c6a5a04/off.m3u8",
+          "numero": 61
+        },
+        {
+          "id": "play-boy",
+          "nome": "Play Boy",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/e908f438a39d8463f64f8c9b9868f037/playboy.m3u8",
+          "numero": 62
+        },
+        {
+          "id": "sexy-hot",
+          "nome": "Sexy Hot",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/5c345b88277257c5b27b8e34279090c2/sexyhot.m3u8",
+          "numero": 63
+        },
+        {
+          "id": "sony-channel",
+          "nome": "Sony Channel",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/c3a9d70df88e1e754dfb1192e448b30d/sonychannel.m3u8",
+          "numero": 64
+        },
+        {
+          "id": "space",
+          "nome": "Space",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/64f8c9b9868f037f375c345b88277257/space.m3u8",
+          "numero": 65
+        },
+        {
+          "id": "star-channel",
+          "nome": "Star Channel",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/c5b27b8e34279090c2c3a9d70df88e1e/starchannel.m3u8",
+          "numero": 66
+        },
+        {
+          "id": "studio-universal",
+          "nome": "Studio Universal",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/754dfb1192e448b30d66c4c5a968667b/studiouniversal.m3u8",
+          "numero": 67
+        },
+        {
+          "id": "tcm",
+          "nome": "TCM",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/93a0279090c2c3a9d70df88e1e754dfb/tcm.m3u8",
+          "numero": 68
+        },
+        {
+          "id": "telecine-action",
+          "nome": "Telecine Action",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/1192e448b30d66c4c5a968667b93a027/tcaction.m3u8",
+          "numero": 69
+        },
+        {
+          "id": "telecine-cult",
+          "nome": "Telecine Cult",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/90c2c3a9d70df88e1e754dfb1192e448/tccult.m3u8",
+          "numero": 70
+        },
+        {
+          "id": "telecine-fun",
+          "nome": "Telecine Fun",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/b30d66c4c5a968667b93a0279090c2c3/tcfun.m3u8",
+          "numero": 71
+        },
+        {
+          "id": "telecine-pipoca",
+          "nome": "Telecine Pipoca",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/a9d70df88e1e754dfb1192e448b30d66/tcpipoca.m3u8",
+          "numero": 72
+        },
+        {
+          "id": "telecine-premium",
+          "nome": "Telecine Premium",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/c4c5a968667b93a0279090c2c3a9d70d/tcpremium.m3u8",
+          "numero": 73
+        },
+        {
+          "id": "telecine-touch",
+          "nome": "Telecine Touch",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/f88e1e754dfb1192e448b30d66c4c5a9/tctouch.m3u8",
+          "numero": 74
+        },
+        {
+          "id": "tlc",
+          "nome": "TLC",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/68667b93a0279090c2c3a9d70df88e1e/tlc.m3u8",
+          "numero": 75
+        },
+        {
+          "id": "tnt",
+          "nome": "TNT",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/754dfb1192e448b30d66c4c5a968667b/tnt.m3u8",
+          "numero": 76
+        },
+        {
+          "id": "tnt-novelas",
+          "nome": "TNT Novelas",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/93a0279090c2c3a9d70df88e1e754dfb/tntnovelas.m3u8",
+          "numero": 77
+        },
+        {
+          "id": "tnt-series",
+          "nome": "TNT Series",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/1192e448b30d66c4c5a968667b93a027/tntseries.m3u8",
+          "numero": 78
+        },
+        {
+          "id": "universal",
+          "nome": "Universal",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/90c2c3a9d70df88e1e754dfb1192e448/universal.m3u8",
+          "numero": 79
+        },
+        {
+          "id": "warnerchannel",
+          "nome": "Warnerchannel",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/b30d66c4c5a968667b93a0279090c2c3/warner.m3u8",
+          "numero": 80
+        }
+      ]
+    },
+    {
+      "id": "esportes",
+      "nome": "Esportes",
+      "canais": [
+        {
+          "id": "band-sports",
+          "nome": "Band Sports",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/a9d70df88e1e754dfb1192e448b30d66/bandsports.m3u8",
+          "numero": 81
+        },
+        {
+          "id": "cazetv-1",
+          "nome": "CazeTV 1",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/c4c5a968667b93a0279090c2c3a9d70d/cazetv1.m3u8",
+          "numero": 82
+        },
+        {
+          "id": "cazetv-2",
+          "nome": "CazeTV 2",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/f88e1e754dfb1192e448b30d66c4c5a9/cazetv2.m3u8",
+          "numero": 83
+        },
+        {
+          "id": "cazetv-3",
+          "nome": "CazeTV 3",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/68667b93a0279090c2c3a9d70df88e1e/cazetv3.m3u8",
+          "numero": 84
+        },
+        {
+          "id": "combate",
+          "nome": "Combate",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/754dfb1192e448b30d66c4c5a968667b/combate.m3u8",
+          "numero": 85
+        },
+        {
+          "id": "disney-plus-1",
+          "nome": "Disney Plus 1",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/93a0279090c2c3a9d70df88e1e754dfb/disney1.m3u8",
+          "numero": 86
+        },
+        {
+          "id": "disney-plus-2",
+          "nome": "Disney Plus 2",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/1192e448b30d66c4c5a968667b93a027/disney2.m3u8",
+          "numero": 87
+        },
+        {
+          "id": "disney-plus-3",
+          "nome": "Disney Plus 3",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/90c2c3a9d70df88e1e754dfb1192e448/disney3.m3u8",
+          "numero": 88
+        },
+        {
+          "id": "espn",
+          "nome": "Espn",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/b30d66c4c5a968667b93a0279090c2c3/espn1.m3u8",
+          "numero": 89
+        },
+        {
+          "id": "espn-2",
+          "nome": "Espn 2",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/a9d70df88e1e754dfb1192e448b30d66/espn2.m3u8",
+          "numero": 90
+        },
+        {
+          "id": "espn-3",
+          "nome": "Espn 3",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/c4c5a968667b93a0279090c2c3a9d70d/espn3.m3u8",
+          "numero": 91
+        },
+        {
+          "id": "espn-4",
+          "nome": "Espn 4",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/f88e1e754dfb1192e448b30d66c4c5a9/espn4.m3u8",
+          "numero": 92
+        },
+        {
+          "id": "espn-5",
+          "nome": "Espn 5",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/68667b93a0279090c2c3a9d70df88e1e/espn5.m3u8",
+          "numero": 93
+        },
+        {
+          "id": "espn-6",
+          "nome": "Espn 6",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/754dfb1192e448b30d66c4c5a968667b/espn6.m3u8",
+          "numero": 94
+        },
+        {
+          "id": "getv",
+          "nome": "GeTV",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/93a0279090c2c3a9d70df88e1e754dfb/getv.m3u8",
+          "numero": 95
+        },
+        {
+          "id": "master-chef",
+          "nome": "Master chef",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/1192e448b30d66c4c5a968667b93a027/masterchef.m3u8",
+          "numero": 96
+        },
+        {
+          "id": "max-1",
+          "nome": "Max - 1",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/90c2c3a9d70df88e1e754dfb1192e448/max1.m3u8",
+          "numero": 97
+        },
+        {
+          "id": "max-2",
+          "nome": "Max - 2",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/b30d66c4c5a968667b93a0279090c2c3/max2.m3u8",
+          "numero": 98
+        },
+        {
+          "id": "max-3",
+          "nome": "Max - 3",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/a9d70df88e1e754dfb1192e448b30d66/max3.m3u8",
+          "numero": 99
+        },
+        {
+          "id": "paramount-plus",
+          "nome": "Paramount Plus",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/c4c5a968667b93a0279090c2c3a9d70d/paramount1.m3u8",
+          "numero": 100
+        },
+        {
+          "id": "paramount-plus-2",
+          "nome": "Paramount Plus 2",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/f88e1e754dfb1192e448b30d66c4c5a9/paramount2.m3u8",
+          "numero": 101
+        },
+        {
+          "id": "premiere-1",
+          "nome": "Premiere 1",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/68667b93a0279090c2c3a9d70df88e1e/premiere1.m3u8",
+          "numero": 102
+        },
+        {
+          "id": "premiere-2",
+          "nome": "Premiere 2",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/754dfb1192e448b30d66c4c5a968667b/premiere2.m3u8",
+          "numero": 103
+        },
+        {
+          "id": "premiere-3",
+          "nome": "Premiere 3",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/93a0279090c2c3a9d70df88e1e754dfb/premiere3.m3u8",
+          "numero": 104
+        },
+        {
+          "id": "premiere-4",
+          "nome": "Premiere 4",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/1192e448b30d66c4c5a968667b93a027/premiere4.m3u8",
+          "numero": 105
+        },
+        {
+          "id": "premiere-5",
+          "nome": "Premiere 5",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/90c2c3a9d70df88e1e754dfb1192e448/premiere5.m3u8",
+          "numero": 106
+        },
+        {
+          "id": "premiere-6",
+          "nome": "Premiere 6",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/b30d66c4c5a968667b93a0279090c2c3/premiere6.m3u8",
+          "numero": 107
+        },
+        {
+          "id": "premiere-7",
+          "nome": "Premiere 7",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/a9d70df88e1e754dfb1192e448b30d66/premiere7.m3u8",
+          "numero": 108
+        },
+        {
+          "id": "premiere-8",
+          "nome": "Premiere 8",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/c4c5a968667b93a0279090c2c3a9d70d/premiere8.m3u8",
+          "numero": 109
+        },
+        {
+          "id": "prime-video",
+          "nome": "Prime Video",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/f88e1e754dfb1192e448b30d66c4c5a9/primevideo1.m3u8",
+          "numero": 110
+        },
+        {
+          "id": "prime-video-2",
+          "nome": "Prime Video 2",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/68667b93a0279090c2c3a9d70df88e1e/primevideo2.m3u8",
+          "numero": 111
+        },
+        {
+          "id": "sportv",
+          "nome": "Sportv",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/754dfb1192e448b30d66c4c5a968667b/sportv1.m3u8",
+          "numero": 112
+        },
+        {
+          "id": "sportv-2",
+          "nome": "Sportv 2",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/93a0279090c2c3a9d70df88e1e754dfb/sportv2.m3u8",
+          "numero": 113
+        },
+        {
+          "id": "sportv-3",
+          "nome": "Sportv 3",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/1192e448b30d66c4c5a968667b93a027/sportv3.m3u8",
+          "numero": 114
+        },
+        {
+          "id": "sportv-4",
+          "nome": "Sportv 4",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/90c2c3a9d70df88e1e754dfb1192e448/sportv4.m3u8",
+          "numero": 115
+        },
+        {
+          "id": "ufc-fight-pass",
+          "nome": "UFC Fight Pass",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/b30d66c4c5a968667b93a0279090c2c3/ufcfightpass.m3u8",
+          "numero": 116
+        },
+        {
+          "id": "xsports",
+          "nome": "XSports",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/a9d70df88e1e754dfb1192e448b30d66/xsports.m3u8",
+          "numero": 117
+        }
+      ]
+    },
+    {
+      "id": "desenhos",
+      "nome": "Desenhos",
+      "canais": [
+        {
+          "id": "24h-chaves",
+          "nome": "24H Chaves",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/0e98347cb0e7ec480e133bf91ccb9779/24h_chaves.m3u8",
+          "numero": 118
+        },
+        {
+          "id": "24h-dragon-ball-z",
+          "nome": "24H Dragon Ball Z",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/49dc5103fc4716c3e75671613cc538d8/24h_dragonball.m3u8",
+          "numero": 119
+        },
+        {
+          "id": "24h-naruto-cl-ssico",
+          "nome": "24H Naruto Clássico",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/7e19463998f438a39d8463f64f8c9b98/24h_naruto.m3u8",
+          "numero": 120
+        },
+        {
+          "id": "24h-os-simpsons",
+          "nome": "24H Os Simpsons",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/b8e34279090c2c3a9d70df88e1e754df/24h_simpsons.m3u8",
+          "numero": 121
+        },
+        {
+          "id": "24h-todo-mundo-odeia-o-cris",
+          "nome": "24H Todo Mundo Odeia o Cris",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/1e754dfb1192e448b30d66c4c5a96866/24h_cris.m3u8",
+          "numero": 122
+        },
+        {
+          "id": "cartoonito",
+          "nome": "Cartoonito",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/968667b93a0279090c2c3a9d70df88e1/cartoonito.m3u8",
+          "numero": 123
+        },
+        {
+          "id": "cartoon-network",
+          "nome": "Cartoon Network",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/754dfb1192e448b30d66c4c5a968667b/cartoonnetwork.m3u8",
+          "numero": 124
+        },
+        {
+          "id": "discovery-kids",
+          "nome": "Discovery Kids",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/93a0279090c2c3a9d70df88e1e754dfb/discoverykids.m3u8",
+          "numero": 125
+        },
+        {
+          "id": "food-network",
+          "nome": "Food Network",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/1192e448b30d66c4c5a968667b93a027/foodnetwork.m3u8",
+          "numero": 126
+        },
+        {
+          "id": "gloob",
+          "nome": "Gloob",
+          "url": "https://xn--d1ma04s8hp10.cloudfront.lat/stream/embedtv/90c2c3a9d70df88e1e754dfb1192e448/gloob.m3u8",
+          "numero": 127
+        }
+      ]
     }
   ]
 }

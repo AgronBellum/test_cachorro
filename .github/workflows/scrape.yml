@@ -28,7 +28,7 @@ jobs:
       - name: Executar script EPG
         id: scrape
         run: |
-          python epg_discovery.py
+          python epg_id.py
         continue-on-error: false
 
       - name: Commitar e fazer push

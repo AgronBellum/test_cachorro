@@ -1,0 +1,43 @@
+name: Gerar EPG Discovery ID
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # A cada 6 horas
+  workflow_dispatch:      # Permite rodar manualmente para teste
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar dependências
+        run: |
+          pip install playwright
+          playwright install chromium
+
+      - name: Executar script
+        run: |
+          python epg_discovery.py
+
+      - name: Commitar e fazer push do arquivo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # Verifica se o arquivo foi alterado
+          if [ -n "$(git status --porcelain ID_BR.json)" ]; then
+            git add ID_BR.json
+            git commit -m "Atualiza ID_BR.json automaticamente"
+            git push
+          else
+            echo "Nenhuma alteração detectada no ID_BR.json."
+          fi

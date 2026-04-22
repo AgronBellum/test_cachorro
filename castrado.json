@@ -183,10 +183,10 @@
       "canais": [
         {
           "id": "bbb1",
-          "name": "Novelas",
+          "name": "Premio GShow",
           "categoryId": "bbb",
           "categoryName": "BBB",
-          "m3u8_url": "https://live-01.edge-osirnet-pet-rs.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1vc2lybmV0LXBldC1ycy52aWRlby5nbG9iby5jb20iLCJleHAiOjE3NzY4NjkzNDgsImlhdCI6MTc3Njg0Nzc0OCwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiIwZmU2MzY4Ni0yNzcwLTQ1NDAtOGJiMS04ZGNjZjAyMmJhZjUiLCJwYXRoIjoiL2xpdmUvZihpPTIpL3ZpdmEyNGhhL3BsYXlsaXN0Lm0zdTgifQ.JJn90WsWE98lwIOWR1MuxU12esGVOEivEtXqmsTWa3Afi50E6y4PGj3Iep3NXsKTvSISK7-11Kf794-cqBD3kbYzxfqkuckvTs58SLE6rBj1ecERg-ZtAqtgDM2srCW-b8uXYUpkE-r2zCSFs08jGT7wEbZOVcs0_1fcUj1swaEpQzdhmI0ySjFlqs33pYOkOBCm3Upblu8MrKUs5R_f0BpMa0VAuPQa21Tj4jucfmvzZWWX7nCKLfwbr6y6RK8k4bpihEkrVfTgoZ3Aq1GOSFsp-WPFCQgc32ubIDDPcRgvkz5KWD3KVW3CbcifwFwRLqrLNgliNuQRcG-8k7chZA/live/f(i=2)/viva24ha/viva24ha-audio_1=96000-video=3442944.m3u8?custom_asset_key=viva24ha_hls&network_code=95377733&stream_id=a66f974d-5092-4929-9b89-f37ec76b673a.m3u8",
+          "m3u8_url": "https://live-01.edge-osirnet-pet-rs.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1vc2lybmV0LXBldC1ycy52aWRlby5nbG9iby5jb20iLCJleHAiOjE3NzY5MTMzMDksImlhdCI6MTc3Njg5MTcwOSwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiIwZmU2MzY4Ni0yNzcwLTQ1NDAtOGJiMS04ZGNjZjAyMmJhZjUiLCJwYXRoIjoiL2xpdmUvZihpPTIpL2dwbGF5OC9wbGF5bGlzdC5tM3U4In0.U2z_QmFRbnspqi24fl_fxlOM578kw0lrfJQ9R4h4UkczL_JoI-qBd5lEIHepz7g-s2SgOXCCCCN5QqY3WMjymsWHbPCWiEd9lkDOfE_n4hYykRm1QB_FadB0p5WV8sPduQUN5lIoJY_2dgZYp9R0fbfCvfI7YF7TBFFlIHJ9KOC_N8KImXS0tfp8DUkze8SwNz9PC7pB9ZzmzRsdRUCqiMVyJf07Hc-AoZFZA9lvsiRe2M2N-zhrDeBCbC2MhvpQb2xfqecSVmKahqqzi90OD6b3ZD8nbIcfnIo92bM1LYW0HxLUv1qtQZSbBWI5ClDoHKYlPMMBkB-c11Lze5sxMQ/live/f(i=2)/gplay8/gplay8-audio_1=128000-video=5512000.m3u8",
           "headers": {
             "referer": "https://www4.embedtv.cv/",
             "origin": "https://www4.embedtv.cv",

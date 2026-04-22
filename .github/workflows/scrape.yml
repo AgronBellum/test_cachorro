@@ -27,7 +27,7 @@ jobs:
 
       - name: Executar script
         run: |
-          python epg_discovery.py
+          python ID.py
 
       - name: Commitar e fazer push do arquivo
         run: |

@@ -234,7 +234,7 @@ async def scrape_discovery_id_mitv(target_date: date = None):
 def save_json(data: dict, filename: str = None):
     if filename is None:
         date_str = data['start_date']
-        filename = f"discovery_id_{date_str}.json"
+        filename = f"ID_BR.json"
     
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)

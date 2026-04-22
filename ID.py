@@ -171,12 +171,7 @@ async def scrape_discovery_id_mitv(target_date: date = None):
         # Scrape "Hoje" (today)
         print("\n🔍 Scraping 'Hoje'...")
         programs_today = await scrape_day(page, "Hoje", target_date)
-        
-        # Scrape "Amanhã" (tomorrow)
-        print("\n🔍 Scraping 'Amanhã'...")
-        tomorrow_date = target_date + timedelta(days=1)
-        programs_tomorrow = await scrape_day(page, "Amanhã", tomorrow_date)
-        
+         
         await browser.close()
         
         # Combine and convert to epg.pw format
@@ -195,24 +190,11 @@ async def scrape_discovery_id_mitv(target_date: date = None):
                 "title": prog['title']
             })
         
-        # Process tomorrow
-        base_date = tomorrow_date
-        for i, prog in enumerate(programs_tomorrow):
-            hour, minute = map(int, prog['time'].split(':'))
-            start_dt = datetime(base_date.year, base_date.month, base_date.day, hour, minute, 0)
-            start_dt_utc = start_dt + timedelta(hours=3)  # BR -> UTC
-            
-            all_programs.append({
-                "desc": "",
-                "start_date": start_dt_utc.strftime("%Y-%m-%dT%H:%M:%S+00:00"),
-                "title": prog['title']
-            })
-        
         # Sort by start_date
         all_programs.sort(key=lambda x: x['start_date'])
         
         result = {
-            "end_date": (tomorrow_date + timedelta(days=1)).strftime("%Y-%m-%d"),
+            "end_date": (timedelta(days=1)).strftime("%Y-%m-%d"),
             "name": "Discovery ID",
             "info_url": url,
             "country": "Brazil",
@@ -222,7 +204,7 @@ async def scrape_discovery_id_mitv(target_date: date = None):
             "source_url": url,
             "epg_list": all_programs,
             "offset": "+00:00",
-            "timezone": "UTC",
+            "timezone": "None",
             "error_code": 0,
             "start_date": target_date.strftime("%Y-%m-%d"),
             "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Investigation_Discovery_Logo_2018.svg/512px-Investigation_Discovery_Logo_2018.svg.png"

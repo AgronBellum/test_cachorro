@@ -1,177 +1,138 @@
 # epg_discovery.py
 import asyncio
 import json
+import sys
 from datetime import datetime, date, timedelta
-from playwright.async_api import async_playwright
+from playwright.async_api import async_playwright, TimeoutError as PlaywrightTimeout
 
 
-async def scrape_day(page, day_label: str, base_date: date):
-    """Scrapes a single day from mi.tv — garantindo que só pega o painel ATIVO"""
-
-    print(f"  📅 Clicando em '{day_label}'...")
-
-    # Clica no tab usando texto exato
-    tab = await page.locator(f'[role="tab"]:has-text("{day_label}")').first
-    if await tab.count() > 0:
-        await tab.click()
-        await asyncio.sleep(2)
-        print(f"  ✅ Tab '{day_label}' clicado")
-    else:
-        # Fallback: pode já estar ativo se for "Hoje" no primeiro load
-        active_tab = await page.locator('[role="tab"][aria-selected="true"]').text_content()
-        if day_label in (active_tab or ""):
-            print(f"  ℹ️ Tab '{day_label}' já está ativa")
-        else:
-            print(f"  ⚠️ Não consegui clicar no tab '{day_label}'")
-            return []
-
-    # ESPERA CRÍTICA: garante que o conteúdo do novo dia renderizou
-    # e que o painel antigo sumiu do DOM ou ficou hidden
-    await page.wait_for_timeout(1500)
-
-    # Agora extrai SÓ do painel ativo/visível
-    # Baseado na screenshot: lista com hora + título em sequência
-    programs = await page.evaluate("""
-        (dayLabel) => {
-            const items = [];
+async def scrape_day(page, day_label: str, base_date: date, max_retries: int = 3):
+    """Scrapes a single day from mi.tv com retry e detecção robusta do painel ativo"""
+    
+    for attempt in range(max_retries):
+        try:
+            print(f"  📅 Clicando em '{day_label}' (tentativa {attempt + 1}/{max_retries})...")
             
-            // 1. Encontra o painel ativo (tabpanel com aria-hidden="false" ou sem hidden)
-            // ou o container que está visível e contém a programação
-            let activePanel = null;
+            # Clica no tab
+            tab = page.locator(f'[role="tab"]:has-text("{day_label}")').first
+            count = await tab.count()
             
-            // Tenta achar pelo ARIA
-            const panels = document.querySelectorAll('[role="tabpanel"]');
-            for (const panel of panels) {
-                if (panel.getAttribute('aria-hidden') !== 'true' && 
-                    panel.offsetParent !== null) {
-                    activePanel = panel;
-                    break;
-                }
-            }
+            if count > 0:
+                await tab.click()
+                await asyncio.sleep(2)
+                print(f"  ✅ Tab '{day_label}' clicado")
+            else:
+                # Fallback: verifica se já está ativo
+                active_tab = await page.locator('[role="tab"][aria-selected="true"]').text_content()
+                if active_tab and day_label in active_tab:
+                    print(f"  ℹ️ Tab '{day_label}' já está ativa")
+                else:
+                    if attempt < max_retries - 1:
+                        await asyncio.sleep(2)
+                        continue
+                    print(f"  ⚠️ Não consegui clicar no tab '{day_label}'")
+                    return []
+
+            # Espera o painel ativo renderizar com conteúdo
+            await page.wait_for_timeout(2000)
             
-            // Fallback: procura o container visível que tem horários
-            if (!activePanel) {
-                const allContainers = document.querySelectorAll('div, section, article');
-                for (const container of allContainers) {
-                    // Container visível com múltiplos elementos de hora
-                    if (container.offsetParent === null) continue;
-                    const timeElements = container.querySelectorAll('div, span, p, li');
-                    let timeCount = 0;
-                    for (const el of timeElements) {
-                        if (/^\\d{1,2}:\\d{2}$/.test(el.textContent.trim())) {
-                            timeCount++;
+            # Verifica se o painel tem conteúdo antes de extrair
+            active_panel = page.locator('[role="tabpanel"][aria-hidden="false"]').first
+            if await active_panel.count() == 0:
+                if attempt < max_retries - 1:
+                    continue
+                return []
+
+            programs = await page.evaluate("""
+                () => {
+                    const items = [];
+                    
+                    // Encontra painel ativo
+                    let panel = document.querySelector('[role="tabpanel"][aria-hidden="false"]');
+                    if (!panel) {
+                        // Fallback: procura container visível com programas
+                        const containers = document.querySelectorAll('div, section');
+                        for (const c of containers) {
+                            if (c.offsetParent === null) continue;
+                            const times = c.querySelectorAll('*');
+                            let count = 0;
+                            for (const t of times) {
+                                if (/^\\d{1,2}:\\d{2}$/.test(t.textContent.trim())) count++;
+                            }
+                            if (count >= 3) { panel = c; break; }
                         }
                     }
-                    if (timeCount >= 3) { // Pelo menos 3 programas = painel de grade
-                        activePanel = container;
-                        break;
-                    }
-                }
-            }
-            
-            if (!activePanel) {
-                console.log('Nenhum painel ativo encontrado');
-                return [];
-            }
-            
-            // 2. Dentro do painel ativo, extrai os programas
-            // Estrutura da screenshot: elementos irmãos ou container com hora+título
-            
-            // Primeiro: tenta achar containers de programa estruturados
-            const programElements = activePanel.querySelectorAll('div, li, article, section');
-            const candidates = [];
-            
-            for (const el of programElements) {
-                const text = el.textContent || '';
-                // Procura padrão: começa com hora HH:MM
-                const timeMatch = text.trim().match(/^(\\d{1,2}:\\d{2})\\s+/);
-                if (timeMatch) {
-                    // Verifica se não é um anúncio (contém "Anúncio" ou imagem de ad)
-                    if (text.includes('Anúncio') || text.includes('BETMGM') || 
-                        text.includes('cassino') || text.includes('Jogue')) {
-                        continue;
-                    }
-                    candidates.push(el);
-                }
-            }
-            
-            // 3. Extrai hora e título de cada candidato
-            for (const el of candidates) {
-                const text = el.textContent.trim();
-                
-                // Pula anúncios definitivamente
-                if (text.includes('Anúncio') || text.includes('Aposta') || 
-                    text.includes('BET') || text.includes('cassino')) {
-                    continue;
-                }
-                
-                // Extrai hora
-                const timeMatch = text.match(/^(\\d{1,2}:\\d{2})/);
-                if (!timeMatch) continue;
-                const timeText = timeMatch[1];
-                
-                // Extrai título: texto após a hora, primeira linha significativa
-                let titleText = '';
-                const lines = text.split('\\n').map(l => l.trim()).filter(l => l && l !== timeText);
-                
-                // Pula linhas que são metadados (como "23 min restantes")
-                for (const line of lines) {
-                    if (line.match(/^\\d+\\s+min/)) continue; // "23 min restantes"
-                    if (line.match(/^\\+\\s*Mostrar/)) continue; // botão expandir
-                    if (line.length > 2 && !line.includes('Anúncio')) {
-                        titleText = line;
-                        break;
-                    }
-                }
-                
-                // Fallback: regex para pegar título após hora na mesma linha
-                if (!titleText) {
-                    const titleMatch = text.match(/^\\d{1,2}:\\d{2}\\s+(.+?)(?:\\s+\\d+\\s+min|$)/);
-                    if (titleMatch) titleText = titleMatch[1].trim();
-                }
-                
-                if (timeText && titleText && titleText.length > 1) {
-                    items.push({
-                        time: timeText,
-                        title: titleText
-                    });
-                }
-            }
-            
-            // 4. Fallback se não achou nada: procura todos os textos com padrão hora+título
-            if (items.length === 0) {
-                const walker = document.createTreeWalker(activePanel, NodeFilter.SHOW_TEXT);
-                const texts = [];
-                let node;
-                while (node = walker.nextNode()) {
-                    texts.push(node.textContent.trim());
-                }
-                
-                for (let i = 0; i < texts.length; i++) {
-                    const t = texts[i];
-                    const timeMatch = t.match(/^(\\d{1,2}:\\d{2})$/);
-                    if (timeMatch && i + 1 < texts.length) {
-                        const nextText = texts[i + 1];
-                        if (nextText && nextText.length > 2 && 
-                            !nextText.includes('Anúncio') && 
-                            !nextText.includes('min restantes')) {
-                            items.push({
-                                time: timeMatch[1],
-                                title: nextText
-                            });
+                    if (!panel) return [];
+                    
+                    // Extrai programas - estratégia: procura elementos com hora como primeiro texto
+                    const allElements = panel.querySelectorAll('div, li, article');
+                    
+                    for (const el of allElements) {
+                        const text = el.textContent.trim();
+                        
+                        // Filtra anúncios
+                        if (/Anúncio|BETMGM|Aposta|cassino|Jogue/i.test(text)) continue;
+                        
+                        // Match hora + título
+                        const match = text.match(/^(\\d{1,2}:\\d{2})\\s*[\\n\\s]+(.+?)(?:\\s+\\d+\\s*min|$)/s);
+                        if (match) {
+                            const time = match[1];
+                            let title = match[2].split('\\n')[0].trim();
+                            
+                            // Limpa título
+                            title = title.replace(/^\\+\\s*Mostrar.*/, '').trim();
+                            
+                            if (title && title.length > 1 && !/min restantes/i.test(title)) {
+                                items.push({ time, title });
+                            }
                         }
                     }
+                    
+                    // Fallback: tree walker para texto solto
+                    if (items.length === 0) {
+                        const walker = document.createTreeWalker(panel, NodeFilter.SHOW_TEXT);
+                        const texts = [];
+                        let node;
+                        while (node = walker.nextNode()) {
+                            const t = node.textContent.trim();
+                            if (t) texts.push(t);
+                        }
+                        
+                        for (let i = 0; i < texts.length - 1; i++) {
+                            const timeMatch = texts[i].match(/^(\\d{1,2}:\\d{2})$/);
+                            if (timeMatch) {
+                                const next = texts[i + 1];
+                                if (next && next.length > 2 && !/Anúncio|min restantes/i.test(next)) {
+                                    items.push({ time: timeMatch[1], title: next });
+                                }
+                            }
+                        }
+                    }
+                    
+                    return items;
                 }
-            }
+            """)
             
-            return items;
-        }
-    """, day_label)
-
-    print(f"  📺 {len(programs)} programas encontrados em '{day_label}'")
-    for p in programs[:3]:
-        print(f"     {p['time']} - {p['title']}")
-    return programs
+            if programs:
+                print(f"  📺 {len(programs)} programas encontrados em '{day_label}'")
+                for p in programs[:3]:
+                    print(f"     {p['time']} - {p['title']}")
+                return programs
+                
+            elif attempt < max_retries - 1:
+                await asyncio.sleep(2)
+                continue
+            else:
+                return []
+                
+        except Exception as e:
+            print(f"  ⚠️ Erro na tentativa {attempt + 1}: {e}")
+            if attempt < max_retries - 1:
+                await asyncio.sleep(2)
+            else:
+                return []
+    
+    return []
 
 
 async def scrape_discovery_id_mitv(target_date: date = None):
@@ -187,6 +148,8 @@ async def scrape_discovery_id_mitv(target_date: date = None):
                 '--disable-blink-features=AutomationControlled',
                 '--disable-web-security',
                 '--disable-features=IsolateOrigins,site-per-process',
+                '--no-sandbox',
+                '--disable-setuid-sandbox',
             ]
         )
 
@@ -205,12 +168,12 @@ async def scrape_discovery_id_mitv(target_date: date = None):
 
         page = await context.new_page()
 
-        # Block recursos pesados mas deixa o conteúdo principal
+        # Block recursos pesados
         await page.route("**/*", lambda route, request: 
-            route.abort() if any(x in request.url for x in [
+            route.abort() if any(x in request.url.lower() for x in [
                 'google-analytics', 'googletagmanager', 'facebook',
                 'doubleclick', 'adsystem', 'analytics', 'tracker',
-                'gtm.js', 'gtag'
+                'gtm.js', 'gtag', 'ads', 'advertising'
             ]) else route.continue_()
         )
 
@@ -220,29 +183,36 @@ async def scrape_discovery_id_mitv(target_date: date = None):
             await page.goto(url, wait_until="networkidle", timeout=60000)
             await asyncio.sleep(3)
             
-            # Espera os tabs de dia carregarem
-            await page.wait_for_selector('[role="tab"]:has-text("Hoje")', timeout=10000)
+            # Espera tabs carregarem
+            await page.wait_for_selector('[role="tab"]:has-text("Hoje")', timeout=15000)
             
+        except PlaywrightTimeout:
+            print("❌ Timeout ao carregar página")
+            await browser.close()
+            raise
         except Exception as e:
             print(f"❌ Erro ao carregar página: {e}")
             await browser.close()
             raise
 
-        # Scrape "Hoje" (today)
+        # Scrape Hoje
         print("\n🔍 Scraping 'Hoje'...")
         programs_today = await scrape_day(page, "Hoje", target_date)
 
-        # Scrape "Amanhã" (tomorrow)
+        # Scrape Amanhã
         print("\n🔍 Scraping 'Amanhã'...")
         tomorrow_date = target_date + timedelta(days=1)
         programs_tomorrow = await scrape_day(page, "Amanhã", tomorrow_date)
 
         await browser.close()
 
-        # Combine e converte para formato epg.pw
+        # Validação: precisa ter pelo menos alguns programas
+        if not programs_today and not programs_tomorrow:
+            raise Exception("Nenhum programa encontrado para hoje ou amanhã")
+
+        # Constrói resultado
         all_programs = []
 
-        # Process today
         for prog in programs_today:
             try:
                 hour, minute = map(int, prog['time'].split(':'))
@@ -252,10 +222,9 @@ async def scrape_discovery_id_mitv(target_date: date = None):
                     "start_date": start_dt.strftime("%Y-%m-%dT%H:%M:%S-03:00"),
                     "title": prog['title']
                 })
-            except ValueError:
+            except (ValueError, KeyError):
                 continue
 
-        # Process tomorrow
         for prog in programs_tomorrow:
             try:
                 hour, minute = map(int, prog['time'].split(':'))
@@ -265,14 +234,16 @@ async def scrape_discovery_id_mitv(target_date: date = None):
                     "start_date": start_dt.strftime("%Y-%m-%dT%H:%M:%S-03:00"),
                     "title": prog['title']
                 })
-            except ValueError:
+            except (ValueError, KeyError):
                 continue
 
-        # Sort by start_date
         all_programs.sort(key=lambda x: x['start_date'])
 
+        # Calcula end_date corretamente (último programa + 1 dia como margem)
+        end_date = tomorrow_date + timedelta(days=1)
+
         result = {
-            "end_date": (tomorrow_date + timedelta(days=1)).strftime("%Y-%m-%d"),
+            "end_date": end_date.strftime("%Y-%m-%d"),
             "name": "Discovery ID",
             "info_url": url,
             "country": "Brazil",
@@ -291,13 +262,9 @@ async def scrape_discovery_id_mitv(target_date: date = None):
         return result
 
 
-def save_json(data: dict, filename: str = None):
-    if filename is None:
-        filename = f"ID_BR.json"
-
+def save_json(data: dict, filename: str = "ID_BR.json"):
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-
     return filename
 
 
@@ -318,3 +285,4 @@ if __name__ == "__main__":
         print(f"\n❌ Falha: {e}")
         import traceback
         traceback.print_exc()
+        sys.exit(1)  # Importante: retorna erro para o Actions falhar

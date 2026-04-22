@@ -2,7 +2,7 @@ name: Gerar EPG Discovery ID
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # A cada 6 horas
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
@@ -22,14 +22,11 @@ jobs:
 
       - name: Instalar dependências
         run: |
-          pip install playwright
-          playwright install chromium
+          pip install requests beautifulsoup4
 
       - name: Executar script EPG
-        id: scrape
         run: |
           python epg_id.py
-        continue-on-error: false
 
       - name: Commitar e fazer push
         run: |
@@ -39,7 +36,7 @@ jobs:
           if [ -f "ID_BR.json" ]; then
             git add ID_BR.json
             if git diff --cached --quiet; then
-              echo "Nenhuma alteração detectada no ID_BR.json."
+              echo "Nenhuma alteração detectada."
             else
               git commit -m "Atualiza EPG Discovery ID - $(date +'%Y-%m-%d %H:%M')"
               git push

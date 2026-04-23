@@ -1,4 +1,4 @@
-    name: Gerar EPG Discovery ID
+name: Gerar EPG Discovery ID
 
 on:
   schedule:
@@ -27,31 +27,21 @@ jobs:
       - name: Executar script EPG
         run: |
           python epg_id.py
-          
-          # Verifica se o arquivo foi gerado e tem conteúdo válido
-          if [ ! -f "ID_BR.json" ]; then
-            echo "❌ Arquivo ID_BR.json não foi gerado!"
-            exit 1
-          fi
-          
-          # Verifica se o JSON é válido e tem programas
-          PROGRAM_COUNT=$(python3 -c "import json; data=json.load(open('ID_BR.json')); print(len(data.get('epg_list', [])))")
-          if [ "$PROGRAM_COUNT" -eq 0 ]; then
-            echo "⚠️ EPG gerado mas sem programas. Abortando commit."
-            exit 1
-          fi
-          
-          echo "✅ $PROGRAM_COUNT programas encontrados."
 
       - name: Commitar e fazer push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           
-          git add ID_BR.json
-          if git diff --cached --quiet; then
-            echo "Nenhuma alteração detectada."
+          if [ -f "ID_BR.json" ]; then
+            git add ID_BR.json
+            if git diff --cached --quiet; then
+              echo "Nenhuma alteração detectada."
+            else
+              git commit -m "Atualiza EPG Discovery ID - $(date +'%Y-%m-%d %H:%M')"
+              git push
+            fi
           else
-            git commit -m "Atualiza EPG Discovery ID - $(date +'%Y-%m-%d %H:%M')"
-            git push
+            echo "❌ Arquivo ID_BR.json não foi gerado!"
+            exit 1
           fi

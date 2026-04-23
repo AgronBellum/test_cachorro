@@ -1,4 +1,3 @@
-
 # epg_id.py
 import json
 import re
@@ -16,21 +15,75 @@ HEADERS = {
 }
 
 
+def is_invalid_title(title: str) -> bool:
+    """
+    Retorna True se o título for apenas número, data, hora, ou padrões
+    técnicos (episódio, temporada, etc.) sem nome de programa real.
+    """
+    t = title.strip()
+    
+    # Vazio ou muito curto
+    if len(t) < 2:
+        return True
+    
+    # Apenas número (incluindo com ponto, vírgula, espaço)
+    if re.fullmatch(r'[\d\s.,]+', t):
+        return True
+    
+    # Padrões de data: 2024-04-23, 23/04/2024, 23-04-2024, etc.
+    if re.fullmatch(r'\d{1,4}[\-/]\d{1,2}[\-/]\d{1,4}', t):
+        return True
+    
+    # Apenas hora: 06:00, 6:00
+    if re.fullmatch(r'\d{1,2}:\d{2}', t):
+        return True
+    
+    # Padrões tipo "S01E05", "E05", "T1", "3ª Temporada" sozinho
+    if re.fullmatch(r'[Ss]\d+[Ee]\d+', t):
+        return True
+    if re.fullmatch(r'[Ee]\d+', t):
+        return True
+    if re.fullmatch(r'\d+[ªº°a]?\s*[Tt]emporada', t):
+        return True
+    if re.fullmatch(r'[Tt]\d+', t):
+        return True
+    
+    # "Episódio X" ou "Ep. X" sozinho
+    if re.fullmatch(r'[Ee]pis[oó]dio\s*\d+', t):
+        return True
+    if re.fullmatch(r'[Ee]p\.?\s*\d+', t):
+        return True
+    
+    return False
+
+
+def clean_title(raw_title: str) -> str | None:
+    """
+    Limpa e valida o título do programa.
+    Retorna None se o título for inválido (número, data, etc.).
+    """
+    # Remove categorias como "; Séries/Reality Show"
+    title = re.split(r'[;|•]', raw_title)[0].strip()
+    
+    # Remove sujeira comum
+    title = re.sub(r'\s+', ' ', title).strip()
+    
+    # Verifica se é inválido
+    if is_invalid_title(title):
+        return None
+        
+    return title
+
+
 def scrape_tvinside(day_offset: int = 0):
     """
     day_offset: 0 = hoje, 1 = amanhã, etc.
     Retorna lista de dicts: [{"time": "06:00", "title": "..."}, ...]
     """
     base_url = "https://tvinside.com.br/programacao_tv/investigacao_discovery"
-    # O site pode aceitar ?dia=YYYY-MM-DD ou similar, mas vamos tentar sem query primeiro
-    # Se precisar de data específica, ajustamos depois
     
     url = base_url
-    if day_offset > 0:
-        target = date.today() + timedelta(days=day_offset)
-        # Tentativa: o site pode usar ?date= ou similar, mas vamos inspecionar
-        # Por enquanto, scrape a página atual e vemos se tem tabs de dia
-        pass
+    # TODO: se o site suportar data via query string, adicionar aqui
 
     try:
         resp = requests.get(url, headers=HEADERS, timeout=30)
@@ -41,26 +94,18 @@ def scrape_tvinside(day_offset: int = 0):
 
     soup = BeautifulSoup(resp.text, "html.parser")
     
-    # Tenta encontrar a programação do dia correto
-    # Estrutura típica: lista com hora e título
     programs = []
-    
-    # Procura por elementos que contenham horários no formato HH:MM
     text = soup.get_text(separator="\n")
     
-    # Regex para capturar linhas como "06:00. Vivendo com o Inimigo" ou "06:00 h - Título"
-    # Padrões encontrados: "06:00. Título" ou "06:00 h" ou "06:00 - Título"
-    pattern = re.compile(r'^(\d{1,2}:\d{2})[.\s\-h]*(.+)$', re.MULTILINE)
+    # Regex melhorada: evita capturar intervalos "06:00 - 07:00" como título
+    pattern = re.compile(r'^(\d{1,2}:\d{2})[.\s\-h]*(?!\d{1,2}:\d{2})(.+)$', re.MULTILINE)
     
     for match in pattern.finditer(text):
         time_str = match.group(1)
-        title = match.group(2).strip()
+        raw_title = match.group(2).strip()
         
-        # Limpa título (remove categorias como "; Séries/Reality Show")
-        title = re.split(r'[;|•]', title)[0].strip()
-        
-        # Remove sujeira
-        if len(title) < 2 or title.lower() in ['h', '']:
+        title = clean_title(raw_title)
+        if title is None:
             continue
             
         programs.append({

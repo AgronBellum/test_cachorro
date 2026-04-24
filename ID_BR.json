@@ -1,118 +1,8 @@
 {
-  "end_date": "2026-04-25",
+  "end_date": "2026-04-26",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
-    {
-      "desc": "",
-      "start_date": "2026-04-23T00:29:00-03:00",
-      "title": "Chamadas Criminosas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-23T01:17:00-03:00",
-      "title": "Investigação Criminal"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-23T03:39:00-03:00",
-      "title": "Crimes no Vale do Silício"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-23T04:23:00-03:00",
-      "title": "Crimes na Cabana"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-23T05:10:00-03:00",
-      "title": "Crimes e Mentiras - Ted Bundy"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-23T06:00:00-03:00",
-      "title": "Investigação Criminal"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-23T08:23:00-03:00",
-      "title": "Crimes no Vale do Silício"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-23T09:11:00-03:00",
-      "title": "Crimes na Cabana"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-23T09:59:00-03:00",
-      "title": "Crimes e Mentiras - Ted Bundy"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-23T10:52:00-03:00",
-      "title": "Vivendo com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-23T11:40:00-03:00",
-      "title": "Sinais de um Psicopata"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-23T12:28:00-03:00",
-      "title": "Lobo em Pele de Cordeiro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-23T14:04:00-03:00",
-      "title": "Desaparecidos"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-23T15:42:00-03:00",
-      "title": "Cidade Pacata, Crime Cruel"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-23T17:20:00-03:00",
-      "title": "Vivendo com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-23T18:08:00-03:00",
-      "title": "Sinais de um Psicopata"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-23T18:56:00-03:00",
-      "title": "Lobo em Pele de Cordeiro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-23T20:36:00-03:00",
-      "title": "Morte no Velho Oeste"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-23T21:25:00-03:00",
-      "title": "Vivendo com o Inimigo - Sombras da Morte"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-23T22:14:00-03:00",
-      "title": "Lobo em Pele de Cordeiro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-23T22:50:00-03:00",
-      "title": "Um Assassino entre Amigos"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-23T23:41:00-03:00",
-      "title": "Cidade Pacata, Crime Cruel"
-    },
     {
       "desc": "",
       "start_date": "2026-04-24T00:29:00-03:00",
@@ -222,7 +112,117 @@
       "desc": "",
       "start_date": "2026-04-24T23:41:00-03:00",
       "title": "Cidade Pacata, Crime Cruel"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-25T00:29:00-03:00",
+      "title": "Chamadas Criminosas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-25T01:17:00-03:00",
+      "title": "Investigação Criminal"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-25T03:39:00-03:00",
+      "title": "Crimes no Vale do Silício"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-25T04:23:00-03:00",
+      "title": "Crimes na Cabana"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-25T05:10:00-03:00",
+      "title": "Crimes e Mentiras - Ted Bundy"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-25T06:00:00-03:00",
+      "title": "Investigação Criminal"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-25T08:23:00-03:00",
+      "title": "Crimes no Vale do Silício"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-25T09:11:00-03:00",
+      "title": "Crimes na Cabana"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-25T09:59:00-03:00",
+      "title": "Crimes e Mentiras - Ted Bundy"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-25T10:52:00-03:00",
+      "title": "Vivendo com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-25T11:40:00-03:00",
+      "title": "Sinais de um Psicopata"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-25T12:28:00-03:00",
+      "title": "Lobo em Pele de Cordeiro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-25T14:04:00-03:00",
+      "title": "Desaparecidos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-25T15:42:00-03:00",
+      "title": "Cidade Pacata, Crime Cruel"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-25T17:20:00-03:00",
+      "title": "Vivendo com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-25T18:08:00-03:00",
+      "title": "Sinais de um Psicopata"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-25T18:56:00-03:00",
+      "title": "Lobo em Pele de Cordeiro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-25T20:36:00-03:00",
+      "title": "Morte no Velho Oeste"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-25T21:25:00-03:00",
+      "title": "Vivendo com o Inimigo - Sombras da Morte"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-25T22:14:00-03:00",
+      "title": "Lobo em Pele de Cordeiro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-25T22:50:00-03:00",
+      "title": "Um Assassino entre Amigos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-25T23:41:00-03:00",
+      "title": "Cidade Pacata, Crime Cruel"
     }
   ],
-  "start_date": "2026-04-23"
+  "start_date": "2026-04-24"
 }

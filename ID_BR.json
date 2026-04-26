@@ -1,143 +1,8 @@
 {
-  "end_date": "2026-04-27",
+  "end_date": "2026-04-28",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
-    {
-      "desc": "",
-      "start_date": "2026-04-25T00:37:00-03:00",
-      "title": "Michael Jackson: A Faking It Special"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-25T01:25:00-03:00",
-      "title": "O Curioso Caso de Natalia Grace - A Confissão"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-25T02:57:00-03:00",
-      "title": "O Curioso Caso de..."
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-25T03:44:00-03:00",
-      "title": "O Lado Sombrio de Hollywood"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-25T05:16:00-03:00",
-      "title": "O Lado Obscuro da Fama"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-25T06:00:00-03:00",
-      "title": "Rivalidades Fatais"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-25T06:48:00-03:00",
-      "title": "Facção Homicida"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-25T07:36:00-03:00",
-      "title": "Assassinos ao Redor"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-25T08:24:00-03:00",
-      "title": "Deadline: Crime With Tamron Hall"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-25T09:12:00-03:00",
-      "title": "Sinais de um Psicopata"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-25T10:01:00-03:00",
-      "title": "Cidade Pacata, Crime Cruel"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-25T10:50:00-03:00",
-      "title": "Ninguém Pode Ouvir Seu Grito"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-25T11:39:00-03:00",
-      "title": "Corpos no Porão"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-25T12:27:00-03:00",
-      "title": "Quando as Luzes se Apagam"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-25T13:16:00-03:00",
-      "title": "Assassinato de uma Sexta à Noite"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-25T14:04:00-03:00",
-      "title": "Vivendo com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-25T14:53:00-03:00",
-      "title": "Vivendo com o Inimigo - Sombras da Morte"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-25T15:42:00-03:00",
-      "title": "Lobo em Pele de Cordeiro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-25T16:31:00-03:00",
-      "title": "Lobo em Pele de Cordeiro - Abuso de Poder"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-25T17:20:00-03:00",
-      "title": "Sexta-Feira 13 - Assassinatos Reais"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-25T18:08:00-03:00",
-      "title": "Assassinatos na Rua Elm"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-25T19:46:00-03:00",
-      "title": "Amores Tóxicos"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-25T20:36:00-03:00",
-      "title": "Segredos Bem Casados"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-25T21:25:00-03:00",
-      "title": "Casados com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-25T22:14:00-03:00",
-      "title": "Dose Fatal"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-25T22:58:00-03:00",
-      "title": "Como Criar um Escândalo Sexual"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-25T23:49:00-03:00",
-      "title": "Encontros Infernais"
-    },
     {
       "desc": "",
       "start_date": "2026-04-26T00:37:00-03:00",
@@ -272,7 +137,142 @@
       "desc": "",
       "start_date": "2026-04-26T23:49:00-03:00",
       "title": "Encontros Infernais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T00:37:00-03:00",
+      "title": "Michael Jackson: A Faking It Special"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T01:25:00-03:00",
+      "title": "O Curioso Caso de Natalia Grace - A Confissão"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T02:57:00-03:00",
+      "title": "O Curioso Caso de..."
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T03:44:00-03:00",
+      "title": "O Lado Sombrio de Hollywood"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T05:16:00-03:00",
+      "title": "O Lado Obscuro da Fama"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T06:00:00-03:00",
+      "title": "Rivalidades Fatais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T06:48:00-03:00",
+      "title": "Facção Homicida"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T07:36:00-03:00",
+      "title": "Assassinos ao Redor"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T08:24:00-03:00",
+      "title": "Deadline: Crime With Tamron Hall"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T09:12:00-03:00",
+      "title": "Sinais de um Psicopata"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T10:01:00-03:00",
+      "title": "Cidade Pacata, Crime Cruel"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T10:50:00-03:00",
+      "title": "Ninguém Pode Ouvir Seu Grito"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T11:39:00-03:00",
+      "title": "Corpos no Porão"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T12:27:00-03:00",
+      "title": "Quando as Luzes se Apagam"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T13:16:00-03:00",
+      "title": "Assassinato de uma Sexta à Noite"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T14:04:00-03:00",
+      "title": "Vivendo com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T14:53:00-03:00",
+      "title": "Vivendo com o Inimigo - Sombras da Morte"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T15:42:00-03:00",
+      "title": "Lobo em Pele de Cordeiro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T16:31:00-03:00",
+      "title": "Lobo em Pele de Cordeiro - Abuso de Poder"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T17:20:00-03:00",
+      "title": "Sexta-Feira 13 - Assassinatos Reais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T18:08:00-03:00",
+      "title": "Assassinatos na Rua Elm"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T19:46:00-03:00",
+      "title": "Amores Tóxicos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T20:36:00-03:00",
+      "title": "Segredos Bem Casados"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T21:25:00-03:00",
+      "title": "Casados com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T22:14:00-03:00",
+      "title": "Dose Fatal"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T22:58:00-03:00",
+      "title": "Como Criar um Escândalo Sexual"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T23:49:00-03:00",
+      "title": "Encontros Infernais"
     }
   ],
-  "start_date": "2026-04-25"
+  "start_date": "2026-04-26"
 }

@@ -1297,21 +1297,6 @@
           "status": "success"
         },
         {
-          "id": "masterchef",
-          "name": "Master chef",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://xnn--d204s8hp26.cloudfronte.lat/zzzstream/masterchef.m3u8",
-          "headers": {
-            "referer": "https://www1.embedtv.live/",
-            "origin": "https://www1.embedtv.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
-            "cookies": "ID=080324fd0ef840caf505630d5b5917ea"
-          },
-          "timestamp": "2026-04-26T01:34:18.914Z",
-          "status": "success"
-        },
-        {
           "id": "max1",
           "name": "Max - 1",
           "categoryId": "esportes",

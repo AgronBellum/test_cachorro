@@ -1646,6 +1646,36 @@
           "timestamp": "2026-04-26T01:41:03.036Z",
           "status": "success"
         },
+         {
+      "id": "24h_Master_Chef",
+      "name": "24H Master Chef",
+      "categoryId": "desenhos",
+      "categoryName": "Desenhos",
+      "m3u8_url": "https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/playlist.m3u8",
+      "headers": {
+        "referer": "https://www1.embedtv.live/",
+        "origin": "https://www1.embedtv.live/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+        "cookies": "ID=080324895bf14de8f7599088fea36823"
+      },
+      "timestamp": "2026-04-26T01:41:03.036Z",
+      "status": "success"
+    },
+  {
+      "id": "24h_Mr_Bean",
+      "name": "24H Mr. Bean",
+      "categoryId": "desenhos",
+      "categoryName": "Desenhos",
+      "m3u8_url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8",
+      "headers": {
+        "referer": "https://www1.embedtv.live/",
+        "origin": "https://www1.embedtv.live/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+        "cookies": "ID=080324895bf14de8f7599088fea36823"
+      },
+      "timestamp": "2026-04-26T01:41:03.036Z",
+      "status": "success"
+    },
         {
           "id": "24h_dragonball",
           "name": "24H Dragon Ball Z",

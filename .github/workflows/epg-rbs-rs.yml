@@ -1,0 +1,47 @@
+name: Gerar EPG RBS TV RS
+
+on:
+  schedule:
+    - cron: '0 3 * * *'   # 1x por dia (diferente do Discovery que roda a cada 6h)
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar dependências
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Executar script EPG RBS
+        run: |
+          python epg_rbs.py
+
+      - name: Commitar e fazer push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          if [ -f "RS_BR.json" ]; then
+            git add RS_BR.json
+            if git diff --cached --quiet; then
+              echo "Nenhuma alteração detectada."
+            else
+              git commit -m "Atualiza EPG RBS TV RS - $(date +'%Y-%m-%d %H:%M')"
+              git push
+            fi
+          else
+            echo "❌ Arquivo RS_BR.json não foi gerado!"
+            exit 1
+          fi

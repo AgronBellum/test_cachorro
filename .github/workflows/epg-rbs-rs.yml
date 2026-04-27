@@ -2,7 +2,7 @@ name: Gerar EPG RBS TV RS
 
 on:
   schedule:
-    - cron: '0 3 * * *'   # 1x por dia (diferente do Discovery que roda a cada 6h)
+    - cron: '0 3,9,15,21 * * *'  # horários BR
   workflow_dispatch:
 
 jobs:

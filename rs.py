@@ -1,115 +1,67 @@
 import json
-import re
-from datetime import datetime, date, timedelta
+from datetime import datetime, timedelta, date
 
 import requests
-from bs4 import BeautifulSoup
-
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8",
+    "User-Agent": "Mozilla/5.0",
 }
 
-
-DIA_MAP = {
-    "SEG": 0,
-    "TER": 1,
-    "QUA": 2,
-    "QUI": 3,
-    "SEX": 4,
-    "SAB": 5,
-    "DOM": 6,
-}
+CHANNEL = "globo-rbs-tv-poa"
 
 
-def clean_title(title: str) -> str | None:
-    if not title:
-        return None
-    title = title.strip()
-    if re.fullmatch(r"\(\d{1,2}/\d{1,2}\)", title):
-        return None
-    if not re.search(r"[A-Za-zÀ-ÿ]", title):
-        return None
-    return title
+def fetch_day(day_offset=0):
+    target_date = date.today() + timedelta(days=day_offset)
 
+    url = f"http://api.mi.tv/v1/channels/{CHANNEL}/broadcasts"
 
-def scrape():
-    url = "https://clicrbs.com.br/especial/rs/rbstvrs/58,508,0,Programacao.html"
-    r = requests.get(url, headers=HEADERS, timeout=30)
+    params = {
+        "country": "br",
+        "lang": "pt",
+        "start": target_date.strftime("%Y-%m-%d"),
+        "end": target_date.strftime("%Y-%m-%d"),
+    }
+
+    r = requests.get(url, headers=HEADERS, params=params, timeout=30)
     r.raise_for_status()
-    soup = BeautifulSoup(r.text, "html.parser")
+
+    data = r.json()
 
     programs = []
 
-    tables = soup.find_all("table", class_="tabela-programacao")
-    for table in tables:
-        day_id = table.get("id", "")
-        if day_id not in DIA_MAP:
+    for item in data.get("broadcasts", []):
+        start_ts = item.get("start_datetime")
+
+        if not start_ts:
             continue
 
-        weekday = DIA_MAP[day_id]
+        dt = datetime.fromisoformat(start_ts.replace("Z", ""))
 
-        for row in table.find_all("tr"):
-            time_cell = row.find("td", class_="hora")
-            if not time_cell:
-                continue
+        programs.append({
+            "desc": item.get("description") or "",
+            "start_date": dt.strftime("%Y-%m-%dT%H:%M:%S-03:00"),
+            "title": item.get("title")
+        })
 
-            time_str = time_cell.get_text(strip=True)
-            if not re.match(r"^\d{1,2}:\d{2}$", time_str):
-                continue
-
-            title_cell = None
-            for td in row.find_all("td"):
-                classes = td.get("class", [])
-                if "hora" in classes or "space" in classes:
-                    continue
-                title_cell = td
-                break
-
-            if not title_cell:
-                continue
-
-            title = clean_title(title_cell.get_text(strip=True))
-            if not title:
-                continue
-
-            programs.append({
-                "weekday": weekday,
-                "time": time_str,
-                "title": title
-            })
-
-    print(f"Programas validos: {len(programs)}")
     return programs
 
 
-def build(today: date):
+def build():
     all_programs = []
-    progs = scrape()
 
-    for p in progs:
-        days_ahead = (p["weekday"] - today.weekday()) % 7
-        prog_date = today + timedelta(days=days_ahead)
-
-        h, m = map(int, p["time"].split(":"))
-        dt = datetime(prog_date.year, prog_date.month, prog_date.day, h, m)
-
-        all_programs.append({
-            "desc": "",
-            "start_date": dt.strftime("%Y-%m-%dT%H:%M:%S-03:00"),
-            "title": p["title"]
-        })
+    # hoje + amanhã
+    all_programs.extend(fetch_day(0))
+    all_programs.extend(fetch_day(1))
 
     all_programs.sort(key=lambda x: x["start_date"])
 
-    start_date = all_programs[0]["start_date"][:10] if all_programs else today.strftime("%Y-%m-%d")
-    end_date = all_programs[-1]["start_date"][:10] if all_programs else (today + timedelta(days=7)).strftime("%Y-%m-%d")
+    start_date = all_programs[0]["start_date"][:10]
+    end_date = all_programs[-1]["start_date"][:10]
 
     return {
         "end_date": end_date,
-        "name": "RBS TV RS",
-        "provider": "clicrbs.com.br",
+        "name": "Globo RBS TV POA",
+        "provider": "mi.tv",
         "epg_list": all_programs,
         "start_date": start_date
     }
@@ -121,8 +73,8 @@ def save(data):
 
 
 if __name__ == "__main__":
-    today = date.today()
-    data = build(today)
+    data = build()
     save(data)
+
     print(f"OK - {len(data['epg_list'])} programas")
     print(f"Periodo: {data['start_date']} ate {data['end_date']}")

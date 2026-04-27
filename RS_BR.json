@@ -1,0 +1,978 @@
+{
+  "end_date": "2026-05-03",
+  "name": "RBS TV RS",
+  "provider": "clicrbs.com.br",
+  "epg_list": [
+    {
+      "desc": "",
+      "start_date": "2026-04-27T00:00:00-03:00",
+      "title": "Domingo Maior - Sentinela"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T04:50:00-03:00",
+      "title": "Sagrado"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T04:55:00-03:00",
+      "title": "Telecurso Educação Básica"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T05:10:00-03:00",
+      "title": "Telecurso Profissionalizante"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T05:25:00-03:00",
+      "title": "Telecurso Ensino Médio"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T05:40:00-03:00",
+      "title": "Telecurso Ensino Fundamental"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T06:00:00-03:00",
+      "title": "Globo Rural"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T06:30:00-03:00",
+      "title": "Bom Dia Rio Grande"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T07:30:00-03:00",
+      "title": "Bom Dia Brasil"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T08:30:00-03:00",
+      "title": "Mais Você"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T09:55:00-03:00",
+      "title": "Bem Estar"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T10:40:00-03:00",
+      "title": "TV Globinho"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T12:05:00-03:00",
+      "title": "Jornal do Almoço"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T12:50:00-03:00",
+      "title": "Globo Esporte"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T13:20:00-03:00",
+      "title": "Jornal Hoje"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T13:45:00-03:00",
+      "title": "Video Show"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T14:40:00-03:00",
+      "title": "Vale a Pena Ver de Novo - Mulheres de areia"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T16:00:00-03:00",
+      "title": "Sessão da Tarde - Outono em Nova York"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T17:50:00-03:00",
+      "title": "Malhação"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T18:25:00-03:00",
+      "title": "A Vida da Gente"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T19:15:00-03:00",
+      "title": "RBS Notícias"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T19:30:00-03:00",
+      "title": "Aquele Beijo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T20:30:00-03:00",
+      "title": "Jornal Nacional"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T21:10:00-03:00",
+      "title": "Fina Estampa"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-27T22:20:00-03:00",
+      "title": "Tela Quente - American Pie 7 -O Livro do Amor"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-28T00:00:00-03:00",
+      "title": "Tela Quente - American Pie 7 -O Livro do Amor"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-28T00:20:00-03:00",
+      "title": "Jornal da Globo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-28T00:50:00-03:00",
+      "title": "Programa do Jô"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-28T02:25:00-03:00",
+      "title": "Sessão Brasil - Se nada mais der certo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-28T04:50:00-03:00",
+      "title": "Sagrado"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-28T04:55:00-03:00",
+      "title": "Telecurso Educação Básica"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-28T05:10:00-03:00",
+      "title": "Telecurso Profissionalizante"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-28T05:25:00-03:00",
+      "title": "Telecurso Ensino Médio"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-28T05:40:00-03:00",
+      "title": "Telecurso Ensino Fundamental"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-28T06:00:00-03:00",
+      "title": "Globo Rural"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-28T06:30:00-03:00",
+      "title": "Bom Dia Rio Grande"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-28T07:30:00-03:00",
+      "title": "Bom Dia Brasil"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-28T08:30:00-03:00",
+      "title": "Mais Você"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-28T09:55:00-03:00",
+      "title": "Bem Estar"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-28T10:40:00-03:00",
+      "title": "TV Globinho"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-28T12:05:00-03:00",
+      "title": "Jornal do Almoço"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-28T12:50:00-03:00",
+      "title": "Globo Esporte"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-28T13:20:00-03:00",
+      "title": "Jornal Hoje"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-28T13:50:00-03:00",
+      "title": "Video Show"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-28T14:40:00-03:00",
+      "title": "Vale a Pena Ver de Novo - Mulheres de areia"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-28T16:10:00-03:00",
+      "title": "Sessão da Tarde - A Sorte dos Irlandeses"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-28T17:50:00-03:00",
+      "title": "Malhação"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-28T18:20:00-03:00",
+      "title": "A Vida da Gente"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-28T19:15:00-03:00",
+      "title": "RBS Notícias"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-28T19:30:00-03:00",
+      "title": "Aquele Beijo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-28T20:30:00-03:00",
+      "title": "Jornal Nacional"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-28T21:05:00-03:00",
+      "title": "Fina Estampa"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-28T22:25:00-03:00",
+      "title": "Tapas e Beijos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-28T23:10:00-03:00",
+      "title": "A Mulher Invisível"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-28T23:55:00-03:00",
+      "title": "Profissão Repórter"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T00:00:00-03:00",
+      "title": "Profissão: Repórter"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T00:20:00-03:00",
+      "title": "Jornal da Globo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T00:50:00-03:00",
+      "title": "Programa do Jô"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T02:10:00-03:00",
+      "title": "Lie To Me - Lealdade Corrupta"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T03:00:00-03:00",
+      "title": "Corujão - Zona de Desastre: Um Vulcão em Nova York"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T05:00:00-03:00",
+      "title": "Sagrado"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T05:05:00-03:00",
+      "title": "Telecurso Educação Básica"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T05:20:00-03:00",
+      "title": "Telecurso Profissionalizante"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T05:35:00-03:00",
+      "title": "Telecurso Ensino Médio"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T05:50:00-03:00",
+      "title": "Telecurso Ensino Fundamental"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T06:05:00-03:00",
+      "title": "Globo Rural"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T06:30:00-03:00",
+      "title": "Bom Dia Rio Grande"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T07:30:00-03:00",
+      "title": "Bom Dia Brasil"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T08:30:00-03:00",
+      "title": "Mais Você"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T09:55:00-03:00",
+      "title": "Bem Estar"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T10:40:00-03:00",
+      "title": "TV Globinho"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T12:05:00-03:00",
+      "title": "Jornal do Almoço"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T12:50:00-03:00",
+      "title": "Globo Esporte"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T13:20:00-03:00",
+      "title": "Jornal Hoje"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T13:50:00-03:00",
+      "title": "Video Show"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T14:45:00-03:00",
+      "title": "Vale a Pena Ver de Novo - Mulheres de areia"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T15:50:00-03:00",
+      "title": "Sessão da Tarde - A História de Waylon"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T17:45:00-03:00",
+      "title": "Malhação"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T18:15:00-03:00",
+      "title": "A Vida da Gente"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T19:05:00-03:00",
+      "title": "RBS Notícias"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T19:25:00-03:00",
+      "title": "Aquele Beijo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T20:30:00-03:00",
+      "title": "Jornal Nacional"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T21:10:00-03:00",
+      "title": "Fina Estampa"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T21:55:00-03:00",
+      "title": "CINEMA ESPECIAL - Apenas Amigos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T23:50:00-03:00",
+      "title": "Jornal da Globo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T00:00:00-03:00",
+      "title": "Jornal da Globo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T00:05:00-03:00",
+      "title": "Programa do Jô"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T01:40:00-03:00",
+      "title": "Destino Final: Palm Glade - Divórcio e Morte"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T02:30:00-03:00",
+      "title": "Corujão - Sob Pressão"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T05:00:00-03:00",
+      "title": "Sagrado"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T05:05:00-03:00",
+      "title": "Telecurso Educação Básica"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T05:20:00-03:00",
+      "title": "Telecurso Profissionalizante"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T05:35:00-03:00",
+      "title": "Telecurso Ensino Médio"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T05:50:00-03:00",
+      "title": "Telecurso Ensino Fundamental"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T06:05:00-03:00",
+      "title": "Globo Rural"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T06:30:00-03:00",
+      "title": "Bom Dia Rio Grande"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T07:30:00-03:00",
+      "title": "Bom Dia Brasil"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T08:30:00-03:00",
+      "title": "Mais Você"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T09:55:00-03:00",
+      "title": "Bem Estar"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T10:40:00-03:00",
+      "title": "TV Globinho"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T12:05:00-03:00",
+      "title": "Jornal do Almoço"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T12:50:00-03:00",
+      "title": "Globo Esporte"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T13:20:00-03:00",
+      "title": "Jornal Hoje"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T13:50:00-03:00",
+      "title": "Video Show"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T14:45:00-03:00",
+      "title": "Vale a Pena Ver de Novo - Mulheres de areia"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T15:50:00-03:00",
+      "title": "Sessão da Tarde - Confusão pra Cachorro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T17:45:00-03:00",
+      "title": "Malhação"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T18:10:00-03:00",
+      "title": "A Vida da Gente"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T19:05:00-03:00",
+      "title": "RBS Notícias"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T19:20:00-03:00",
+      "title": "Aquele Beijo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T20:30:00-03:00",
+      "title": "Horário Político - PT"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T20:40:00-03:00",
+      "title": "Jornal Nacional"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T21:20:00-03:00",
+      "title": "Fina Estampa"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T22:35:00-03:00",
+      "title": "A Grande Família"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T23:20:00-03:00",
+      "title": "Força Tarefa"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-01T00:10:00-03:00",
+      "title": "Amor e Sexo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-01T00:50:00-03:00",
+      "title": "Jornal da Globo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-01T01:25:00-03:00",
+      "title": "Programa do Jô"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-01T03:00:00-03:00",
+      "title": "Prision Break - De Volta ao Inferno"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-01T03:40:00-03:00",
+      "title": "The Cleveland Show"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-01T05:00:00-03:00",
+      "title": "Sagrado"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-01T05:05:00-03:00",
+      "title": "Telecurso Educação Básica"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-01T05:20:00-03:00",
+      "title": "Telecurso Profissionalizante"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-01T05:35:00-03:00",
+      "title": "Telecurso Ensino Médio"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-01T05:50:00-03:00",
+      "title": "Telecurso Ensino Fundamental"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-01T06:00:00-03:00",
+      "title": "Globo Rural"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-01T06:30:00-03:00",
+      "title": "Bom Dia Rio Grande"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-01T07:30:00-03:00",
+      "title": "Bom Dia Brasil"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-01T08:30:00-03:00",
+      "title": "Mais Você"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-01T09:55:00-03:00",
+      "title": "Bem Estar"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-01T10:40:00-03:00",
+      "title": "TV Globinho"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-01T12:00:00-03:00",
+      "title": "Jornal do Almoço"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-01T12:50:00-03:00",
+      "title": "Globo Esporte"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-01T13:20:00-03:00",
+      "title": "Jornal Hoje"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-01T13:50:00-03:00",
+      "title": "Video Show"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-01T14:45:00-03:00",
+      "title": "Vale a Pena Ver de Novo - Mulheres de areia"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-01T16:10:00-03:00",
+      "title": "Sessão da Tarde - O Presente de Natal Perfeito"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-01T17:40:00-03:00",
+      "title": "Malhação"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-01T18:10:00-03:00",
+      "title": "A Vida da Gente"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-01T19:05:00-03:00",
+      "title": "RBS Notícias"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-01T19:20:00-03:00",
+      "title": "Aquele Beijo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-01T20:30:00-03:00",
+      "title": "Jornal Nacional"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-01T21:10:00-03:00",
+      "title": "Fina Estampa"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-01T22:25:00-03:00",
+      "title": "Globo Repórter"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-01T23:35:00-03:00",
+      "title": "Macho Man"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-02T00:20:00-03:00",
+      "title": "Jornal da Globo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-02T00:55:00-03:00",
+      "title": "Programa do Jô"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-02T02:30:00-03:00",
+      "title": "Corujão do Esporte"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-02T03:10:00-03:00",
+      "title": "Corujão I - O Júri"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-02T06:05:00-03:00",
+      "title": "Globo Educação"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-02T06:30:00-03:00",
+      "title": "Globo Ciência"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-02T06:50:00-03:00",
+      "title": "Globo Ecologia"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-02T07:15:00-03:00",
+      "title": "Globo Universidade"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-02T07:40:00-03:00",
+      "title": "Ação"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-02T08:00:00-03:00",
+      "title": "Vida e Saúde"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-02T08:30:00-03:00",
+      "title": "Anonymus Gourmet"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-02T09:00:00-03:00",
+      "title": "RBS Esporte"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-02T09:30:00-03:00",
+      "title": "TV Globinho"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-02T10:25:00-03:00",
+      "title": "A Turma da Mônica"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-02T10:45:00-03:00",
+      "title": "Hannah Montana"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-02T11:15:00-03:00",
+      "title": "Patrola"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-02T12:00:00-03:00",
+      "title": "Jornal do Almoço"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-02T12:30:00-03:00",
+      "title": "Curtas Gaúchos - Exibição especial: Marcovaldo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-02T12:50:00-03:00",
+      "title": "Globo Esporte"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-02T13:20:00-03:00",
+      "title": "Jornal Hoje"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-02T13:50:00-03:00",
+      "title": "Estrelas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-02T14:45:00-03:00",
+      "title": "TV Xuxa"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-02T16:10:00-03:00",
+      "title": "Caldeirão do Huck"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-02T18:20:00-03:00",
+      "title": "A Vida da Gente"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-02T19:10:00-03:00",
+      "title": "RBS Notícias"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-02T19:30:00-03:00",
+      "title": "Aquele Beijo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-02T20:30:00-03:00",
+      "title": "Jornal Nacional"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-02T21:10:00-03:00",
+      "title": "Fina Estampa"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-02T22:20:00-03:00",
+      "title": "Zorra Total"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-02T23:25:00-03:00",
+      "title": "Supercine - Austrália"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-03T00:00:00-03:00",
+      "title": "Supercine - Austrália"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-03T02:20:00-03:00",
+      "title": "Altas Horas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-03T04:30:00-03:00",
+      "title": "Os Simpsons - A Escolha de Selma"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-03T05:40:00-03:00",
+      "title": "Campo e Lavoura"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-03T06:15:00-03:00",
+      "title": "Galpão Crioulo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-03T07:15:00-03:00",
+      "title": "Sagrado"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-03T07:25:00-03:00",
+      "title": "Pequenas Empresas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-03T08:00:00-03:00",
+      "title": "Globo Rural"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-03T09:00:00-03:00",
+      "title": "Autoesporte"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-03T09:30:00-03:00",
+      "title": "Esporte Espetacular"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-03T12:30:00-03:00",
+      "title": "Aventuras do Didi"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-03T13:05:00-03:00",
+      "title": "Os Caras de Pau"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-03T13:50:00-03:00",
+      "title": "Esquenta"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-03T15:10:00-03:00",
+      "title": "Temperatura Máxima - High School Musical 3"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-03T17:15:00-03:00",
+      "title": "Domingão do Faustão"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-03T20:30:00-03:00",
+      "title": "Fantástico"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-03T22:55:00-03:00",
+      "title": "Teledomingo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-03T23:25:00-03:00",
+      "title": "Lance Final"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-03T23:40:00-03:00",
+      "title": "Domingo Maior - Sentinela"
+    }
+  ],
+  "start_date": "2026-04-27"
+}

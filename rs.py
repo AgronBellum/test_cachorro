@@ -1,69 +1,84 @@
 import json
-from datetime import datetime, timedelta, date
+from datetime import datetime, date, timedelta
 
 import requests
+from bs4 import BeautifulSoup
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0",
+    "User-Agent": "Mozilla/5.0"
 }
 
-CHANNEL = "globo-rbs-tv-poa"
+BASE_URL = "https://mi.tv/br/async/channel/globo-rbs-tv-poa"
 
 
-def fetch_day(day_offset=0):
-    target_date = date.today() + timedelta(days=day_offset)
-
-    url = f"http://api.mi.tv/v1/channels/{CHANNEL}/broadcasts"
-
-    params = {
-        "country": "br",
-        "lang": "pt",
-        "start": target_date.strftime("%Y-%m-%d"),
-        "end": target_date.strftime("%Y-%m-%d"),
-    }
-
-    r = requests.get(url, headers=HEADERS, params=params, timeout=30)
+def scrape_day(url, target_date):
+    r = requests.get(url, headers=HEADERS, timeout=30)
     r.raise_for_status()
 
-    data = r.json()
+    soup = BeautifulSoup(r.text, "html.parser")
 
     programs = []
 
-    for item in data.get("broadcasts", []):
-        start_ts = item.get("start_datetime")
+    items = soup.select("ul.broadcasts li")
 
-        if not start_ts:
+    for li in items:
+        # ignora propaganda
+        if "native" in li.get("class", []):
             continue
 
-        dt = datetime.fromisoformat(start_ts.replace("Z", ""))
+        time_el = li.select_one(".time")
+        title_el = li.select_one("h2")
+        desc_el = li.select_one(".synopsis")
+
+        if not time_el or not title_el:
+            continue
+
+        time_str = time_el.get_text(strip=True)
+        title = title_el.get_text(strip=True)
+        desc = desc_el.get_text(strip=True) if desc_el else ""
+
+        try:
+            h, m = map(int, time_str.split(":"))
+        except:
+            continue
+
+        dt = datetime(target_date.year, target_date.month, target_date.day, h, m)
 
         programs.append({
-            "desc": item.get("description") or "",
+            "desc": desc,
             "start_date": dt.strftime("%Y-%m-%dT%H:%M:%S-03:00"),
-            "title": item.get("title")
+            "title": title
         })
 
     return programs
 
 
 def build():
+    today = date.today()
+    tomorrow = today + timedelta(days=1)
+
     all_programs = []
 
-    # hoje + amanhã
-    all_programs.extend(fetch_day(0))
-    all_programs.extend(fetch_day(1))
+    # HOJE
+    all_programs.extend(scrape_day(
+        f"{BASE_URL}/-180",
+        today
+    ))
+
+    # AMANHÃ
+    all_programs.extend(scrape_day(
+        f"{BASE_URL}/amanha",
+        tomorrow
+    ))
 
     all_programs.sort(key=lambda x: x["start_date"])
 
-    start_date = all_programs[0]["start_date"][:10]
-    end_date = all_programs[-1]["start_date"][:10]
-
     return {
-        "end_date": end_date,
+        "end_date": all_programs[-1]["start_date"][:10],
         "name": "Globo RBS TV POA",
         "provider": "mi.tv",
         "epg_list": all_programs,
-        "start_date": start_date
+        "start_date": all_programs[0]["start_date"][:10]
     }
 
 

@@ -1,6 +1,4 @@
-Aqui está a sua lista organizada no formato JSON, pronta para ser utilizada.
 
-```json
 {
   "A&E": "https://epg.pw/api/epg.json?channel_id=523311",
   "Adult Swim HD": "https://epg.pw/api/epg.json?channel_id=417185",
@@ -114,4 +112,3 @@ Aqui está a sua lista organizada no formato JSON, pronta para ser utilizada.
   "Warner Channel": "https://epg.pw/api/epg.json?channel_id=523350",
   "Woohoo": "https://epg.pw/api/epg.json?channel_id=523273"
 }
-```

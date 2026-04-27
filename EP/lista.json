@@ -45,6 +45,8 @@
   "FRANCE 24 HD": "https://epg.pw/api/epg.json?channel_id=417386",
   "Futura": "https://epg.pw/api/epg.json?channel_id=523343",
   "Globo": "https://epg.pw/api/epg.json?channel_id=523353",
+  "Globo RJ": "https://epg.pw/api/epg.json?channel_id=523353",
+  "Globo RS":"https://raw.githubusercontent.com/AgronBellum/test_cachorro/refs/heads/main/RS_BR.json",
   "Globo News": "https://epg.pw/api/epg.json?channel_id=523341",
   "Gloob": "https://epg.pw/api/epg.json?channel_id=523336",
   "GNT": "https://epg.pw/api/epg.json?channel_id=523276",

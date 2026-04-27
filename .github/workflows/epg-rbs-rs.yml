@@ -26,7 +26,7 @@ jobs:
 
       - name: Executar script EPG RBS
         run: |
-          python epg_rbs.py
+          python rs.py
 
       - name: Commitar e fazer push
         run: |

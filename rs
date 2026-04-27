@@ -12,7 +12,6 @@ HEADERS = {
 }
 
 
-# Mapeia os IDs das tabelas para os dias da semana (0=Segunda, 6=Domingo)
 DIA_MAP = {
     "SEG": 0,
     "TER": 1,
@@ -81,28 +80,8 @@ def scrape():
                 "title": title
             })
 
-    print(f"📺 Programas válidos: {len(programs)}")
-    for p in programs[:5]:
-        print(f"   [{p['weekday']}] {p['time']} - {p['title']}")
-
+    print(f"Programas validos: {len(programs)}")
     return programs
-
-
-def calcular_datas(today: date, weekday: int) -> list[date]:
-    """
-    Retorna as datas REAIS para esse dia da semana:
-    - A data da semana atual (passada, presente ou futura)
-    - A data da próxima semana
-    """
-    # Dias até o próximo dia da semana (0=seg, 6=dom)
-    # Se hoje é domingo (6) e queremos segunda (0): (0 - 6) % 7 = 1 dia à frente
-    days_ahead = (weekday - today.weekday()) % 7
-    data_esta_semana = today + timedelta(days=days_ahead)
-
-    # Próxima semana
-    data_prox_semana = data_esta_semana + timedelta(days=7)
-
-    return [data_esta_semana, data_prox_semana]
 
 
 def build(today: date):
@@ -110,26 +89,22 @@ def build(today: date):
     progs = scrape()
 
     for p in progs:
-        datas = calcular_datas(today, p["weekday"])
+        days_ahead = (p["weekday"] - today.weekday()) % 7
+        prog_date = today + timedelta(days=days_ahead)
 
-        for prog_date in datas:
-            h, m = map(int, p["time"].split(":"))
-            dt = datetime(prog_date.year, prog_date.month, prog_date.day, h, m)
+        h, m = map(int, p["time"].split(":"))
+        dt = datetime(prog_date.year, prog_date.month, prog_date.day, h, m)
 
-            all_programs.append({
-                "desc": "",
-                "start_date": dt.strftime("%Y-%m-%dT%H:%M:%S-03:00"),
-                "title": p["title"]
-            })
+        all_programs.append({
+            "desc": "",
+            "start_date": dt.strftime("%Y-%m-%dT%H:%M:%S-03:00"),
+            "title": p["title"]
+        })
 
     all_programs.sort(key=lambda x: x["start_date"])
 
-    if not all_programs:
-        start_date = today.strftime("%Y-%m-%d")
-        end_date = (today + timedelta(days=7)).strftime("%Y-%m-%d")
-    else:
-        start_date = all_programs[0]["start_date"][:10]
-        end_date = all_programs[-1]["start_date"][:10]
+    start_date = all_programs[0]["start_date"][:10] if all_programs else today.strftime("%Y-%m-%d")
+    end_date = all_programs[-1]["start_date"][:10] if all_programs else (today + timedelta(days=7)).strftime("%Y-%m-%d")
 
     return {
         "end_date": end_date,
@@ -147,9 +122,7 @@ def save(data):
 
 if __name__ == "__main__":
     today = date.today()
-
     data = build(today)
     save(data)
-
-    print(f"✅ OK - {len(data['epg_list'])} programas")
-    print(f"📅 Período: {data['start_date']} até {data['end_date']}")
+    print(f"OK - {len(data['epg_list'])} programas")
+    print(f"Periodo: {data['start_date']} ate {data['end_date']}")

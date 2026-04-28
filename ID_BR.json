@@ -1,108 +1,8 @@
 {
-  "end_date": "2026-04-29",
+  "end_date": "2026-04-30",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
-    {
-      "desc": "",
-      "start_date": "2026-04-27T00:35:00-03:00",
-      "title": "Ninguém Pode Ouvir Seu Grito"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-27T01:23:00-03:00",
-      "title": "O Culto da Morte - O Caso Andrea Yates"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-27T02:10:00-03:00",
-      "title": "Glee - O Preço da Fama"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-27T04:25:00-03:00",
-      "title": "Os Irmãos Menendez - Assassinos ou Sobreviventes?"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-27T06:00:00-03:00",
-      "title": "O Culto da Morte - O Caso Andrea Yates"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-27T06:48:00-03:00",
-      "title": "Glee - O Preço da Fama"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-27T09:12:00-03:00",
-      "title": "Os Irmãos Menendez - Assassinos ou Sobreviventes?"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-27T10:47:00-03:00",
-      "title": "Vivendo com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-27T11:36:00-03:00",
-      "title": "Sinais de um Psicopata"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-27T12:24:00-03:00",
-      "title": "Lobo em Pele de Cordeiro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-27T14:01:00-03:00",
-      "title": "Desaparecidos"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-27T15:39:00-03:00",
-      "title": "Cidade Pacata, Crime Cruel"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-27T17:17:00-03:00",
-      "title": "Vivendo com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-27T18:05:00-03:00",
-      "title": "Olhos Da Lei"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-27T18:53:00-03:00",
-      "title": "Lobo em Pele de Cordeiro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-27T20:33:00-03:00",
-      "title": "Vivendo com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-27T21:23:00-03:00",
-      "title": "Lobo em Pele de Cordeiro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-27T22:14:00-03:00",
-      "title": "Corpos no Porão"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-27T22:58:00-03:00",
-      "title": "Assassinato de uma Sexta à Noite"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-27T23:47:00-03:00",
-      "title": "Sinais de um Psicopata"
-    },
     {
       "desc": "",
       "start_date": "2026-04-28T00:35:00-03:00",
@@ -202,7 +102,107 @@
       "desc": "",
       "start_date": "2026-04-28T23:47:00-03:00",
       "title": "Sinais de um Psicopata"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T00:35:00-03:00",
+      "title": "Ninguém Pode Ouvir Seu Grito"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T01:23:00-03:00",
+      "title": "O Culto da Morte - O Caso Andrea Yates"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T02:10:00-03:00",
+      "title": "Glee - O Preço da Fama"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T04:25:00-03:00",
+      "title": "Os Irmãos Menendez - Assassinos ou Sobreviventes?"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T06:00:00-03:00",
+      "title": "O Culto da Morte - O Caso Andrea Yates"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T06:48:00-03:00",
+      "title": "Glee - O Preço da Fama"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T09:12:00-03:00",
+      "title": "Os Irmãos Menendez - Assassinos ou Sobreviventes?"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T10:47:00-03:00",
+      "title": "Vivendo com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T11:36:00-03:00",
+      "title": "Sinais de um Psicopata"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T12:24:00-03:00",
+      "title": "Lobo em Pele de Cordeiro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T14:01:00-03:00",
+      "title": "Desaparecidos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T15:39:00-03:00",
+      "title": "Cidade Pacata, Crime Cruel"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T17:17:00-03:00",
+      "title": "Vivendo com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T18:05:00-03:00",
+      "title": "Olhos Da Lei"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T18:53:00-03:00",
+      "title": "Lobo em Pele de Cordeiro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T20:33:00-03:00",
+      "title": "Vivendo com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T21:23:00-03:00",
+      "title": "Lobo em Pele de Cordeiro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T22:14:00-03:00",
+      "title": "Corpos no Porão"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T22:58:00-03:00",
+      "title": "Assassinato de uma Sexta à Noite"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-29T23:47:00-03:00",
+      "title": "Sinais de um Psicopata"
     }
   ],
-  "start_date": "2026-04-27"
+  "start_date": "2026-04-28"
 }

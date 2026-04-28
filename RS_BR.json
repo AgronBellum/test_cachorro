@@ -5,22 +5,27 @@
   "epg_list": [
     {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-04-28T00:30:00-03:00",
+      "start_date": "2026-04-28T00:00:00-03:00",
       "title": "Jornal da Globo"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-04-28T01:20:00-03:00",
+      "start_date": "2026-04-28T00:50:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-04-28T02:00:00-03:00",
+      "start_date": "2026-04-28T01:30:00-03:00",
       "title": "Coração Acelerado"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-04-28T02:45:00-03:00",
+      "start_date": "2026-04-28T02:15:00-03:00",
+      "title": "Vai que Cola"
+    },
+    {
+      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "start_date": "2026-04-28T03:05:00-03:00",
       "title": "Vai que Cola"
     },
     {
@@ -64,19 +69,14 @@
       "title": "Jornal Hoje"
     },
     {
-      "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
-      "start_date": "2026-04-28T14:45:00-03:00",
-      "title": "Além do Tempo - Edição Especial"
-    },
-    {
       "desc": "Uma parte da história da formação da sociedade brasileira do início do século XX é contada a partir do romance de dois jovens italianos, Giuliana e Matteo. Eles se conhecem em 1894 a bordo do navio que transporta imigrantes para trabalhar no Brasil.",
-      "start_date": "2026-04-28T15:10:00-03:00",
+      "start_date": "2026-04-28T14:45:00-03:00",
       "title": "Terra Nostra - Edição Especial"
     },
     {
-      "desc": "Na Mesopotâmia, séculos atrás, Ahmanet tem seus planos interrompidos quando estava prestes a invocar Set, o deus da morte, para que juntos pudessem governar o mundo. Mumificada, ela é aprisionada numa tumba. Atualmente, o local é descoberto por acidente por Nick Morton e Chris Vail, saqueadores de artefatos antigos que estavam na região em busca de raridades. Ao lado da pesquisadora Jenny Halsey, eles investigam a tumba recém-descoberta e, acidentalmente, despertam Ahmanet.",
-      "start_date": "2026-04-28T15:40:00-03:00",
-      "title": "A Múmia"
+      "desc": "Quatro colegas de trabalho se programam para curtir o feriado prolongado em uma casa de praia. Lá, eles descobrem que se meteram em uma tremenda roubada.",
+      "start_date": "2026-04-28T15:25:00-03:00",
+      "title": "Os Farofeiros"
     },
     {
       "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
@@ -114,9 +114,9 @@
       "title": "Guerreiros do Sol"
     },
     {
-      "desc": "Enquanto dirige com os filhos, um homem recebe um telefonema de um agressor desconhecido que alega haver uma bomba no carro. Incapaz de sair do veículo, ele precisa seguir uma série de instruções distorcidas, enquanto tenta descobrir como sobreviver.",
+      "desc": "Tatá Werneck recebe artistas em seu talk show para um bate-papo nada comum com muitas brincadeiras e bom humor.",
       "start_date": "2026-04-28T23:15:00-03:00",
-      "title": "A Chamada"
+      "title": "Lady Night"
     }
   ],
   "start_date": "2026-04-28"

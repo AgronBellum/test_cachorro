@@ -1,138 +1,8 @@
 {
-  "end_date": "2026-04-30",
+  "end_date": "2026-05-01",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
-    {
-      "desc": "",
-      "start_date": "2026-04-28T00:37:00-03:00",
-      "title": "Crimes que Viralizaram"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-28T01:25:00-03:00",
-      "title": "Vivendo com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-28T02:12:00-03:00",
-      "title": "Lobo em Pele de Cordeiro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-28T02:56:00-03:00",
-      "title": "Corpos no Porão"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-28T03:44:00-03:00",
-      "title": "Assassinato de uma Sexta à Noite"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-28T04:28:00-03:00",
-      "title": "Sinais de um Psicopata"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-28T05:16:00-03:00",
-      "title": "Ninguém Pode Ouvir Seu Grito"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-28T06:00:00-03:00",
-      "title": "Vivendo com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-28T06:48:00-03:00",
-      "title": "Lobo em Pele de Cordeiro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-28T07:36:00-03:00",
-      "title": "Corpos no Porão"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-28T08:24:00-03:00",
-      "title": "Assassinato de uma Sexta à Noite"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-28T09:12:00-03:00",
-      "title": "Sinais de um Psicopata"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-28T10:01:00-03:00",
-      "title": "Ninguém Pode Ouvir Seu Grito"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-28T10:50:00-03:00",
-      "title": "Vivendo com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-28T11:39:00-03:00",
-      "title": "Sinais de um Psicopata"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-28T12:27:00-03:00",
-      "title": "Lobo em Pele de Cordeiro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-28T14:04:00-03:00",
-      "title": "Desaparecidos"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-28T15:42:00-03:00",
-      "title": "Cidade Pacata, Crime Cruel"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-28T17:18:00-03:00",
-      "title": "Vivendo com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-28T18:06:00-03:00",
-      "title": "Olhos Da Lei"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-28T18:56:00-03:00",
-      "title": "Lobo em Pele de Cordeiro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-28T20:36:00-03:00",
-      "title": "Perseguições em Alta Velocidade"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-28T21:25:00-03:00",
-      "title": "Bodycam - Registros Criminosos"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-28T22:14:00-03:00",
-      "title": "Operação Infiltrados"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-28T22:58:00-03:00",
-      "title": "As Piores Prisões do Mundo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-04-28T23:49:00-03:00",
-      "title": "Crime em Tempo Real"
-    },
     {
       "desc": "",
       "start_date": "2026-04-29T00:37:00-03:00",
@@ -262,7 +132,137 @@
       "desc": "",
       "start_date": "2026-04-29T23:49:00-03:00",
       "title": "Crime em Tempo Real"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T00:37:00-03:00",
+      "title": "Crimes que Viralizaram"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T01:25:00-03:00",
+      "title": "Vivendo com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T02:12:00-03:00",
+      "title": "Lobo em Pele de Cordeiro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T02:56:00-03:00",
+      "title": "Corpos no Porão"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T03:44:00-03:00",
+      "title": "Assassinato de uma Sexta à Noite"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T04:28:00-03:00",
+      "title": "Sinais de um Psicopata"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T05:16:00-03:00",
+      "title": "Ninguém Pode Ouvir Seu Grito"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T06:00:00-03:00",
+      "title": "Vivendo com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T06:48:00-03:00",
+      "title": "Lobo em Pele de Cordeiro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T07:36:00-03:00",
+      "title": "Corpos no Porão"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T08:24:00-03:00",
+      "title": "Assassinato de uma Sexta à Noite"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T09:12:00-03:00",
+      "title": "Sinais de um Psicopata"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T10:01:00-03:00",
+      "title": "Ninguém Pode Ouvir Seu Grito"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T10:50:00-03:00",
+      "title": "Vivendo com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T11:39:00-03:00",
+      "title": "Sinais de um Psicopata"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T12:27:00-03:00",
+      "title": "Lobo em Pele de Cordeiro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T14:04:00-03:00",
+      "title": "Desaparecidos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T15:42:00-03:00",
+      "title": "Cidade Pacata, Crime Cruel"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T17:18:00-03:00",
+      "title": "Vivendo com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T18:06:00-03:00",
+      "title": "Olhos Da Lei"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T18:56:00-03:00",
+      "title": "Lobo em Pele de Cordeiro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T20:36:00-03:00",
+      "title": "Perseguições em Alta Velocidade"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T21:25:00-03:00",
+      "title": "Bodycam - Registros Criminosos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T22:14:00-03:00",
+      "title": "Operação Infiltrados"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T22:58:00-03:00",
+      "title": "As Piores Prisões do Mundo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-04-30T23:49:00-03:00",
+      "title": "Crime em Tempo Real"
     }
   ],
-  "start_date": "2026-04-28"
+  "start_date": "2026-04-29"
 }

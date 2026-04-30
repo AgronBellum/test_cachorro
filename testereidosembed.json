@@ -1,3385 +1,1537 @@
 {
   "metadata": {
-    "total": 121,
-    "success": 117,
+    "total": 106,
+    "success": 0,
     "categories": 8,
-    "date": "2026-04-30T20:33:00.677Z",
-    "version": "EXTRACTOR_APP_V1"
+    "date": "2026-04-30T21:00:43.546Z",
+    "version": "EXTRACTOR_APP_V3_IFRAME"
   },
   "categorias": {
+    "24_horas": {
+      "nome": "24 Horas",
+      "canais": [
+        {
+          "id": "24h-5-minute-crafts",
+          "name": "24H - 5-Minute Crafts",
+          "categoryId": "24_horas",
+          "categoryName": "24 Horas",
+          "status": "failed"
+        },
+        {
+          "id": "24h-as-meninas-superpoderosas",
+          "name": "24H - As Meninas Superpoderosas",
+          "categoryId": "24_horas",
+          "categoryName": "24 Horas",
+          "status": "failed"
+        },
+        {
+          "id": "24h-caverna-do-dragao",
+          "name": "24H - Caverna do Dragão",
+          "categoryId": "24_horas",
+          "categoryName": "24 Horas",
+          "status": "failed"
+        },
+        {
+          "id": "24h-chapolin",
+          "name": "24H - Chapolin",
+          "categoryId": "24_horas",
+          "categoryName": "24 Horas",
+          "status": "failed"
+        },
+        {
+          "id": "24h-chaves",
+          "name": "24H - Chaves",
+          "categoryId": "24_horas",
+          "categoryName": "24 Horas",
+          "status": "failed"
+        },
+        {
+          "id": "24h-dragon-ball-z",
+          "name": "24H - Dragon Ball Z",
+          "categoryId": "24_horas",
+          "categoryName": "24 Horas",
+          "status": "failed"
+        },
+        {
+          "id": "24h-master-cheff-brasil",
+          "name": "24H - MasterChef Brasil",
+          "categoryId": "24_horas",
+          "categoryName": "24 Horas",
+          "status": "failed"
+        },
+        {
+          "id": "24h-mr-bean",
+          "name": "24H - Mr. Bean",
+          "categoryId": "24_horas",
+          "categoryName": "24 Horas",
+          "status": "failed"
+        },
+        {
+          "id": "24h-naruto",
+          "name": "24H - Naruto",
+          "categoryId": "24_horas",
+          "categoryName": "24 Horas",
+          "status": "failed"
+        },
+        {
+          "id": "24h-todo-mundo-odeia-o-chris",
+          "name": "24H -Todo Mundo Odeia o Chris",
+          "categoryId": "24_horas",
+          "categoryName": "24 Horas",
+          "status": "failed"
+        }
+      ]
+    },
+    "canais_abertos": {
+      "nome": "Canais Abertos",
+      "canais": [
+        {
+          "id": "bandba",
+          "name": "Band BA",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "bandpa",
+          "name": "Band PA",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "bandpb",
+          "name": "Band PB",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "bandpe",
+          "name": "Band PE",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "bandsp",
+          "name": "Band SP",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "canalbrasil",
+          "name": "Canal Brasil",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "canalgov",
+          "name": "Canal Gov",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "cancao-nova",
+          "name": "Cancao Nova",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "cultura-brasil",
+          "name": "Cultura Brasil",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "gazeta",
+          "name": "Gazeta",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "globodf",
+          "name": "Globo DF",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "globomg",
+          "name": "Globo MG",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "globorj",
+          "name": "Globo RJ",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "globors",
+          "name": "Globo RS",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "globosp",
+          "name": "Globo SP",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "recordmt",
+          "name": "Record MT",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "recordpb",
+          "name": "Record PB",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "recordrn",
+          "name": "Record RN",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "recordro",
+          "name": "Record RO",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "recordsp",
+          "name": "Record SP",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "redegospel",
+          "name": "Rede Gospel",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "redeseculo21",
+          "name": "Rede Século 21",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "redesuper",
+          "name": "Rede Super",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "redetv",
+          "name": "RedeTV",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "redevida",
+          "name": "Rede Vida",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "sbt",
+          "name": "SBT",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "sbtpi",
+          "name": "SBT PI",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "sesctv",
+          "name": "SescTV",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "tvalego",
+          "name": "TV Alego",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "tvalmg",
+          "name": "TV ALMG",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "tvaparecida",
+          "name": "TV Aparecida",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "tvbrasil",
+          "name": "TV Brasil",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "tvcamara",
+          "name": "TV Câmara",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "tvevangelizar",
+          "name": "TV Evangelizar",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "tvmaanaim",
+          "name": "TV Maanaim",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "tvnovotempo",
+          "name": "TV Novo Tempo",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        },
+        {
+          "id": "tvpaieterno",
+          "name": "TV Pai Eterno",
+          "categoryId": "canais_abertos",
+          "categoryName": "Canais Abertos",
+          "status": "failed"
+        }
+      ]
+    },
+    "casa_do_patrao": {
+      "nome": "Casa Do Patrão",
+      "canais": [
+        {
+          "id": "casadopatrao1",
+          "name": "Casa do Patrão - 1",
+          "categoryId": "casa_do_patrao",
+          "categoryName": "Casa Do Patrão",
+          "status": "failed"
+        },
+        {
+          "id": "casadopatrao2",
+          "name": "Casa do Patrão - 2",
+          "categoryId": "casa_do_patrao",
+          "categoryName": "Casa Do Patrão",
+          "status": "failed"
+        },
+        {
+          "id": "casadopatrao3",
+          "name": "Casa do Patrão - 3",
+          "categoryId": "casa_do_patrao",
+          "categoryName": "Casa Do Patrão",
+          "status": "failed"
+        },
+        {
+          "id": "casadopatrao4",
+          "name": "Casa do Patrão - 4",
+          "categoryId": "casa_do_patrao",
+          "categoryName": "Casa Do Patrão",
+          "status": "failed"
+        },
+        {
+          "id": "casadopatrao5",
+          "name": "Casa do Patrão - 5",
+          "categoryId": "casa_do_patrao",
+          "categoryName": "Casa Do Patrão",
+          "status": "failed"
+        },
+        {
+          "id": "casadopatrao6",
+          "name": "Casa do Patrão - 6",
+          "categoryId": "casa_do_patrao",
+          "categoryName": "Casa Do Patrão",
+          "status": "failed"
+        },
+        {
+          "id": "casadopatrao7",
+          "name": "Casa do Patrão - 7",
+          "categoryId": "casa_do_patrao",
+          "categoryName": "Casa Do Patrão",
+          "status": "failed"
+        },
+        {
+          "id": "casadopatrao8",
+          "name": "Casa do Patrão - 8",
+          "categoryId": "casa_do_patrao",
+          "categoryName": "Casa Do Patrão",
+          "status": "failed"
+        }
+      ]
+    },
+    "desenhos": {
+      "nome": "Desenhos",
+      "canais": [
+        {
+          "id": "dreamworks",
+          "name": "DreamWorks",
+          "categoryId": "desenhos",
+          "categoryName": "Desenhos",
+          "status": "failed"
+        },
+        {
+          "id": "24h-os-jetsons",
+          "name": "24H - Os Jetsons",
+          "categoryId": "desenhos",
+          "categoryName": "Desenhos",
+          "status": "failed"
+        },
+        {
+          "id": "maxanime",
+          "name": "Max Anime (ES)",
+          "categoryId": "desenhos",
+          "categoryName": "Desenhos",
+          "status": "failed"
+        }
+      ]
+    },
     "documentarios": {
       "nome": "Documentários",
       "canais": [
-        {
-          "id": "animalplanet",
-          "name": "Animal Planet",
-          "categoryId": "documentarios",
-          "categoryName": "Documentários",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/animalplanet.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "discoverychannel",
-          "name": "Discovery Channel",
-          "categoryId": "documentarios",
-          "categoryName": "Documentários",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/discoverychannel.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "discoveryhh",
-          "name": "Discovery H&H",
-          "categoryId": "documentarios",
-          "categoryName": "Documentários",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/discoveryhh.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
         {
           "id": "discoveryid",
           "name": "Discovery ID",
           "categoryId": "documentarios",
           "categoryName": "Documentários",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/discoveryid.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "discoveryscience",
-          "name": "Discovery Science",
-          "categoryId": "documentarios",
-          "categoryName": "Documentários",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/discoveryscience.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "discoverytheather",
-          "name": "Discovery Theater",
-          "categoryId": "documentarios",
-          "categoryName": "Documentários",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/discoverytheather.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "discoveryturbo",
-          "name": "Discovery Turbo",
-          "categoryId": "documentarios",
-          "categoryName": "Documentários",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/discoveryturbo.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "discoveryworld",
-          "name": "Discovery World",
-          "categoryId": "documentarios",
-          "categoryName": "Documentários",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/discoveryworld.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "history",
-          "name": "History",
-          "categoryId": "documentarios",
-          "categoryName": "Documentários",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/history.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "history2",
-          "name": "History 2",
-          "categoryId": "documentarios",
-          "categoryName": "Documentários",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/history2.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
+          "status": "failed"
         }
       ]
     },
-    "filmes_series": {
-      "nome": "Filmes e Séries",
+    "infantil": {
+      "nome": "Infantil",
       "canais": [
         {
-          "id": "ae",
-          "name": "AE",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/ae.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
+          "id": "cartoonito",
+          "name": "Cartoonito",
+          "categoryId": "infantil",
+          "categoryName": "Infantil",
+          "status": "failed"
+        },
+        {
+          "id": "cartoon-network",
+          "name": "Cartoon Network",
+          "categoryId": "infantil",
+          "categoryName": "Infantil",
+          "status": "failed"
+        },
+        {
+          "id": "discoverykids",
+          "name": "Discovery Kids",
+          "categoryId": "infantil",
+          "categoryName": "Infantil",
+          "status": "failed"
+        },
+        {
+          "id": "dumdum",
+          "name": "DumDum",
+          "categoryId": "infantil",
+          "categoryName": "Infantil",
+          "status": "failed"
+        },
+        {
+          "id": "gloob",
+          "name": "Gloob",
+          "categoryId": "infantil",
+          "categoryName": "Infantil",
+          "status": "failed"
+        },
+        {
+          "id": "gloobinho",
+          "name": "Gloobinho",
+          "categoryId": "infantil",
+          "categoryName": "Infantil",
+          "status": "failed"
+        },
+        {
+          "id": "gospelcartoon",
+          "name": "Gospel Cartoon",
+          "categoryId": "infantil",
+          "categoryName": "Infantil",
+          "status": "failed"
+        },
+        {
+          "id": "sbtkids",
+          "name": "SBT Kids",
+          "categoryId": "infantil",
+          "categoryName": "Infantil",
+          "status": "failed"
+        },
+        {
+          "id": "tooncast",
+          "name": "Tooncast",
+          "categoryId": "infantil",
+          "categoryName": "Infantil",
+          "status": "failed"
+        },
+        {
+          "id": "toon-goggles",
+          "name": "Toon Goggles",
+          "categoryId": "infantil",
+          "categoryName": "Infantil",
+          "status": "failed"
+        },
+        {
+          "id": "tvcultura",
+          "name": "TV Cultura",
+          "categoryId": "infantil",
+          "categoryName": "Infantil",
+          "status": "failed"
+        },
+        {
+          "id": "tvkidmais",
+          "name": "TV KIDMAIS",
+          "categoryId": "infantil",
+          "categoryName": "Infantil",
+          "status": "failed"
+        },
+        {
+          "id": "tvratimbum",
+          "name": "TV Rá Tim Bum",
+          "categoryId": "infantil",
+          "categoryName": "Infantil",
+          "status": "failed"
+        },
+        {
+          "id": "retrocartoon",
+          "name": "Retrô Cartoon",
+          "categoryId": "infantil",
+          "categoryName": "Infantil",
+          "status": "failed"
+        }
+      ]
+    },
+    "noticias": {
+      "nome": "Notícias",
+      "canais": [
+        {
+          "id": "argentinanews",
+          "name": "Argentina News (ES)",
+          "categoryId": "noticias",
+          "categoryName": "Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "bandnews",
+          "name": "Band News",
+          "categoryId": "noticias",
+          "categoryName": "Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "cnnbrasil",
+          "name": "CNN Brasil",
+          "categoryId": "noticias",
+          "categoryName": "Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "cnnbrasilmoney",
+          "name": "CNN Brasil Money",
+          "categoryId": "noticias",
+          "categoryName": "Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "cnnportugal",
+          "name": "CNN Portugal (PT)",
+          "categoryId": "noticias",
+          "categoryName": "Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "globonews",
+          "name": "Globo News",
+          "categoryId": "noticias",
+          "categoryName": "Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "jovempannews",
+          "name": "Jovem Pan News",
+          "categoryId": "noticias",
+          "categoryName": "Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "recordnews",
+          "name": "Record News",
+          "categoryId": "noticias",
+          "categoryName": "Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "sbtnews",
+          "name": "SBT News",
+          "categoryId": "noticias",
+          "categoryName": "Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "timesbrasil",
+          "name": "Times Brasil",
+          "categoryId": "noticias",
+          "categoryName": "Notícias",
+          "status": "failed"
+        }
+      ]
+    },
+    "series": {
+      "nome": "Séries",
+      "canais": [
+        {
+          "id": "adultswim",
+          "name": "Adult Swim",
+          "categoryId": "series",
+          "categoryName": "Séries",
+          "status": "failed"
         },
         {
           "id": "amc",
-          "name": "AMC",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/amc.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
+          "name": "amc",
+          "categoryId": "series",
+          "categoryName": "Séries",
+          "status": "failed"
+        },
+        {
+          "id": "animalplanet",
+          "name": "Animal Planet",
+          "categoryId": "series",
+          "categoryName": "Séries",
+          "status": "failed"
         },
         {
           "id": "axn",
           "name": "AXN",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/axn.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
+          "categoryId": "series",
+          "categoryName": "Séries",
+          "status": "failed"
         },
         {
-          "id": "adultswim",
-          "name": "Adult Swim",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/adultswim.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "cinemax",
-          "name": "Cinemax",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/cinemax.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "gnt",
-          "name": "GNT",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/gnt.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
+          "id": "globoplaynovelas",
+          "name": "Globoplay Novelas",
+          "categoryId": "series",
+          "categoryName": "Séries",
+          "status": "failed"
         },
         {
           "id": "hbo",
           "name": "HBO",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/hbo.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
+          "categoryId": "series",
+          "categoryName": "Séries",
+          "status": "failed"
         },
         {
           "id": "hbo2",
           "name": "HBO 2",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/hbo2.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
+          "categoryId": "series",
+          "categoryName": "Séries",
+          "status": "failed"
         },
         {
           "id": "hbofamily",
           "name": "HBO Family",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/hbofamily.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
+          "categoryId": "series",
+          "categoryName": "Séries",
+          "status": "failed"
         },
         {
           "id": "hbomundi",
           "name": "HBO Mundi",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/hbomundi.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
+          "categoryId": "series",
+          "categoryName": "Séries",
+          "status": "failed"
         },
         {
           "id": "hbopop",
-          "name": "HBO POP",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/hbopop.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
+          "name": "HBO Pop",
+          "categoryId": "series",
+          "categoryName": "Séries",
+          "status": "failed"
         },
         {
-          "id": "hboplus",
-          "name": "HBO Plus",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/hboplus.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
+          "id": "hbosignature",
+          "name": "HBO Signature",
+          "categoryId": "series",
+          "categoryName": "Séries",
+          "status": "failed"
         },
         {
           "id": "hboxtreme",
           "name": "HBO Xtreme",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/hboxtreme.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
+          "categoryId": "series",
+          "categoryName": "Séries",
+          "status": "failed"
         },
         {
-          "id": "hgtv",
-          "name": "HGTV",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/hgtv.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
+          "id": "seriesclassic",
+          "name": "Séries Classic",
+          "categoryId": "series",
+          "categoryName": "Séries",
+          "status": "failed"
         },
         {
-          "id": "megapix",
-          "name": "Megapix",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/megapix.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
+          "id": "sonyone",
+          "name": "Sony One",
+          "categoryId": "series",
+          "categoryName": "Séries",
+          "status": "failed"
         },
         {
-          "id": "off",
-          "name": "OFF",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/off.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "sonychannel",
-          "name": "Sony Channel",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/sonychannel.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "space",
-          "name": "Space",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/space.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "starchannel",
-          "name": "Star Channel",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
+          "id": "spark-tv-luz-e-amor",
+          "name": "Spark Tv Luz e Amor",
+          "categoryId": "series",
+          "categoryName": "Séries",
           "status": "failed"
         },
         {
           "id": "studiouniversal",
           "name": "Studio Universal",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/studiouniversal.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "tcm",
-          "name": "TCM",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/tcm.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "tlc",
-          "name": "TLC",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/tlc.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "tnt",
-          "name": "TNT",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/tnt.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "tntnovelas",
-          "name": "TNT Novelas",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/tntnovelas.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
+          "categoryId": "series",
+          "categoryName": "Séries",
+          "status": "failed"
         },
         {
           "id": "tntseries",
           "name": "TNT Series",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/tntseries.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
+          "categoryId": "series",
+          "categoryName": "Séries",
+          "status": "failed"
         },
         {
-          "id": "telecineaction",
-          "name": "Telecine Action",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/telecineaction.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "telecinecult",
-          "name": "Telecine Cult",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/telecinecult.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "telecinefun",
-          "name": "Telecine Fun",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/telecinefun.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "telecinepipoca",
-          "name": "Telecine Pipoca",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/telecinepipoca.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "telecinepremium",
-          "name": "Telecine Premium",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/telecinepremium.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "telecinetouch",
-          "name": "Telecine Touch",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/telecinetouch.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
+          "id": "universalpremiere",
+          "name": "Universal Premiere",
+          "categoryId": "series",
+          "categoryName": "Séries",
+          "status": "failed"
         },
         {
           "id": "universaltv",
-          "name": "Universal",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/universaltv.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "warnerchannel",
-          "name": "Warnerchannel",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/warnerchannel.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        }
-      ]
-    },
-    "aberta": {
-      "nome": "TV Aberta e Notícias",
-      "canais": [
-        {
-          "id": "aparecida",
-          "name": "Aparecida",
-          "categoryId": "aberta",
-          "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/aparecida.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "bandnews",
-          "name": "Band News",
-          "categoryId": "aberta",
-          "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/bandnews.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "bandrj",
-          "name": "Band RJ",
-          "categoryId": "aberta",
-          "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/bandrj.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "bandsp",
-          "name": "Band SP",
-          "categoryId": "aberta",
-          "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/bandsp.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "cnnbrasil",
-          "name": "CNN Brasil",
-          "categoryId": "aberta",
-          "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/cnnbrasil.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "cancaonova",
-          "name": "Canção Nova",
-          "categoryId": "aberta",
-          "categoryName": "TV Aberta e Notícias",
+          "name": "Universal TV",
+          "categoryId": "series",
+          "categoryName": "Séries",
           "status": "failed"
         },
         {
-          "id": "cultura",
-          "name": "Cultura",
-          "categoryId": "aberta",
-          "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/cultura.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "globoam",
-          "name": "Globo AM",
-          "categoryId": "aberta",
-          "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/globoam.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "globoce",
-          "name": "Globo CE",
-          "categoryId": "aberta",
-          "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/globoce.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "globoes",
-          "name": "Globo ES",
-          "categoryId": "aberta",
-          "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/globoes.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "globomg",
-          "name": "Globo MG",
-          "categoryId": "aberta",
-          "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/globomg.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "globonews",
-          "name": "Globo News",
-          "categoryId": "aberta",
-          "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/globonews.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "globopb",
-          "name": "Globo PB",
-          "categoryId": "aberta",
-          "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/globopb.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "globope",
-          "name": "Globo PE",
-          "categoryId": "aberta",
-          "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/globope.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "globorj",
-          "name": "Globo RJ",
-          "categoryId": "aberta",
-          "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/globorj.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "globors",
-          "name": "Globo RS",
-          "categoryId": "aberta",
-          "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/globors.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "globosp",
-          "name": "Globo SP",
-          "categoryId": "aberta",
-          "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/globosp.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "globonovelas",
-          "name": "Globo Novelas",
-          "categoryId": "aberta",
-          "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/globonovelas.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "mtv",
-          "name": "MTV",
-          "categoryId": "aberta",
-          "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/mtv.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "multishow",
-          "name": "Multishow",
-          "categoryId": "aberta",
-          "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/multishow.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "recordmg",
-          "name": "Record MG",
-          "categoryId": "aberta",
-          "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/recordmg.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "recordrj",
-          "name": "Record RJ",
-          "categoryId": "aberta",
-          "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/recordrj.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "recordsp",
-          "name": "Record SP",
-          "categoryId": "aberta",
-          "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/recordsp.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "sbtrj",
-          "name": "SBT RJ",
-          "categoryId": "aberta",
-          "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/sbtrj.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "sbtsp",
-          "name": "SBT SP",
-          "categoryId": "aberta",
-          "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/sbtsp.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        }
-      ]
-    },
-    "esportes": {
-      "nome": "Esportes",
-      "canais": [
-        {
-          "id": "bandsports",
-          "name": "Band Sports",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/bandsports.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "caze1",
-          "name": "CazeTV 1",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/caze1.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "caze2",
-          "name": "CazeTV 2",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/caze2.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "caze3",
-          "name": "CazeTV 3",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
+          "id": "usa",
+          "name": "USA",
+          "categoryId": "series",
+          "categoryName": "Séries",
           "status": "failed"
         },
         {
-          "id": "combate",
-          "name": "Combate",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/combate.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "disneyplus1",
-          "name": "Disney Plus 1",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/disneyplus1.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "disneyplus2",
-          "name": "Disney Plus 2",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/disneyplus2.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "disneyplus3",
-          "name": "Disney Plus 3",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/disneyplus3.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "espn",
-          "name": "Espn",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/espn.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "espn2",
-          "name": "Espn 2",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/espn2.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "espn3",
-          "name": "Espn 3",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/espn3.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "espn4",
-          "name": "Espn 4",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/espn4.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "espn5",
-          "name": "Espn 5",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/espn5.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "espn6",
-          "name": "Espn 6",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/espn6.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "max1",
-          "name": "Max - 1",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/max1.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "max2",
-          "name": "Max - 2",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/max2.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "max3",
-          "name": "Max - 3",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/max3.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "paramountplus",
-          "name": "Paramount Plus",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/paramountplus.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "paramountplus2",
-          "name": "Paramount Plus 2",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/paramountplus2.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "premiere",
-          "name": "Premiere 1",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/premiere.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "premiere2",
-          "name": "Premiere 2",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/premiere2.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "premiere3",
-          "name": "Premiere 3",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/premiere3.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "premiere4",
-          "name": "Premiere 4",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/premiere4.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "premiere5",
-          "name": "Premiere 5",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/premiere5.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "premiere6",
-          "name": "Premiere 6",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/premiere6.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "premiere7",
-          "name": "Premiere 7",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/premiere7.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "premiere8",
-          "name": "Premiere 8",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/premiere8.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "primevideo",
-          "name": "Prime Video",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/primevideo.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "primevideo2",
-          "name": "Prime Video 2",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/primevideo2.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "sportv",
-          "name": "Sportv",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/sportv.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "sportv2",
-          "name": "Sportv 2",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/sportv2.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "sportv3",
-          "name": "Sportv 3",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/sportv3.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "sportv4",
-          "name": "Sportv 4",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/sportv4.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "ufcfightpass",
-          "name": "UFC Fight Pass",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/ufcfightpass.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "xsports",
-          "name": "XSports",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/xsports.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        }
-      ]
-    },
-    "desenhos": {
-      "nome": "Desenhos e Infantil",
-      "canais": [
-        {
-          "id": "24h_chaves",
-          "name": "24H Chaves",
-          "categoryId": "desenhos",
-          "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/24h_chaves.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "24h_dragonball",
-          "name": "24H Dragon Ball Z",
-          "categoryId": "desenhos",
-          "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/24h_dragonball.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "24h_naruto",
-          "name": "24H Naruto Clássico",
-          "categoryId": "desenhos",
-          "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/24h_naruto.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "24h_simpsons",
-          "name": "24H Os Simpsons",
-          "categoryId": "desenhos",
-          "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/24h_simpsons.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "24h_odeiachris",
-          "name": "24H Todo Mundo Odeia o Cris",
-          "categoryId": "desenhos",
-          "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/24h_odeiachris.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "cartoonito",
-          "name": "Cartoonito",
-          "categoryId": "desenhos",
-          "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/cartoonito.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "cartoonnetwork",
-          "name": "Cartoon Network",
-          "categoryId": "desenhos",
-          "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/cartoonnetwork.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "discoverykids",
-          "name": "Discovery Kids",
-          "categoryId": "desenhos",
-          "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/discoverykids.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "gloob",
-          "name": "Gloob",
-          "categoryId": "desenhos",
-          "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/gloob.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        }
-      ]
-    },
-    "adulto": {
-      "nome": "Adulto",
-      "canais": [
-        {
-          "id": "playboy",
-          "name": "Play Boy",
-          "categoryId": "adulto",
-          "categoryName": "Adulto",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/playboy.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "sexyhot",
-          "name": "Sexy Hot",
-          "categoryId": "adulto",
-          "categoryName": "Adulto",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/sexyhot.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        }
-      ]
-    },
-    "food": {
-      "nome": "Receitas e Culinária",
-      "canais": [
-        {
-          "id": "foodnetwork",
-          "name": "Food Network",
-          "categoryId": "food",
-          "categoryName": "Receitas e Culinária",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/foodnetwork.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "masterchef",
-          "name": "Master chef",
-          "categoryId": "food",
-          "categoryName": "Receitas e Culinária",
+          "id": "warner",
+          "name": "Warner",
+          "categoryId": "series",
+          "categoryName": "Séries",
           "status": "failed"
-        }
-      ]
-    },
-    "acasadopatrao": {
-      "nome": "A Casa do Patrão",
-      "canais": [
-        {
-          "id": "acasadopatrao1",
-          "name": "A Casa do Patrão - 1",
-          "categoryId": "acasadopatrao",
-          "categoryName": "A Casa do Patrão",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/acasadopatrao1.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
         },
         {
-          "id": "acasadopatrao2",
-          "name": "A Casa do Patrão - 2",
-          "categoryId": "acasadopatrao",
-          "categoryName": "A Casa do Patrão",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/acasadopatrao2.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
+          "id": "xtremetv",
+          "name": "XTREME TV",
+          "categoryId": "series",
+          "categoryName": "Séries",
+          "status": "failed"
         },
         {
-          "id": "acasadopatrao3",
-          "name": "A Casa do Patrão - 3",
-          "categoryId": "acasadopatrao",
-          "categoryName": "A Casa do Patrão",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/acasadopatrao3.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "acasadopatrao4",
-          "name": "A Casa do Patrão - 4",
-          "categoryId": "acasadopatrao",
-          "categoryName": "A Casa do Patrão",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/acasadopatrao4.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
-        },
-        {
-          "id": "acasadopatrao5",
-          "name": "A Casa do Patrão - 5",
-          "categoryId": "acasadopatrao",
-          "categoryName": "A Casa do Patrão",
-          "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/acasadopatrao5.m3u8",
-          "headers": {
-            "referer": "https://rde.buzz/",
-            "origin": "https://rde.buzz/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-          },
-          "status": "success"
+          "id": "tv-classicos",
+          "name": "TV Clássicos",
+          "categoryId": "series",
+          "categoryName": "Séries",
+          "status": "failed"
         }
       ]
     }
   },
   "flat_results": [
     {
-      "id": "animalplanet",
-      "name": "Animal Planet",
-      "categoryId": "documentarios",
-      "categoryName": "Documentários",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/animalplanet.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
+      "id": "24h-5-minute-crafts",
+      "name": "24H - 5-Minute Crafts",
+      "categoryId": "24_horas",
+      "categoryName": "24 Horas",
+      "status": "failed"
     },
     {
-      "id": "discoverychannel",
-      "name": "Discovery Channel",
-      "categoryId": "documentarios",
-      "categoryName": "Documentários",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/discoverychannel.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
+      "id": "24h-as-meninas-superpoderosas",
+      "name": "24H - As Meninas Superpoderosas",
+      "categoryId": "24_horas",
+      "categoryName": "24 Horas",
+      "status": "failed"
     },
     {
-      "id": "discoveryhh",
-      "name": "Discovery H&H",
-      "categoryId": "documentarios",
-      "categoryName": "Documentários",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/discoveryhh.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
+      "id": "24h-caverna-do-dragao",
+      "name": "24H - Caverna do Dragão",
+      "categoryId": "24_horas",
+      "categoryName": "24 Horas",
+      "status": "failed"
+    },
+    {
+      "id": "24h-chapolin",
+      "name": "24H - Chapolin",
+      "categoryId": "24_horas",
+      "categoryName": "24 Horas",
+      "status": "failed"
+    },
+    {
+      "id": "24h-chaves",
+      "name": "24H - Chaves",
+      "categoryId": "24_horas",
+      "categoryName": "24 Horas",
+      "status": "failed"
+    },
+    {
+      "id": "24h-dragon-ball-z",
+      "name": "24H - Dragon Ball Z",
+      "categoryId": "24_horas",
+      "categoryName": "24 Horas",
+      "status": "failed"
+    },
+    {
+      "id": "24h-master-cheff-brasil",
+      "name": "24H - MasterChef Brasil",
+      "categoryId": "24_horas",
+      "categoryName": "24 Horas",
+      "status": "failed"
+    },
+    {
+      "id": "24h-mr-bean",
+      "name": "24H - Mr. Bean",
+      "categoryId": "24_horas",
+      "categoryName": "24 Horas",
+      "status": "failed"
+    },
+    {
+      "id": "24h-naruto",
+      "name": "24H - Naruto",
+      "categoryId": "24_horas",
+      "categoryName": "24 Horas",
+      "status": "failed"
+    },
+    {
+      "id": "24h-todo-mundo-odeia-o-chris",
+      "name": "24H -Todo Mundo Odeia o Chris",
+      "categoryId": "24_horas",
+      "categoryName": "24 Horas",
+      "status": "failed"
+    },
+    {
+      "id": "bandba",
+      "name": "Band BA",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "bandpa",
+      "name": "Band PA",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "bandpb",
+      "name": "Band PB",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "bandpe",
+      "name": "Band PE",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "bandsp",
+      "name": "Band SP",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "canalbrasil",
+      "name": "Canal Brasil",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "canalgov",
+      "name": "Canal Gov",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "cancao-nova",
+      "name": "Cancao Nova",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "cultura-brasil",
+      "name": "Cultura Brasil",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "gazeta",
+      "name": "Gazeta",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "globodf",
+      "name": "Globo DF",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "globomg",
+      "name": "Globo MG",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "globorj",
+      "name": "Globo RJ",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "globors",
+      "name": "Globo RS",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "globosp",
+      "name": "Globo SP",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "recordmt",
+      "name": "Record MT",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "recordpb",
+      "name": "Record PB",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "recordrn",
+      "name": "Record RN",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "recordro",
+      "name": "Record RO",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "recordsp",
+      "name": "Record SP",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "redegospel",
+      "name": "Rede Gospel",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "redeseculo21",
+      "name": "Rede Século 21",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "redesuper",
+      "name": "Rede Super",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "redetv",
+      "name": "RedeTV",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "redevida",
+      "name": "Rede Vida",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "sbt",
+      "name": "SBT",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "sbtpi",
+      "name": "SBT PI",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "sesctv",
+      "name": "SescTV",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "tvalego",
+      "name": "TV Alego",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "tvalmg",
+      "name": "TV ALMG",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "tvaparecida",
+      "name": "TV Aparecida",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "tvbrasil",
+      "name": "TV Brasil",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "tvcamara",
+      "name": "TV Câmara",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "tvevangelizar",
+      "name": "TV Evangelizar",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "tvmaanaim",
+      "name": "TV Maanaim",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "tvnovotempo",
+      "name": "TV Novo Tempo",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "tvpaieterno",
+      "name": "TV Pai Eterno",
+      "categoryId": "canais_abertos",
+      "categoryName": "Canais Abertos",
+      "status": "failed"
+    },
+    {
+      "id": "casadopatrao1",
+      "name": "Casa do Patrão - 1",
+      "categoryId": "casa_do_patrao",
+      "categoryName": "Casa Do Patrão",
+      "status": "failed"
+    },
+    {
+      "id": "casadopatrao2",
+      "name": "Casa do Patrão - 2",
+      "categoryId": "casa_do_patrao",
+      "categoryName": "Casa Do Patrão",
+      "status": "failed"
+    },
+    {
+      "id": "casadopatrao3",
+      "name": "Casa do Patrão - 3",
+      "categoryId": "casa_do_patrao",
+      "categoryName": "Casa Do Patrão",
+      "status": "failed"
+    },
+    {
+      "id": "casadopatrao4",
+      "name": "Casa do Patrão - 4",
+      "categoryId": "casa_do_patrao",
+      "categoryName": "Casa Do Patrão",
+      "status": "failed"
+    },
+    {
+      "id": "casadopatrao5",
+      "name": "Casa do Patrão - 5",
+      "categoryId": "casa_do_patrao",
+      "categoryName": "Casa Do Patrão",
+      "status": "failed"
+    },
+    {
+      "id": "casadopatrao6",
+      "name": "Casa do Patrão - 6",
+      "categoryId": "casa_do_patrao",
+      "categoryName": "Casa Do Patrão",
+      "status": "failed"
+    },
+    {
+      "id": "casadopatrao7",
+      "name": "Casa do Patrão - 7",
+      "categoryId": "casa_do_patrao",
+      "categoryName": "Casa Do Patrão",
+      "status": "failed"
+    },
+    {
+      "id": "casadopatrao8",
+      "name": "Casa do Patrão - 8",
+      "categoryId": "casa_do_patrao",
+      "categoryName": "Casa Do Patrão",
+      "status": "failed"
+    },
+    {
+      "id": "dreamworks",
+      "name": "DreamWorks",
+      "categoryId": "desenhos",
+      "categoryName": "Desenhos",
+      "status": "failed"
+    },
+    {
+      "id": "24h-os-jetsons",
+      "name": "24H - Os Jetsons",
+      "categoryId": "desenhos",
+      "categoryName": "Desenhos",
+      "status": "failed"
+    },
+    {
+      "id": "maxanime",
+      "name": "Max Anime (ES)",
+      "categoryId": "desenhos",
+      "categoryName": "Desenhos",
+      "status": "failed"
     },
     {
       "id": "discoveryid",
       "name": "Discovery ID",
       "categoryId": "documentarios",
       "categoryName": "Documentários",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/discoveryid.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
+      "status": "failed"
     },
     {
-      "id": "discoveryscience",
-      "name": "Discovery Science",
-      "categoryId": "documentarios",
-      "categoryName": "Documentários",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/discoveryscience.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
+      "id": "cartoonito",
+      "name": "Cartoonito",
+      "categoryId": "infantil",
+      "categoryName": "Infantil",
+      "status": "failed"
     },
     {
-      "id": "discoverytheather",
-      "name": "Discovery Theater",
-      "categoryId": "documentarios",
-      "categoryName": "Documentários",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/discoverytheather.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
+      "id": "cartoon-network",
+      "name": "Cartoon Network",
+      "categoryId": "infantil",
+      "categoryName": "Infantil",
+      "status": "failed"
     },
     {
-      "id": "discoveryturbo",
-      "name": "Discovery Turbo",
-      "categoryId": "documentarios",
-      "categoryName": "Documentários",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/discoveryturbo.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
+      "id": "discoverykids",
+      "name": "Discovery Kids",
+      "categoryId": "infantil",
+      "categoryName": "Infantil",
+      "status": "failed"
     },
     {
-      "id": "discoveryworld",
-      "name": "Discovery World",
-      "categoryId": "documentarios",
-      "categoryName": "Documentários",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/discoveryworld.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
+      "id": "dumdum",
+      "name": "DumDum",
+      "categoryId": "infantil",
+      "categoryName": "Infantil",
+      "status": "failed"
     },
     {
-      "id": "history",
-      "name": "History",
-      "categoryId": "documentarios",
-      "categoryName": "Documentários",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/history.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
+      "id": "gloob",
+      "name": "Gloob",
+      "categoryId": "infantil",
+      "categoryName": "Infantil",
+      "status": "failed"
     },
     {
-      "id": "history2",
-      "name": "History 2",
-      "categoryId": "documentarios",
-      "categoryName": "Documentários",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/history2.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
+      "id": "gloobinho",
+      "name": "Gloobinho",
+      "categoryId": "infantil",
+      "categoryName": "Infantil",
+      "status": "failed"
     },
     {
-      "id": "ae",
-      "name": "AE",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/ae.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
+      "id": "gospelcartoon",
+      "name": "Gospel Cartoon",
+      "categoryId": "infantil",
+      "categoryName": "Infantil",
+      "status": "failed"
     },
     {
-      "id": "amc",
-      "name": "AMC",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/amc.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
+      "id": "sbtkids",
+      "name": "SBT Kids",
+      "categoryId": "infantil",
+      "categoryName": "Infantil",
+      "status": "failed"
     },
     {
-      "id": "axn",
-      "name": "AXN",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/axn.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
+      "id": "tooncast",
+      "name": "Tooncast",
+      "categoryId": "infantil",
+      "categoryName": "Infantil",
+      "status": "failed"
+    },
+    {
+      "id": "toon-goggles",
+      "name": "Toon Goggles",
+      "categoryId": "infantil",
+      "categoryName": "Infantil",
+      "status": "failed"
+    },
+    {
+      "id": "tvcultura",
+      "name": "TV Cultura",
+      "categoryId": "infantil",
+      "categoryName": "Infantil",
+      "status": "failed"
+    },
+    {
+      "id": "tvkidmais",
+      "name": "TV KIDMAIS",
+      "categoryId": "infantil",
+      "categoryName": "Infantil",
+      "status": "failed"
+    },
+    {
+      "id": "tvratimbum",
+      "name": "TV Rá Tim Bum",
+      "categoryId": "infantil",
+      "categoryName": "Infantil",
+      "status": "failed"
+    },
+    {
+      "id": "retrocartoon",
+      "name": "Retrô Cartoon",
+      "categoryId": "infantil",
+      "categoryName": "Infantil",
+      "status": "failed"
+    },
+    {
+      "id": "argentinanews",
+      "name": "Argentina News (ES)",
+      "categoryId": "noticias",
+      "categoryName": "Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "bandnews",
+      "name": "Band News",
+      "categoryId": "noticias",
+      "categoryName": "Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "cnnbrasil",
+      "name": "CNN Brasil",
+      "categoryId": "noticias",
+      "categoryName": "Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "cnnbrasilmoney",
+      "name": "CNN Brasil Money",
+      "categoryId": "noticias",
+      "categoryName": "Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "cnnportugal",
+      "name": "CNN Portugal (PT)",
+      "categoryId": "noticias",
+      "categoryName": "Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "globonews",
+      "name": "Globo News",
+      "categoryId": "noticias",
+      "categoryName": "Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "jovempannews",
+      "name": "Jovem Pan News",
+      "categoryId": "noticias",
+      "categoryName": "Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "recordnews",
+      "name": "Record News",
+      "categoryId": "noticias",
+      "categoryName": "Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "sbtnews",
+      "name": "SBT News",
+      "categoryId": "noticias",
+      "categoryName": "Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "timesbrasil",
+      "name": "Times Brasil",
+      "categoryId": "noticias",
+      "categoryName": "Notícias",
+      "status": "failed"
     },
     {
       "id": "adultswim",
       "name": "Adult Swim",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/adultswim.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
+      "categoryId": "series",
+      "categoryName": "Séries",
+      "status": "failed"
     },
     {
-      "id": "cinemax",
-      "name": "Cinemax",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/cinemax.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
+      "id": "amc",
+      "name": "amc",
+      "categoryId": "series",
+      "categoryName": "Séries",
+      "status": "failed"
     },
     {
-      "id": "gnt",
-      "name": "GNT",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/gnt.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
+      "id": "animalplanet",
+      "name": "Animal Planet",
+      "categoryId": "series",
+      "categoryName": "Séries",
+      "status": "failed"
+    },
+    {
+      "id": "axn",
+      "name": "AXN",
+      "categoryId": "series",
+      "categoryName": "Séries",
+      "status": "failed"
+    },
+    {
+      "id": "globoplaynovelas",
+      "name": "Globoplay Novelas",
+      "categoryId": "series",
+      "categoryName": "Séries",
+      "status": "failed"
     },
     {
       "id": "hbo",
       "name": "HBO",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/hbo.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
+      "categoryId": "series",
+      "categoryName": "Séries",
+      "status": "failed"
     },
     {
       "id": "hbo2",
       "name": "HBO 2",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/hbo2.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
+      "categoryId": "series",
+      "categoryName": "Séries",
+      "status": "failed"
     },
     {
       "id": "hbofamily",
       "name": "HBO Family",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/hbofamily.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
+      "categoryId": "series",
+      "categoryName": "Séries",
+      "status": "failed"
     },
     {
       "id": "hbomundi",
       "name": "HBO Mundi",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/hbomundi.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
+      "categoryId": "series",
+      "categoryName": "Séries",
+      "status": "failed"
     },
     {
       "id": "hbopop",
-      "name": "HBO POP",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/hbopop.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
+      "name": "HBO Pop",
+      "categoryId": "series",
+      "categoryName": "Séries",
+      "status": "failed"
     },
     {
-      "id": "hboplus",
-      "name": "HBO Plus",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/hboplus.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
+      "id": "hbosignature",
+      "name": "HBO Signature",
+      "categoryId": "series",
+      "categoryName": "Séries",
+      "status": "failed"
     },
     {
       "id": "hboxtreme",
       "name": "HBO Xtreme",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/hboxtreme.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
+      "categoryId": "series",
+      "categoryName": "Séries",
+      "status": "failed"
     },
     {
-      "id": "hgtv",
-      "name": "HGTV",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/hgtv.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
+      "id": "seriesclassic",
+      "name": "Séries Classic",
+      "categoryId": "series",
+      "categoryName": "Séries",
+      "status": "failed"
     },
     {
-      "id": "megapix",
-      "name": "Megapix",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/megapix.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
+      "id": "sonyone",
+      "name": "Sony One",
+      "categoryId": "series",
+      "categoryName": "Séries",
+      "status": "failed"
     },
     {
-      "id": "off",
-      "name": "OFF",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/off.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "sonychannel",
-      "name": "Sony Channel",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/sonychannel.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "space",
-      "name": "Space",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/space.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "starchannel",
-      "name": "Star Channel",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
+      "id": "spark-tv-luz-e-amor",
+      "name": "Spark Tv Luz e Amor",
+      "categoryId": "series",
+      "categoryName": "Séries",
       "status": "failed"
     },
     {
       "id": "studiouniversal",
       "name": "Studio Universal",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/studiouniversal.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "tcm",
-      "name": "TCM",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/tcm.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "tlc",
-      "name": "TLC",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/tlc.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "tnt",
-      "name": "TNT",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/tnt.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "tntnovelas",
-      "name": "TNT Novelas",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/tntnovelas.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
+      "categoryId": "series",
+      "categoryName": "Séries",
+      "status": "failed"
     },
     {
       "id": "tntseries",
       "name": "TNT Series",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/tntseries.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
+      "categoryId": "series",
+      "categoryName": "Séries",
+      "status": "failed"
     },
     {
-      "id": "telecineaction",
-      "name": "Telecine Action",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/telecineaction.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "telecinecult",
-      "name": "Telecine Cult",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/telecinecult.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "telecinefun",
-      "name": "Telecine Fun",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/telecinefun.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "telecinepipoca",
-      "name": "Telecine Pipoca",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/telecinepipoca.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "telecinepremium",
-      "name": "Telecine Premium",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/telecinepremium.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "telecinetouch",
-      "name": "Telecine Touch",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/telecinetouch.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
+      "id": "universalpremiere",
+      "name": "Universal Premiere",
+      "categoryId": "series",
+      "categoryName": "Séries",
+      "status": "failed"
     },
     {
       "id": "universaltv",
-      "name": "Universal",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/universaltv.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "warnerchannel",
-      "name": "Warnerchannel",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/warnerchannel.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "aparecida",
-      "name": "Aparecida",
-      "categoryId": "aberta",
-      "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/aparecida.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "bandnews",
-      "name": "Band News",
-      "categoryId": "aberta",
-      "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/bandnews.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "bandrj",
-      "name": "Band RJ",
-      "categoryId": "aberta",
-      "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/bandrj.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "bandsp",
-      "name": "Band SP",
-      "categoryId": "aberta",
-      "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/bandsp.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "cnnbrasil",
-      "name": "CNN Brasil",
-      "categoryId": "aberta",
-      "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/cnnbrasil.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "cancaonova",
-      "name": "Canção Nova",
-      "categoryId": "aberta",
-      "categoryName": "TV Aberta e Notícias",
+      "name": "Universal TV",
+      "categoryId": "series",
+      "categoryName": "Séries",
       "status": "failed"
     },
     {
-      "id": "cultura",
-      "name": "Cultura",
-      "categoryId": "aberta",
-      "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/cultura.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "globoam",
-      "name": "Globo AM",
-      "categoryId": "aberta",
-      "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/globoam.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "globoce",
-      "name": "Globo CE",
-      "categoryId": "aberta",
-      "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/globoce.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "globoes",
-      "name": "Globo ES",
-      "categoryId": "aberta",
-      "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/globoes.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "globomg",
-      "name": "Globo MG",
-      "categoryId": "aberta",
-      "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/globomg.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "globonews",
-      "name": "Globo News",
-      "categoryId": "aberta",
-      "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/globonews.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "globopb",
-      "name": "Globo PB",
-      "categoryId": "aberta",
-      "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/globopb.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "globope",
-      "name": "Globo PE",
-      "categoryId": "aberta",
-      "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/globope.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "globorj",
-      "name": "Globo RJ",
-      "categoryId": "aberta",
-      "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/globorj.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "globors",
-      "name": "Globo RS",
-      "categoryId": "aberta",
-      "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/globors.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "globosp",
-      "name": "Globo SP",
-      "categoryId": "aberta",
-      "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/globosp.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "globonovelas",
-      "name": "Globo Novelas",
-      "categoryId": "aberta",
-      "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/globonovelas.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "mtv",
-      "name": "MTV",
-      "categoryId": "aberta",
-      "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/mtv.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "multishow",
-      "name": "Multishow",
-      "categoryId": "aberta",
-      "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/multishow.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "recordmg",
-      "name": "Record MG",
-      "categoryId": "aberta",
-      "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/recordmg.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "recordrj",
-      "name": "Record RJ",
-      "categoryId": "aberta",
-      "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/recordrj.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "recordsp",
-      "name": "Record SP",
-      "categoryId": "aberta",
-      "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/recordsp.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "sbtrj",
-      "name": "SBT RJ",
-      "categoryId": "aberta",
-      "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/sbtrj.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "sbtsp",
-      "name": "SBT SP",
-      "categoryId": "aberta",
-      "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/sbtsp.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "bandsports",
-      "name": "Band Sports",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/bandsports.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "caze1",
-      "name": "CazeTV 1",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/caze1.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "caze2",
-      "name": "CazeTV 2",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/caze2.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "caze3",
-      "name": "CazeTV 3",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
+      "id": "usa",
+      "name": "USA",
+      "categoryId": "series",
+      "categoryName": "Séries",
       "status": "failed"
     },
     {
-      "id": "combate",
-      "name": "Combate",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/combate.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "disneyplus1",
-      "name": "Disney Plus 1",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/disneyplus1.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "disneyplus2",
-      "name": "Disney Plus 2",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/disneyplus2.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "disneyplus3",
-      "name": "Disney Plus 3",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/disneyplus3.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "espn",
-      "name": "Espn",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/espn.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "espn2",
-      "name": "Espn 2",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/espn2.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "espn3",
-      "name": "Espn 3",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/espn3.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "espn4",
-      "name": "Espn 4",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/espn4.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "espn5",
-      "name": "Espn 5",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/espn5.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "espn6",
-      "name": "Espn 6",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/espn6.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "max1",
-      "name": "Max - 1",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/max1.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "max2",
-      "name": "Max - 2",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/max2.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "max3",
-      "name": "Max - 3",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/max3.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "paramountplus",
-      "name": "Paramount Plus",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/paramountplus.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "paramountplus2",
-      "name": "Paramount Plus 2",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/paramountplus2.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "premiere",
-      "name": "Premiere 1",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/premiere.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "premiere2",
-      "name": "Premiere 2",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/premiere2.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "premiere3",
-      "name": "Premiere 3",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/premiere3.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "premiere4",
-      "name": "Premiere 4",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/premiere4.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "premiere5",
-      "name": "Premiere 5",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/premiere5.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "premiere6",
-      "name": "Premiere 6",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/premiere6.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "premiere7",
-      "name": "Premiere 7",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/premiere7.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "premiere8",
-      "name": "Premiere 8",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/premiere8.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "primevideo",
-      "name": "Prime Video",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/primevideo.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "primevideo2",
-      "name": "Prime Video 2",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/primevideo2.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "sportv",
-      "name": "Sportv",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/sportv.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "sportv2",
-      "name": "Sportv 2",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/sportv2.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "sportv3",
-      "name": "Sportv 3",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/sportv3.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "sportv4",
-      "name": "Sportv 4",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/sportv4.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "ufcfightpass",
-      "name": "UFC Fight Pass",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/ufcfightpass.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "xsports",
-      "name": "XSports",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/xsports.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "24h_chaves",
-      "name": "24H Chaves",
-      "categoryId": "desenhos",
-      "categoryName": "Desenhos e Infantil",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/24h_chaves.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "24h_dragonball",
-      "name": "24H Dragon Ball Z",
-      "categoryId": "desenhos",
-      "categoryName": "Desenhos e Infantil",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/24h_dragonball.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "24h_naruto",
-      "name": "24H Naruto Clássico",
-      "categoryId": "desenhos",
-      "categoryName": "Desenhos e Infantil",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/24h_naruto.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "24h_simpsons",
-      "name": "24H Os Simpsons",
-      "categoryId": "desenhos",
-      "categoryName": "Desenhos e Infantil",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/24h_simpsons.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "24h_odeiachris",
-      "name": "24H Todo Mundo Odeia o Cris",
-      "categoryId": "desenhos",
-      "categoryName": "Desenhos e Infantil",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/24h_odeiachris.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "cartoonito",
-      "name": "Cartoonito",
-      "categoryId": "desenhos",
-      "categoryName": "Desenhos e Infantil",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/cartoonito.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "cartoonnetwork",
-      "name": "Cartoon Network",
-      "categoryId": "desenhos",
-      "categoryName": "Desenhos e Infantil",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/cartoonnetwork.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "discoverykids",
-      "name": "Discovery Kids",
-      "categoryId": "desenhos",
-      "categoryName": "Desenhos e Infantil",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/discoverykids.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "gloob",
-      "name": "Gloob",
-      "categoryId": "desenhos",
-      "categoryName": "Desenhos e Infantil",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/gloob.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "playboy",
-      "name": "Play Boy",
-      "categoryId": "adulto",
-      "categoryName": "Adulto",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/playboy.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "sexyhot",
-      "name": "Sexy Hot",
-      "categoryId": "adulto",
-      "categoryName": "Adulto",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/sexyhot.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "foodnetwork",
-      "name": "Food Network",
-      "categoryId": "food",
-      "categoryName": "Receitas e Culinária",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/foodnetwork.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "masterchef",
-      "name": "Master chef",
-      "categoryId": "food",
-      "categoryName": "Receitas e Culinária",
+      "id": "warner",
+      "name": "Warner",
+      "categoryId": "series",
+      "categoryName": "Séries",
       "status": "failed"
     },
     {
-      "id": "acasadopatrao1",
-      "name": "A Casa do Patrão - 1",
-      "categoryId": "acasadopatrao",
-      "categoryName": "A Casa do Patrão",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/acasadopatrao1.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
+      "id": "xtremetv",
+      "name": "XTREME TV",
+      "categoryId": "series",
+      "categoryName": "Séries",
+      "status": "failed"
     },
     {
-      "id": "acasadopatrao2",
-      "name": "A Casa do Patrão - 2",
-      "categoryId": "acasadopatrao",
-      "categoryName": "A Casa do Patrão",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/acasadopatrao2.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "acasadopatrao3",
-      "name": "A Casa do Patrão - 3",
-      "categoryId": "acasadopatrao",
-      "categoryName": "A Casa do Patrão",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/acasadopatrao3.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "acasadopatrao4",
-      "name": "A Casa do Patrão - 4",
-      "categoryId": "acasadopatrao",
-      "categoryName": "A Casa do Patrão",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/acasadopatrao4.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
-    },
-    {
-      "id": "acasadopatrao5",
-      "name": "A Casa do Patrão - 5",
-      "categoryId": "acasadopatrao",
-      "categoryName": "A Casa do Patrão",
-      "m3u8_url": "https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/acasadopatrao5.m3u8",
-      "headers": {
-        "referer": "https://rde.buzz/",
-        "origin": "https://rde.buzz/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "ID=0803289810d24328f82a3e1a8170b238"
-      },
-      "status": "success"
+      "id": "tv-classicos",
+      "name": "TV Clássicos",
+      "categoryId": "series",
+      "categoryName": "Séries",
+      "status": "failed"
     }
   ]
 }

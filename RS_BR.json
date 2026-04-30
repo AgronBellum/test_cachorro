@@ -5,17 +5,17 @@
   "epg_list": [
     {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-04-30T00:35:00-03:00",
+      "start_date": "2026-04-30T00:25:00-03:00",
       "title": "Jornal da Globo"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-04-30T01:25:00-03:00",
+      "start_date": "2026-04-30T01:15:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-04-30T02:00:00-03:00",
+      "start_date": "2026-04-30T01:55:00-03:00",
       "title": "Coração Acelerado"
     },
     {
@@ -79,9 +79,9 @@
       "title": "Terra Nostra - Edição Especial"
     },
     {
-      "desc": "Um chimpanzé de laboratório desenvolve inteligência e emoções humanas e uma batalha épica surge para determinar qual espécie será dominante no planeta Terra.",
+      "desc": "Andy é uma jovem que consegue um emprego na renomada \"Runway Magazine\", a mais importante revista de moda de Nova York. Ela passa a trabalhar como assistente de Miranda Priestly, editora-chefe da revista. Apesar da chance que muitos sonhariam em conseguir, logo Andy nota que trabalhar com Miranda não é tão simples assim.",
       "start_date": "2026-04-30T15:40:00-03:00",
-      "title": "Planeta dos Macacos - A Origem"
+      "title": "O Diabo Veste Prada"
     },
     {
       "desc": "Carminha volta para casa; Max descobre que seu dinheiro sumiu; Carminha fica furiosa com Max; Nina mostra o dinheiro de Max para Lucinda; Carminha finge estar agradecida a família de Tufão; Max fica bêbado e bate o carro; Carminha mente para ajudar Moreira.",
@@ -90,43 +90,38 @@
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-04-30T18:05:00-03:00",
+      "start_date": "2026-04-30T18:25:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-04-30T18:45:00-03:00",
+      "start_date": "2026-04-30T19:10:00-03:00",
       "title": "RBS Notícias"
     },
     {
       "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-04-30T19:15:00-03:00",
+      "start_date": "2026-04-30T19:40:00-03:00",
       "title": "Coração Acelerado"
     },
     {
       "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-04-30T20:00:00-03:00",
+      "start_date": "2026-04-30T20:30:00-03:00",
       "title": "Jornal Nacional"
     },
     {
       "desc": "Gerluce Maria das Graças integra uma família de mães solo: é filha de Lígia Maria e mãe de Joélly Maria. Criada pela mãe, que engravidou na adolescência e foi abandonada pelo seu pai, Gerluce enfrenta um destino parecido com a chegada da filha.",
-      "start_date": "2026-04-30T20:35:00-03:00",
+      "start_date": "2026-04-30T21:20:00-03:00",
       "title": "Três Graças"
     },
     {
-      "desc": "Todas as emoções da principal competição de futebol masculino disputada entre clubes da América do Sul, e que garante ao campeão vaga no Mundial de Clubes da FIFA.",
-      "start_date": "2026-04-30T21:15:00-03:00",
-      "title": "Estudiantes x Flamengo"
-    },
-    {
-      "desc": "Comentaristas analisam a rodada dos estaduais, Copa do Brasil, Libertadores e muito mais.",
-      "start_date": "2026-04-30T23:30:00-03:00",
-      "title": "Segue o Jogo"
-    },
-    {
       "desc": "A polícia investiga o ocorrido com Coronel Elói; Tatarana aconselha que Rosa aprenda a atirar; Arduíno leva Valiana a Jatobá de Cima; Jânia dá a notícia sobre Elói aos filhos.",
-      "start_date": "2026-04-30T23:45:00-03:00",
+      "start_date": "2026-04-30T22:25:00-03:00",
       "title": "Guerreiros do Sol"
+    },
+    {
+      "desc": "Um jovem médico com autismo vindo da calma vida do interior começa a trabalhar em um famoso hospital. Além dos desafios da profissão, Shaun Murphy precisa provar sua capacidade a seus colegas e superiores.",
+      "start_date": "2026-04-30T23:15:00-03:00",
+      "title": "The Good Doctor - O Bom Doutor"
     }
   ],
   "start_date": "2026-04-30"

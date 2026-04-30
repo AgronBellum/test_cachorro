@@ -15,7 +15,7 @@
           "name": "BIS",
           "categoryId": "documentarios",
           "categoryName": "Documentários",
-          "m3u8_url": "http://178.215.227.43/zzzstream/discoverychannel.m3u8",
+          "m3u8_url": "http://178.215.227.43/zzzstream/animalplanet.m3u8",
           "headers": {
             "referer": "https://www4.embedtv.cv/",
             "origin": "https://www4.embedtv.cv/",
@@ -29,7 +29,7 @@
           "name": "Discovery Channel",
           "categoryId": "documentarios",
           "categoryName": "Documentários",
-          "m3u8_url": "https://d1hkl3paud4soc4n31a.usa-cloudfront-net.mom/animalplanet/index.txt?token=eyJ2IjoxLCJzIjoiYW5pbWFscGxhbmV0IiwicCI6InJkZS5idXp6IiwiZSI6MTc3NzUyODYwMiwiaiI6IjE3ZTI5ZTZiLTk3NzEtNGFhZS04YWY4LWRkNjI2M2QwMzM4OCJ9.735d78c067d21667bfad2e0a461bde989ba356ddbdcf9c61af25765a5c650523",
+          "m3u8_url": "http://178.215.227.43/zzzstream/discoverychannel.m3u8",
           "headers": {
             "referer": "https://www4.embedtv.cv/",
             "origin": "https://www4.embedtv.cv/",
@@ -823,7 +823,7 @@
           "name": "Globo RS",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://8fde6352d6f359c31bcbedb0d918bf01.cloudfronte.lat/zzzstream/globors.m3u8",
+          "m3u8_url": "http://178.215.227.43/zzzstream/globors.m3u8",
           "headers": {
             "referer": "https://www4.embedtv.cv/",
             "origin": "https://www4.embedtv.cv/",
@@ -907,7 +907,7 @@
           "name": "Record RJ",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://8fde6352d6f359c31bcbedb0d918bf01.cloudfronte.lat/zzzstream/recordrj.m3u8",
+          "m3u8_url": "http://178.215.227.43/zzzstream/recordrj.m3u8",
           "headers": {
             "referer": "https://www4.embedtv.cv/",
             "origin": "https://www4.embedtv.cv/",
@@ -3316,7 +3316,7 @@
       "name": "A Casa do Patrão - 1",
       "categoryId": "a casa do patrão",
       "categoryName": "A Casa do Patrão",
-      "m3u8_url": "https://8fde6352d6f359c31bcbedb0d918bf01.cloudfronte.lat/zzzstream/acasadopatrao1.m3u8",
+      "m3u8_url": "http://178.215.227.43/zzzstream/acasadopatrao1.m3u8",
       "headers": {
         "referer": "https://www4.embedtv.cv/",
         "origin": "https://www4.embedtv.cv/",

@@ -12,10 +12,10 @@
       "canais": [
         {
           "id": "animalplanet",
-          "name": "Animal Planet",
+          "name": "BIS",
           "categoryId": "documentarios",
           "categoryName": "Documentários",
-          "m3u8_url": "https://d1hkl3paud4soc4n31a.usa-cloudfront-net.mom/animalplanet/index.txt?token=eyJ2IjoxLCJzIjoiYW5pbWFscGxhbmV0IiwicCI6InJkZS5idXp6IiwiZSI6MTc3NzUyODYwMiwiaiI6IjE3ZTI5ZTZiLTk3NzEtNGFhZS04YWY4LWRkNjI2M2QwMzM4OCJ9.735d78c067d21667bfad2e0a461bde989ba356ddbdcf9c61af25765a5c650523.m3u8",
+          "m3u8_url": "https://live-01.edge-osirnet-pet-rs.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1vc2lybmV0LXBldC1ycy52aWRlby5nbG9iby5jb20iLCJleHAiOjE3Nzc1Mjg4MjQsImlhdCI6MTc3NzUwNzIyNCwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiIwZmU2MzY4Ni0yNzcwLTQ1NDAtOGJiMS04ZGNjZjAyMmJhZjUiLCJwYXRoIjoiL2xpdmUvZihpPTIpL2JpczI0aGEvcGxheWxpc3QubTN1OCJ9.dNyF4ci4Yh8FsxRa7Ef7-SuBc5P0CsViIfZqVJlvrg6otclzrSzsa19RWmoxgiB_nYpL1n07XYzyrjT0c36gC_quB7o-CZg1-N0fYIeUyDs9mLoA70uj9Lhbk0HQirobmDtxyaJBlXgxtII-kBSCPNdbeWG-j3xwa5OcvNOyDbmFDxny6VdaZ-EsMLKksvjOcdMRcsj3nQdT90XUEVkz1wpKA5WKuqkg52oMKwaYeSM5rEEowzHdsCAZXvXpAqhbguANeneds99jdRK8_L2ZNBfc_cw9b7urxobnHIKnSsOlWAYuaKnpgoCGnoPXYnDZ8bGiy3VDFVPChWnXLvAAAg/live/f(i=2)/bis24ha/bis24ha-audio_1=128000-video=5512000.m3u8",
           "headers": {
             "referer": "https://www4.embedtv.cv/",
             "origin": "https://www4.embedtv.cv/",

@@ -1,11 +1,1747 @@
 {
   "metadata": {
-    "total": 0,
+    "total": 121,
     "success": 0,
-    "categories": 0,
-    "date": "2026-05-01T02:57:55.516Z",
+    "categories": 8,
+    "date": "2026-05-01T03:09:00.265Z",
     "version": "EXTRACTOR_APP_V3_IFRAME"
   },
-  "categorias": {},
-  "flat_results": []
+  "categorias": {
+    "documentarios": {
+      "nome": "Documentários",
+      "canais": [
+        {
+          "id": "animalplanet",
+          "name": "Animal Planet",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "status": "failed"
+        },
+        {
+          "id": "discoverychannel",
+          "name": "Discovery Channel",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "status": "failed"
+        },
+        {
+          "id": "discoveryhh",
+          "name": "Discovery H&H",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "status": "failed"
+        },
+        {
+          "id": "discoveryid",
+          "name": "Discovery ID",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "status": "failed"
+        },
+        {
+          "id": "discoveryscience",
+          "name": "Discovery Science",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "status": "failed"
+        },
+        {
+          "id": "discoverytheather",
+          "name": "Discovery Theater",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "status": "failed"
+        },
+        {
+          "id": "discoveryturbo",
+          "name": "Discovery Turbo",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "status": "failed"
+        },
+        {
+          "id": "discoveryworld",
+          "name": "Discovery World",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "status": "failed"
+        },
+        {
+          "id": "history",
+          "name": "History",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "status": "failed"
+        },
+        {
+          "id": "history2",
+          "name": "History 2",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "status": "failed"
+        }
+      ]
+    },
+    "filmes_series": {
+      "nome": "Filmes e Séries",
+      "canais": [
+        {
+          "id": "ae",
+          "name": "AE",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "amc",
+          "name": "AMC",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "axn",
+          "name": "AXN",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "adultswim",
+          "name": "Adult Swim",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "cinemax",
+          "name": "Cinemax",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "gnt",
+          "name": "GNT",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "hbo",
+          "name": "HBO",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "hbo2",
+          "name": "HBO 2",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "hbofamily",
+          "name": "HBO Family",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "hbomundi",
+          "name": "HBO Mundi",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "hbopop",
+          "name": "HBO POP",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "hboplus",
+          "name": "HBO Plus",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "hboxtreme",
+          "name": "HBO Xtreme",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "hgtv",
+          "name": "HGTV",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "megapix",
+          "name": "Megapix",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "off",
+          "name": "OFF",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "sonychannel",
+          "name": "Sony Channel",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "space",
+          "name": "Space",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "starchannel",
+          "name": "Star Channel",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "studiouniversal",
+          "name": "Studio Universal",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "tcm",
+          "name": "TCM",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "tlc",
+          "name": "TLC",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "tnt",
+          "name": "TNT",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "tntnovelas",
+          "name": "TNT Novelas",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "tntseries",
+          "name": "TNT Series",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "telecineaction",
+          "name": "Telecine Action",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "telecinecult",
+          "name": "Telecine Cult",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "telecinefun",
+          "name": "Telecine Fun",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "telecinepipoca",
+          "name": "Telecine Pipoca",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "telecinepremium",
+          "name": "Telecine Premium",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "telecinetouch",
+          "name": "Telecine Touch",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "universaltv",
+          "name": "Universal",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        },
+        {
+          "id": "warnerchannel",
+          "name": "Warnerchannel",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
+        }
+      ]
+    },
+    "aberta": {
+      "nome": "TV Aberta e Notícias",
+      "canais": [
+        {
+          "id": "aparecida",
+          "name": "Aparecida",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "bandnews",
+          "name": "Band News",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "bandrj",
+          "name": "Band RJ",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "bandsp",
+          "name": "Band SP",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "cnnbrasil",
+          "name": "CNN Brasil",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "cancaonova",
+          "name": "Canção Nova",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "cultura",
+          "name": "Cultura",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "globoam",
+          "name": "Globo AM",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "globoce",
+          "name": "Globo CE",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "globoes",
+          "name": "Globo ES",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "globomg",
+          "name": "Globo MG",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "globonews",
+          "name": "Globo News",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "globopb",
+          "name": "Globo PB",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "globope",
+          "name": "Globo PE",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "globorj",
+          "name": "Globo RJ",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "globors",
+          "name": "Globo RS",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "globosp",
+          "name": "Globo SP",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "globonovelas",
+          "name": "Globo Novelas",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "mtv",
+          "name": "MTV",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "multishow",
+          "name": "Multishow",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "recordmg",
+          "name": "Record MG",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "recordrj",
+          "name": "Record RJ",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "recordsp",
+          "name": "Record SP",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "sbtrj",
+          "name": "SBT RJ",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "status": "failed"
+        },
+        {
+          "id": "sbtsp",
+          "name": "SBT SP",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "status": "failed"
+        }
+      ]
+    },
+    "esportes": {
+      "nome": "Esportes",
+      "canais": [
+        {
+          "id": "bandsports",
+          "name": "Band Sports",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "caze1",
+          "name": "CazeTV 1",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "caze2",
+          "name": "CazeTV 2",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "caze3",
+          "name": "CazeTV 3",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "combate",
+          "name": "Combate",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "disneyplus1",
+          "name": "Disney Plus 1",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "disneyplus2",
+          "name": "Disney Plus 2",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "disneyplus3",
+          "name": "Disney Plus 3",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "espn",
+          "name": "Espn",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "espn2",
+          "name": "Espn 2",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "espn3",
+          "name": "Espn 3",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "espn4",
+          "name": "Espn 4",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "espn5",
+          "name": "Espn 5",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "espn6",
+          "name": "Espn 6",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "max1",
+          "name": "Max - 1",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "max2",
+          "name": "Max - 2",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "max3",
+          "name": "Max - 3",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "paramountplus",
+          "name": "Paramount Plus",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "paramountplus2",
+          "name": "Paramount Plus 2",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "premiere",
+          "name": "Premiere 1",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "premiere2",
+          "name": "Premiere 2",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "premiere3",
+          "name": "Premiere 3",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "premiere4",
+          "name": "Premiere 4",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "premiere5",
+          "name": "Premiere 5",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "premiere6",
+          "name": "Premiere 6",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "premiere7",
+          "name": "Premiere 7",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "premiere8",
+          "name": "Premiere 8",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "primevideo",
+          "name": "Prime Video",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "primevideo2",
+          "name": "Prime Video 2",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "sportv",
+          "name": "Sportv",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "sportv2",
+          "name": "Sportv 2",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "sportv3",
+          "name": "Sportv 3",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "sportv4",
+          "name": "Sportv 4",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "ufcfightpass",
+          "name": "UFC Fight Pass",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        },
+        {
+          "id": "xsports",
+          "name": "XSports",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
+        }
+      ]
+    },
+    "desenhos": {
+      "nome": "Desenhos e Infantil",
+      "canais": [
+        {
+          "id": "24h_chaves",
+          "name": "24H Chaves",
+          "categoryId": "desenhos",
+          "categoryName": "Desenhos e Infantil",
+          "status": "failed"
+        },
+        {
+          "id": "24h_dragonball",
+          "name": "24H Dragon Ball Z",
+          "categoryId": "desenhos",
+          "categoryName": "Desenhos e Infantil",
+          "status": "failed"
+        },
+        {
+          "id": "24h_naruto",
+          "name": "24H Naruto Clássico",
+          "categoryId": "desenhos",
+          "categoryName": "Desenhos e Infantil",
+          "status": "failed"
+        },
+        {
+          "id": "24h_simpsons",
+          "name": "24H Os Simpsons",
+          "categoryId": "desenhos",
+          "categoryName": "Desenhos e Infantil",
+          "status": "failed"
+        },
+        {
+          "id": "24h_odeiachris",
+          "name": "24H Todo Mundo Odeia o Cris",
+          "categoryId": "desenhos",
+          "categoryName": "Desenhos e Infantil",
+          "status": "failed"
+        },
+        {
+          "id": "cartoonito",
+          "name": "Cartoonito",
+          "categoryId": "desenhos",
+          "categoryName": "Desenhos e Infantil",
+          "status": "failed"
+        },
+        {
+          "id": "cartoonnetwork",
+          "name": "Cartoon Network",
+          "categoryId": "desenhos",
+          "categoryName": "Desenhos e Infantil",
+          "status": "failed"
+        },
+        {
+          "id": "discoverykids",
+          "name": "Discovery Kids",
+          "categoryId": "desenhos",
+          "categoryName": "Desenhos e Infantil",
+          "status": "failed"
+        },
+        {
+          "id": "gloob",
+          "name": "Gloob",
+          "categoryId": "desenhos",
+          "categoryName": "Desenhos e Infantil",
+          "status": "failed"
+        }
+      ]
+    },
+    "adulto": {
+      "nome": "Adulto",
+      "canais": [
+        {
+          "id": "playboy",
+          "name": "Play Boy",
+          "categoryId": "adulto",
+          "categoryName": "Adulto",
+          "status": "failed"
+        },
+        {
+          "id": "sexyhot",
+          "name": "Sexy Hot",
+          "categoryId": "adulto",
+          "categoryName": "Adulto",
+          "status": "failed"
+        }
+      ]
+    },
+    "food": {
+      "nome": "Receitas e Culinária",
+      "canais": [
+        {
+          "id": "foodnetwork",
+          "name": "Food Network",
+          "categoryId": "food",
+          "categoryName": "Receitas e Culinária",
+          "status": "failed"
+        },
+        {
+          "id": "masterchef",
+          "name": "Master chef",
+          "categoryId": "food",
+          "categoryName": "Receitas e Culinária",
+          "status": "failed"
+        }
+      ]
+    },
+    "acasadopatrao": {
+      "nome": "A Casa do Patrão",
+      "canais": [
+        {
+          "id": "acasadopatrao1",
+          "name": "A Casa do Patrão - 1",
+          "categoryId": "acasadopatrao",
+          "categoryName": "A Casa do Patrão",
+          "status": "failed"
+        },
+        {
+          "id": "acasadopatrao2",
+          "name": "A Casa do Patrão - 2",
+          "categoryId": "acasadopatrao",
+          "categoryName": "A Casa do Patrão",
+          "status": "failed"
+        },
+        {
+          "id": "acasadopatrao3",
+          "name": "A Casa do Patrão - 3",
+          "categoryId": "acasadopatrao",
+          "categoryName": "A Casa do Patrão",
+          "status": "failed"
+        },
+        {
+          "id": "acasadopatrao4",
+          "name": "A Casa do Patrão - 4",
+          "categoryId": "acasadopatrao",
+          "categoryName": "A Casa do Patrão",
+          "status": "failed"
+        },
+        {
+          "id": "acasadopatrao5",
+          "name": "A Casa do Patrão - 5",
+          "categoryId": "acasadopatrao",
+          "categoryName": "A Casa do Patrão",
+          "status": "failed"
+        }
+      ]
+    }
+  },
+  "flat_results": [
+    {
+      "id": "animalplanet",
+      "name": "Animal Planet",
+      "categoryId": "documentarios",
+      "categoryName": "Documentários",
+      "status": "failed"
+    },
+    {
+      "id": "discoverychannel",
+      "name": "Discovery Channel",
+      "categoryId": "documentarios",
+      "categoryName": "Documentários",
+      "status": "failed"
+    },
+    {
+      "id": "discoveryhh",
+      "name": "Discovery H&H",
+      "categoryId": "documentarios",
+      "categoryName": "Documentários",
+      "status": "failed"
+    },
+    {
+      "id": "discoveryid",
+      "name": "Discovery ID",
+      "categoryId": "documentarios",
+      "categoryName": "Documentários",
+      "status": "failed"
+    },
+    {
+      "id": "discoveryscience",
+      "name": "Discovery Science",
+      "categoryId": "documentarios",
+      "categoryName": "Documentários",
+      "status": "failed"
+    },
+    {
+      "id": "discoverytheather",
+      "name": "Discovery Theater",
+      "categoryId": "documentarios",
+      "categoryName": "Documentários",
+      "status": "failed"
+    },
+    {
+      "id": "discoveryturbo",
+      "name": "Discovery Turbo",
+      "categoryId": "documentarios",
+      "categoryName": "Documentários",
+      "status": "failed"
+    },
+    {
+      "id": "discoveryworld",
+      "name": "Discovery World",
+      "categoryId": "documentarios",
+      "categoryName": "Documentários",
+      "status": "failed"
+    },
+    {
+      "id": "history",
+      "name": "History",
+      "categoryId": "documentarios",
+      "categoryName": "Documentários",
+      "status": "failed"
+    },
+    {
+      "id": "history2",
+      "name": "History 2",
+      "categoryId": "documentarios",
+      "categoryName": "Documentários",
+      "status": "failed"
+    },
+    {
+      "id": "ae",
+      "name": "AE",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "amc",
+      "name": "AMC",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "axn",
+      "name": "AXN",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "adultswim",
+      "name": "Adult Swim",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "cinemax",
+      "name": "Cinemax",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "gnt",
+      "name": "GNT",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "hbo",
+      "name": "HBO",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "hbo2",
+      "name": "HBO 2",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "hbofamily",
+      "name": "HBO Family",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "hbomundi",
+      "name": "HBO Mundi",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "hbopop",
+      "name": "HBO POP",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "hboplus",
+      "name": "HBO Plus",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "hboxtreme",
+      "name": "HBO Xtreme",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "hgtv",
+      "name": "HGTV",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "megapix",
+      "name": "Megapix",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "off",
+      "name": "OFF",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "sonychannel",
+      "name": "Sony Channel",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "space",
+      "name": "Space",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "starchannel",
+      "name": "Star Channel",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "studiouniversal",
+      "name": "Studio Universal",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "tcm",
+      "name": "TCM",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "tlc",
+      "name": "TLC",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "tnt",
+      "name": "TNT",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "tntnovelas",
+      "name": "TNT Novelas",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "tntseries",
+      "name": "TNT Series",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "telecineaction",
+      "name": "Telecine Action",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "telecinecult",
+      "name": "Telecine Cult",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "telecinefun",
+      "name": "Telecine Fun",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "telecinepipoca",
+      "name": "Telecine Pipoca",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "telecinepremium",
+      "name": "Telecine Premium",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "telecinetouch",
+      "name": "Telecine Touch",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "universaltv",
+      "name": "Universal",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "warnerchannel",
+      "name": "Warnerchannel",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "status": "failed"
+    },
+    {
+      "id": "aparecida",
+      "name": "Aparecida",
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "bandnews",
+      "name": "Band News",
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "bandrj",
+      "name": "Band RJ",
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "bandsp",
+      "name": "Band SP",
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "cnnbrasil",
+      "name": "CNN Brasil",
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "cancaonova",
+      "name": "Canção Nova",
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "cultura",
+      "name": "Cultura",
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "globoam",
+      "name": "Globo AM",
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "globoce",
+      "name": "Globo CE",
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "globoes",
+      "name": "Globo ES",
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "globomg",
+      "name": "Globo MG",
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "globonews",
+      "name": "Globo News",
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "globopb",
+      "name": "Globo PB",
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "globope",
+      "name": "Globo PE",
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "globorj",
+      "name": "Globo RJ",
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "globors",
+      "name": "Globo RS",
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "globosp",
+      "name": "Globo SP",
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "globonovelas",
+      "name": "Globo Novelas",
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "mtv",
+      "name": "MTV",
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "multishow",
+      "name": "Multishow",
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "recordmg",
+      "name": "Record MG",
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "recordrj",
+      "name": "Record RJ",
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "recordsp",
+      "name": "Record SP",
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "sbtrj",
+      "name": "SBT RJ",
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "sbtsp",
+      "name": "SBT SP",
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "status": "failed"
+    },
+    {
+      "id": "bandsports",
+      "name": "Band Sports",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "caze1",
+      "name": "CazeTV 1",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "caze2",
+      "name": "CazeTV 2",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "caze3",
+      "name": "CazeTV 3",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "combate",
+      "name": "Combate",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "disneyplus1",
+      "name": "Disney Plus 1",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "disneyplus2",
+      "name": "Disney Plus 2",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "disneyplus3",
+      "name": "Disney Plus 3",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "espn",
+      "name": "Espn",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "espn2",
+      "name": "Espn 2",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "espn3",
+      "name": "Espn 3",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "espn4",
+      "name": "Espn 4",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "espn5",
+      "name": "Espn 5",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "espn6",
+      "name": "Espn 6",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "max1",
+      "name": "Max - 1",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "max2",
+      "name": "Max - 2",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "max3",
+      "name": "Max - 3",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "paramountplus",
+      "name": "Paramount Plus",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "paramountplus2",
+      "name": "Paramount Plus 2",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "premiere",
+      "name": "Premiere 1",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "premiere2",
+      "name": "Premiere 2",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "premiere3",
+      "name": "Premiere 3",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "premiere4",
+      "name": "Premiere 4",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "premiere5",
+      "name": "Premiere 5",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "premiere6",
+      "name": "Premiere 6",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "premiere7",
+      "name": "Premiere 7",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "premiere8",
+      "name": "Premiere 8",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "primevideo",
+      "name": "Prime Video",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "primevideo2",
+      "name": "Prime Video 2",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "sportv",
+      "name": "Sportv",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "sportv2",
+      "name": "Sportv 2",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "sportv3",
+      "name": "Sportv 3",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "sportv4",
+      "name": "Sportv 4",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "ufcfightpass",
+      "name": "UFC Fight Pass",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "xsports",
+      "name": "XSports",
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "status": "failed"
+    },
+    {
+      "id": "24h_chaves",
+      "name": "24H Chaves",
+      "categoryId": "desenhos",
+      "categoryName": "Desenhos e Infantil",
+      "status": "failed"
+    },
+    {
+      "id": "24h_dragonball",
+      "name": "24H Dragon Ball Z",
+      "categoryId": "desenhos",
+      "categoryName": "Desenhos e Infantil",
+      "status": "failed"
+    },
+    {
+      "id": "24h_naruto",
+      "name": "24H Naruto Clássico",
+      "categoryId": "desenhos",
+      "categoryName": "Desenhos e Infantil",
+      "status": "failed"
+    },
+    {
+      "id": "24h_simpsons",
+      "name": "24H Os Simpsons",
+      "categoryId": "desenhos",
+      "categoryName": "Desenhos e Infantil",
+      "status": "failed"
+    },
+    {
+      "id": "24h_odeiachris",
+      "name": "24H Todo Mundo Odeia o Cris",
+      "categoryId": "desenhos",
+      "categoryName": "Desenhos e Infantil",
+      "status": "failed"
+    },
+    {
+      "id": "cartoonito",
+      "name": "Cartoonito",
+      "categoryId": "desenhos",
+      "categoryName": "Desenhos e Infantil",
+      "status": "failed"
+    },
+    {
+      "id": "cartoonnetwork",
+      "name": "Cartoon Network",
+      "categoryId": "desenhos",
+      "categoryName": "Desenhos e Infantil",
+      "status": "failed"
+    },
+    {
+      "id": "discoverykids",
+      "name": "Discovery Kids",
+      "categoryId": "desenhos",
+      "categoryName": "Desenhos e Infantil",
+      "status": "failed"
+    },
+    {
+      "id": "gloob",
+      "name": "Gloob",
+      "categoryId": "desenhos",
+      "categoryName": "Desenhos e Infantil",
+      "status": "failed"
+    },
+    {
+      "id": "playboy",
+      "name": "Play Boy",
+      "categoryId": "adulto",
+      "categoryName": "Adulto",
+      "status": "failed"
+    },
+    {
+      "id": "sexyhot",
+      "name": "Sexy Hot",
+      "categoryId": "adulto",
+      "categoryName": "Adulto",
+      "status": "failed"
+    },
+    {
+      "id": "foodnetwork",
+      "name": "Food Network",
+      "categoryId": "food",
+      "categoryName": "Receitas e Culinária",
+      "status": "failed"
+    },
+    {
+      "id": "masterchef",
+      "name": "Master chef",
+      "categoryId": "food",
+      "categoryName": "Receitas e Culinária",
+      "status": "failed"
+    },
+    {
+      "id": "acasadopatrao1",
+      "name": "A Casa do Patrão - 1",
+      "categoryId": "acasadopatrao",
+      "categoryName": "A Casa do Patrão",
+      "status": "failed"
+    },
+    {
+      "id": "acasadopatrao2",
+      "name": "A Casa do Patrão - 2",
+      "categoryId": "acasadopatrao",
+      "categoryName": "A Casa do Patrão",
+      "status": "failed"
+    },
+    {
+      "id": "acasadopatrao3",
+      "name": "A Casa do Patrão - 3",
+      "categoryId": "acasadopatrao",
+      "categoryName": "A Casa do Patrão",
+      "status": "failed"
+    },
+    {
+      "id": "acasadopatrao4",
+      "name": "A Casa do Patrão - 4",
+      "categoryId": "acasadopatrao",
+      "categoryName": "A Casa do Patrão",
+      "status": "failed"
+    },
+    {
+      "id": "acasadopatrao5",
+      "name": "A Casa do Patrão - 5",
+      "categoryId": "acasadopatrao",
+      "categoryName": "A Casa do Patrão",
+      "status": "failed"
+    }
+  ]
 }

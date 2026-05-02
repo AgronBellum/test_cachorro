@@ -2,7 +2,8 @@ name: Gerar EPG Discovery ID
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    # Roda apenas 2 vezes ao dia: 04:37 e 16:37 (Horário UTC)
+    - cron: '37 4,16 * * *'
   workflow_dispatch:
 
 jobs:
@@ -23,6 +24,13 @@ jobs:
       - name: Instalar dependências
         run: |
           pip install requests beautifulsoup4
+
+      - name: Delay Aleatório (Anti-Bot)
+        # Gera um wait entre 1 e 300 segundos (até 5 minutos)
+        run: |
+          DELAY=$((1 + RANDOM % 300))
+          echo "Aguardando $DELAY segundos antes de iniciar o scraping..."
+          sleep $DELAY
 
       - name: Executar script EPG
         run: |

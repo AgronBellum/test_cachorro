@@ -4,54 +4,59 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
+      "desc": "Freddie Mercury, Brian May, Roger Taylor e John Deacon formam a banda de rock Queen em 1970. Quando o estilo de vida agitado de Mercury começa a sair de controle, o grupo precisa encontrar uma forma de lidar com o sucesso e os excessos de seu líder.",
       "start_date": "2026-05-02T00:00:00-03:00",
-      "title": "Jornal da Globo"
+      "title": "Bohemian Rhapsody - A História de Freddie Mercury"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-05-02T00:50:00-03:00",
+      "start_date": "2026-05-02T01:55:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-05-02T01:30:00-03:00",
+      "start_date": "2026-05-02T02:35:00-03:00",
       "title": "Coração Acelerado"
     },
     {
-      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-05-02T02:15:00-03:00",
-      "title": "Vai que Cola"
+      "desc": "Sargento Sebastião está em busca de vingar morte de seu irmão, um caminhoneiro assassinado brutalmente. Ainda abalado, está disposto a tudo para fazer justiça, nem que seja com as próprias mãos. Em sua jornada, porém, dois policiais da cidade acabam sendo confundidos com os suspeitos, se tornando o alvo principal de Sebastião e causando rebuliço na região.",
+      "start_date": "2026-05-02T03:15:00-03:00",
+      "title": "Cano Serrado"
     },
     {
-      "desc": "O inspetor Espinosa e a policial Daia ficam encarregados de investigar o assassinato de um executivo que foi morto a tiros no banco de seu carro. Os envolvidos no caso desaparecem misteriosamente e a situação assume proporções inesperadas.",
-      "start_date": "2026-05-02T02:55:00-03:00",
-      "title": "O Silêncio da Chuva"
+      "desc": "A jornada de aventura e fantasia de Claé e Bruô, agentes secretos de reinos rivais. Eles precisam superar suas diferenças e unir forças para buscar os Perlimps, criaturas misteriosas capazes de encontrar um caminho para a paz em tempos de guerra.",
+      "start_date": "2026-05-02T04:40:00-03:00",
+      "title": "Perlimps"
     },
     {
-      "desc": "O capitão Sabertooth lidera um bando de piratas em alto-mar. A bordo de seu navio, estão o desajeitado Wally e o jovem Tiny. Em busca do reconhecimento de outros piratas, a dupla se aventura em uma longa e perigosa viagem atrás de um tesouro perdido.",
-      "start_date": "2026-05-02T04:25:00-03:00",
-      "title": "Aventura dos Sete Mares"
+      "desc": "Acompanhe a celebração da santa missa em João Pessoa.",
+      "start_date": "2026-05-02T05:45:00-03:00",
+      "title": "Santa Missa"
     },
     {
-      "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
+      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
       "start_date": "2026-05-02T06:00:00-03:00",
-      "title": "Bom Dia Rio Grande"
+      "title": "Globo Rural"
     },
     {
-      "desc": "Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.",
+      "desc": "As principais notícias do Brasil para começar o final de semana bem-informado.",
+      "start_date": "2026-05-02T06:50:00-03:00",
+      "title": "Bom Dia Sábado"
+    },
+    {
+      "desc": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários.",
+      "start_date": "2026-05-02T07:50:00-03:00",
+      "title": "Pequenas Empresas & Grandes Negócios"
+    },
+    {
+      "desc": "Um programa democrático que aborda as diversas áreas da cultura gaúcha, e também apresenta quadros de turismo, gastronomia e as informações do agronegócio.",
       "start_date": "2026-05-02T08:30:00-03:00",
-      "title": "Bom Dia Brasil"
+      "title": "Galpão Crioulo"
     },
     {
-      "desc": "O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.",
-      "start_date": "2026-05-02T09:30:00-03:00",
-      "title": "Encontro com Patrícia Poeta"
-    },
-    {
-      "desc": "Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.",
-      "start_date": "2026-05-02T10:35:00-03:00",
-      "title": "Mais Você"
+      "desc": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa.",
+      "start_date": "2026-05-02T09:00:00-03:00",
+      "title": "É de Casa"
     },
     {
       "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
@@ -70,58 +75,68 @@
     },
     {
       "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
-      "start_date": "2026-05-02T14:45:00-03:00",
+      "start_date": "2026-05-02T14:10:00-03:00",
       "title": "Além do Tempo - Edição Especial"
     },
     {
       "desc": "Uma parte da história da formação da sociedade brasileira do início do século XX é contada a partir do romance de dois jovens italianos, Giuliana e Matteo. Eles se conhecem em 1894 a bordo do navio que transporta imigrantes para trabalhar no Brasil.",
-      "start_date": "2026-05-02T15:10:00-03:00",
+      "start_date": "2026-05-02T14:25:00-03:00",
       "title": "Terra Nostra - Edição Especial"
     },
     {
-      "desc": "O travesso Pica-Pau está metido em mais uma briga por território. Os inimigos da vez são o vigarista Lance Walters e sua namorada Vanessa. Precisando de dinheiro, estão determinados a construir uma extravagante mansão na floresta e lucrar com sua venda, mas Pica-Pau também mora no terreno e não pretende deixá-los em paz.",
-      "start_date": "2026-05-02T15:40:00-03:00",
-      "title": "Pica-Pau - O Filme"
+      "desc": "De uma forma leve e divertida, muito entretenimento e informação a partir de personagens inspiradores em assuntos como cultura, bem-estar, lazer, música, viagem, gastronomia e sustentabilidade.",
+      "start_date": "2026-05-02T14:40:00-03:00",
+      "title": "Baita Sábado"
     },
     {
-      "desc": "Nina usa Betânia para se passar por ela; Suelen provoca e seduz Leandro; Lucinda alerta Nina para não ser como Carminha; Debora se declara para Jorginho; Nilo passa mal; Carminha conta toda a história de Rita para Nina; Max conta para Carminha que os dois estão muito ricos.",
-      "start_date": "2026-05-02T17:05:00-03:00",
-      "title": "Vale a Pena Ver de Novo - Avenida Brasil"
+      "desc": "Mergulho na maternidade em todas as suas formas, com os desafios, as alegrias intensas e o amor que transforma tudo. Cada episódio traz histórias reais com dicas práticas para as famílias.",
+      "start_date": "2026-05-02T15:10:00-03:00",
+      "title": "Que Amor É Esse?"
+    },
+    {
+      "desc": "Uma viagem pelos sabores e histórias do Rio Grande do Sul, explorando tradições, receitas e o melhor da gastronomia local.",
+      "start_date": "2026-05-02T15:30:00-03:00",
+      "title": "Mapa Destemperados"
+    },
+    {
+      "desc": "Uma experiência que resgata o valor dos encontros. Porque existem momentos que não se medem pelo relógio, mas pelo estalo da lenha e pelo aroma da carne na brasa.",
+      "start_date": "2026-05-02T15:45:00-03:00",
+      "title": "Tempo Bueno"
+    },
+    {
+      "desc": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais.",
+      "start_date": "2026-05-02T16:05:00-03:00",
+      "title": "Caldeirão com Mion"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-05-02T18:25:00-03:00",
+      "start_date": "2026-05-02T18:10:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-05-02T19:10:00-03:00",
+      "start_date": "2026-05-02T18:55:00-03:00",
       "title": "RBS Notícias"
     },
     {
       "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-05-02T19:40:00-03:00",
+      "start_date": "2026-05-02T19:15:00-03:00",
       "title": "Coração Acelerado"
     },
     {
       "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-05-02T20:30:00-03:00",
+      "start_date": "2026-05-02T20:00:00-03:00",
       "title": "Jornal Nacional"
     },
     {
       "desc": "Gerluce Maria das Graças integra uma família de mães solo: é filha de Lígia Maria e mãe de Joélly Maria. Criada pela mãe, que engravidou na adolescência e foi abandonada pelo seu pai, Gerluce enfrenta um destino parecido com a chegada da filha.",
-      "start_date": "2026-05-02T21:20:00-03:00",
+      "start_date": "2026-05-02T20:40:00-03:00",
       "title": "Três Graças"
     },
     {
-      "desc": "A polícia investiga o ocorrido com Coronel Elói; Tatarana aconselha que Rosa aprenda a atirar; Arduíno leva Valiana a Jatobá de Cima; Jânia dá a notícia sobre Elói aos filhos.",
-      "start_date": "2026-05-02T22:25:00-03:00",
-      "title": "Guerreiros do Sol"
-    },
-    {
-      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
-      "start_date": "2026-05-02T23:10:00-03:00",
-      "title": "Globo Repórter"
+      "desc": "A areia de Copacabana é o destino dos brasileiros em um espetáculo que promete ser histórico. A cantora Shakira canta seus maiores sucessos e anima um público de milhares de pessoas.",
+      "start_date": "2026-05-02T21:25:00-03:00",
+      "title": "Todo Mundo no Rio com Shakira"
     }
   ],
   "start_date": "2026-05-02"

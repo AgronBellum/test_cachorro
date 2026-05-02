@@ -1,0 +1,650 @@
+{
+  "metadata": {
+    "total": 121,
+    "success": 0,
+    "categories": 8,
+    "date": "2026-05-02T23:37:42.112Z",
+    "version": "EXTRACTOR_APP_V1"
+  },
+  "categorias": {
+    "documentarios": {
+      "nome": "Documentários",
+      "canais": []
+    },
+    "filmes_series": {
+      "nome": "Filmes e Séries",
+      "canais": []
+    },
+    "aberta": {
+      "nome": "TV Aberta e Notícias",
+      "canais": []
+    },
+    "esportes": {
+      "nome": "Esportes",
+      "canais": []
+    },
+    "desenhos": {
+      "nome": "Desenhos e Infantil",
+      "canais": []
+    },
+    "adulto": {
+      "nome": "Adulto",
+      "canais": []
+    },
+    "food": {
+      "nome": "Receitas e Culinária",
+      "canais": []
+    },
+    "acasadopatrao": {
+      "nome": "A Casa do Patrão",
+      "canais": []
+    }
+  },
+  "flat_results": [
+    {
+      "id": "animalplanet",
+      "name": "Animal Planet",
+      "status": "failed"
+    },
+    {
+      "id": "discoverychannel",
+      "name": "Discovery Channel",
+      "status": "failed"
+    },
+    {
+      "id": "discoveryhh",
+      "name": "Discovery H&H",
+      "status": "failed"
+    },
+    {
+      "id": "discoveryid",
+      "name": "Discovery ID",
+      "status": "failed"
+    },
+    {
+      "id": "discoveryscience",
+      "name": "Discovery Science",
+      "status": "failed"
+    },
+    {
+      "id": "discoverytheather",
+      "name": "Discovery Theater",
+      "status": "failed"
+    },
+    {
+      "id": "discoveryturbo",
+      "name": "Discovery Turbo",
+      "status": "failed"
+    },
+    {
+      "id": "discoveryworld",
+      "name": "Discovery World",
+      "status": "failed"
+    },
+    {
+      "id": "history",
+      "name": "History",
+      "status": "failed"
+    },
+    {
+      "id": "history2",
+      "name": "History 2",
+      "status": "failed"
+    },
+    {
+      "id": "ae",
+      "name": "AE",
+      "status": "failed"
+    },
+    {
+      "id": "amc",
+      "name": "AMC",
+      "status": "failed"
+    },
+    {
+      "id": "axn",
+      "name": "AXN",
+      "status": "failed"
+    },
+    {
+      "id": "adultswim",
+      "name": "Adult Swim",
+      "status": "failed"
+    },
+    {
+      "id": "cinemax",
+      "name": "Cinemax",
+      "status": "failed"
+    },
+    {
+      "id": "gnt",
+      "name": "GNT",
+      "status": "failed"
+    },
+    {
+      "id": "hbo",
+      "name": "HBO",
+      "status": "failed"
+    },
+    {
+      "id": "hbo2",
+      "name": "HBO 2",
+      "status": "failed"
+    },
+    {
+      "id": "hbofamily",
+      "name": "HBO Family",
+      "status": "failed"
+    },
+    {
+      "id": "hbomundi",
+      "name": "HBO Mundi",
+      "status": "failed"
+    },
+    {
+      "id": "hbopop",
+      "name": "HBO POP",
+      "status": "failed"
+    },
+    {
+      "id": "hboplus",
+      "name": "HBO Plus",
+      "status": "failed"
+    },
+    {
+      "id": "hboxtreme",
+      "name": "HBO Xtreme",
+      "status": "failed"
+    },
+    {
+      "id": "hgtv",
+      "name": "HGTV",
+      "status": "failed"
+    },
+    {
+      "id": "megapix",
+      "name": "Megapix",
+      "status": "failed"
+    },
+    {
+      "id": "off",
+      "name": "OFF",
+      "status": "failed"
+    },
+    {
+      "id": "sonychannel",
+      "name": "Sony Channel",
+      "status": "failed"
+    },
+    {
+      "id": "space",
+      "name": "Space",
+      "status": "failed"
+    },
+    {
+      "id": "starchannel",
+      "name": "Star Channel",
+      "status": "failed"
+    },
+    {
+      "id": "studiouniversal",
+      "name": "Studio Universal",
+      "status": "failed"
+    },
+    {
+      "id": "tcm",
+      "name": "TCM",
+      "status": "failed"
+    },
+    {
+      "id": "tlc",
+      "name": "TLC",
+      "status": "failed"
+    },
+    {
+      "id": "tnt",
+      "name": "TNT",
+      "status": "failed"
+    },
+    {
+      "id": "tntnovelas",
+      "name": "TNT Novelas",
+      "status": "failed"
+    },
+    {
+      "id": "tntseries",
+      "name": "TNT Series",
+      "status": "failed"
+    },
+    {
+      "id": "telecineaction",
+      "name": "Telecine Action",
+      "status": "failed"
+    },
+    {
+      "id": "telecinecult",
+      "name": "Telecine Cult",
+      "status": "failed"
+    },
+    {
+      "id": "telecinefun",
+      "name": "Telecine Fun",
+      "status": "failed"
+    },
+    {
+      "id": "telecinepipoca",
+      "name": "Telecine Pipoca",
+      "status": "failed"
+    },
+    {
+      "id": "telecinepremium",
+      "name": "Telecine Premium",
+      "status": "failed"
+    },
+    {
+      "id": "telecinetouch",
+      "name": "Telecine Touch",
+      "status": "failed"
+    },
+    {
+      "id": "universaltv",
+      "name": "Universal",
+      "status": "failed"
+    },
+    {
+      "id": "warnerchannel",
+      "name": "Warnerchannel",
+      "status": "failed"
+    },
+    {
+      "id": "aparecida",
+      "name": "Aparecida",
+      "status": "failed"
+    },
+    {
+      "id": "bandnews",
+      "name": "Band News",
+      "status": "failed"
+    },
+    {
+      "id": "bandrj",
+      "name": "Band RJ",
+      "status": "failed"
+    },
+    {
+      "id": "bandsp",
+      "name": "Band SP",
+      "status": "failed"
+    },
+    {
+      "id": "cnnbrasil",
+      "name": "CNN Brasil",
+      "status": "failed"
+    },
+    {
+      "id": "cancaonova",
+      "name": "Canção Nova",
+      "status": "failed"
+    },
+    {
+      "id": "cultura",
+      "name": "Cultura",
+      "status": "failed"
+    },
+    {
+      "id": "globoam",
+      "name": "Globo AM",
+      "status": "failed"
+    },
+    {
+      "id": "globoce",
+      "name": "Globo CE",
+      "status": "failed"
+    },
+    {
+      "id": "globoes",
+      "name": "Globo ES",
+      "status": "failed"
+    },
+    {
+      "id": "globomg",
+      "name": "Globo MG",
+      "status": "failed"
+    },
+    {
+      "id": "globonews",
+      "name": "Globo News",
+      "status": "failed"
+    },
+    {
+      "id": "globopb",
+      "name": "Globo PB",
+      "status": "failed"
+    },
+    {
+      "id": "globope",
+      "name": "Globo PE",
+      "status": "failed"
+    },
+    {
+      "id": "globorj",
+      "name": "Globo RJ",
+      "status": "failed"
+    },
+    {
+      "id": "globors",
+      "name": "Globo RS",
+      "status": "failed"
+    },
+    {
+      "id": "globosp",
+      "name": "Globo SP",
+      "status": "failed"
+    },
+    {
+      "id": "globonovelas",
+      "name": "Globo Novelas",
+      "status": "failed"
+    },
+    {
+      "id": "mtv",
+      "name": "MTV",
+      "status": "failed"
+    },
+    {
+      "id": "multishow",
+      "name": "Multishow",
+      "status": "failed"
+    },
+    {
+      "id": "recordmg",
+      "name": "Record MG",
+      "status": "failed"
+    },
+    {
+      "id": "recordrj",
+      "name": "Record RJ",
+      "status": "failed"
+    },
+    {
+      "id": "recordsp",
+      "name": "Record SP",
+      "status": "failed"
+    },
+    {
+      "id": "sbtrj",
+      "name": "SBT RJ",
+      "status": "failed"
+    },
+    {
+      "id": "sbtsp",
+      "name": "SBT SP",
+      "status": "failed"
+    },
+    {
+      "id": "bandsports",
+      "name": "Band Sports",
+      "status": "failed"
+    },
+    {
+      "id": "caze1",
+      "name": "CazeTV 1",
+      "status": "failed"
+    },
+    {
+      "id": "caze2",
+      "name": "CazeTV 2",
+      "status": "failed"
+    },
+    {
+      "id": "caze3",
+      "name": "CazeTV 3",
+      "status": "failed"
+    },
+    {
+      "id": "combate",
+      "name": "Combate",
+      "status": "failed"
+    },
+    {
+      "id": "disneyplus1",
+      "name": "Disney Plus 1",
+      "status": "failed"
+    },
+    {
+      "id": "disneyplus2",
+      "name": "Disney Plus 2",
+      "status": "failed"
+    },
+    {
+      "id": "disneyplus3",
+      "name": "Disney Plus 3",
+      "status": "failed"
+    },
+    {
+      "id": "espn",
+      "name": "Espn",
+      "status": "failed"
+    },
+    {
+      "id": "espn2",
+      "name": "Espn 2",
+      "status": "failed"
+    },
+    {
+      "id": "espn3",
+      "name": "Espn 3",
+      "status": "failed"
+    },
+    {
+      "id": "espn4",
+      "name": "Espn 4",
+      "status": "failed"
+    },
+    {
+      "id": "espn5",
+      "name": "Espn 5",
+      "status": "failed"
+    },
+    {
+      "id": "espn6",
+      "name": "Espn 6",
+      "status": "failed"
+    },
+    {
+      "id": "max1",
+      "name": "Max - 1",
+      "status": "failed"
+    },
+    {
+      "id": "max2",
+      "name": "Max - 2",
+      "status": "failed"
+    },
+    {
+      "id": "max3",
+      "name": "Max - 3",
+      "status": "failed"
+    },
+    {
+      "id": "paramountplus",
+      "name": "Paramount Plus",
+      "status": "failed"
+    },
+    {
+      "id": "paramountplus2",
+      "name": "Paramount Plus 2",
+      "status": "failed"
+    },
+    {
+      "id": "premiere",
+      "name": "Premiere 1",
+      "status": "failed"
+    },
+    {
+      "id": "premiere2",
+      "name": "Premiere 2",
+      "status": "failed"
+    },
+    {
+      "id": "premiere3",
+      "name": "Premiere 3",
+      "status": "failed"
+    },
+    {
+      "id": "premiere4",
+      "name": "Premiere 4",
+      "status": "failed"
+    },
+    {
+      "id": "premiere5",
+      "name": "Premiere 5",
+      "status": "failed"
+    },
+    {
+      "id": "premiere6",
+      "name": "Premiere 6",
+      "status": "failed"
+    },
+    {
+      "id": "premiere7",
+      "name": "Premiere 7",
+      "status": "failed"
+    },
+    {
+      "id": "premiere8",
+      "name": "Premiere 8",
+      "status": "failed"
+    },
+    {
+      "id": "primevideo",
+      "name": "Prime Video",
+      "status": "failed"
+    },
+    {
+      "id": "primevideo2",
+      "name": "Prime Video 2",
+      "status": "failed"
+    },
+    {
+      "id": "sportv",
+      "name": "Sportv",
+      "status": "failed"
+    },
+    {
+      "id": "sportv2",
+      "name": "Sportv 2",
+      "status": "failed"
+    },
+    {
+      "id": "sportv3",
+      "name": "Sportv 3",
+      "status": "failed"
+    },
+    {
+      "id": "sportv4",
+      "name": "Sportv 4",
+      "status": "failed"
+    },
+    {
+      "id": "ufcfightpass",
+      "name": "UFC Fight Pass",
+      "status": "failed"
+    },
+    {
+      "id": "xsports",
+      "name": "XSports",
+      "status": "failed"
+    },
+    {
+      "id": "24h_chaves",
+      "name": "24H Chaves",
+      "status": "failed"
+    },
+    {
+      "id": "24h_dragonball",
+      "name": "24H Dragon Ball Z",
+      "status": "failed"
+    },
+    {
+      "id": "24h_naruto",
+      "name": "24H Naruto Clássico",
+      "status": "failed"
+    },
+    {
+      "id": "24h_simpsons",
+      "name": "24H Os Simpsons",
+      "status": "failed"
+    },
+    {
+      "id": "24h_odeiachris",
+      "name": "24H Todo Mundo Odeia o Cris",
+      "status": "failed"
+    },
+    {
+      "id": "cartoonito",
+      "name": "Cartoonito",
+      "status": "failed"
+    },
+    {
+      "id": "cartoonnetwork",
+      "name": "Cartoon Network",
+      "status": "failed"
+    },
+    {
+      "id": "discoverykids",
+      "name": "Discovery Kids",
+      "status": "failed"
+    },
+    {
+      "id": "gloob",
+      "name": "Gloob",
+      "status": "failed"
+    },
+    {
+      "id": "playboy",
+      "name": "Play Boy",
+      "status": "failed"
+    },
+    {
+      "id": "sexyhot",
+      "name": "Sexy Hot",
+      "status": "failed"
+    },
+    {
+      "id": "foodnetwork",
+      "name": "Food Network",
+      "status": "failed"
+    },
+    {
+      "id": "masterchef",
+      "name": "Master chef",
+      "status": "failed"
+    },
+    {
+      "id": "acasadopatrao1",
+      "name": "A Casa do Patrão - 1",
+      "status": "failed"
+    },
+    {
+      "id": "acasadopatrao2",
+      "name": "A Casa do Patrão - 2",
+      "status": "failed"
+    },
+    {
+      "id": "acasadopatrao3",
+      "name": "A Casa do Patrão - 3",
+      "status": "failed"
+    },
+    {
+      "id": "acasadopatrao4",
+      "name": "A Casa do Patrão - 4",
+      "status": "failed"
+    },
+    {
+      "id": "acasadopatrao5",
+      "name": "A Casa do Patrão - 5",
+      "status": "failed"
+    }
+  ]
+}

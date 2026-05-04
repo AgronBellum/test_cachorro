@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "total": 121,
-    "success": 121,
+    "total": 113,
+    "success": 113,
     "categories": 8,
-    "date": "2026-05-03T21:26:29.316Z",
+    "date": "2026-05-04T02:32:28.652Z",
     "version": "EXTRACTOR_APP_V1"
   },
   "categorias": {
@@ -992,95 +992,11 @@
           "status": "success"
         },
         {
-          "id": "caze1",
-          "name": "CazeTV 1",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://74a20708382b518b28480fa103174073.cloudfronte.lat/zzzstream/caze1.m3u8",
-          "headers": {
-            "referer": "https://w2.embedtv.live/",
-            "origin": "https://w2.embedtv.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
-          },
-          "status": "success"
-        },
-        {
-          "id": "caze2",
-          "name": "CazeTV 2",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://74a20708382b518b28480fa103174073.cloudfronte.lat/zzzstream/caze2.m3u8",
-          "headers": {
-            "referer": "https://w2.embedtv.live/",
-            "origin": "https://w2.embedtv.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
-          },
-          "status": "success"
-        },
-        {
-          "id": "caze3",
-          "name": "CazeTV 3",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://74a20708382b518b28480fa103174073.cloudfronte.lat/zzzstream/caze3.m3u8",
-          "headers": {
-            "referer": "https://w2.embedtv.live/",
-            "origin": "https://w2.embedtv.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
-          },
-          "status": "success"
-        },
-        {
           "id": "combate",
           "name": "Combate",
           "categoryId": "esportes",
           "categoryName": "Esportes",
           "m3u8_url": "https://74a20708382b518b28480fa103174073.cloudfronte.lat/zzzstream/combate.m3u8",
-          "headers": {
-            "referer": "https://w2.embedtv.live/",
-            "origin": "https://w2.embedtv.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
-          },
-          "status": "success"
-        },
-        {
-          "id": "disneyplus1",
-          "name": "Disney Plus 1",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://74a20708382b518b28480fa103174073.cloudfronte.lat/zzzstream/disneyplus1.m3u8",
-          "headers": {
-            "referer": "https://w2.embedtv.live/",
-            "origin": "https://w2.embedtv.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
-          },
-          "status": "success"
-        },
-        {
-          "id": "disneyplus2",
-          "name": "Disney Plus 2",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://74a20708382b518b28480fa103174073.cloudfronte.lat/zzzstream/disneyplus2.m3u8",
-          "headers": {
-            "referer": "https://w2.embedtv.live/",
-            "origin": "https://w2.embedtv.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
-          },
-          "status": "success"
-        },
-        {
-          "id": "disneyplus3",
-          "name": "Disney Plus 3",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://74a20708382b518b28480fa103174073.cloudfronte.lat/zzzstream/disneyplus3.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1207,34 +1123,6 @@
           "categoryId": "esportes",
           "categoryName": "Esportes",
           "m3u8_url": "https://74a20708382b518b28480fa103174073.cloudfronte.lat/zzzstream/max3.m3u8",
-          "headers": {
-            "referer": "https://w2.embedtv.live/",
-            "origin": "https://w2.embedtv.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
-          },
-          "status": "success"
-        },
-        {
-          "id": "paramountplus",
-          "name": "Paramount Plus",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://74a20708382b518b28480fa103174073.cloudfronte.lat/zzzstream/paramountplus.m3u8",
-          "headers": {
-            "referer": "https://w2.embedtv.live/",
-            "origin": "https://w2.embedtv.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
-          },
-          "status": "success"
-        },
-        {
-          "id": "paramountplus2",
-          "name": "Paramount Plus 2",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://74a20708382b518b28480fa103174073.cloudfronte.lat/zzzstream/paramountplus2.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -2710,95 +2598,11 @@
       "status": "success"
     },
     {
-      "id": "caze1",
-      "name": "CazeTV 1",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://74a20708382b518b28480fa103174073.cloudfronte.lat/zzzstream/caze1.m3u8",
-      "headers": {
-        "referer": "https://w2.embedtv.live/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
-      },
-      "status": "success"
-    },
-    {
-      "id": "caze2",
-      "name": "CazeTV 2",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://74a20708382b518b28480fa103174073.cloudfronte.lat/zzzstream/caze2.m3u8",
-      "headers": {
-        "referer": "https://w2.embedtv.live/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
-      },
-      "status": "success"
-    },
-    {
-      "id": "caze3",
-      "name": "CazeTV 3",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://74a20708382b518b28480fa103174073.cloudfronte.lat/zzzstream/caze3.m3u8",
-      "headers": {
-        "referer": "https://w2.embedtv.live/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
-      },
-      "status": "success"
-    },
-    {
       "id": "combate",
       "name": "Combate",
       "categoryId": "esportes",
       "categoryName": "Esportes",
       "m3u8_url": "https://74a20708382b518b28480fa103174073.cloudfronte.lat/zzzstream/combate.m3u8",
-      "headers": {
-        "referer": "https://w2.embedtv.live/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
-      },
-      "status": "success"
-    },
-    {
-      "id": "disneyplus1",
-      "name": "Disney Plus 1",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://74a20708382b518b28480fa103174073.cloudfronte.lat/zzzstream/disneyplus1.m3u8",
-      "headers": {
-        "referer": "https://w2.embedtv.live/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
-      },
-      "status": "success"
-    },
-    {
-      "id": "disneyplus2",
-      "name": "Disney Plus 2",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://74a20708382b518b28480fa103174073.cloudfronte.lat/zzzstream/disneyplus2.m3u8",
-      "headers": {
-        "referer": "https://w2.embedtv.live/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
-      },
-      "status": "success"
-    },
-    {
-      "id": "disneyplus3",
-      "name": "Disney Plus 3",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://74a20708382b518b28480fa103174073.cloudfronte.lat/zzzstream/disneyplus3.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2925,34 +2729,6 @@
       "categoryId": "esportes",
       "categoryName": "Esportes",
       "m3u8_url": "https://74a20708382b518b28480fa103174073.cloudfronte.lat/zzzstream/max3.m3u8",
-      "headers": {
-        "referer": "https://w2.embedtv.live/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
-      },
-      "status": "success"
-    },
-    {
-      "id": "paramountplus",
-      "name": "Paramount Plus",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://74a20708382b518b28480fa103174073.cloudfronte.lat/zzzstream/paramountplus.m3u8",
-      "headers": {
-        "referer": "https://w2.embedtv.live/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
-      },
-      "status": "success"
-    },
-    {
-      "id": "paramountplus2",
-      "name": "Paramount Plus 2",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://74a20708382b518b28480fa103174073.cloudfronte.lat/zzzstream/paramountplus2.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",

@@ -4,14 +4,29 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.",
-      "start_date": "2026-05-04T01:45:00-03:00",
-      "title": "Fórmula 1"
+      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
+      "start_date": "2026-05-04T00:10:00-03:00",
+      "title": "Jornal da Globo"
     },
     {
-      "desc": "Sobreviventes anteriores se encontram em um novo jogo repleto de armadilhas mortais. Lentamente, o que eles têm em comum é revelado, e eles descobrem que todos já jogaram um jogo antes.",
-      "start_date": "2026-05-04T02:50:00-03:00",
-      "title": "Escape Room 2 - Tensão Máxima"
+      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
+      "start_date": "2026-05-04T01:00:00-03:00",
+      "title": "A Nobreza do Amor"
+    },
+    {
+      "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
+      "start_date": "2026-05-04T01:40:00-03:00",
+      "title": "Coração Acelerado"
+    },
+    {
+      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "start_date": "2026-05-04T02:25:00-03:00",
+      "title": "Vai que Cola"
+    },
+    {
+      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "start_date": "2026-05-04T03:10:00-03:00",
+      "title": "Vai que Cola"
     },
     {
       "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
@@ -19,69 +34,94 @@
       "title": "Hora 1"
     },
     {
-      "desc": "Acompanhe a celebração da santa missa em João Pessoa.",
-      "start_date": "2026-05-04T05:45:00-03:00",
-      "title": "Santa Missa"
+      "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
+      "start_date": "2026-05-04T06:00:00-03:00",
+      "title": "Bom Dia Rio Grande"
     },
     {
-      "desc": "Um programa democrático que aborda as diversas áreas da cultura gaúcha, e também apresenta quadros de turismo, gastronomia e as informações do agronegócio.",
-      "start_date": "2026-05-04T06:35:00-03:00",
-      "title": "Galpão Crioulo"
-    },
-    {
-      "desc": "A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes.",
-      "start_date": "2026-05-04T07:05:00-03:00",
-      "title": "AutoEsporte"
-    },
-    {
-      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
-      "start_date": "2026-05-04T07:35:00-03:00",
-      "title": "Globo Rural"
-    },
-    {
-      "desc": "Daniel abre a porteira de sua fazenda para receber grandes astros da música sertaneja. Juntos, eles relembram suas trajetórias, falam sobre suas inspirações e se deixam levar pelas modas de viola.",
+      "desc": "Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.",
       "start_date": "2026-05-04T08:30:00-03:00",
-      "title": "Viver Sertanejo"
+      "title": "Bom Dia Brasil"
     },
     {
-      "desc": "Fique por dentro de tudo o que rolou durante a semana nos esportes e veja os gols pelo mundo afora. Entrevistas, reportagens sobre ciência esportiva e personagens históricos também fazem parte da atração.",
-      "start_date": "2026-05-04T09:15:00-03:00",
-      "title": "Esporte Espetacular"
+      "desc": "O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.",
+      "start_date": "2026-05-04T09:30:00-03:00",
+      "title": "Encontro com Patrícia Poeta"
     },
     {
-      "desc": "Sam Cleary, de 13 anos, suspeita que seu misterioso vizinho, o Sr. Smith, seja, na verdade, um herói lendário que foi dado como morto décadas antes. Para salvar a cidade de uma nova onda de crime, ele tenta convencê-lo a sair da reclusão.",
-      "start_date": "2026-05-04T12:25:00-03:00",
-      "title": "Samaritano"
+      "desc": "Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.",
+      "start_date": "2026-05-04T10:35:00-03:00",
+      "title": "Mais Você"
     },
     {
-      "desc": "Com Daniel, Kenya Sade e Serginho Groisman, o \"Em Família\" dá continuidade à disputa entre as famílias. Quem vencer garante vaga na próxima fase. Eliana visita a casa do cantor Luan Pereira, em Londrina, no Paraná.",
-      "start_date": "2026-05-04T14:15:00-03:00",
-      "title": "Em Família com Eliana"
+      "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
+      "start_date": "2026-05-04T11:45:00-03:00",
+      "title": "Jornal do Almoço"
     },
     {
-      "desc": "Os principais acontecimentos do Brasileirão, com notícias de clubes e atletas antes das partidas.",
-      "start_date": "2026-05-04T15:30:00-03:00",
-      "title": "Bora Pro Jogo"
+      "desc": "Confira as últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.",
+      "start_date": "2026-05-04T13:00:00-03:00",
+      "title": "Globo Esporte RS"
     },
     {
-      "desc": "Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.",
+      "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
+      "start_date": "2026-05-04T13:25:00-03:00",
+      "title": "Jornal Hoje"
+    },
+    {
+      "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
+      "start_date": "2026-05-04T14:45:00-03:00",
+      "title": "Além do Tempo - Edição Especial"
+    },
+    {
+      "desc": "Uma parte da história da formação da sociedade brasileira do início do século XX é contada a partir do romance de dois jovens italianos, Giuliana e Matteo. Eles se conhecem em 1894 a bordo do navio que transporta imigrantes para trabalhar no Brasil.",
+      "start_date": "2026-05-04T15:05:00-03:00",
+      "title": "Terra Nostra - Edição Especial"
+    },
+    {
+      "desc": "No meio de uma onda de calor, uma nuvem sinistra aparece antes que a chuva ácida letal caia. Uma família separada precisa se unir para escapar da praga que assola o mundo.",
       "start_date": "2026-05-04T15:45:00-03:00",
-      "title": "Flamengo x Vasco"
+      "title": "Chuva Ácida"
     },
     {
-      "desc": "O \"Domingão\" estreia quadro que usa IA para recontar histórias de sobrevivência. A primeira delas é a de Antonio Sena, piloto que sobreviveu à queda de um avião e conseguiu se manter vivo por 36 dias na Amazônia.",
-      "start_date": "2026-05-04T18:10:00-03:00",
-      "title": "Domingão com Huck"
+      "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
+      "start_date": "2026-05-04T17:25:00-03:00",
+      "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
-      "desc": "Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência.",
+      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
+      "start_date": "2026-05-04T18:25:00-03:00",
+      "title": "A Nobreza do Amor"
+    },
+    {
+      "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
+      "start_date": "2026-05-04T19:10:00-03:00",
+      "title": "RBS Notícias"
+    },
+    {
+      "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
+      "start_date": "2026-05-04T19:40:00-03:00",
+      "title": "Coração Acelerado"
+    },
+    {
+      "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
       "start_date": "2026-05-04T20:30:00-03:00",
-      "title": "Fantástico"
+      "title": "Jornal Nacional"
     },
     {
-      "desc": "O lendário John Wick luta para sair de Nova York quando um contrato de 14 milhões de dólares faz dele o alvo dos maiores assassinos do mundo.",
-      "start_date": "2026-05-04T23:35:00-03:00",
-      "title": "John Wick 3 - Parabellum"
+      "desc": "Gerluce Maria das Graças integra uma família de mães solo: é filha de Lígia Maria e mãe de Joélly Maria. Criada pela mãe, que engravidou na adolescência e foi abandonada pelo seu pai, Gerluce enfrenta um destino parecido com a chegada da filha.",
+      "start_date": "2026-05-04T21:20:00-03:00",
+      "title": "Três Graças"
+    },
+    {
+      "desc": "A polícia investiga o ocorrido com Coronel Elói; Tatarana aconselha que Rosa aprenda a atirar; Arduíno leva Valiana a Jatobá de Cima; Jânia dá a notícia sobre Elói aos filhos.",
+      "start_date": "2026-05-04T22:25:00-03:00",
+      "title": "Guerreiros do Sol"
+    },
+    {
+      "desc": "Para não perder a casa da família, uma talentosa artista plástica engana toda uma cidade com uma farsa montada acidentalmente, o que a leva a criar situações inusitadas para manter a mentira.",
+      "start_date": "2026-05-04T23:15:00-03:00",
+      "title": "É Quase Verdade"
     }
   ],
   "start_date": "2026-05-04"

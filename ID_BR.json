@@ -1,138 +1,8 @@
 {
-  "end_date": "2026-05-05",
+  "end_date": "2026-05-06",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
-    {
-      "desc": "",
-      "start_date": "2026-05-03T00:31:00-03:00",
-      "title": "Tamron Hall Investiga - Assédio Sexual na Universidade"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-03T01:21:00-03:00",
-      "title": "Segredos Bem Casados"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-03T02:09:00-03:00",
-      "title": "Casados com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-03T02:53:00-03:00",
-      "title": "Dose Fatal"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-03T03:40:00-03:00",
-      "title": "Como Criar um Escândalo Sexual"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-03T04:24:00-03:00",
-      "title": "Encontros Infernais"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-03T05:12:00-03:00",
-      "title": "Mentiras de Amor"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-03T06:00:00-03:00",
-      "title": "People Magazine - Além da Notícia"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-03T06:48:00-03:00",
-      "title": "Desaparecidos"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-03T07:36:00-03:00",
-      "title": "Pesadelo em Ohio"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-03T08:25:00-03:00",
-      "title": "A Morte me Escolheu"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-03T09:14:00-03:00",
-      "title": "O Misterioso Caso de Christina Whittaker"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-03T10:03:00-03:00",
-      "title": "Detetive Americano com Joe Kenda"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-03T10:52:00-03:00",
-      "title": "Mulheres - Vítimas Desconhecidas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-03T11:41:00-03:00",
-      "title": "O Mal Entre nós"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-03T12:29:00-03:00",
-      "title": "O Lado Obscuro da Fama"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-03T13:18:00-03:00",
-      "title": "Playboy - Fama e Morte"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-03T14:06:00-03:00",
-      "title": "Morte no Deserto"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-03T14:55:00-03:00",
-      "title": "O Lado Sombrio da TV Infantil"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-03T15:44:00-03:00",
-      "title": "Um Assassino entre Amigos"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-03T16:33:00-03:00",
-      "title": "Férias Mortais"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-03T17:22:00-03:00",
-      "title": "People Magazine - Crimes da Moda"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-03T18:10:00-03:00",
-      "title": "Crimes Misteriosos - O Monstro de Denver"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-03T18:58:00-03:00",
-      "title": "O Culto da Morte - O Caso Andrea Yates"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-03T21:20:00-03:00",
-      "title": "Assassinos do Apocalipse - Lory Daybell"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-03T23:41:00-03:00",
-      "title": "O Massacre na Universidade de Idaho"
-    },
     {
       "desc": "",
       "start_date": "2026-05-04T00:31:00-03:00",
@@ -262,7 +132,137 @@
       "desc": "",
       "start_date": "2026-05-04T23:41:00-03:00",
       "title": "O Massacre na Universidade de Idaho"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-05T00:31:00-03:00",
+      "title": "Tamron Hall Investiga - Assédio Sexual na Universidade"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-05T01:21:00-03:00",
+      "title": "Segredos Bem Casados"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-05T02:09:00-03:00",
+      "title": "Casados com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-05T02:53:00-03:00",
+      "title": "Dose Fatal"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-05T03:40:00-03:00",
+      "title": "Como Criar um Escândalo Sexual"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-05T04:24:00-03:00",
+      "title": "Encontros Infernais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-05T05:12:00-03:00",
+      "title": "Mentiras de Amor"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-05T06:00:00-03:00",
+      "title": "People Magazine - Além da Notícia"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-05T06:48:00-03:00",
+      "title": "Desaparecidos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-05T07:36:00-03:00",
+      "title": "Pesadelo em Ohio"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-05T08:25:00-03:00",
+      "title": "A Morte me Escolheu"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-05T09:14:00-03:00",
+      "title": "O Misterioso Caso de Christina Whittaker"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-05T10:03:00-03:00",
+      "title": "Detetive Americano com Joe Kenda"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-05T10:52:00-03:00",
+      "title": "Mulheres - Vítimas Desconhecidas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-05T11:41:00-03:00",
+      "title": "O Mal Entre nós"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-05T12:29:00-03:00",
+      "title": "O Lado Obscuro da Fama"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-05T13:18:00-03:00",
+      "title": "Playboy - Fama e Morte"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-05T14:06:00-03:00",
+      "title": "Morte no Deserto"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-05T14:55:00-03:00",
+      "title": "O Lado Sombrio da TV Infantil"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-05T15:44:00-03:00",
+      "title": "Um Assassino entre Amigos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-05T16:33:00-03:00",
+      "title": "Férias Mortais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-05T17:22:00-03:00",
+      "title": "People Magazine - Crimes da Moda"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-05T18:10:00-03:00",
+      "title": "Crimes Misteriosos - O Monstro de Denver"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-05T18:58:00-03:00",
+      "title": "O Culto da Morte - O Caso Andrea Yates"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-05T21:20:00-03:00",
+      "title": "Assassinos do Apocalipse - Lory Daybell"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-05T23:41:00-03:00",
+      "title": "O Massacre na Universidade de Idaho"
     }
   ],
-  "start_date": "2026-05-03"
+  "start_date": "2026-05-04"
 }

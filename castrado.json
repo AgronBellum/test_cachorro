@@ -1,15 +1,156 @@
 {
   "metadata": {
     "total": 121,
-    "success": 111,
+    "success": 121,
     "categories": 8,
-    "date": "2026-05-06T00:04:01.504Z",
+    "date": "2026-05-06T00:04:35.099Z",
     "version": "EXTRACTOR_APP_V1"
   },
   "categorias": {
     "documentarios": {
       "nome": "Documentários",
-      "canais": []
+      "canais": [
+        {
+          "id": "animalplanet",
+          "name": "Animal Planet",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/animalplanet.m3u8",
+          "headers": {
+            "referer": "https://w2.embedtv.live/",
+            "origin": "https://w2.embedtv.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
+        },
+        {
+          "id": "discoverychannel",
+          "name": "Discovery Channel",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/discoverychannel.m3u8",
+          "headers": {
+            "referer": "https://w2.embedtv.live/",
+            "origin": "https://w2.embedtv.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
+        },
+        {
+          "id": "discoveryhh",
+          "name": "Discovery H&H",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/discoveryhh.m3u8",
+          "headers": {
+            "referer": "https://w2.embedtv.live/",
+            "origin": "https://w2.embedtv.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
+        },
+        {
+          "id": "discoveryid",
+          "name": "Discovery ID",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/discoveryid.m3u8",
+          "headers": {
+            "referer": "https://w2.embedtv.live/",
+            "origin": "https://w2.embedtv.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
+        },
+        {
+          "id": "discoveryscience",
+          "name": "Discovery Science",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/discoveryscience.m3u8",
+          "headers": {
+            "referer": "https://w2.embedtv.live/",
+            "origin": "https://w2.embedtv.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
+        },
+        {
+          "id": "discoverytheather",
+          "name": "Discovery Theater",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/discoverytheather.m3u8",
+          "headers": {
+            "referer": "https://w2.embedtv.live/",
+            "origin": "https://w2.embedtv.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
+        },
+        {
+          "id": "discoveryturbo",
+          "name": "Discovery Turbo",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/discoveryturbo.m3u8",
+          "headers": {
+            "referer": "https://w2.embedtv.live/",
+            "origin": "https://w2.embedtv.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
+        },
+        {
+          "id": "discoveryworld",
+          "name": "Discovery World",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/discoveryworld.m3u8",
+          "headers": {
+            "referer": "https://w2.embedtv.live/",
+            "origin": "https://w2.embedtv.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
+        },
+        {
+          "id": "history",
+          "name": "History",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/history.m3u8",
+          "headers": {
+            "referer": "https://w2.embedtv.live/",
+            "origin": "https://w2.embedtv.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
+        },
+        {
+          "id": "history2",
+          "name": "History 2",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/history2.m3u8",
+          "headers": {
+            "referer": "https://w2.embedtv.live/",
+            "origin": "https://w2.embedtv.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
+        }
+      ]
     },
     "filmes_series": {
       "nome": "Filmes e Séries",
@@ -561,7 +702,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -575,7 +716,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -589,7 +730,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -603,7 +744,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -617,7 +758,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -631,7 +772,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -645,7 +786,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -659,7 +800,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -673,7 +814,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -687,7 +828,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -701,7 +842,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -715,7 +856,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -729,7 +870,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -743,7 +884,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -757,7 +898,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -771,7 +912,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -785,7 +926,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -799,7 +940,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -813,7 +954,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -827,7 +968,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         }
@@ -846,7 +987,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -860,7 +1001,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -874,7 +1015,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -888,7 +1029,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -902,7 +1043,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -916,7 +1057,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -930,7 +1071,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -944,7 +1085,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -958,7 +1099,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -972,7 +1113,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -986,7 +1127,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1000,7 +1141,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1014,7 +1155,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1028,7 +1169,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1042,7 +1183,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1056,7 +1197,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1070,7 +1211,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1084,7 +1225,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1098,7 +1239,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1112,7 +1253,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1126,7 +1267,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1140,7 +1281,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1154,7 +1295,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1168,7 +1309,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1182,7 +1323,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1196,7 +1337,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1210,7 +1351,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1224,7 +1365,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1238,7 +1379,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1252,7 +1393,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1266,7 +1407,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1280,7 +1421,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1294,7 +1435,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1308,7 +1449,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1322,7 +1463,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         }
@@ -1341,7 +1482,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1355,7 +1496,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1369,7 +1510,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1383,7 +1524,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1397,7 +1538,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1411,7 +1552,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1425,7 +1566,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1439,7 +1580,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1453,7 +1594,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         }
@@ -1472,7 +1613,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1486,7 +1627,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         }
@@ -1505,7 +1646,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1519,7 +1660,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         }
@@ -1538,7 +1679,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1552,7 +1693,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1566,7 +1707,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1580,7 +1721,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         },
@@ -1594,7 +1735,7 @@
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
           },
           "status": "success"
         }
@@ -1605,62 +1746,142 @@
     {
       "id": "animalplanet",
       "name": "Animal Planet",
-      "status": "error",
-      "error": "page.goto: Timeout 6000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://w2.embedtv.live/animalplanet\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "categoryId": "documentarios",
+      "categoryName": "Documentários",
+      "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/animalplanet.m3u8",
+      "headers": {
+        "referer": "https://w2.embedtv.live/",
+        "origin": "https://w2.embedtv.live/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": ""
+      },
+      "status": "success"
     },
     {
       "id": "discoverychannel",
       "name": "Discovery Channel",
-      "status": "error",
-      "error": "page.goto: Timeout 6000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://w2.embedtv.live/discoverychannel\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "categoryId": "documentarios",
+      "categoryName": "Documentários",
+      "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/discoverychannel.m3u8",
+      "headers": {
+        "referer": "https://w2.embedtv.live/",
+        "origin": "https://w2.embedtv.live/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": ""
+      },
+      "status": "success"
     },
     {
       "id": "discoveryhh",
       "name": "Discovery H&H",
-      "status": "error",
-      "error": "page.goto: Timeout 6000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://w2.embedtv.live/discoveryhh\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "categoryId": "documentarios",
+      "categoryName": "Documentários",
+      "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/discoveryhh.m3u8",
+      "headers": {
+        "referer": "https://w2.embedtv.live/",
+        "origin": "https://w2.embedtv.live/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": ""
+      },
+      "status": "success"
     },
     {
       "id": "discoveryid",
       "name": "Discovery ID",
-      "status": "error",
-      "error": "page.goto: Timeout 6000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://w2.embedtv.live/discoveryid\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "categoryId": "documentarios",
+      "categoryName": "Documentários",
+      "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/discoveryid.m3u8",
+      "headers": {
+        "referer": "https://w2.embedtv.live/",
+        "origin": "https://w2.embedtv.live/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": ""
+      },
+      "status": "success"
     },
     {
       "id": "discoveryscience",
       "name": "Discovery Science",
-      "status": "error",
-      "error": "page.goto: Timeout 6000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://w2.embedtv.live/discoveryscience\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "categoryId": "documentarios",
+      "categoryName": "Documentários",
+      "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/discoveryscience.m3u8",
+      "headers": {
+        "referer": "https://w2.embedtv.live/",
+        "origin": "https://w2.embedtv.live/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": ""
+      },
+      "status": "success"
     },
     {
       "id": "discoverytheather",
       "name": "Discovery Theater",
-      "status": "error",
-      "error": "page.goto: Timeout 6000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://w2.embedtv.live/discoverytheather\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "categoryId": "documentarios",
+      "categoryName": "Documentários",
+      "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/discoverytheather.m3u8",
+      "headers": {
+        "referer": "https://w2.embedtv.live/",
+        "origin": "https://w2.embedtv.live/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": ""
+      },
+      "status": "success"
     },
     {
       "id": "discoveryturbo",
       "name": "Discovery Turbo",
-      "status": "error",
-      "error": "page.goto: Timeout 6000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://w2.embedtv.live/discoveryturbo\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "categoryId": "documentarios",
+      "categoryName": "Documentários",
+      "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/discoveryturbo.m3u8",
+      "headers": {
+        "referer": "https://w2.embedtv.live/",
+        "origin": "https://w2.embedtv.live/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": ""
+      },
+      "status": "success"
     },
     {
       "id": "discoveryworld",
       "name": "Discovery World",
-      "status": "error",
-      "error": "page.goto: Timeout 6000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://w2.embedtv.live/discoveryworld\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "categoryId": "documentarios",
+      "categoryName": "Documentários",
+      "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/discoveryworld.m3u8",
+      "headers": {
+        "referer": "https://w2.embedtv.live/",
+        "origin": "https://w2.embedtv.live/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": ""
+      },
+      "status": "success"
     },
     {
       "id": "history",
       "name": "History",
-      "status": "error",
-      "error": "page.goto: Timeout 6000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://w2.embedtv.live/history\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "categoryId": "documentarios",
+      "categoryName": "Documentários",
+      "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/history.m3u8",
+      "headers": {
+        "referer": "https://w2.embedtv.live/",
+        "origin": "https://w2.embedtv.live/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": ""
+      },
+      "status": "success"
     },
     {
       "id": "history2",
       "name": "History 2",
-      "status": "error",
-      "error": "page.goto: Timeout 6000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://w2.embedtv.live/history2\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "categoryId": "documentarios",
+      "categoryName": "Documentários",
+      "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/history2.m3u8",
+      "headers": {
+        "referer": "https://w2.embedtv.live/",
+        "origin": "https://w2.embedtv.live/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": ""
+      },
+      "status": "success"
     },
     {
       "id": "ae",
@@ -2204,7 +2425,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2218,7 +2439,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2232,7 +2453,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2246,7 +2467,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2260,7 +2481,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2274,7 +2495,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2288,7 +2509,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2302,7 +2523,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2316,7 +2537,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2330,7 +2551,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2344,7 +2565,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2358,7 +2579,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2372,7 +2593,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2386,7 +2607,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2400,7 +2621,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2414,7 +2635,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2428,7 +2649,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2442,7 +2663,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2456,7 +2677,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2470,7 +2691,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2484,7 +2705,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2498,7 +2719,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2512,7 +2733,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2526,7 +2747,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2540,7 +2761,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2554,7 +2775,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2568,7 +2789,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2582,7 +2803,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2596,7 +2817,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2610,7 +2831,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2624,7 +2845,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2638,7 +2859,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2652,7 +2873,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2666,7 +2887,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2680,7 +2901,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2694,7 +2915,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2708,7 +2929,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2722,7 +2943,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2736,7 +2957,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2750,7 +2971,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2764,7 +2985,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2778,7 +2999,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2792,7 +3013,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2806,7 +3027,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2820,7 +3041,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2834,7 +3055,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2848,7 +3069,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2862,7 +3083,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2876,7 +3097,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2890,7 +3111,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2904,7 +3125,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2918,7 +3139,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2932,7 +3153,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2946,7 +3167,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2960,7 +3181,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2974,7 +3195,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -2988,7 +3209,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -3002,7 +3223,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -3016,7 +3237,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -3030,7 +3251,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -3044,7 +3265,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -3058,7 +3279,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -3072,7 +3293,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -3086,7 +3307,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -3100,7 +3321,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -3114,7 +3335,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -3128,7 +3349,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -3142,7 +3363,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -3156,7 +3377,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -3170,7 +3391,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -3184,7 +3405,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -3198,7 +3419,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     },
@@ -3212,7 +3433,7 @@
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032e68b7194ba9f82c9155ede870e9"
       },
       "status": "success"
     }

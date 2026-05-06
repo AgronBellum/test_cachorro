@@ -1,156 +1,15 @@
 {
   "metadata": {
     "total": 121,
-    "success": 121,
+    "success": 111,
     "categories": 8,
-    "date": "2026-05-05T18:24:59.707Z",
+    "date": "2026-05-06T00:04:01.504Z",
     "version": "EXTRACTOR_APP_V1"
   },
   "categorias": {
     "documentarios": {
       "nome": "Documentários",
-      "canais": [
-        {
-          "id": "animalplanet",
-          "name": "Animal Planet",
-          "categoryId": "documentarios",
-          "categoryName": "Documentários",
-          "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/animalplanet.m3u8",
-          "headers": {
-            "referer": "https://w2.embedtv.live/",
-            "origin": "https://w2.embedtv.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
-          },
-          "status": "success"
-        },
-        {
-          "id": "discoverychannel",
-          "name": "Discovery Channel",
-          "categoryId": "documentarios",
-          "categoryName": "Documentários",
-          "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/discoverychannel.m3u8",
-          "headers": {
-            "referer": "https://w2.embedtv.live/",
-            "origin": "https://w2.embedtv.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
-          },
-          "status": "success"
-        },
-        {
-          "id": "discoveryhh",
-          "name": "Discovery H&H",
-          "categoryId": "documentarios",
-          "categoryName": "Documentários",
-          "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/discoveryhh.m3u8",
-          "headers": {
-            "referer": "https://w2.embedtv.live/",
-            "origin": "https://w2.embedtv.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
-          },
-          "status": "success"
-        },
-        {
-          "id": "discoveryid",
-          "name": "Discovery ID",
-          "categoryId": "documentarios",
-          "categoryName": "Documentários",
-          "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/discoveryid.m3u8",
-          "headers": {
-            "referer": "https://w2.embedtv.live/",
-            "origin": "https://w2.embedtv.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
-          },
-          "status": "success"
-        },
-        {
-          "id": "discoveryscience",
-          "name": "Discovery Science",
-          "categoryId": "documentarios",
-          "categoryName": "Documentários",
-          "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/discoveryscience.m3u8",
-          "headers": {
-            "referer": "https://w2.embedtv.live/",
-            "origin": "https://w2.embedtv.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
-          },
-          "status": "success"
-        },
-        {
-          "id": "discoverytheather",
-          "name": "Discovery Theater",
-          "categoryId": "documentarios",
-          "categoryName": "Documentários",
-          "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/discoverytheather.m3u8",
-          "headers": {
-            "referer": "https://w2.embedtv.live/",
-            "origin": "https://w2.embedtv.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
-          },
-          "status": "success"
-        },
-        {
-          "id": "discoveryturbo",
-          "name": "Discovery Turbo",
-          "categoryId": "documentarios",
-          "categoryName": "Documentários",
-          "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/discoveryturbo.m3u8",
-          "headers": {
-            "referer": "https://w2.embedtv.live/",
-            "origin": "https://w2.embedtv.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
-          },
-          "status": "success"
-        },
-        {
-          "id": "discoveryworld",
-          "name": "Discovery World",
-          "categoryId": "documentarios",
-          "categoryName": "Documentários",
-          "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/discoveryworld.m3u8",
-          "headers": {
-            "referer": "https://w2.embedtv.live/",
-            "origin": "https://w2.embedtv.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
-          },
-          "status": "success"
-        },
-        {
-          "id": "history",
-          "name": "History",
-          "categoryId": "documentarios",
-          "categoryName": "Documentários",
-          "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/history.m3u8",
-          "headers": {
-            "referer": "https://w2.embedtv.live/",
-            "origin": "https://w2.embedtv.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
-          },
-          "status": "success"
-        },
-        {
-          "id": "history2",
-          "name": "History 2",
-          "categoryId": "documentarios",
-          "categoryName": "Documentários",
-          "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/history2.m3u8",
-          "headers": {
-            "referer": "https://w2.embedtv.live/",
-            "origin": "https://w2.embedtv.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
-          },
-          "status": "success"
-        }
-      ]
+      "canais": []
     },
     "filmes_series": {
       "nome": "Filmes e Séries",
@@ -1746,142 +1605,62 @@
     {
       "id": "animalplanet",
       "name": "Animal Planet",
-      "categoryId": "documentarios",
-      "categoryName": "Documentários",
-      "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/animalplanet.m3u8",
-      "headers": {
-        "referer": "https://w2.embedtv.live/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
-      },
-      "status": "success"
+      "status": "error",
+      "error": "page.goto: Timeout 6000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://w2.embedtv.live/animalplanet\", waiting until \"domcontentloaded\"\u001b[22m\n"
     },
     {
       "id": "discoverychannel",
       "name": "Discovery Channel",
-      "categoryId": "documentarios",
-      "categoryName": "Documentários",
-      "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/discoverychannel.m3u8",
-      "headers": {
-        "referer": "https://w2.embedtv.live/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
-      },
-      "status": "success"
+      "status": "error",
+      "error": "page.goto: Timeout 6000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://w2.embedtv.live/discoverychannel\", waiting until \"domcontentloaded\"\u001b[22m\n"
     },
     {
       "id": "discoveryhh",
       "name": "Discovery H&H",
-      "categoryId": "documentarios",
-      "categoryName": "Documentários",
-      "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/discoveryhh.m3u8",
-      "headers": {
-        "referer": "https://w2.embedtv.live/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
-      },
-      "status": "success"
+      "status": "error",
+      "error": "page.goto: Timeout 6000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://w2.embedtv.live/discoveryhh\", waiting until \"domcontentloaded\"\u001b[22m\n"
     },
     {
       "id": "discoveryid",
       "name": "Discovery ID",
-      "categoryId": "documentarios",
-      "categoryName": "Documentários",
-      "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/discoveryid.m3u8",
-      "headers": {
-        "referer": "https://w2.embedtv.live/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
-      },
-      "status": "success"
+      "status": "error",
+      "error": "page.goto: Timeout 6000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://w2.embedtv.live/discoveryid\", waiting until \"domcontentloaded\"\u001b[22m\n"
     },
     {
       "id": "discoveryscience",
       "name": "Discovery Science",
-      "categoryId": "documentarios",
-      "categoryName": "Documentários",
-      "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/discoveryscience.m3u8",
-      "headers": {
-        "referer": "https://w2.embedtv.live/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
-      },
-      "status": "success"
+      "status": "error",
+      "error": "page.goto: Timeout 6000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://w2.embedtv.live/discoveryscience\", waiting until \"domcontentloaded\"\u001b[22m\n"
     },
     {
       "id": "discoverytheather",
       "name": "Discovery Theater",
-      "categoryId": "documentarios",
-      "categoryName": "Documentários",
-      "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/discoverytheather.m3u8",
-      "headers": {
-        "referer": "https://w2.embedtv.live/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
-      },
-      "status": "success"
+      "status": "error",
+      "error": "page.goto: Timeout 6000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://w2.embedtv.live/discoverytheather\", waiting until \"domcontentloaded\"\u001b[22m\n"
     },
     {
       "id": "discoveryturbo",
       "name": "Discovery Turbo",
-      "categoryId": "documentarios",
-      "categoryName": "Documentários",
-      "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/discoveryturbo.m3u8",
-      "headers": {
-        "referer": "https://w2.embedtv.live/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
-      },
-      "status": "success"
+      "status": "error",
+      "error": "page.goto: Timeout 6000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://w2.embedtv.live/discoveryturbo\", waiting until \"domcontentloaded\"\u001b[22m\n"
     },
     {
       "id": "discoveryworld",
       "name": "Discovery World",
-      "categoryId": "documentarios",
-      "categoryName": "Documentários",
-      "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/discoveryworld.m3u8",
-      "headers": {
-        "referer": "https://w2.embedtv.live/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
-      },
-      "status": "success"
+      "status": "error",
+      "error": "page.goto: Timeout 6000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://w2.embedtv.live/discoveryworld\", waiting until \"domcontentloaded\"\u001b[22m\n"
     },
     {
       "id": "history",
       "name": "History",
-      "categoryId": "documentarios",
-      "categoryName": "Documentários",
-      "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/history.m3u8",
-      "headers": {
-        "referer": "https://w2.embedtv.live/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
-      },
-      "status": "success"
+      "status": "error",
+      "error": "page.goto: Timeout 6000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://w2.embedtv.live/history\", waiting until \"domcontentloaded\"\u001b[22m\n"
     },
     {
       "id": "history2",
       "name": "History 2",
-      "categoryId": "documentarios",
-      "categoryName": "Documentários",
-      "m3u8_url": "https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/history2.m3u8",
-      "headers": {
-        "referer": "https://w2.embedtv.live/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
-      },
-      "status": "success"
+      "status": "error",
+      "error": "page.goto: Timeout 6000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://w2.embedtv.live/history2\", waiting until \"domcontentloaded\"\u001b[22m\n"
     },
     {
       "id": "ae",

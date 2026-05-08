@@ -1,128 +1,128 @@
 {
-  "end_date": "2026-05-07",
+  "end_date": "2026-05-08",
   "name": "Globo RBS TV POA",
   "provider": "mi.tv",
   "epg_list": [
     {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-05-07T00:00:00-03:00",
+      "start_date": "2026-05-08T00:00:00-03:00",
       "title": "Jornal da Globo"
     },
     {
-      "desc": "Um jovem médico com autismo vindo da calma vida do interior começa a trabalhar em um famoso hospital. Além dos desafios da profissão, Shaun Murphy precisa provar sua capacidade a seus colegas e superiores.",
-      "start_date": "2026-05-07T00:45:00-03:00",
-      "title": "The Good Doctor - O Bom Doutor"
-    },
-    {
-      "desc": "Chinua e Dumi acreditam que sofrerão retaliação de Jendal por fuga de Omar. Virgínia pensa em marcar data de seu noivado para o mesmo dia da inauguração do ateliê de Alika/Lúcia. Dumi encontra Omar e ajuda a mantê-lo escondido dos soldados de Jendal.",
-      "start_date": "2026-05-07T01:30:00-03:00",
+      "desc": "José afirma a Alika que ela o colocará em risco caso revele a verdade a Tonho e Graça incentiva Mirinho a se concentrar em seu casamento com Virgínia.",
+      "start_date": "2026-05-08T00:50:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
-      "desc": "Gael apoia Naiane após ter sido barrada no camarim de João Raul. Bara provoca Ronei por ter deixado Agrado e Eduarda escapar de seu agenciamento. João Raul se preocupa ao saber da ida de Naiane ao show.",
-      "start_date": "2026-05-07T02:15:00-03:00",
+      "desc": "Alana contata Alaorzinho. Zilá pensa em como se reaproximar dos Amaral, e tenta conquistar a simpatia de Zuzu.",
+      "start_date": "2026-05-08T01:30:00-03:00",
       "title": "Coração Acelerado"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-05-07T03:00:00-03:00",
+      "start_date": "2026-05-08T02:15:00-03:00",
       "title": "Vai que Cola"
     },
     {
-      "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
-      "start_date": "2026-05-07T04:00:00-03:00",
-      "title": "Hora 1"
+      "desc": "Pedro trabalha em uma grande empresa estatal, que em breve será privatizada. Pressionado por um cruel processo de reestruturação, ele tem que demitir sua equipe e antecipar a sua aposentadoria. Aposentado e com uma doença na pele, decide se separar da família e mudar para Barbosa, sua pequena cidade natal, no interior distante. Lá, ele descobre que a onça-pintada que habitava a floresta ao redor de Barbosa, no tempo da sua infância, está mais viva do que nunca.",
+      "start_date": "2026-05-08T02:55:00-03:00",
+      "title": "Homem Onça"
+    },
+    {
+      "desc": "A vida de Alfredo da Rocha Vianna Junior, o Pixinguinha, contada desde suas primeiras apresentações na flauta até a composição de suas muitas obras-primas, como \"Carinhoso\". Negro e neto de escravos, ele foi um gênio à frente de seu tempo.",
+      "start_date": "2026-05-08T04:30:00-03:00",
+      "title": "Pixinguinha - Um Homem Carinhoso"
     },
     {
       "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
-      "start_date": "2026-05-07T06:00:00-03:00",
+      "start_date": "2026-05-08T06:00:00-03:00",
       "title": "Bom Dia Rio Grande"
     },
     {
       "desc": "Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.",
-      "start_date": "2026-05-07T08:30:00-03:00",
+      "start_date": "2026-05-08T08:30:00-03:00",
       "title": "Bom Dia Brasil"
     },
     {
       "desc": "O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.",
-      "start_date": "2026-05-07T09:30:00-03:00",
+      "start_date": "2026-05-08T09:30:00-03:00",
       "title": "Encontro com Patrícia Poeta"
     },
     {
       "desc": "Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.",
-      "start_date": "2026-05-07T10:35:00-03:00",
+      "start_date": "2026-05-08T10:35:00-03:00",
       "title": "Mais Você"
     },
     {
       "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-05-07T11:45:00-03:00",
+      "start_date": "2026-05-08T11:45:00-03:00",
       "title": "Jornal do Almoço"
     },
     {
       "desc": "Confira as últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.",
-      "start_date": "2026-05-07T13:00:00-03:00",
+      "start_date": "2026-05-08T13:00:00-03:00",
       "title": "Globo Esporte RS"
     },
     {
       "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
-      "start_date": "2026-05-07T13:25:00-03:00",
+      "start_date": "2026-05-08T13:25:00-03:00",
       "title": "Jornal Hoje"
     },
     {
       "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
-      "start_date": "2026-05-07T14:45:00-03:00",
+      "start_date": "2026-05-08T14:45:00-03:00",
       "title": "Além do Tempo - Edição Especial"
     },
     {
       "desc": "Uma parte da história da formação da sociedade brasileira do início do século XX é contada a partir do romance de dois jovens italianos, Giuliana e Matteo. Eles se conhecem em 1894 a bordo do navio que transporta imigrantes para trabalhar no Brasil.",
-      "start_date": "2026-05-07T15:05:00-03:00",
+      "start_date": "2026-05-08T15:05:00-03:00",
       "title": "Terra Nostra - Edição Especial"
     },
     {
-      "desc": "Ângela Cristina, mãe da adolescente Maria de Lourdes, precisa lidar com as dificuldades e delícias de guiar sua filha durante uma das fases mais complicadas da vida. Ela vive uma montanha-russa de emoções, medos e frustrações. Por outro lado, a filha Malu, como prefere ser chamada, também tem suas insatisfações.",
-      "start_date": "2026-05-07T15:45:00-03:00",
-      "title": "Fala Sério, Mãe!"
+      "desc": "Durante um passeio com a família em um lago, o menino John Smith, de apenas 14 anos, sofre uma queda e se afoga por mais de 15 minutos. No hospital, John é considerado morto por mais de uma hora até que sua mãe, Joyce Smith, ao lado do pai e de um pastor, junta todas as suas forças e pede a Deus para que seu filho sobreviva. Sua prece poderosa é responsável por um milagre inédito.",
+      "start_date": "2026-05-08T15:50:00-03:00",
+      "title": "Superação - O Milagre da Fé"
     },
     {
-      "desc": "Lucinda pede para Débora esquecer Jorginho. Carminha não entende qual o motivo de Jorginho terminar seu noivado. Nina omite grande revelação. Nina vasculha o celular de Carminha. Carminha e Max se encontram em local escondido. Nina vê Débora e Jorginho se beijando.",
-      "start_date": "2026-05-07T17:20:00-03:00",
+      "desc": "Debora e Jorginho discutem devido a Nina; Nina fica pensativa com a proposta de Jorginho; Nina pede demissão do seu trabalho; Carminha pede explicações a Nina; Suelen dá fora em Irã; Carminha e Tufão falam sobre Nina; Tufão é assaltado.",
+      "start_date": "2026-05-08T17:30:00-03:00",
       "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
-      "desc": "Chinua e Dumi acreditam que sofrerão retaliação de Jendal por fuga de Omar. Virgínia pensa em marcar data de seu noivado para o mesmo dia da inauguração do ateliê de Alika/Lúcia. Dumi encontra Omar e ajuda a mantê-lo escondido dos soldados de Jendal.",
-      "start_date": "2026-05-07T18:25:00-03:00",
+      "desc": "José afirma a Alika que ela o colocará em risco caso revele a verdade a Tonho e Graça incentiva Mirinho a se concentrar em seu casamento com Virgínia.",
+      "start_date": "2026-05-08T18:25:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-05-07T19:10:00-03:00",
+      "start_date": "2026-05-08T19:10:00-03:00",
       "title": "RBS Notícias"
     },
     {
-      "desc": "Gael apoia Naiane após ter sido barrada no camarim de João Raul. Bara provoca Ronei por ter deixado Agrado e Eduarda escapar de seu agenciamento. João Raul se preocupa ao saber da ida de Naiane ao show.",
-      "start_date": "2026-05-07T19:40:00-03:00",
+      "desc": "Alana contata Alaorzinho. Zilá pensa em como se reaproximar dos Amaral, e tenta conquistar a simpatia de Zuzu.",
+      "start_date": "2026-05-08T19:40:00-03:00",
       "title": "Coração Acelerado"
     },
     {
       "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-05-07T20:30:00-03:00",
+      "start_date": "2026-05-08T20:30:00-03:00",
       "title": "Jornal Nacional"
     },
     {
       "desc": "Gerluce Maria das Graças integra uma família de mães solo: é filha de Lígia Maria e mãe de Joélly Maria. Criada pela mãe, que engravidou na adolescência e foi abandonada pelo seu pai, Gerluce enfrenta um destino parecido com a chegada da filha.",
-      "start_date": "2026-05-07T21:20:00-03:00",
+      "start_date": "2026-05-08T21:20:00-03:00",
       "title": "Três Graças"
     },
     {
-      "desc": "Rosa e Josué se encontram; a ação dos cangaceiros em Santa Cruz resulta em uma intensa troca de tiros; sob ordem judicial, Rosa e Otília voltam para a fazenda, sob protestos de Idálio.",
-      "start_date": "2026-05-07T22:25:00-03:00",
+      "desc": "Inconformada com o atentado sofrido por Jânia, Valiana confronta Arduíno; Petúnia junta-se ao bando e é recebida por Rosa; Coronel Nogueira avisa Arduíno que Josué irá atacar Santa Cruz.",
+      "start_date": "2026-05-08T22:25:00-03:00",
       "title": "Guerreiros do Sol"
     },
     {
-      "desc": "",
-      "start_date": "2026-05-07T23:15:00-03:00",
-      "title": "Inesperadas"
+      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
+      "start_date": "2026-05-08T23:10:00-03:00",
+      "title": "Globo Repórter"
     }
   ],
-  "start_date": "2026-05-07"
+  "start_date": "2026-05-08"
 }

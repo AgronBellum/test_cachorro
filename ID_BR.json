@@ -1,128 +1,8 @@
 {
-  "end_date": "2026-05-10",
+  "end_date": "2026-05-11",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
-    {
-      "desc": "",
-      "start_date": "2026-05-08T00:33:00-03:00",
-      "title": "O Lado Obscuro da Fama"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-08T01:21:00-03:00",
-      "title": "Morte no Velho Oeste"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-08T02:09:00-03:00",
-      "title": "Cidade Pacata, Crime Cruel"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-08T02:53:00-03:00",
-      "title": "Lobo em Pele de Cordeiro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-08T03:40:00-03:00",
-      "title": "Um Assassino entre Amigos"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-08T04:24:00-03:00",
-      "title": "Vivendo com o Inimigo - Sombras da Morte"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-08T05:12:00-03:00",
-      "title": "Chamadas Criminosas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-08T06:00:00-03:00",
-      "title": "Morte no Velho Oeste"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-08T06:48:00-03:00",
-      "title": "Vivendo com o Inimigo - Sombras da Morte"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-08T07:36:00-03:00",
-      "title": "Lobo em Pele de Cordeiro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-08T08:25:00-03:00",
-      "title": "Um Assassino entre Amigos"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-08T09:14:00-03:00",
-      "title": "Cidade Pacata, Crime Cruel"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-08T10:03:00-03:00",
-      "title": "Chamadas Criminosas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-08T10:52:00-03:00",
-      "title": "Vivendo com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-08T11:41:00-03:00",
-      "title": "Sinais de um Psicopata"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-08T12:29:00-03:00",
-      "title": "Lobo em Pele de Cordeiro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-08T14:06:00-03:00",
-      "title": "Desaparecidos"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-08T15:44:00-03:00",
-      "title": "Cidade Pacata, Crime Cruel"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-08T17:22:00-03:00",
-      "title": "Vivendo com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-08T18:10:00-03:00",
-      "title": "Olhos Da Lei"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-08T18:58:00-03:00",
-      "title": "Lobo em Pele de Cordeiro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-08T20:36:00-03:00",
-      "title": "O Curioso Caso de Natalia Grace - A Confissão"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-08T22:09:00-03:00",
-      "title": "O Curioso Caso de..."
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-08T22:53:00-03:00",
-      "title": "O Lado Sombrio de Hollywood"
-    },
     {
       "desc": "",
       "start_date": "2026-05-09T00:33:00-03:00",
@@ -242,7 +122,127 @@
       "desc": "",
       "start_date": "2026-05-09T22:53:00-03:00",
       "title": "O Lado Sombrio de Hollywood"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-10T00:33:00-03:00",
+      "title": "O Lado Obscuro da Fama"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-10T01:21:00-03:00",
+      "title": "Morte no Velho Oeste"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-10T02:09:00-03:00",
+      "title": "Cidade Pacata, Crime Cruel"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-10T02:53:00-03:00",
+      "title": "Lobo em Pele de Cordeiro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-10T03:40:00-03:00",
+      "title": "Um Assassino entre Amigos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-10T04:24:00-03:00",
+      "title": "Vivendo com o Inimigo - Sombras da Morte"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-10T05:12:00-03:00",
+      "title": "Chamadas Criminosas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-10T06:00:00-03:00",
+      "title": "Morte no Velho Oeste"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-10T06:48:00-03:00",
+      "title": "Vivendo com o Inimigo - Sombras da Morte"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-10T07:36:00-03:00",
+      "title": "Lobo em Pele de Cordeiro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-10T08:25:00-03:00",
+      "title": "Um Assassino entre Amigos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-10T09:14:00-03:00",
+      "title": "Cidade Pacata, Crime Cruel"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-10T10:03:00-03:00",
+      "title": "Chamadas Criminosas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-10T10:52:00-03:00",
+      "title": "Vivendo com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-10T11:41:00-03:00",
+      "title": "Sinais de um Psicopata"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-10T12:29:00-03:00",
+      "title": "Lobo em Pele de Cordeiro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-10T14:06:00-03:00",
+      "title": "Desaparecidos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-10T15:44:00-03:00",
+      "title": "Cidade Pacata, Crime Cruel"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-10T17:22:00-03:00",
+      "title": "Vivendo com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-10T18:10:00-03:00",
+      "title": "Olhos Da Lei"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-10T18:58:00-03:00",
+      "title": "Lobo em Pele de Cordeiro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-10T20:36:00-03:00",
+      "title": "O Curioso Caso de Natalia Grace - A Confissão"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-10T22:09:00-03:00",
+      "title": "O Curioso Caso de..."
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-10T22:53:00-03:00",
+      "title": "O Lado Sombrio de Hollywood"
     }
   ],
-  "start_date": "2026-05-08"
+  "start_date": "2026-05-09"
 }

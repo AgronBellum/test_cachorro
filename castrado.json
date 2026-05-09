@@ -80,6 +80,20 @@
           },
           "status": "success"
         },
+         {
+          "id": "crimeid",
+          "name": "Crimes e Investigação",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "m3u8_url": " https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/f7171440-1a68-4c13-938f-5c79b816d87e/0.m3u8",
+          "headers": {
+            "referer": "https://5embeddecanais.xyz/",
+            "origin": "https://w2.embedtv.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
+        },
         {
           "id": "discoveryscience",
           "name": "Discovery Science",

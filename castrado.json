@@ -24,6 +24,20 @@
           },
           "status": "success"
         },
+         {
+          "id": "mundoanimal",
+          "name": "Mundo Animal",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "m3u8_url": "https://amg01576-amg01576c12-plex-us-11251.playouts.now.amagi.tv/1080p-cc-por/index.m3u8",
+          "headers": {
+            "referer": "https://5embeddecanais.xyz/",
+            "origin": "https://w2.embedtv.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "_ga=GA1.1.1968174901.1778311572; _ga_2T9N2RHEW3=GS2.1.s1778311572$o1$g1$t1778311572$j60$l0$h0"
+          },
+          "status": "success"
+        },
         {
           "id": "discoverychannel",
           "name": "Discovery Channel",
@@ -2738,10 +2752,19 @@
       },
       "status": "success"
     },
-    {
+     {
       "id": "masterchef",
-      "name": "Master chef",
-      "status": "failed"
+      "name": "Master Chef",
+      "categoryId": "food",
+      "categoryName": "Receitas e Culinária",
+      "m3u8_url": "https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/cb573d197c6c678c84cb3967cef64282bb7b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da71b813727616719a86b262c9ee475ae98710282ab27a1e50fe0f05a67c1177dfe60247d468e5375551ac51360667dfeb5cab6b56978703967e28ddacc0336d7508429a5f0cb6f65ca4f6e65816d10e1c802669adf5a804b368fba67ea9b6a619cf09df2ad33ca7a093faf38e564ba3499434ed211d50625c94856b9aca5cccb4f2adb32e105a212e50eaac87ff5d7efa2fdeed4a9eb9dd57cc69bfbb2c8e2010a901964b81708e64ea3ab2ed04c7c7de86141169f4961c0975d1002bbb234b96e2c6820d7eeef0b9d2dcb43236e860dd30223b91b2f8158bfc2597a32f8a8e997c52f0bc4a8194be8feeffd804cc6582f0fd96394d5970442cb21df3ca238b729d4fa1c04575070d5cfbce0e8494cf0461371fc8d01794341ebad084cc8d5e6a9a304a0ab920ff521769ca3b7433b478a9d46c1efc4c60b23c33ff57229302ade85e9289efa5576bfb8ebd079508c2ba10dbfa0ea8174d7f0ba1f72a505d0c3090d96f033476d456a6b4eee4640214e3e7c79c9904d866d4b0c9a3edcbbbf58672a368287cb85e812effd645/97/848x480_1686360/index.m3u8",
+      "headers": {
+        "referer": "https://5embeddecanais.xyz/",
+        "origin": "https://w2.embedtv.live/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312246$j52$l0$h0"
+      },
+      "status": "success"
     },
     {
       "id": "casadopatrao01",

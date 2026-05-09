@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "total": 129,
-    "success": 94,
+    "total": 121,
+    "success": 117,
     "categories": 8,
-    "date": "2026-05-09T07:37:28.827Z",
-    "version": "EXTRACTOR_APP_V1"
+    "date": "2026-04-29T20:59:23.057Z",
+    "version": "FAST_V2"
   },
   "categorias": {
     "documentarios": {
@@ -15,26 +15,12 @@
           "name": "Animal Planet",
           "categoryId": "documentarios",
           "categoryName": "Documentários",
-          "m3u8_url": "https://0705.cdn10embed.xyz/animalplanet/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/animalplanet.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
-          },
-          "status": "success"
-        },
-         {
-          "id": "mundoanimal",
-          "name": "Mundo Animal",
-          "categoryId": "documentarios",
-          "categoryName": "Documentários",
-          "m3u8_url": "https://amg01576-amg01576c12-plex-us-11251.playouts.now.amagi.tv/1080p-cc-por/index.m3u8",
-          "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.1968174901.1778311572; _ga_2T9N2RHEW3=GS2.1.s1778311572$o1$g1$t1778311572$j60$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -43,12 +29,12 @@
           "name": "Discovery Channel",
           "categoryId": "documentarios",
           "categoryName": "Documentários",
-          "m3u8_url": "https://0705.cdn10embed.xyz/discoverychannel/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/discoverychannel.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -57,12 +43,12 @@
           "name": "Discovery H&H",
           "categoryId": "documentarios",
           "categoryName": "Documentários",
-          "m3u8_url": "https://0705.cdn10embed.xyz/discoveryhh/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/discoveryhh.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -71,26 +57,12 @@
           "name": "Discovery ID",
           "categoryId": "documentarios",
           "categoryName": "Documentários",
-          "m3u8_url": "https://0705.cdn10embed.xyz/discoveryid/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/discoveryid.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
-          },
-          "status": "success"
-        },
-         {
-          "id": "crimeid",
-          "name": "Crimes e Investigação",
-          "categoryId": "documentarios",
-          "categoryName": "Documentários",
-          "m3u8_url": " https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/f7171440-1a68-4c13-938f-5c79b816d87e/0.m3u8",
-          "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -99,12 +71,26 @@
           "name": "Discovery Science",
           "categoryId": "documentarios",
           "categoryName": "Documentários",
-          "m3u8_url": "https://0705.cdn10embed.xyz/discoveryscience/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/discoveryscience.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g0$t1778312238$j60$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          "status": "success"
+        },
+        {
+          "id": "discoverytheather",
+          "name": "Discovery Theater",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/discoverytheather.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -113,12 +99,12 @@
           "name": "Discovery Turbo",
           "categoryId": "documentarios",
           "categoryName": "Documentários",
-          "m3u8_url": "https://0705.cdn10embed.xyz/discoveryturbo/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/discoveryturbo.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -127,12 +113,12 @@
           "name": "Discovery World",
           "categoryId": "documentarios",
           "categoryName": "Documentários",
-          "m3u8_url": "https://0705.cdn10embed.xyz/discoveryworld/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/discoveryworld.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -141,12 +127,12 @@
           "name": "History",
           "categoryId": "documentarios",
           "categoryName": "Documentários",
-          "m3u8_url": "https://0705.cdn10embed.xyz/history/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/history.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g0$t1778312238$j60$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -155,12 +141,12 @@
           "name": "History 2",
           "categoryId": "documentarios",
           "categoryName": "Documentários",
-          "m3u8_url": "https://0705.cdn10embed.xyz/history2/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/history2.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         }
@@ -170,16 +156,16 @@
       "nome": "Filmes e Séries",
       "canais": [
         {
-          "id": "aee",
+          "id": "ae",
           "name": "AE",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://0705.cdn10embed.xyz/aee/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/ae.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -188,12 +174,12 @@
           "name": "AMC",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://0705.cdn10embed.xyz/amc/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/amc.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -202,12 +188,12 @@
           "name": "AXN",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://0705.cdn10embed.xyz/axn/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/axn.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -216,12 +202,12 @@
           "name": "Adult Swim",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://0705.cdn10embed.xyz/adultswim/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/adultswim.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -230,12 +216,12 @@
           "name": "Cinemax",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://0705.cdn10embed.xyz/cinemax/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/cinemax.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -244,12 +230,12 @@
           "name": "GNT",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://0705.cdn10embed.xyz/gnt/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/gnt.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -258,12 +244,12 @@
           "name": "HBO",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://0705.cdn10embed.xyz/hbo/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/hbo.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -272,12 +258,12 @@
           "name": "HBO 2",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://0705.cdn10embed.xyz/hbo2/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/hbo2.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -286,12 +272,12 @@
           "name": "HBO Family",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://0705.cdn10embed.xyz/hbofamily/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/hbofamily.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -300,12 +286,12 @@
           "name": "HBO Mundi",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://0705.cdn10embed.xyz/hbomundi/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/hbomundi.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -314,12 +300,12 @@
           "name": "HBO POP",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://0705.cdn10embed.xyz/hbopop/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/hbopop.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -328,12 +314,12 @@
           "name": "HBO Plus",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://0705.cdn10embed.xyz/hboplus/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/hboplus.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -342,12 +328,26 @@
           "name": "HBO Xtreme",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://0705.cdn10embed.xyz/hboxtreme/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/hboxtreme.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          "status": "success"
+        },
+        {
+          "id": "hgtv",
+          "name": "HGTV",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/hgtv.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -356,12 +356,26 @@
           "name": "Megapix",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://0705.cdn10embed.xyz/megapix/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/megapix.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          "status": "success"
+        },
+        {
+          "id": "off",
+          "name": "OFF",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/off.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -370,12 +384,12 @@
           "name": "Sony Channel",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://0705.cdn10embed.xyz/sonychannel/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/sonychannel.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -384,26 +398,61 @@
           "name": "Space",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://0705.cdn10embed.xyz/space/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/space.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
+        },
+        {
+          "id": "starchannel",
+          "name": "Star Channel",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "status": "failed"
         },
         {
           "id": "studiouniversal",
           "name": "Studio Universal",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://0705.cdn10embed.xyz/studiouniversal/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/studiouniversal.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          "status": "success"
+        },
+        {
+          "id": "tcm",
+          "name": "TCM",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/tcm.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          "status": "success"
+        },
+        {
+          "id": "tlc",
+          "name": "TLC",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/tlc.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -412,12 +461,12 @@
           "name": "TNT",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://0705.cdn10embed.xyz/tnt/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/tnt.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -426,12 +475,12 @@
           "name": "TNT Novelas",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://0705.cdn10embed.xyz/tntnovelas/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/tntnovelas.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -440,12 +489,96 @@
           "name": "TNT Series",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://0705.cdn10embed.xyz/tntseries/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/tntseries.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          "status": "success"
+        },
+        {
+          "id": "telecineaction",
+          "name": "Telecine Action",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/telecineaction.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          "status": "success"
+        },
+        {
+          "id": "telecinecult",
+          "name": "Telecine Cult",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/telecinecult.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          "status": "success"
+        },
+        {
+          "id": "telecinefun",
+          "name": "Telecine Fun",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/telecinefun.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          "status": "success"
+        },
+        {
+          "id": "telecinepipoca",
+          "name": "Telecine Pipoca",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/telecinepipoca.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          "status": "success"
+        },
+        {
+          "id": "telecinepremium",
+          "name": "Telecine Premium",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/telecinepremium.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          "status": "success"
+        },
+        {
+          "id": "telecinetouch",
+          "name": "Telecine Touch",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/telecinetouch.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -454,12 +587,26 @@
           "name": "Universal",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://0705.cdn10embed.xyz/universaltv/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/universaltv.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          "status": "success"
+        },
+        {
+          "id": "warnerchannel",
+          "name": "Warnerchannel",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/warnerchannel.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         }
@@ -469,16 +616,44 @@
       "nome": "TV Aberta e Notícias",
       "canais": [
         {
+          "id": "aparecida",
+          "name": "Aparecida",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/aparecida.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          "status": "success"
+        },
+        {
           "id": "bandnews",
           "name": "Band News",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://0705.cdn10embed.xyz/bandnews/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/bandnews.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          "status": "success"
+        },
+        {
+          "id": "bandrj",
+          "name": "Band RJ",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/bandrj.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -487,12 +662,12 @@
           "name": "Band SP",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://0705.cdn10embed.xyz/bandsp/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/bandsp.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -501,12 +676,12 @@
           "name": "CNN Brasil",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://0705.cdn10embed.xyz/cnnbrasil/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/cnnbrasil.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -515,12 +690,47 @@
           "name": "Canção Nova",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://0705.cdn10embed.xyz/cancaonova/index.m3u8",
+          "status": "failed"
+        },
+        {
+          "id": "cultura",
+          "name": "Cultura",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/cultura.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          "status": "success"
+        },
+        {
+          "id": "globoam",
+          "name": "Globo AM",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/globoam.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          "status": "success"
+        },
+        {
+          "id": "globoce",
+          "name": "Globo CE",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/globoce.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -529,12 +739,12 @@
           "name": "Globo ES",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://0705.cdn10embed.xyz/globoes/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/globoes.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -543,12 +753,12 @@
           "name": "Globo MG",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://0705.cdn10embed.xyz/globomg/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/globomg.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -557,12 +767,40 @@
           "name": "Globo News",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://0705.cdn10embed.xyz/globonews/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/globonews.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          "status": "success"
+        },
+        {
+          "id": "globopb",
+          "name": "Globo PB",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/globopb.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          "status": "success"
+        },
+        {
+          "id": "globope",
+          "name": "Globo PE",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/globope.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -571,12 +809,12 @@
           "name": "Globo RJ",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://0705.cdn10embed.xyz/globorj/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/globorj.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -585,12 +823,12 @@
           "name": "Globo RS",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://0705.cdn10embed.xyz/globors/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/globors.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -599,26 +837,26 @@
           "name": "Globo SP",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://0705.cdn10embed.xyz/globosp/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/globosp.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
         {
-          "id": "globoplaynovelas",
+          "id": "globonovelas",
           "name": "Globo Novelas",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://0705.cdn10embed.xyz/globoplaynovelas/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/globonovelas.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -627,12 +865,12 @@
           "name": "MTV",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://0705.cdn10embed.xyz/mtv/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/mtv.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -641,12 +879,12 @@
           "name": "Multishow",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://0705.cdn10embed.xyz/multishow/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/multishow.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -655,12 +893,12 @@
           "name": "Record MG",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://0705.cdn10embed.xyz/recordmg/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/recordmg.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -669,12 +907,12 @@
           "name": "Record RJ",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://0705.cdn10embed.xyz/recordrj/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/recordrj.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -683,12 +921,12 @@
           "name": "Record SP",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://0705.cdn10embed.xyz/recordsp/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/recordsp.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -697,12 +935,12 @@
           "name": "SBT RJ",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://0705.cdn10embed.xyz/sbtrj/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/sbtrj.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -711,12 +949,12 @@
           "name": "SBT SP",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://0705.cdn10embed.xyz/sbtsp/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/sbtsp.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         }
@@ -730,68 +968,103 @@
           "name": "Band Sports",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://0705.cdn10embed.xyz/bandsports/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/bandsports.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
+        },
+        {
+          "id": "caze1",
+          "name": "CazeTV 1",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/caze1.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          "status": "success"
+        },
+        {
+          "id": "caze2",
+          "name": "CazeTV 2",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/caze2.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          "status": "success"
+        },
+        {
+          "id": "caze3",
+          "name": "CazeTV 3",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "status": "failed"
         },
         {
           "id": "combate",
           "name": "Combate",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://0705.cdn10embed.xyz/combate/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/combate.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
         {
-          "id": "disneyplus",
+          "id": "disneyplus1",
           "name": "Disney Plus 1",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://0705.cdn10embed.xyz/disneyplus/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/disneyplus1.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
         {
-          "id": "disneyplus02",
+          "id": "disneyplus2",
           "name": "Disney Plus 2",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://0705.cdn10embed.xyz/disneyplus02/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/disneyplus2.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
         {
-          "id": "disneyplus03",
+          "id": "disneyplus3",
           "name": "Disney Plus 3",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://0705.cdn10embed.xyz/disneyplus03/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/disneyplus3.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -800,12 +1073,12 @@
           "name": "Espn",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://0705.cdn10embed.xyz/espn/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/espn.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -814,12 +1087,12 @@
           "name": "Espn 2",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://0705.cdn10embed.xyz/espn2/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/espn2.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -828,12 +1101,12 @@
           "name": "Espn 3",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://0705.cdn10embed.xyz/espn3/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/espn3.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -842,12 +1115,12 @@
           "name": "Espn 4",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://0705.cdn10embed.xyz/espn4/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/espn4.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -856,12 +1129,12 @@
           "name": "Espn 5",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://0705.cdn10embed.xyz/espn5/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/espn5.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -870,54 +1143,54 @@
           "name": "Espn 6",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://0705.cdn10embed.xyz/espn6/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/espn6.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
         {
-          "id": "max",
+          "id": "max1",
           "name": "Max - 1",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://0705.cdn10embed.xyz/max/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/max1.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
         {
-          "id": "max02",
+          "id": "max2",
           "name": "Max - 2",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://0705.cdn10embed.xyz/max02/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/max2.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
         {
-          "id": "max03",
+          "id": "max3",
           "name": "Max - 3",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://0705.cdn10embed.xyz/max03/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/max3.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -926,12 +1199,40 @@
           "name": "Paramount Plus",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://0705.cdn10embed.xyz/paramountplus/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/paramountplus.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          "status": "success"
+        },
+        {
+          "id": "paramountplus2",
+          "name": "Paramount Plus 2",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/paramountplus2.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          "status": "success"
+        },
+        {
+          "id": "premiere",
+          "name": "Premiere 1",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/premiere.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -940,12 +1241,12 @@
           "name": "Premiere 2",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://0705.cdn10embed.xyz/premiere2/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/premiere2.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -954,12 +1255,12 @@
           "name": "Premiere 3",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://0705.cdn10embed.xyz/premiere3/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/premiere3.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -968,12 +1269,12 @@
           "name": "Premiere 4",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://0705.cdn10embed.xyz/premiere4/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/premiere4.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -982,12 +1283,12 @@
           "name": "Premiere 5",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://0705.cdn10embed.xyz/premiere5/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/premiere5.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -996,12 +1297,12 @@
           "name": "Premiere 6",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://0705.cdn10embed.xyz/premiere6/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/premiere6.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -1010,12 +1311,12 @@
           "name": "Premiere 7",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://0705.cdn10embed.xyz/premiere7/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/premiere7.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -1024,12 +1325,12 @@
           "name": "Premiere 8",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://0705.cdn10embed.xyz/premiere8/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/premiere8.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -1038,12 +1339,26 @@
           "name": "Prime Video",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://0705.cdn10embed.xyz/xxxxxxx/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/primevideo.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          "status": "success"
+        },
+        {
+          "id": "primevideo2",
+          "name": "Prime Video 2",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/primevideo2.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -1052,12 +1367,12 @@
           "name": "Sportv",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://0705.cdn10embed.xyz/sportv/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/sportv.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -1066,12 +1381,12 @@
           "name": "Sportv 2",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://0705.cdn10embed.xyz/sportv2/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/sportv2.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -1080,12 +1395,26 @@
           "name": "Sportv 3",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://0705.cdn10embed.xyz/sportv3/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/sportv3.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          "status": "success"
+        },
+        {
+          "id": "sportv4",
+          "name": "Sportv 4",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/sportv4.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -1094,54 +1423,26 @@
           "name": "UFC Fight Pass",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://0705.cdn10embed.xyz/ufcfightpass/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/ufcfightpass.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
         {
           "id": "xsports",
-          "name": "X Sports",
+          "name": "XSports",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://0705.cdn10embed.xyz/xsports/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/xsports.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-          },
-          "status": "success"
-        },
-        {
-          "id": "nossofutebol",
-          "name": "Nosso Fut TV",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://0705.cdn10embed.xyz/nossofutebol/index.m3u8",
-          "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-          },
-          "status": "success"
-        },
-        {
-          "id": "getv",
-          "name": "GE TV",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://0705.cdn10embed.xyz/getv/index.m3u8",
-          "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         }
@@ -1151,16 +1452,86 @@
       "nome": "Desenhos e Infantil",
       "canais": [
         {
+          "id": "24h_chaves",
+          "name": "24H Chaves",
+          "categoryId": "desenhos",
+          "categoryName": "Desenhos e Infantil",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/24h_chaves.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          "status": "success"
+        },
+        {
+          "id": "24h_dragonball",
+          "name": "24H Dragon Ball Z",
+          "categoryId": "desenhos",
+          "categoryName": "Desenhos e Infantil",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/24h_dragonball.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          "status": "success"
+        },
+        {
+          "id": "24h_naruto",
+          "name": "24H Naruto Clássico",
+          "categoryId": "desenhos",
+          "categoryName": "Desenhos e Infantil",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/24h_naruto.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          "status": "success"
+        },
+        {
+          "id": "24h_simpsons",
+          "name": "24H Os Simpsons",
+          "categoryId": "desenhos",
+          "categoryName": "Desenhos e Infantil",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/24h_simpsons.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          "status": "success"
+        },
+        {
+          "id": "24h_odeiachris",
+          "name": "24H Todo Mundo Odeia o Cris",
+          "categoryId": "desenhos",
+          "categoryName": "Desenhos e Infantil",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/24h_odeiachris.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          "status": "success"
+        },
+        {
           "id": "cartoonito",
           "name": "Cartoonito",
           "categoryId": "desenhos",
           "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://0705.cdn10embed.xyz/cartoonito/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/cartoonito.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312246$j52$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -1169,12 +1540,12 @@
           "name": "Cartoon Network",
           "categoryId": "desenhos",
           "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://0705.cdn10embed.xyz/cartoonnetwork/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/cartoonnetwork.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312246$j52$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -1183,12 +1554,12 @@
           "name": "Discovery Kids",
           "categoryId": "desenhos",
           "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://0705.cdn10embed.xyz/discoverykids/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/discoverykids.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312246$j52$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
@@ -1197,54 +1568,12 @@
           "name": "Gloob",
           "categoryId": "desenhos",
           "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://0705.cdn10embed.xyz/gloob/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/gloob.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312246$j52$l0$h0"
-          },
-          "status": "success"
-        },
-        {
-          "id": "nickelodeon",
-          "name": "nickelodeon",
-          "categoryId": "desenhos",
-          "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://0705.cdn10embed.xyz/nickelodeon/index.m3u8",
-          "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312247$j51$l0$h0"
-          },
-          "status": "success"
-        },
-        {
-          "id": "nickjr",
-          "name": "nickjr",
-          "categoryId": "desenhos",
-          "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://0705.cdn10embed.xyz/nickjr/index.m3u8",
-          "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312247$j51$l0$h0"
-          },
-          "status": "success"
-        },
-        {
-          "id": "gloobinho",
-          "name": "Globinho",
-          "categoryId": "desenhos",
-          "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://0705.cdn10embed.xyz/gloobinho/index.m3u8",
-          "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312247$j51$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         }
@@ -1252,7 +1581,36 @@
     },
     "adulto": {
       "nome": "Adulto",
-      "canais": []
+      "canais": [
+        {
+          "id": "playboy",
+          "name": "Play Boy",
+          "categoryId": "adulto",
+          "categoryName": "Adulto",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/playboy.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          "status": "success"
+        },
+        {
+          "id": "sexyhot",
+          "name": "Sexy Hot",
+          "categoryId": "adulto",
+          "categoryName": "Adulto",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/sexyhot.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          "status": "success"
+        }
+      ]
     },
     "food": {
       "nome": "Receitas e Culinária",
@@ -1262,129 +1620,94 @@
           "name": "Food Network",
           "categoryId": "food",
           "categoryName": "Receitas e Culinária",
-          "m3u8_url": "https://0705.cdn10embed.xyz/foodnetwork/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/foodnetwork.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312246$j52$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
+        },
+        {
+          "id": "masterchef",
+          "name": "Master chef",
+          "categoryId": "food",
+          "categoryName": "Receitas e Culinária",
+          "status": "failed"
         }
       ]
     },
-    "acasadopatrao": {
+    "a casa do patrão": {
       "nome": "A Casa do Patrão",
       "canais": [
         {
-          "id": "casadopatrao01",
+          "id": "acasadopatrao1",
           "name": "A Casa do Patrão - 1",
-          "categoryId": "acasadopatrao",
+          "categoryId": "a casa do patrão",
           "categoryName": "A Casa do Patrão",
-          "m3u8_url": "https://0705.cdn10embed.xyz/casadopatrao01/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/acasadopatrao1.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312247$j51$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
         {
-          "id": "casadopatrao02",
+          "id": "acasadopatrao2",
           "name": "A Casa do Patrão - 2",
-          "categoryId": "acasadopatrao",
+          "categoryId": "a casa do patrão",
           "categoryName": "A Casa do Patrão",
-          "m3u8_url": "https://0705.cdn10embed.xyz/casadopatrao02/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/acasadopatrao2.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312247$j51$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
         {
-          "id": "casadopatrao03",
+          "id": "acasadopatrao3",
           "name": "A Casa do Patrão - 3",
-          "categoryId": "acasadopatrao",
+          "categoryId": "a casa do patrão",
           "categoryName": "A Casa do Patrão",
-          "m3u8_url": "https://0705.cdn10embed.xyz/casadopatrao03/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/acasadopatrao3.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312247$j51$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
         {
-          "id": "casadopatrao04",
+          "id": "acasadopatrao4",
           "name": "A Casa do Patrão - 4",
-          "categoryId": "acasadopatrao",
+          "categoryId": "a casa do patrão",
           "categoryName": "A Casa do Patrão",
-          "m3u8_url": "https://0705.cdn10embed.xyz/casadopatrao04/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/acasadopatrao4.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312247$j51$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         },
         {
-          "id": "casadopatrao05",
+          "id": "acasadopatrao5",
           "name": "A Casa do Patrão - 5",
-          "categoryId": "acasadopatrao",
+          "categoryId": "a casa do patrão",
           "categoryName": "A Casa do Patrão",
-          "m3u8_url": "https://0705.cdn10embed.xyz/casadopatrao05/index.m3u8",
+          "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/acasadopatrao5.m3u8",
           "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312247$j51$l0$h0"
-          },
-          "status": "success"
-        },
-        {
-          "id": "casadopatrao06",
-          "name": "A Casa do Patrão - 6",
-          "categoryId": "acasadopatrao",
-          "categoryName": "A Casa do Patrão",
-          "m3u8_url": "https://0705.cdn10embed.xyz/casadopatrao06/index.m3u8",
-          "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312247$j51$l0$h0"
-          },
-          "status": "success"
-        },
-        {
-          "id": "casadopatrao07",
-          "name": "A Casa do Patrão - 7",
-          "categoryId": "acasadopatrao",
-          "categoryName": "A Casa do Patrão",
-          "m3u8_url": "https://0705.cdn10embed.xyz/casadopatrao07/index.m3u8",
-          "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312247$j51$l0$h0"
-          },
-          "status": "success"
-        },
-        {
-          "id": "casadopatrao08",
-          "name": "A Casa do Patrão - 8",
-          "categoryId": "acasadopatrao",
-          "categoryName": "A Casa do Patrão",
-          "m3u8_url": "https://0705.cdn10embed.xyz/casadopatrao08/index.m3u8",
-          "headers": {
-            "referer": "https://5embeddecanais.xyz/",
-            "origin": "https://w2.embedtv.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312247$j51$l0$h0"
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
           },
           "status": "success"
         }
@@ -1397,12 +1720,12 @@
       "name": "Animal Planet",
       "categoryId": "documentarios",
       "categoryName": "Documentários",
-      "m3u8_url": "https://0705.cdn10embed.xyz/animalplanet/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/animalplanet.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -1411,12 +1734,12 @@
       "name": "Discovery Channel",
       "categoryId": "documentarios",
       "categoryName": "Documentários",
-      "m3u8_url": "https://0705.cdn10embed.xyz/discoverychannel/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/discoverychannel.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -1425,12 +1748,12 @@
       "name": "Discovery H&H",
       "categoryId": "documentarios",
       "categoryName": "Documentários",
-      "m3u8_url": "https://0705.cdn10embed.xyz/discoveryhh/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/discoveryhh.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -1439,12 +1762,12 @@
       "name": "Discovery ID",
       "categoryId": "documentarios",
       "categoryName": "Documentários",
-      "m3u8_url": "https://0705.cdn10embed.xyz/discoveryid/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/discoveryid.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -1453,31 +1776,40 @@
       "name": "Discovery Science",
       "categoryId": "documentarios",
       "categoryName": "Documentários",
-      "m3u8_url": "https://0705.cdn10embed.xyz/discoveryscience/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/discoveryscience.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g0$t1778312238$j60$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
     {
       "id": "discoverytheather",
       "name": "Discovery Theater",
-      "status": "failed"
+      "categoryId": "documentarios",
+      "categoryName": "Documentários",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/discoverytheather.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+      },
+      "status": "success"
     },
     {
       "id": "discoveryturbo",
       "name": "Discovery Turbo",
       "categoryId": "documentarios",
       "categoryName": "Documentários",
-      "m3u8_url": "https://0705.cdn10embed.xyz/discoveryturbo/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/discoveryturbo.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -1486,12 +1818,12 @@
       "name": "Discovery World",
       "categoryId": "documentarios",
       "categoryName": "Documentários",
-      "m3u8_url": "https://0705.cdn10embed.xyz/discoveryworld/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/discoveryworld.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -1500,12 +1832,12 @@
       "name": "History",
       "categoryId": "documentarios",
       "categoryName": "Documentários",
-      "m3u8_url": "https://0705.cdn10embed.xyz/history/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/history.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g0$t1778312238$j60$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -1514,26 +1846,26 @@
       "name": "History 2",
       "categoryId": "documentarios",
       "categoryName": "Documentários",
-      "m3u8_url": "https://0705.cdn10embed.xyz/history2/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/history2.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
     {
-      "id": "aee",
+      "id": "ae",
       "name": "AE",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://0705.cdn10embed.xyz/aee/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/ae.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -1542,12 +1874,12 @@
       "name": "AMC",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://0705.cdn10embed.xyz/amc/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/amc.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -1556,12 +1888,12 @@
       "name": "AXN",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://0705.cdn10embed.xyz/axn/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/axn.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -1570,12 +1902,12 @@
       "name": "Adult Swim",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://0705.cdn10embed.xyz/adultswim/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/adultswim.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -1584,12 +1916,12 @@
       "name": "Cinemax",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://0705.cdn10embed.xyz/cinemax/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/cinemax.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -1598,12 +1930,12 @@
       "name": "GNT",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://0705.cdn10embed.xyz/gnt/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/gnt.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -1612,12 +1944,12 @@
       "name": "HBO",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://0705.cdn10embed.xyz/hbo/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/hbo.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -1626,12 +1958,12 @@
       "name": "HBO 2",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://0705.cdn10embed.xyz/hbo2/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/hbo2.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -1640,12 +1972,12 @@
       "name": "HBO Family",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://0705.cdn10embed.xyz/hbofamily/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/hbofamily.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -1654,12 +1986,12 @@
       "name": "HBO Mundi",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://0705.cdn10embed.xyz/hbomundi/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/hbomundi.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -1668,12 +2000,12 @@
       "name": "HBO POP",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://0705.cdn10embed.xyz/hbopop/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/hbopop.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -1682,12 +2014,12 @@
       "name": "HBO Plus",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://0705.cdn10embed.xyz/hboplus/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/hboplus.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -1696,50 +2028,68 @@
       "name": "HBO Xtreme",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://0705.cdn10embed.xyz/hboxtreme/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/hboxtreme.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
     {
       "id": "hgtv",
       "name": "HGTV",
-      "status": "failed"
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/hgtv.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+      },
+      "status": "success"
     },
     {
       "id": "megapix",
       "name": "Megapix",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://0705.cdn10embed.xyz/megapix/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/megapix.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
     {
       "id": "off",
       "name": "OFF",
-      "status": "failed"
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/off.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+      },
+      "status": "success"
     },
     {
       "id": "sonychannel",
       "name": "Sony Channel",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://0705.cdn10embed.xyz/sonychannel/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/sonychannel.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -1748,18 +2098,20 @@
       "name": "Space",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://0705.cdn10embed.xyz/space/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/space.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
     {
       "id": "starchannel",
       "name": "Star Channel",
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
       "status": "failed"
     },
     {
@@ -1767,36 +2119,54 @@
       "name": "Studio Universal",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://0705.cdn10embed.xyz/studiouniversal/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/studiouniversal.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
     {
       "id": "tcm",
       "name": "TCM",
-      "status": "failed"
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/tcm.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+      },
+      "status": "success"
     },
     {
       "id": "tlc",
       "name": "TLC",
-      "status": "failed"
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/tlc.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+      },
+      "status": "success"
     },
     {
       "id": "tnt",
       "name": "TNT",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://0705.cdn10embed.xyz/tnt/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/tnt.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -1805,12 +2175,12 @@
       "name": "TNT Novelas",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://0705.cdn10embed.xyz/tntnovelas/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/tntnovelas.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -1819,99 +2189,180 @@
       "name": "TNT Series",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://0705.cdn10embed.xyz/tntseries/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/tntseries.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
     {
       "id": "telecineaction",
       "name": "Telecine Action",
-      "status": "failed"
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/telecineaction.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+      },
+      "status": "success"
     },
     {
       "id": "telecinecult",
       "name": "Telecine Cult",
-      "status": "failed"
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/telecinecult.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+      },
+      "status": "success"
     },
     {
       "id": "telecinefun",
       "name": "Telecine Fun",
-      "status": "failed"
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/telecinefun.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+      },
+      "status": "success"
     },
     {
       "id": "telecinepipoca",
       "name": "Telecine Pipoca",
-      "status": "failed"
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/telecinepipoca.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+      },
+      "status": "success"
     },
     {
       "id": "telecinepremium",
       "name": "Telecine Premium",
-      "status": "failed"
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/telecinepremium.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+      },
+      "status": "success"
     },
     {
       "id": "telecinetouch",
       "name": "Telecine Touch",
-      "status": "failed"
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/telecinetouch.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+      },
+      "status": "success"
     },
     {
       "id": "universaltv",
       "name": "Universal",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://0705.cdn10embed.xyz/universaltv/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/universaltv.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
     {
       "id": "warnerchannel",
       "name": "Warnerchannel",
-      "status": "failed"
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/warnerchannel.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+      },
+      "status": "success"
     },
     {
       "id": "aparecida",
       "name": "Aparecida",
-      "status": "failed"
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/aparecida.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+      },
+      "status": "success"
     },
     {
       "id": "bandnews",
       "name": "Band News",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://0705.cdn10embed.xyz/bandnews/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/bandnews.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
     {
       "id": "bandrj",
       "name": "Band RJ",
-      "status": "failed"
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/bandrj.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+      },
+      "status": "success"
     },
     {
       "id": "bandsp",
       "name": "Band SP",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://0705.cdn10embed.xyz/bandsp/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/bandsp.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -1920,12 +2371,12 @@
       "name": "CNN Brasil",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://0705.cdn10embed.xyz/cnnbrasil/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/cnnbrasil.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -1934,41 +2385,61 @@
       "name": "Canção Nova",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://0705.cdn10embed.xyz/cancaonova/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-      },
-      "status": "success"
+      "status": "failed"
     },
     {
       "id": "cultura",
       "name": "Cultura",
-      "status": "failed"
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/cultura.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+      },
+      "status": "success"
     },
     {
       "id": "globoam",
       "name": "Globo AM",
-      "status": "failed"
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/globoam.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+      },
+      "status": "success"
     },
     {
       "id": "globoce",
       "name": "Globo CE",
-      "status": "failed"
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/globoce.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+      },
+      "status": "success"
     },
     {
       "id": "globoes",
       "name": "Globo ES",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://0705.cdn10embed.xyz/globoes/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/globoes.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -1977,12 +2448,12 @@
       "name": "Globo MG",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://0705.cdn10embed.xyz/globomg/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/globomg.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -1991,36 +2462,54 @@
       "name": "Globo News",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://0705.cdn10embed.xyz/globonews/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/globonews.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
     {
       "id": "globopb",
       "name": "Globo PB",
-      "status": "failed"
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/globopb.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+      },
+      "status": "success"
     },
     {
       "id": "globope",
       "name": "Globo PE",
-      "status": "failed"
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/globope.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+      },
+      "status": "success"
     },
     {
       "id": "globorj",
       "name": "Globo RJ",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://0705.cdn10embed.xyz/globorj/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/globorj.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -2029,12 +2518,12 @@
       "name": "Globo RS",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://0705.cdn10embed.xyz/globors/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/globors.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -2043,26 +2532,26 @@
       "name": "Globo SP",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://0705.cdn10embed.xyz/globosp/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/globosp.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
     {
-      "id": "globoplaynovelas",
+      "id": "globonovelas",
       "name": "Globo Novelas",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://0705.cdn10embed.xyz/globoplaynovelas/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/globonovelas.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -2071,12 +2560,12 @@
       "name": "MTV",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://0705.cdn10embed.xyz/mtv/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/mtv.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -2085,12 +2574,12 @@
       "name": "Multishow",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://0705.cdn10embed.xyz/multishow/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/multishow.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -2099,12 +2588,12 @@
       "name": "Record MG",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://0705.cdn10embed.xyz/recordmg/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/recordmg.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -2113,12 +2602,12 @@
       "name": "Record RJ",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://0705.cdn10embed.xyz/recordrj/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/recordrj.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -2127,12 +2616,12 @@
       "name": "Record SP",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://0705.cdn10embed.xyz/recordsp/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/recordsp.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -2141,12 +2630,12 @@
       "name": "SBT RJ",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://0705.cdn10embed.xyz/sbtrj/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/sbtrj.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -2155,506 +2644,96 @@
       "name": "SBT SP",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://0705.cdn10embed.xyz/sbtsp/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/sbtsp.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "bandsports",
-      "name": "Band Sports",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://0705.cdn10embed.xyz/bandsports/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "caze1",
-      "name": "CazeTV 1",
-      "status": "failed"
-    },
-    {
-      "id": "caze2",
-      "name": "CazeTV 2",
-      "status": "failed"
-    },
-    {
-      "id": "caze3",
-      "name": "CazeTV 3",
-      "status": "failed"
-    },
-    {
-      "id": "combate",
-      "name": "Combate",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://0705.cdn10embed.xyz/combate/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "disneyplus",
-      "name": "Disney Plus 1",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://0705.cdn10embed.xyz/disneyplus/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "disneyplus02",
-      "name": "Disney Plus 2",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://0705.cdn10embed.xyz/disneyplus02/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "disneyplus03",
-      "name": "Disney Plus 3",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://0705.cdn10embed.xyz/disneyplus03/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "espn",
-      "name": "Espn",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://0705.cdn10embed.xyz/espn/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "espn2",
-      "name": "Espn 2",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://0705.cdn10embed.xyz/espn2/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "espn3",
-      "name": "Espn 3",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://0705.cdn10embed.xyz/espn3/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "espn4",
-      "name": "Espn 4",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://0705.cdn10embed.xyz/espn4/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "espn5",
-      "name": "Espn 5",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://0705.cdn10embed.xyz/espn5/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "espn6",
-      "name": "Espn 6",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://0705.cdn10embed.xyz/espn6/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "max",
-      "name": "Max - 1",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://0705.cdn10embed.xyz/max/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "max02",
-      "name": "Max - 2",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://0705.cdn10embed.xyz/max02/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "max03",
-      "name": "Max - 3",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://0705.cdn10embed.xyz/max03/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "paramountplus",
-      "name": "Paramount Plus",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://0705.cdn10embed.xyz/paramountplus/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "paramountplus2",
-      "name": "Paramount Plus 2",
-      "status": "failed"
-    },
-    {
-      "id": "premiere",
-      "name": "Premiere 1",
-      "status": "failed"
-    },
-    {
-      "id": "premiere2",
-      "name": "Premiere 2",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://0705.cdn10embed.xyz/premiere2/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "premiere3",
-      "name": "Premiere 3",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://0705.cdn10embed.xyz/premiere3/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "premiere4",
-      "name": "Premiere 4",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://0705.cdn10embed.xyz/premiere4/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "premiere5",
-      "name": "Premiere 5",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://0705.cdn10embed.xyz/premiere5/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "premiere6",
-      "name": "Premiere 6",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://0705.cdn10embed.xyz/premiere6/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "premiere7",
-      "name": "Premiere 7",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://0705.cdn10embed.xyz/premiere7/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "premiere8",
-      "name": "Premiere 8",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://0705.cdn10embed.xyz/premiere8/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "primevideo",
-      "name": "Prime Video",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://0705.cdn10embed.xyz/xxxxxxx/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "primevideo2",
-      "name": "Prime Video 2",
-      "status": "failed"
-    },
-    {
-      "id": "sportv",
-      "name": "Sportv",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://0705.cdn10embed.xyz/sportv/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "sportv2",
-      "name": "Sportv 2",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://0705.cdn10embed.xyz/sportv2/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "sportv3",
-      "name": "Sportv 3",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://0705.cdn10embed.xyz/sportv3/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "sportv4",
-      "name": "Sportv 4",
-      "status": "failed"
-    },
-    {
-      "id": "ufcfightpass",
-      "name": "UFC Fight Pass",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://0705.cdn10embed.xyz/ufcfightpass/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "xsports",
-      "name": "X Sports",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://0705.cdn10embed.xyz/xsports/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "nossofutebol",
-      "name": "Nosso Fut TV",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://0705.cdn10embed.xyz/nossofutebol/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "getv",
-      "name": "GE TV",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://0705.cdn10embed.xyz/getv/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312239$j59$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
     {
       "id": "24h_chaves",
       "name": "24H Chaves",
-      "status": "failed"
+      "categoryId": "desenhos",
+      "categoryName": "Desenhos e Infantil",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/24h_chaves.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+      },
+      "status": "success"
     },
     {
       "id": "24h_dragonball",
       "name": "24H Dragon Ball Z",
-      "status": "failed"
+      "categoryId": "desenhos",
+      "categoryName": "Desenhos e Infantil",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/24h_dragonball.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+      },
+      "status": "success"
     },
     {
       "id": "24h_naruto",
       "name": "24H Naruto Clássico",
-      "status": "failed"
+      "categoryId": "desenhos",
+      "categoryName": "Desenhos e Infantil",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/24h_naruto.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+      },
+      "status": "success"
     },
     {
       "id": "24h_simpsons",
       "name": "24H Os Simpsons",
-      "status": "failed"
+      "categoryId": "desenhos",
+      "categoryName": "Desenhos e Infantil",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/24h_simpsons.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+      },
+      "status": "success"
     },
     {
       "id": "24h_odeiachris",
       "name": "24H Todo Mundo Odeia o Cris",
-      "status": "failed"
+      "categoryId": "desenhos",
+      "categoryName": "Desenhos e Infantil",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/24h_odeiachris.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+      },
+      "status": "success"
     },
     {
       "id": "cartoonito",
       "name": "Cartoonito",
       "categoryId": "desenhos",
       "categoryName": "Desenhos e Infantil",
-      "m3u8_url": "https://0705.cdn10embed.xyz/cartoonito/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/cartoonito.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312246$j52$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -2663,12 +2742,12 @@
       "name": "Cartoon Network",
       "categoryId": "desenhos",
       "categoryName": "Desenhos e Infantil",
-      "m3u8_url": "https://0705.cdn10embed.xyz/cartoonnetwork/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/cartoonnetwork.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312246$j52$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -2677,12 +2756,12 @@
       "name": "Discovery Kids",
       "categoryId": "desenhos",
       "categoryName": "Desenhos e Infantil",
-      "m3u8_url": "https://0705.cdn10embed.xyz/discoverykids/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/discoverykids.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312246$j52$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
@@ -2691,204 +2770,131 @@
       "name": "Gloob",
       "categoryId": "desenhos",
       "categoryName": "Desenhos e Infantil",
-      "m3u8_url": "https://0705.cdn10embed.xyz/gloob/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/gloob.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312246$j52$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "nickelodeon",
-      "name": "nickelodeon",
-      "categoryId": "desenhos",
-      "categoryName": "Desenhos e Infantil",
-      "m3u8_url": "https://0705.cdn10embed.xyz/nickelodeon/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312247$j51$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "nickjr",
-      "name": "nickjr",
-      "categoryId": "desenhos",
-      "categoryName": "Desenhos e Infantil",
-      "m3u8_url": "https://0705.cdn10embed.xyz/nickjr/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312247$j51$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "gloobinho",
-      "name": "Globinho",
-      "categoryId": "desenhos",
-      "categoryName": "Desenhos e Infantil",
-      "m3u8_url": "https://0705.cdn10embed.xyz/gloobinho/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312247$j51$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
     {
       "id": "playboy",
       "name": "Play Boy",
-      "status": "failed"
+      "categoryId": "adulto",
+      "categoryName": "Adulto",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/playboy.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+      },
+      "status": "success"
     },
     {
       "id": "sexyhot",
       "name": "Sexy Hot",
-      "status": "failed"
+      "categoryId": "adulto",
+      "categoryName": "Adulto",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/sexyhot.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+      },
+      "status": "success"
     },
     {
       "id": "foodnetwork",
       "name": "Food Network",
       "categoryId": "food",
       "categoryName": "Receitas e Culinária",
-      "m3u8_url": "https://0705.cdn10embed.xyz/foodnetwork/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/foodnetwork.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312246$j52$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
-     {
+    {
       "id": "masterchef",
-      "name": "Master Chef",
+      "name": "Master chef",
       "categoryId": "food",
       "categoryName": "Receitas e Culinária",
-      "m3u8_url": "https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/cb573d197c6c678c84cb3967cef64282bb7b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da71b813727616719a86b262c9ee475ae98710282ab27a1e50fe0f05a67c1177dfe60247d468e5375551ac51360667dfeb5cab6b56978703967e28ddacc0336d7508429a5f0cb6f65ca4f6e65816d10e1c802669adf5a804b368fba67ea9b6a619cf09df2ad33ca7a093faf38e564ba3499434ed211d50625c94856b9aca5cccb4f2adb32e105a212e50eaac87ff5d7efa2fdeed4a9eb9dd57cc69bfbb2c8e2010a901964b81708e64ea3ab2ed04c7c7de86141169f4961c0975d1002bbb234b96e2c6820d7eeef0b9d2dcb43236e860dd30223b91b2f8158bfc2597a32f8a8e997c52f0bc4a8194be8feeffd804cc6582f0fd96394d5970442cb21df3ca238b729d4fa1c04575070d5cfbce0e8494cf0461371fc8d01794341ebad084cc8d5e6a9a304a0ab920ff521769ca3b7433b478a9d46c1efc4c60b23c33ff57229302ade85e9289efa5576bfb8ebd079508c2ba10dbfa0ea8174d7f0ba1f72a505d0c3090d96f033476d456a6b4eee4640214e3e7c79c9904d866d4b0c9a3edcbbbf58672a368287cb85e812effd645/97/848x480_1686360/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312246$j52$l0$h0"
-      },
-      "status": "success"
+      "status": "failed"
     },
     {
-      "id": "casadopatrao01",
+      "id": "acasadopatrao1",
       "name": "A Casa do Patrão - 1",
-      "categoryId": "acasadopatrao",
+      "categoryId": "a casa do patrão",
       "categoryName": "A Casa do Patrão",
-      "m3u8_url": "https://0705.cdn10embed.xyz/casadopatrao01/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/acasadopatrao1.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312247$j51$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
     {
-      "id": "casadopatrao02",
+      "id": "acasadopatrao2",
       "name": "A Casa do Patrão - 2",
-      "categoryId": "acasadopatrao",
+      "categoryId": "a casa do patrão",
       "categoryName": "A Casa do Patrão",
-      "m3u8_url": "https://0705.cdn10embed.xyz/casadopatrao02/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/acasadopatrao2.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312247$j51$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
     {
-      "id": "casadopatrao03",
+      "id": "acasadopatrao3",
       "name": "A Casa do Patrão - 3",
-      "categoryId": "acasadopatrao",
+      "categoryId": "a casa do patrão",
       "categoryName": "A Casa do Patrão",
-      "m3u8_url": "https://0705.cdn10embed.xyz/casadopatrao03/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/acasadopatrao3.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312247$j51$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
     {
-      "id": "casadopatrao04",
+      "id": "acasadopatrao4",
       "name": "A Casa do Patrão - 4",
-      "categoryId": "acasadopatrao",
+      "categoryId": "a casa do patrão",
       "categoryName": "A Casa do Patrão",
-      "m3u8_url": "https://0705.cdn10embed.xyz/casadopatrao04/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/acasadopatrao4.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312247$j51$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     },
     {
-      "id": "casadopatrao05",
+      "id": "acasadopatrao5",
       "name": "A Casa do Patrão - 5",
-      "categoryId": "acasadopatrao",
+      "categoryId": "a casa do patrão",
       "categoryName": "A Casa do Patrão",
-      "m3u8_url": "https://0705.cdn10embed.xyz/casadopatrao05/index.m3u8",
+      "m3u8_url": "http://megaflix.cloudfronte.lat/zzzstream/acasadopatrao5.m3u8",
       "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312247$j51$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "casadopatrao06",
-      "name": "A Casa do Patrão - 6",
-      "categoryId": "acasadopatrao",
-      "categoryName": "A Casa do Patrão",
-      "m3u8_url": "https://0705.cdn10embed.xyz/casadopatrao06/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312247$j51$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "casadopatrao07",
-      "name": "A Casa do Patrão - 7",
-      "categoryId": "acasadopatrao",
-      "categoryName": "A Casa do Patrão",
-      "m3u8_url": "https://0705.cdn10embed.xyz/casadopatrao07/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312247$j51$l0$h0"
-      },
-      "status": "success"
-    },
-    {
-      "id": "casadopatrao08",
-      "name": "A Casa do Patrão - 8",
-      "categoryId": "acasadopatrao",
-      "categoryName": "A Casa do Patrão",
-      "m3u8_url": "https://0705.cdn10embed.xyz/casadopatrao08/index.m3u8",
-      "headers": {
-        "referer": "https://5embeddecanais.xyz/",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": "_ga=GA1.1.610802492.1778312239; _ga_2T9N2RHEW3=GS2.1.s1778312238$o1$g1$t1778312247$j51$l0$h0"
+        "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
       },
       "status": "success"
     }

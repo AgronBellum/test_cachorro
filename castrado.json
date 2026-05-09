@@ -3,7 +3,7 @@
     "total": 121,
     "success": 121,
     "categories": 8,
-    "date": "2026-05-08T01:01:57.521Z",
+    "date": "2026-05-09T00:30:26.407Z",
     "version": "EXTRACTOR_APP_V1"
   },
   "categorias": {
@@ -15,7 +15,7 @@
           "name": "Animal Planet",
           "categoryId": "documentarios",
           "categoryName": "Documentários",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/animalplanet.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/animalplanet.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -29,7 +29,7 @@
           "name": "Discovery Channel",
           "categoryId": "documentarios",
           "categoryName": "Documentários",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/discoverychannel.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/discoverychannel.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -43,7 +43,7 @@
           "name": "Discovery H&H",
           "categoryId": "documentarios",
           "categoryName": "Documentários",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/discoveryhh.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/discoveryhh.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -57,7 +57,7 @@
           "name": "Discovery ID",
           "categoryId": "documentarios",
           "categoryName": "Documentários",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/discoveryid.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/discoveryid.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -71,7 +71,7 @@
           "name": "Discovery Science",
           "categoryId": "documentarios",
           "categoryName": "Documentários",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/discoveryscience.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/discoveryscience.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -85,7 +85,7 @@
           "name": "Discovery Theater",
           "categoryId": "documentarios",
           "categoryName": "Documentários",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/discoverytheather.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/discoverytheather.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -99,7 +99,7 @@
           "name": "Discovery Turbo",
           "categoryId": "documentarios",
           "categoryName": "Documentários",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/discoveryturbo.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/discoveryturbo.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -113,7 +113,7 @@
           "name": "Discovery World",
           "categoryId": "documentarios",
           "categoryName": "Documentários",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/discoveryworld.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/discoveryworld.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -127,7 +127,7 @@
           "name": "History",
           "categoryId": "documentarios",
           "categoryName": "Documentários",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/history.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/history.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -141,7 +141,7 @@
           "name": "History 2",
           "categoryId": "documentarios",
           "categoryName": "Documentários",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/history2.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/history2.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -160,7 +160,7 @@
           "name": "AE",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/ae.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/ae.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -174,7 +174,7 @@
           "name": "AMC",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/amc.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/amc.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -188,7 +188,7 @@
           "name": "AXN",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/axn.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/axn.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -202,7 +202,7 @@
           "name": "Adult Swim",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/adultswim.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/adultswim.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -216,7 +216,7 @@
           "name": "Cinemax",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/cinemax.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/cinemax.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -230,7 +230,7 @@
           "name": "GNT",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/gnt.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/gnt.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -244,7 +244,7 @@
           "name": "HBO",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/hbo.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/hbo.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -258,7 +258,7 @@
           "name": "HBO 2",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/hbo2.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/hbo2.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -272,7 +272,7 @@
           "name": "HBO Family",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/hbofamily.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/hbofamily.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -286,7 +286,7 @@
           "name": "HBO Mundi",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/hbomundi.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/hbomundi.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -300,7 +300,7 @@
           "name": "HBO POP",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/hbopop.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/hbopop.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -314,7 +314,7 @@
           "name": "HBO Plus",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/hboplus.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/hboplus.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -328,7 +328,7 @@
           "name": "HBO Xtreme",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/hboxtreme.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/hboxtreme.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -342,7 +342,7 @@
           "name": "HGTV",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/hgtv.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/hgtv.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -356,7 +356,7 @@
           "name": "Megapix",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/megapix.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/megapix.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -370,7 +370,7 @@
           "name": "OFF",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/off.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/off.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -384,7 +384,7 @@
           "name": "Sony Channel",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/sonychannel.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/sonychannel.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -398,7 +398,7 @@
           "name": "Space",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/space.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/space.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -412,7 +412,7 @@
           "name": "Star Channel",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/starchannel.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/starchannel.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -426,7 +426,7 @@
           "name": "Studio Universal",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/studiouniversal.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/studiouniversal.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -440,7 +440,7 @@
           "name": "TCM",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/tcm.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/tcm.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -454,7 +454,7 @@
           "name": "TLC",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/tlc.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/tlc.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -468,7 +468,7 @@
           "name": "TNT",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/tnt.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/tnt.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -482,7 +482,7 @@
           "name": "TNT Novelas",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/tntnovelas.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/tntnovelas.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -496,7 +496,7 @@
           "name": "TNT Series",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/tntseries.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/tntseries.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -510,7 +510,7 @@
           "name": "Telecine Action",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/telecineaction.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/telecineaction.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -524,7 +524,7 @@
           "name": "Telecine Cult",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/telecinecult.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/telecinecult.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -538,7 +538,7 @@
           "name": "Telecine Fun",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/telecinefun.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/telecinefun.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -552,7 +552,7 @@
           "name": "Telecine Pipoca",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/telecinepipoca.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/telecinepipoca.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -566,7 +566,7 @@
           "name": "Telecine Premium",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/telecinepremium.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/telecinepremium.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -580,7 +580,7 @@
           "name": "Telecine Touch",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/telecinetouch.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/telecinetouch.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -594,7 +594,7 @@
           "name": "Universal",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/universaltv.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/universaltv.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -608,7 +608,7 @@
           "name": "Warnerchannel",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/warnerchannel.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/warnerchannel.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -627,7 +627,7 @@
           "name": "Aparecida",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/aparecida.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/aparecida.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -641,7 +641,7 @@
           "name": "Band News",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/bandnews.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/bandnews.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -655,7 +655,7 @@
           "name": "Band RJ",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/bandrj.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/bandrj.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -669,7 +669,7 @@
           "name": "Band SP",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/bandsp.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/bandsp.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -683,7 +683,7 @@
           "name": "CNN Brasil",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/cnnbrasil.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/cnnbrasil.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -697,7 +697,7 @@
           "name": "Canção Nova",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/cancaonova.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/cancaonova.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -711,7 +711,7 @@
           "name": "Cultura",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/cultura.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/cultura.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -725,7 +725,7 @@
           "name": "Globo AM",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/globoam.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/globoam.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -739,7 +739,7 @@
           "name": "Globo CE",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/globoce.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/globoce.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -753,7 +753,7 @@
           "name": "Globo ES",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/globoes.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/globoes.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -767,7 +767,7 @@
           "name": "Globo MG",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/globomg.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/globomg.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -781,7 +781,7 @@
           "name": "Globo News",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/globonews.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/globonews.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -795,7 +795,7 @@
           "name": "Globo PB",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/globopb.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/globopb.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -809,7 +809,7 @@
           "name": "Globo PE",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/globope.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/globope.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -823,7 +823,7 @@
           "name": "Globo RJ",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/globorj.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/globorj.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -837,7 +837,7 @@
           "name": "Globo RS",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/globors.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/globors.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -851,7 +851,7 @@
           "name": "Globo SP",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/globosp.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/globosp.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -865,7 +865,7 @@
           "name": "Globo Novelas",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/globonovelas.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/globonovelas.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -879,7 +879,7 @@
           "name": "MTV",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/mtv.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/mtv.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -893,7 +893,7 @@
           "name": "Multishow",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/multishow.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/multishow.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -907,7 +907,7 @@
           "name": "Record MG",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/recordmg.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/recordmg.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -921,7 +921,7 @@
           "name": "Record RJ",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/recordrj.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/recordrj.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -935,7 +935,7 @@
           "name": "Record SP",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/recordsp.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/recordsp.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -949,7 +949,7 @@
           "name": "SBT RJ",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/sbtrj.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/sbtrj.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -963,7 +963,7 @@
           "name": "SBT SP",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/sbtsp.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/sbtsp.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -982,7 +982,7 @@
           "name": "Band Sports",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/bandsports.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/bandsports.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -996,7 +996,7 @@
           "name": "CazeTV 1",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/caze1.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/caze1.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1010,7 +1010,7 @@
           "name": "CazeTV 2",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/caze2.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/caze2.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1024,7 +1024,7 @@
           "name": "CazeTV 3",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/caze3.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/caze3.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1038,7 +1038,7 @@
           "name": "Combate",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/combate.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/combate.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1052,7 +1052,7 @@
           "name": "Disney Plus 1",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/disneyplus1.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/disneyplus1.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1066,7 +1066,7 @@
           "name": "Disney Plus 2",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/disneyplus2.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/disneyplus2.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1080,7 +1080,7 @@
           "name": "Disney Plus 3",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/disneyplus3.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/disneyplus3.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1094,7 +1094,7 @@
           "name": "Espn",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/espn.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/espn.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1108,7 +1108,7 @@
           "name": "Espn 2",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/espn2.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/espn2.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1122,7 +1122,7 @@
           "name": "Espn 3",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/espn3.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/espn3.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1136,7 +1136,7 @@
           "name": "Espn 4",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/espn4.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/espn4.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1150,7 +1150,7 @@
           "name": "Espn 5",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/espn5.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/espn5.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1164,7 +1164,7 @@
           "name": "Espn 6",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/espn6.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/espn6.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1178,7 +1178,7 @@
           "name": "Max - 1",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/max1.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/max1.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1192,7 +1192,7 @@
           "name": "Max - 2",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/max2.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/max2.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1206,7 +1206,7 @@
           "name": "Max - 3",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/max3.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/max3.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1220,7 +1220,7 @@
           "name": "Paramount Plus",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/paramountplus.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/paramountplus.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1234,7 +1234,7 @@
           "name": "Paramount Plus 2",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/paramountplus2.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/paramountplus2.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1248,7 +1248,7 @@
           "name": "Premiere 1",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/premiere.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/premiere.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1262,7 +1262,7 @@
           "name": "Premiere 2",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/premiere2.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/premiere2.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1276,7 +1276,7 @@
           "name": "Premiere 3",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/premiere3.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/premiere3.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1290,7 +1290,7 @@
           "name": "Premiere 4",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/premiere4.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/premiere4.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1304,7 +1304,7 @@
           "name": "Premiere 5",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/premiere5.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/premiere5.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1318,7 +1318,7 @@
           "name": "Premiere 6",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/premiere6.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/premiere6.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1332,7 +1332,7 @@
           "name": "Premiere 7",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/premiere7.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/premiere7.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1346,7 +1346,7 @@
           "name": "Premiere 8",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/premiere8.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/premiere8.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1360,7 +1360,7 @@
           "name": "Prime Video",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/primevideo.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/primevideo.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1374,7 +1374,7 @@
           "name": "Prime Video 2",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/primevideo2.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/primevideo2.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1388,7 +1388,7 @@
           "name": "Sportv",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/sportv.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/sportv.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1402,7 +1402,7 @@
           "name": "Sportv 2",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/sportv2.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/sportv2.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1416,7 +1416,7 @@
           "name": "Sportv 3",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/sportv3.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/sportv3.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1430,7 +1430,7 @@
           "name": "Sportv 4",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/sportv4.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/sportv4.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1444,7 +1444,7 @@
           "name": "UFC Fight Pass",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/ufcfightpass.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/ufcfightpass.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1458,7 +1458,7 @@
           "name": "XSports",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/xsports.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/xsports.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1477,7 +1477,7 @@
           "name": "24H Chaves",
           "categoryId": "desenhos",
           "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/24h_chaves.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/24h_chaves.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1491,7 +1491,7 @@
           "name": "24H Dragon Ball Z",
           "categoryId": "desenhos",
           "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/24h_dragonball.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/24h_dragonball.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1505,7 +1505,7 @@
           "name": "24H Naruto Clássico",
           "categoryId": "desenhos",
           "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/24h_naruto.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/24h_naruto.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1519,7 +1519,7 @@
           "name": "24H Os Simpsons",
           "categoryId": "desenhos",
           "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/24h_simpsons.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/24h_simpsons.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1533,7 +1533,7 @@
           "name": "24H Todo Mundo Odeia o Cris",
           "categoryId": "desenhos",
           "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/24h_odeiachris.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/24h_odeiachris.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1547,7 +1547,7 @@
           "name": "Cartoonito",
           "categoryId": "desenhos",
           "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/cartoonito.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/cartoonito.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1561,7 +1561,7 @@
           "name": "Cartoon Network",
           "categoryId": "desenhos",
           "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/cartoonnetwork.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/cartoonnetwork.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1575,7 +1575,7 @@
           "name": "Discovery Kids",
           "categoryId": "desenhos",
           "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/discoverykids.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/discoverykids.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1589,7 +1589,7 @@
           "name": "Gloob",
           "categoryId": "desenhos",
           "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/gloob.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/gloob.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1608,7 +1608,7 @@
           "name": "Play Boy",
           "categoryId": "adulto",
           "categoryName": "Adulto",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/playboy.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/playboy.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1622,7 +1622,7 @@
           "name": "Sexy Hot",
           "categoryId": "adulto",
           "categoryName": "Adulto",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/sexyhot.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/sexyhot.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1641,7 +1641,7 @@
           "name": "Food Network",
           "categoryId": "food",
           "categoryName": "Receitas e Culinária",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/foodnetwork.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/foodnetwork.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1655,7 +1655,7 @@
           "name": "Master chef",
           "categoryId": "food",
           "categoryName": "Receitas e Culinária",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/masterchef.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/masterchef.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1674,7 +1674,7 @@
           "name": "A Casa do Patrão - 1",
           "categoryId": "acasadopatrao",
           "categoryName": "A Casa do Patrão",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/acasadopatrao1.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/acasadopatrao1.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1688,7 +1688,7 @@
           "name": "A Casa do Patrão - 2",
           "categoryId": "acasadopatrao",
           "categoryName": "A Casa do Patrão",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/acasadopatrao2.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/acasadopatrao2.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1702,7 +1702,7 @@
           "name": "A Casa do Patrão - 3",
           "categoryId": "acasadopatrao",
           "categoryName": "A Casa do Patrão",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/acasadopatrao3.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/acasadopatrao3.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1716,7 +1716,7 @@
           "name": "A Casa do Patrão - 4",
           "categoryId": "acasadopatrao",
           "categoryName": "A Casa do Patrão",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/acasadopatrao4.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/acasadopatrao4.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1730,7 +1730,7 @@
           "name": "A Casa do Patrão - 5",
           "categoryId": "acasadopatrao",
           "categoryName": "A Casa do Patrão",
-          "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/acasadopatrao5.m3u8",
+          "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/acasadopatrao5.m3u8",
           "headers": {
             "referer": "https://w2.embedtv.live/",
             "origin": "https://w2.embedtv.live/",
@@ -1748,7 +1748,7 @@
       "name": "Animal Planet",
       "categoryId": "documentarios",
       "categoryName": "Documentários",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/animalplanet.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/animalplanet.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -1762,7 +1762,7 @@
       "name": "Discovery Channel",
       "categoryId": "documentarios",
       "categoryName": "Documentários",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/discoverychannel.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/discoverychannel.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -1776,7 +1776,7 @@
       "name": "Discovery H&H",
       "categoryId": "documentarios",
       "categoryName": "Documentários",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/discoveryhh.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/discoveryhh.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -1790,7 +1790,7 @@
       "name": "Discovery ID",
       "categoryId": "documentarios",
       "categoryName": "Documentários",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/discoveryid.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/discoveryid.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -1804,7 +1804,7 @@
       "name": "Discovery Science",
       "categoryId": "documentarios",
       "categoryName": "Documentários",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/discoveryscience.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/discoveryscience.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -1818,7 +1818,7 @@
       "name": "Discovery Theater",
       "categoryId": "documentarios",
       "categoryName": "Documentários",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/discoverytheather.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/discoverytheather.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -1832,7 +1832,7 @@
       "name": "Discovery Turbo",
       "categoryId": "documentarios",
       "categoryName": "Documentários",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/discoveryturbo.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/discoveryturbo.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -1846,7 +1846,7 @@
       "name": "Discovery World",
       "categoryId": "documentarios",
       "categoryName": "Documentários",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/discoveryworld.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/discoveryworld.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -1860,7 +1860,7 @@
       "name": "History",
       "categoryId": "documentarios",
       "categoryName": "Documentários",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/history.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/history.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -1874,7 +1874,7 @@
       "name": "History 2",
       "categoryId": "documentarios",
       "categoryName": "Documentários",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/history2.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/history2.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -1888,7 +1888,7 @@
       "name": "AE",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/ae.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/ae.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -1902,7 +1902,7 @@
       "name": "AMC",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/amc.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/amc.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -1916,7 +1916,7 @@
       "name": "AXN",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/axn.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/axn.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -1930,7 +1930,7 @@
       "name": "Adult Swim",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/adultswim.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/adultswim.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -1944,7 +1944,7 @@
       "name": "Cinemax",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/cinemax.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/cinemax.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -1958,7 +1958,7 @@
       "name": "GNT",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/gnt.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/gnt.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -1972,7 +1972,7 @@
       "name": "HBO",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/hbo.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/hbo.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -1986,7 +1986,7 @@
       "name": "HBO 2",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/hbo2.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/hbo2.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2000,7 +2000,7 @@
       "name": "HBO Family",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/hbofamily.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/hbofamily.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2014,7 +2014,7 @@
       "name": "HBO Mundi",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/hbomundi.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/hbomundi.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2028,7 +2028,7 @@
       "name": "HBO POP",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/hbopop.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/hbopop.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2042,7 +2042,7 @@
       "name": "HBO Plus",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/hboplus.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/hboplus.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2056,7 +2056,7 @@
       "name": "HBO Xtreme",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/hboxtreme.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/hboxtreme.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2070,7 +2070,7 @@
       "name": "HGTV",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/hgtv.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/hgtv.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2084,7 +2084,7 @@
       "name": "Megapix",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/megapix.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/megapix.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2098,7 +2098,7 @@
       "name": "OFF",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/off.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/off.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2112,7 +2112,7 @@
       "name": "Sony Channel",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/sonychannel.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/sonychannel.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2126,7 +2126,7 @@
       "name": "Space",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/space.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/space.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2140,7 +2140,7 @@
       "name": "Star Channel",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/starchannel.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/starchannel.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2154,7 +2154,7 @@
       "name": "Studio Universal",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/studiouniversal.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/studiouniversal.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2168,7 +2168,7 @@
       "name": "TCM",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/tcm.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/tcm.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2182,7 +2182,7 @@
       "name": "TLC",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/tlc.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/tlc.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2196,7 +2196,7 @@
       "name": "TNT",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/tnt.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/tnt.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2210,7 +2210,7 @@
       "name": "TNT Novelas",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/tntnovelas.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/tntnovelas.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2224,7 +2224,7 @@
       "name": "TNT Series",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/tntseries.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/tntseries.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2238,7 +2238,7 @@
       "name": "Telecine Action",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/telecineaction.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/telecineaction.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2252,7 +2252,7 @@
       "name": "Telecine Cult",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/telecinecult.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/telecinecult.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2266,7 +2266,7 @@
       "name": "Telecine Fun",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/telecinefun.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/telecinefun.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2280,7 +2280,7 @@
       "name": "Telecine Pipoca",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/telecinepipoca.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/telecinepipoca.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2294,7 +2294,7 @@
       "name": "Telecine Premium",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/telecinepremium.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/telecinepremium.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2308,7 +2308,7 @@
       "name": "Telecine Touch",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/telecinetouch.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/telecinetouch.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2322,7 +2322,7 @@
       "name": "Universal",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/universaltv.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/universaltv.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2336,7 +2336,7 @@
       "name": "Warnerchannel",
       "categoryId": "filmes_series",
       "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/warnerchannel.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/warnerchannel.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2350,7 +2350,7 @@
       "name": "Aparecida",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/aparecida.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/aparecida.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2364,7 +2364,7 @@
       "name": "Band News",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/bandnews.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/bandnews.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2378,7 +2378,7 @@
       "name": "Band RJ",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/bandrj.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/bandrj.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2392,7 +2392,7 @@
       "name": "Band SP",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/bandsp.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/bandsp.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2406,7 +2406,7 @@
       "name": "CNN Brasil",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/cnnbrasil.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/cnnbrasil.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2420,7 +2420,7 @@
       "name": "Canção Nova",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/cancaonova.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/cancaonova.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2434,7 +2434,7 @@
       "name": "Cultura",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/cultura.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/cultura.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2448,7 +2448,7 @@
       "name": "Globo AM",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/globoam.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/globoam.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2462,7 +2462,7 @@
       "name": "Globo CE",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/globoce.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/globoce.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2476,7 +2476,7 @@
       "name": "Globo ES",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/globoes.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/globoes.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2490,7 +2490,7 @@
       "name": "Globo MG",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/globomg.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/globomg.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2504,7 +2504,7 @@
       "name": "Globo News",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/globonews.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/globonews.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2518,7 +2518,7 @@
       "name": "Globo PB",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/globopb.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/globopb.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2532,7 +2532,7 @@
       "name": "Globo PE",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/globope.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/globope.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2546,7 +2546,7 @@
       "name": "Globo RJ",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/globorj.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/globorj.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2560,7 +2560,7 @@
       "name": "Globo RS",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/globors.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/globors.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2574,7 +2574,7 @@
       "name": "Globo SP",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/globosp.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/globosp.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2588,7 +2588,7 @@
       "name": "Globo Novelas",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/globonovelas.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/globonovelas.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2602,7 +2602,7 @@
       "name": "MTV",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/mtv.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/mtv.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2616,7 +2616,7 @@
       "name": "Multishow",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/multishow.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/multishow.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2630,7 +2630,7 @@
       "name": "Record MG",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/recordmg.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/recordmg.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2644,7 +2644,7 @@
       "name": "Record RJ",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/recordrj.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/recordrj.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2658,7 +2658,7 @@
       "name": "Record SP",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/recordsp.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/recordsp.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2672,7 +2672,7 @@
       "name": "SBT RJ",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/sbtrj.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/sbtrj.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2686,7 +2686,7 @@
       "name": "SBT SP",
       "categoryId": "aberta",
       "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/sbtsp.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/sbtsp.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2700,7 +2700,7 @@
       "name": "Band Sports",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/bandsports.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/bandsports.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2714,7 +2714,7 @@
       "name": "CazeTV 1",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/caze1.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/caze1.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2728,7 +2728,7 @@
       "name": "CazeTV 2",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/caze2.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/caze2.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2742,7 +2742,7 @@
       "name": "CazeTV 3",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/caze3.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/caze3.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2756,7 +2756,7 @@
       "name": "Combate",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/combate.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/combate.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2770,7 +2770,7 @@
       "name": "Disney Plus 1",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/disneyplus1.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/disneyplus1.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2784,7 +2784,7 @@
       "name": "Disney Plus 2",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/disneyplus2.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/disneyplus2.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2798,7 +2798,7 @@
       "name": "Disney Plus 3",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/disneyplus3.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/disneyplus3.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2812,7 +2812,7 @@
       "name": "Espn",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/espn.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/espn.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2826,7 +2826,7 @@
       "name": "Espn 2",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/espn2.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/espn2.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2840,7 +2840,7 @@
       "name": "Espn 3",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/espn3.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/espn3.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2854,7 +2854,7 @@
       "name": "Espn 4",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/espn4.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/espn4.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2868,7 +2868,7 @@
       "name": "Espn 5",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/espn5.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/espn5.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2882,7 +2882,7 @@
       "name": "Espn 6",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/espn6.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/espn6.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2896,7 +2896,7 @@
       "name": "Max - 1",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/max1.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/max1.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2910,7 +2910,7 @@
       "name": "Max - 2",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/max2.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/max2.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2924,7 +2924,7 @@
       "name": "Max - 3",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/max3.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/max3.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2938,7 +2938,7 @@
       "name": "Paramount Plus",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/paramountplus.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/paramountplus.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2952,7 +2952,7 @@
       "name": "Paramount Plus 2",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/paramountplus2.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/paramountplus2.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2966,7 +2966,7 @@
       "name": "Premiere 1",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/premiere.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/premiere.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2980,7 +2980,7 @@
       "name": "Premiere 2",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/premiere2.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/premiere2.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -2994,7 +2994,7 @@
       "name": "Premiere 3",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/premiere3.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/premiere3.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -3008,7 +3008,7 @@
       "name": "Premiere 4",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/premiere4.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/premiere4.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -3022,7 +3022,7 @@
       "name": "Premiere 5",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/premiere5.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/premiere5.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -3036,7 +3036,7 @@
       "name": "Premiere 6",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/premiere6.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/premiere6.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -3050,7 +3050,7 @@
       "name": "Premiere 7",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/premiere7.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/premiere7.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -3064,7 +3064,7 @@
       "name": "Premiere 8",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/premiere8.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/premiere8.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -3078,7 +3078,7 @@
       "name": "Prime Video",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/primevideo.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/primevideo.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -3092,7 +3092,7 @@
       "name": "Prime Video 2",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/primevideo2.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/primevideo2.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -3106,7 +3106,7 @@
       "name": "Sportv",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/sportv.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/sportv.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -3120,7 +3120,7 @@
       "name": "Sportv 2",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/sportv2.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/sportv2.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -3134,7 +3134,7 @@
       "name": "Sportv 3",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/sportv3.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/sportv3.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -3148,7 +3148,7 @@
       "name": "Sportv 4",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/sportv4.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/sportv4.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -3162,7 +3162,7 @@
       "name": "UFC Fight Pass",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/ufcfightpass.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/ufcfightpass.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -3176,7 +3176,7 @@
       "name": "XSports",
       "categoryId": "esportes",
       "categoryName": "Esportes",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/xsports.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/xsports.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -3190,7 +3190,7 @@
       "name": "24H Chaves",
       "categoryId": "desenhos",
       "categoryName": "Desenhos e Infantil",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/24h_chaves.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/24h_chaves.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -3204,7 +3204,7 @@
       "name": "24H Dragon Ball Z",
       "categoryId": "desenhos",
       "categoryName": "Desenhos e Infantil",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/24h_dragonball.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/24h_dragonball.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -3218,7 +3218,7 @@
       "name": "24H Naruto Clássico",
       "categoryId": "desenhos",
       "categoryName": "Desenhos e Infantil",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/24h_naruto.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/24h_naruto.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -3232,7 +3232,7 @@
       "name": "24H Os Simpsons",
       "categoryId": "desenhos",
       "categoryName": "Desenhos e Infantil",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/24h_simpsons.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/24h_simpsons.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -3246,7 +3246,7 @@
       "name": "24H Todo Mundo Odeia o Cris",
       "categoryId": "desenhos",
       "categoryName": "Desenhos e Infantil",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/24h_odeiachris.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/24h_odeiachris.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -3260,7 +3260,7 @@
       "name": "Cartoonito",
       "categoryId": "desenhos",
       "categoryName": "Desenhos e Infantil",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/cartoonito.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/cartoonito.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -3274,7 +3274,7 @@
       "name": "Cartoon Network",
       "categoryId": "desenhos",
       "categoryName": "Desenhos e Infantil",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/cartoonnetwork.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/cartoonnetwork.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -3288,7 +3288,7 @@
       "name": "Discovery Kids",
       "categoryId": "desenhos",
       "categoryName": "Desenhos e Infantil",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/discoverykids.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/discoverykids.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -3302,7 +3302,7 @@
       "name": "Gloob",
       "categoryId": "desenhos",
       "categoryName": "Desenhos e Infantil",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/gloob.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/gloob.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -3316,7 +3316,7 @@
       "name": "Play Boy",
       "categoryId": "adulto",
       "categoryName": "Adulto",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/playboy.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/playboy.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -3330,7 +3330,7 @@
       "name": "Sexy Hot",
       "categoryId": "adulto",
       "categoryName": "Adulto",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/sexyhot.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/sexyhot.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -3344,7 +3344,7 @@
       "name": "Food Network",
       "categoryId": "food",
       "categoryName": "Receitas e Culinária",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/foodnetwork.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/foodnetwork.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -3358,7 +3358,7 @@
       "name": "Master chef",
       "categoryId": "food",
       "categoryName": "Receitas e Culinária",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/masterchef.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/masterchef.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -3372,7 +3372,7 @@
       "name": "A Casa do Patrão - 1",
       "categoryId": "acasadopatrao",
       "categoryName": "A Casa do Patrão",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/acasadopatrao1.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/acasadopatrao1.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -3386,7 +3386,7 @@
       "name": "A Casa do Patrão - 2",
       "categoryId": "acasadopatrao",
       "categoryName": "A Casa do Patrão",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/acasadopatrao2.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/acasadopatrao2.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -3400,7 +3400,7 @@
       "name": "A Casa do Patrão - 3",
       "categoryId": "acasadopatrao",
       "categoryName": "A Casa do Patrão",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/acasadopatrao3.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/acasadopatrao3.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -3414,7 +3414,7 @@
       "name": "A Casa do Patrão - 4",
       "categoryId": "acasadopatrao",
       "categoryName": "A Casa do Patrão",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/acasadopatrao4.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/acasadopatrao4.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",
@@ -3428,7 +3428,7 @@
       "name": "A Casa do Patrão - 5",
       "categoryId": "acasadopatrao",
       "categoryName": "A Casa do Patrão",
-      "m3u8_url": "https://d64d5284264bf6d5f25915ad53b6a358.cloudfronte.lat/zzzstream/acasadopatrao5.m3u8",
+      "m3u8_url": "https://190222801ac8fbd3b1084da21872e492.cloudfronte.lat/zzzstream/acasadopatrao5.m3u8",
       "headers": {
         "referer": "https://w2.embedtv.live/",
         "origin": "https://w2.embedtv.live/",

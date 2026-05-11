@@ -4,18 +4,23 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "Mulher leva os filhos para passar um fim de semana na casa do pai, uma fortaleza altamente tecnológica no interior. Quando quatro homens invadem a residência, a mãe precisa salvar seus filhos, reféns dos criminosos.",
+      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
       "start_date": "2026-05-11T00:25:00-03:00",
-      "title": "Invasão"
+      "title": "Jornal da Globo"
     },
     {
-      "desc": "Uma mãe suburbana herda o império da máfia de seu falecido avô, na Itália. Guiada pelo consigliere de confiança da empresa, ela desafia de forma hilária as expectativas de todos ao se ver presa no meio de uma guerra mortal de máfias.",
-      "start_date": "2026-05-11T02:00:00-03:00",
-      "title": "Mafia Mamma - De Repente Criminosa"
+      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
+      "start_date": "2026-05-11T01:15:00-03:00",
+      "title": "A Nobreza do Amor"
+    },
+    {
+      "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
+      "start_date": "2026-05-11T01:55:00-03:00",
+      "title": "Coração Acelerado"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-05-11T03:25:00-03:00",
+      "start_date": "2026-05-11T02:40:00-03:00",
       "title": "Vai que Cola"
     },
     {
@@ -24,69 +29,89 @@
       "title": "Hora 1"
     },
     {
-      "desc": "Acompanhe a celebração da santa missa em João Pessoa.",
-      "start_date": "2026-05-11T05:45:00-03:00",
-      "title": "Santa Missa"
+      "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
+      "start_date": "2026-05-11T06:00:00-03:00",
+      "title": "Bom Dia Rio Grande"
     },
     {
-      "desc": "Especial detalha a Missão Jesuítica no Rio Grande do Sul, abordando a trajetória da Companhia de Jesus desde sua fundação em 1534 e seu impacto através da educação e da ação missionária na região.",
-      "start_date": "2026-05-11T06:35:00-03:00",
-      "title": "400 Anos das Missões Jesuíticas no RS"
-    },
-    {
-      "desc": "A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes.",
-      "start_date": "2026-05-11T07:05:00-03:00",
-      "title": "AutoEsporte"
-    },
-    {
-      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
-      "start_date": "2026-05-11T07:35:00-03:00",
-      "title": "Globo Rural"
-    },
-    {
-      "desc": "Daniel abre a porteira de sua fazenda para receber grandes astros da música sertaneja. Juntos, eles relembram suas trajetórias, falam sobre suas inspirações e se deixam levar pelas modas de viola.",
+      "desc": "Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.",
       "start_date": "2026-05-11T08:30:00-03:00",
-      "title": "Viver Sertanejo"
+      "title": "Bom Dia Brasil"
     },
     {
-      "desc": "Fique por dentro de tudo o que rolou durante a semana nos esportes e veja os gols pelo mundo afora. Entrevistas, reportagens sobre ciência esportiva e personagens históricos também fazem parte da atração.",
-      "start_date": "2026-05-11T09:15:00-03:00",
-      "title": "Esporte Espetacular"
+      "desc": "O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.",
+      "start_date": "2026-05-11T09:30:00-03:00",
+      "title": "Encontro com Patrícia Poeta"
     },
     {
-      "desc": "Dona Hermínia precisa se reinventar porque seus filhos estão formando novas famílias. Marcelina está grávida e Juliano vai casar. Dona Hermínia está mais ansiosa do que nunca. Para completar as confusões, Carlos Alberto, seu ex-marido, que esteve sempre por perto, resolve se mudar para o apartamento ao lado.",
-      "start_date": "2026-05-11T12:25:00-03:00",
-      "title": "Minha Mãe É uma Peça 3"
+      "desc": "Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.",
+      "start_date": "2026-05-11T10:35:00-03:00",
+      "title": "Mais Você"
     },
     {
-      "desc": "Em especial do Dia das Mães, competição musical entra nas quartas de final. Convidadas da edição são Evelyn Castro, Ticiane Pinheiro e Aline Barros. Aline Wirley e Igor Rickli recebem visita de Eliana em sua casa, no Rio de Janeiro.",
-      "start_date": "2026-05-11T14:15:00-03:00",
-      "title": "Em Família com Eliana"
+      "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
+      "start_date": "2026-05-11T11:45:00-03:00",
+      "title": "Jornal do Almoço"
     },
     {
-      "desc": "Os principais acontecimentos do Brasileirão, com notícias de clubes e atletas antes das partidas.",
+      "desc": "Confira as últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.",
+      "start_date": "2026-05-11T13:00:00-03:00",
+      "title": "Globo Esporte RS"
+    },
+    {
+      "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
+      "start_date": "2026-05-11T13:25:00-03:00",
+      "title": "Jornal Hoje"
+    },
+    {
+      "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
+      "start_date": "2026-05-11T14:45:00-03:00",
+      "title": "Além do Tempo - Edição Especial"
+    },
+    {
+      "desc": "A vida do técnico de basquete John Harrison muda do dia para noite quando os sonhos do campeonato estadual de sua equipe são frustrados com notícias inesperadas. A maior fábrica na cidade, de repente, fecha e centenas de famílias começam a se mudar. John precisa encarar os desafios enfrentados por sua família e seu time. Convocado pela diretora da escola para preencher e treinar a equipe de cross-country, um esporte que ele não conhece e nem gosta, John fica frustrado e questiona o seu valor.",
       "start_date": "2026-05-11T15:30:00-03:00",
-      "title": "Bora Pro Jogo"
+      "title": "Mais que Vencedores"
     },
     {
-      "desc": "Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.",
-      "start_date": "2026-05-11T15:45:00-03:00",
-      "title": "Atlético-MG x Botafogo"
+      "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
+      "start_date": "2026-05-11T17:20:00-03:00",
+      "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
-      "desc": "Na nova temporada do \"3Min pra Brilhar\", talento e paixão pela música de brasileiros. No Dia das Mães, homenagem a Dona Déa Lúcia e Paulo Gustavo. O rapper Emicida apresenta trabalho dedicado à mãe Jacira Roque Oliveira.",
-      "start_date": "2026-05-11T18:10:00-03:00",
-      "title": "Domingão com Huck"
+      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
+      "start_date": "2026-05-11T18:25:00-03:00",
+      "title": "A Nobreza do Amor"
     },
     {
-      "desc": "Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência.",
+      "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
+      "start_date": "2026-05-11T19:10:00-03:00",
+      "title": "RBS Notícias"
+    },
+    {
+      "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
+      "start_date": "2026-05-11T19:40:00-03:00",
+      "title": "Coração Acelerado"
+    },
+    {
+      "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
       "start_date": "2026-05-11T20:30:00-03:00",
-      "title": "Fantástico"
+      "title": "Jornal Nacional"
     },
     {
-      "desc": "O maior festival de música sertaneja do Brasil que acontece nas seis cidades anfitriãs: Londrina, Ribeirão Preto, Pedro Leopoldo, Barretos, Jaguariúna e Caldas Novas.",
-      "start_date": "2026-05-11T23:35:00-03:00",
-      "title": "Circuito Sertanejo"
+      "desc": "Gerluce Maria das Graças integra uma família de mães solo: é filha de Lígia Maria e mãe de Joélly Maria. Criada pela mãe, que engravidou na adolescência e foi abandonada pelo seu pai, Gerluce enfrenta um destino parecido com a chegada da filha.",
+      "start_date": "2026-05-11T21:20:00-03:00",
+      "title": "Três Graças"
+    },
+    {
+      "desc": "Inconformada com o atentado sofrido por Jânia, Valiana confronta Arduíno; Petúnia junta-se ao bando e é recebida por Rosa; Coronel Nogueira avisa Arduíno que Josué irá atacar Santa Cruz.",
+      "start_date": "2026-05-11T22:25:00-03:00",
+      "title": "Guerreiros do Sol"
+    },
+    {
+      "desc": "A brilhante septuagenária Madeline \"Matty\" Matlock volta a trabalhar em um prestigioso escritório de advocacia. Ela utiliza sua postura despretensiosa e táticas astutas para vencer casos e expor a corrupção interna.",
+      "start_date": "2026-05-11T23:15:00-03:00",
+      "title": "Matlock - Uma Advogada Improvável"
     }
   ],
   "start_date": "2026-05-11"

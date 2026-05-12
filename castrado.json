@@ -6,6 +6,35 @@
     "date": "2026-04-29T20:59:23.057Z",
     "version": "FAST_V2"
   },
+    "categorias": {
+    "Pesca Mortal": {
+      "nome": "Temporada 1",
+      "canais": [
+        {
+          "id": "EP12",
+          "name": "Episódio 12",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "m3u8_url": "https://hlswish.com/stream/Umtz9HiWvrFV3H2pBeb8Sw/kjhhiuahiuhgihdf/1778600851/27198582/master.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+ {
+          "id": "EP13",
+          "name": "Episódio 13",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "m3u8_url": "https://hlswish.com/stream/g_oQFXQnxG65D5qOZvyZDw/kjhhiuahiuhgihdf/1778601041/27198893/master.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": "ID=08032755165f40d8e14d5b20c87c2773"
+          },
+          
   "categorias": {
     "documentarios": {
       "nome": "Documentários",

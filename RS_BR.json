@@ -4,54 +4,54 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-05-16T00:20:00-03:00",
-      "title": "Jornal da Globo"
+      "desc": "O ambicioso vigarista Stanton Carlisle, que tem um talento para manipular pessoas, se une a uma clarividente e seu marido mentalista para enganar um perigoso magnata com a ajuda de uma misteriosa psiquiatra, que pode ser sua maior oponente.",
+      "start_date": "2026-05-16T00:15:00-03:00",
+      "title": "O Beco do Pesadelo"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-05-16T01:10:00-03:00",
+      "start_date": "2026-05-16T02:45:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-05-16T01:50:00-03:00",
+      "start_date": "2026-05-16T03:25:00-03:00",
       "title": "Coração Acelerado"
     },
     {
-      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-05-16T02:35:00-03:00",
-      "title": "Vai que Cola"
+      "desc": "Baseado na história de Stephen Hawking, o filme expõe como o astrofísico fez descobertas relevantes para o mundo da ciência, inclusive relacionadas ao tempo. Também retrata seu romance com Jane Wilde, uma estudante de Cambridge que tornar-se-ia sua esposa. Aos 21 anos, Hawking descobriu que sofria de uma doença motora degenerativa, mas isso não o impediu de se tornar um dos maiores cientistas da atualidade.",
+      "start_date": "2026-05-16T04:05:00-03:00",
+      "title": "A Teoria de Tudo"
     },
     {
-      "desc": "Encerramento da programação.",
-      "start_date": "2026-05-16T03:05:00-03:00",
-      "title": "Manutenção"
+      "desc": "Acompanhe a celebração da santa missa em João Pessoa.",
+      "start_date": "2026-05-16T05:50:00-03:00",
+      "title": "Santa Missa"
     },
     {
-      "desc": "Quincas é funcionário público cansado da vida que leva. Um dia, ele resolve deixar sua família e cair na farra, ganhando fama como Quincas Berro d'Água, mas acaba falecendo em uma de suas festas. A família tenta organizar um enterro respeitável, mas seus amigos planejam levá-lo em uma última aventura.",
-      "start_date": "2026-05-16T04:50:00-03:00",
-      "title": "Quincas Berro d'Água"
-    },
-    {
-      "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
+      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
       "start_date": "2026-05-16T06:00:00-03:00",
-      "title": "Bom Dia Rio Grande"
+      "title": "Globo Rural"
     },
     {
-      "desc": "Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.",
+      "desc": "As principais notícias do Brasil para começar o final de semana bem-informado.",
+      "start_date": "2026-05-16T06:50:00-03:00",
+      "title": "Bom Dia Sábado"
+    },
+    {
+      "desc": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários.",
+      "start_date": "2026-05-16T07:50:00-03:00",
+      "title": "Pequenas Empresas & Grandes Negócios"
+    },
+    {
+      "desc": "Um programa democrático que aborda as diversas áreas da cultura gaúcha, e também apresenta quadros de turismo, gastronomia e as informações do agronegócio.",
       "start_date": "2026-05-16T08:30:00-03:00",
-      "title": "Bom Dia Brasil"
+      "title": "Galpão Crioulo"
     },
     {
-      "desc": "O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.",
-      "start_date": "2026-05-16T09:30:00-03:00",
-      "title": "Encontro com Patrícia Poeta"
-    },
-    {
-      "desc": "Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.",
-      "start_date": "2026-05-16T10:35:00-03:00",
-      "title": "Mais Você"
+      "desc": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa.",
+      "start_date": "2026-05-16T09:00:00-03:00",
+      "title": "É de Casa"
     },
     {
       "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
@@ -70,32 +70,32 @@
     },
     {
       "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
-      "start_date": "2026-05-16T14:45:00-03:00",
+      "start_date": "2026-05-16T14:10:00-03:00",
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Fernanda está casada com Tom, com quem tem uma filha de cinco anos, Joana. O casal está em meio ao desgaste causado pelo convívio de muitos anos, o que gera atritos constantes. Quem ajuda Fernanda a superar a crise é seu sócio Aníbal, parceiro inseparável durante a árdua jornada entre salvar o casamento ou colocar um fim nele.",
-      "start_date": "2026-05-16T15:35:00-03:00",
-      "title": "Minha Vida em Marte"
+      "desc": "Alan Parrish desapareceu quando era menino e ninguém acredita na história de seu amigo de que ele foi sugado por um jogo de tabuleiro. Vinte e seis anos depois, duas crianças acham o jogo no sótão e, quando começam a jogar, Alan é liberto. Mas a disputa ainda não acabou e Alan precisa terminar antes de ser realmente solto.",
+      "start_date": "2026-05-16T14:40:00-03:00",
+      "title": "Jumanji"
     },
     {
-      "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
-      "start_date": "2026-05-16T17:05:00-03:00",
-      "title": "Vale a Pena Ver de Novo - Avenida Brasil"
+      "desc": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais.",
+      "start_date": "2026-05-16T16:15:00-03:00",
+      "title": "Caldeirão com Mion"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-05-16T18:25:00-03:00",
+      "start_date": "2026-05-16T18:40:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-05-16T19:10:00-03:00",
+      "start_date": "2026-05-16T19:25:00-03:00",
       "title": "RBS Notícias"
     },
     {
       "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-05-16T19:40:00-03:00",
+      "start_date": "2026-05-16T19:45:00-03:00",
       "title": "Coração Acelerado"
     },
     {
@@ -109,14 +109,9 @@
       "title": "Três Graças"
     },
     {
-      "desc": "Turnê celebra o sucesso do folhetim de Aguinaldo Silva, reunindo Belo e Xamã em apresentações ao lado de Alana Cabral, Sophie Charlotte, Gabriela Medvedovsky e Pedro Novaes interpretando temas da novela, além da participação de Péricles.",
-      "start_date": "2026-05-16T22:30:00-03:00",
-      "title": "Turnê Três Graças"
-    },
-    {
-      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
-      "start_date": "2026-05-16T23:30:00-03:00",
-      "title": "Globo Repórter"
+      "desc": "Serginho Groisman promove debates sobre temas relevantes com a participação da plateia, artistas e personalidades de diferentes áreas.",
+      "start_date": "2026-05-16T22:25:00-03:00",
+      "title": "Altas Horas"
     }
   ],
   "start_date": "2026-05-16"

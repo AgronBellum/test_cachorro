@@ -4,24 +4,19 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "O ambicioso vigarista Stanton Carlisle, que tem um talento para manipular pessoas, se une a uma clarividente e seu marido mentalista para enganar um perigoso magnata com a ajuda de uma misteriosa psiquiatra, que pode ser sua maior oponente.",
-      "start_date": "2026-05-17T00:15:00-03:00",
-      "title": "O Beco do Pesadelo"
+      "desc": "Um caso envolvendo traficantes e assassinato no sul da Flórida se torna pessoal para os detetives disfarçados Sonny Crockett e Ricardo Tubbs. O pouco ortodoxo Crockett se envolve com a esposa de um traficante de armas e drogas, enquanto Tubbs lida com um ataque contra seus entes queridos.",
+      "start_date": "2026-05-17T01:05:00-03:00",
+      "title": "Miami Vice"
     },
     {
-      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-05-17T02:45:00-03:00",
-      "title": "A Nobreza do Amor"
+      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "start_date": "2026-05-17T03:15:00-03:00",
+      "title": "Vai que Cola"
     },
     {
-      "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-05-17T03:25:00-03:00",
-      "title": "Coração Acelerado"
-    },
-    {
-      "desc": "Baseado na história de Stephen Hawking, o filme expõe como o astrofísico fez descobertas relevantes para o mundo da ciência, inclusive relacionadas ao tempo. Também retrata seu romance com Jane Wilde, uma estudante de Cambridge que tornar-se-ia sua esposa. Aos 21 anos, Hawking descobriu que sofria de uma doença motora degenerativa, mas isso não o impediu de se tornar um dos maiores cientistas da atualidade.",
-      "start_date": "2026-05-17T04:05:00-03:00",
-      "title": "A Teoria de Tudo"
+      "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
+      "start_date": "2026-05-17T04:00:00-03:00",
+      "title": "Hora 1"
     },
     {
       "desc": "Acompanhe a celebração da santa missa em João Pessoa.",
@@ -29,99 +24,69 @@
       "title": "Santa Missa"
     },
     {
-      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
-      "start_date": "2026-05-17T06:00:00-03:00",
-      "title": "Globo Rural"
-    },
-    {
-      "desc": "As principais notícias do Brasil para começar o final de semana bem-informado.",
-      "start_date": "2026-05-17T06:50:00-03:00",
-      "title": "Bom Dia Sábado"
-    },
-    {
-      "desc": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários.",
-      "start_date": "2026-05-17T07:50:00-03:00",
-      "title": "Pequenas Empresas & Grandes Negócios"
+      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
+      "start_date": "2026-05-17T06:40:00-03:00",
+      "title": "Globo Repórter"
     },
     {
       "desc": "Um programa democrático que aborda as diversas áreas da cultura gaúcha, e também apresenta quadros de turismo, gastronomia e as informações do agronegócio.",
-      "start_date": "2026-05-17T08:30:00-03:00",
+      "start_date": "2026-05-17T07:30:00-03:00",
       "title": "Galpão Crioulo"
     },
     {
-      "desc": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa.",
-      "start_date": "2026-05-17T09:00:00-03:00",
-      "title": "É de Casa"
+      "desc": "A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes.",
+      "start_date": "2026-05-17T08:00:00-03:00",
+      "title": "AutoEsporte"
     },
     {
-      "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-05-17T11:45:00-03:00",
-      "title": "Jornal do Almoço"
+      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
+      "start_date": "2026-05-17T08:30:00-03:00",
+      "title": "Globo Rural"
     },
     {
-      "desc": "Confira as últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.",
-      "start_date": "2026-05-17T13:00:00-03:00",
-      "title": "Globo Esporte RS"
+      "desc": "Daniel abre a porteira de sua fazenda para receber grandes astros da música sertaneja. Juntos, eles relembram suas trajetórias, falam sobre suas inspirações e se deixam levar pelas modas de viola.",
+      "start_date": "2026-05-17T10:05:00-03:00",
+      "title": "Viver Sertanejo"
     },
     {
-      "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
-      "start_date": "2026-05-17T13:25:00-03:00",
-      "title": "Jornal Hoje"
+      "desc": "Fique por dentro de tudo o que rolou durante a semana nos esportes e veja os gols pelo mundo afora. Entrevistas, reportagens sobre ciência esportiva e personagens históricos também fazem parte da atração.",
+      "start_date": "2026-05-17T11:00:00-03:00",
+      "title": "Esporte Espetacular"
     },
     {
-      "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
-      "start_date": "2026-05-17T14:10:00-03:00",
-      "title": "Além do Tempo - Edição Especial"
+      "desc": "Nathan Drake e seu parceiro canastrão Victor \"Sully\" Sullivan embarcam em uma perigosa busca para encontrar o maior tesouro jamais encontrado. Enquanto isso, eles também rastreiam pistas que podem levar ao irmão perdido de Nathan.",
+      "start_date": "2026-05-17T12:25:00-03:00",
+      "title": "Uncharted - Fora do Mapa"
     },
     {
-      "desc": "De uma forma leve e divertida, muito entretenimento e informação a partir de personagens inspiradores em assuntos como cultura, bem-estar, lazer, música, viagem, gastronomia e sustentabilidade.",
-      "start_date": "2026-05-17T14:40:00-03:00",
-      "title": "Baita Sábado"
+      "desc": "Luana Zucoloto, Marcos Mion e Tierry participam do \"Em Família com Eliana\". Repescagem e disputa por vaga na semifinal marca a competição entre famílias, neste domingo.",
+      "start_date": "2026-05-17T14:15:00-03:00",
+      "title": "Em Família com Eliana"
     },
     {
-      "desc": "Uma viagem pelos sabores e histórias do Rio Grande do Sul, explorando tradições, receitas e o melhor da gastronomia local.",
+      "desc": "Os principais acontecimentos do Brasileirão, com notícias de clubes e atletas antes das partidas.",
       "start_date": "2026-05-17T15:30:00-03:00",
-      "title": "Mapa Destemperados"
+      "title": "Bora Pro Jogo"
     },
     {
-      "desc": "Uma experiência que resgata o valor dos encontros. Porque existem momentos que não se medem pelo relógio, mas pelo estalo da lenha e pelo aroma da carne na brasa.",
-      "start_date": "2026-05-17T15:50:00-03:00",
-      "title": "Tempo Bueno"
+      "desc": "Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.",
+      "start_date": "2026-05-17T15:45:00-03:00",
+      "title": "Bahia x Grêmio"
     },
     {
-      "desc": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais.",
-      "start_date": "2026-05-17T16:15:00-03:00",
-      "title": "Caldeirão com Mion"
+      "desc": "Elenco de \"Quem Ama Cuida\" faz esquenta para a estreia no \"Domingão com Huck\": um time de estrelas. Luciano recebe os atores Leticia Colin, Chay Suede, entre outros atores do elenco.",
+      "start_date": "2026-05-17T18:10:00-03:00",
+      "title": "Domingão com Huck"
     },
     {
-      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-05-17T18:40:00-03:00",
-      "title": "A Nobreza do Amor"
-    },
-    {
-      "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-05-17T19:25:00-03:00",
-      "title": "RBS Notícias"
-    },
-    {
-      "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-05-17T19:45:00-03:00",
-      "title": "Coração Acelerado"
-    },
-    {
-      "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
+      "desc": "Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência.",
       "start_date": "2026-05-17T20:30:00-03:00",
-      "title": "Jornal Nacional"
+      "title": "Fantástico"
     },
     {
-      "desc": "Gerluce Maria das Graças integra uma família de mães solo: é filha de Lígia Maria e mãe de Joélly Maria. Criada pela mãe, que engravidou na adolescência e foi abandonada pelo seu pai, Gerluce enfrenta um destino parecido com a chegada da filha.",
-      "start_date": "2026-05-17T21:20:00-03:00",
-      "title": "Três Graças"
-    },
-    {
-      "desc": "Serginho Groisman promove debates sobre temas relevantes com a participação da plateia, artistas e personalidades de diferentes áreas.",
-      "start_date": "2026-05-17T22:25:00-03:00",
-      "title": "Altas Horas"
+      "desc": "Ao cumprir uma extradição de um suspeito em outro país, o detetive MA e o Capitão Jeon Il-Man tomam ciência de Hae-Sang, um assassino que aterroriza turistas há vários anos. Para capturá-lo, MA e sua equipe iniciam uma investigação entre dois países.",
+      "start_date": "2026-05-17T23:35:00-03:00",
+      "title": "Força Bruta"
     }
   ],
   "start_date": "2026-05-17"

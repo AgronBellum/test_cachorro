@@ -1,73 +1,8 @@
 {
-  "end_date": "2026-05-19",
+  "end_date": "2026-05-20",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
-    {
-      "desc": "",
-      "start_date": "2026-05-17T01:13:00-03:00",
-      "title": "House of Hammer - Segredos de Família"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-17T04:18:00-03:00",
-      "title": "Os Irmãos Menendez - Assassinos ou Sobreviventes?"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-17T06:00:00-03:00",
-      "title": "O Curioso Caso de Natalia Grace"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-17T07:36:00-03:00",
-      "title": "O Curioso Caso de..."
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-17T08:25:00-03:00",
-      "title": "Glee - O Preço da Fama"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-17T09:14:00-03:00",
-      "title": "Jared Fogle - O Monstro do Subway"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-17T10:03:00-03:00",
-      "title": "House of Hammer - Segredos de Família"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-17T13:08:00-03:00",
-      "title": "Princesa Diana - Acidente ou Traição?"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-17T15:34:00-03:00",
-      "title": "Os Irmãos Menendez - Assassinos ou Sobreviventes?"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-17T17:13:00-03:00",
-      "title": "Assassinato em Mansfield"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-17T18:54:00-03:00",
-      "title": "O Assassino do Rio Green"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-17T20:36:00-03:00",
-      "title": "Mães e Filhos - Assassinato em Família"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-17T21:20:00-03:00",
-      "title": "Ken e Barbie - O Casal Assassino"
-    },
     {
       "desc": "",
       "start_date": "2026-05-18T01:13:00-03:00",
@@ -132,7 +67,72 @@
       "desc": "",
       "start_date": "2026-05-18T21:20:00-03:00",
       "title": "Ken e Barbie - O Casal Assassino"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-19T01:13:00-03:00",
+      "title": "House of Hammer - Segredos de Família"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-19T04:18:00-03:00",
+      "title": "Os Irmãos Menendez - Assassinos ou Sobreviventes?"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-19T06:00:00-03:00",
+      "title": "O Curioso Caso de Natalia Grace"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-19T07:36:00-03:00",
+      "title": "O Curioso Caso de..."
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-19T08:25:00-03:00",
+      "title": "Glee - O Preço da Fama"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-19T09:14:00-03:00",
+      "title": "Jared Fogle - O Monstro do Subway"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-19T10:03:00-03:00",
+      "title": "House of Hammer - Segredos de Família"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-19T13:08:00-03:00",
+      "title": "Princesa Diana - Acidente ou Traição?"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-19T15:34:00-03:00",
+      "title": "Os Irmãos Menendez - Assassinos ou Sobreviventes?"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-19T17:13:00-03:00",
+      "title": "Assassinato em Mansfield"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-19T18:54:00-03:00",
+      "title": "O Assassino do Rio Green"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-19T20:36:00-03:00",
+      "title": "Mães e Filhos - Assassinato em Família"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-19T21:20:00-03:00",
+      "title": "Ken e Barbie - O Casal Assassino"
     }
   ],
-  "start_date": "2026-05-17"
+  "start_date": "2026-05-18"
 }

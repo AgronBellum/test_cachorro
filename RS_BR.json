@@ -5,22 +5,27 @@
   "epg_list": [
     {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-05-19T00:55:00-03:00",
+      "start_date": "2026-05-19T00:00:00-03:00",
       "title": "Jornal da Globo"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-05-19T01:45:00-03:00",
+      "start_date": "2026-05-19T00:50:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-05-19T02:20:00-03:00",
+      "start_date": "2026-05-19T01:30:00-03:00",
       "title": "Coração Acelerado"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-05-19T02:55:00-03:00",
+      "start_date": "2026-05-19T02:15:00-03:00",
+      "title": "Vai que Cola"
+    },
+    {
+      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "start_date": "2026-05-19T03:10:00-03:00",
       "title": "Vai que Cola"
     },
     {
@@ -65,37 +70,32 @@
     },
     {
       "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
-      "start_date": "2026-05-19T14:35:00-03:00",
+      "start_date": "2026-05-19T14:45:00-03:00",
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Um cruzado endurecido pela batalha e um guerreiro mouro criam uma revolta contra a coroa inglesa.",
-      "start_date": "2026-05-19T15:15:00-03:00",
-      "title": "Robin Hood - A Origem"
-    },
-    {
-      "desc": "O treinador Carlo Ancelotti faz a convocação oficial da Seleção Brasileira para a Copa do Mundo. O Brasil embarca para os Estados Unidos, em busca do sonho do hexacampeonato mundial.",
-      "start_date": "2026-05-19T16:45:00-03:00",
-      "title": "Convocação da Seleção Brasileira - Copa do Mundo da FIFA 2026"
+      "desc": "O pai de um jovem vendedor morre e deixa uma herança de 150 mil dólares com um bilhete pedindo para que o dinheiro seja entregue para uma meia-irmã que ele nunca conheceu, e agora ele não sabe exatamente o que fazer.",
+      "start_date": "2026-05-19T15:30:00-03:00",
+      "title": "Bem-Vindo à Vida"
     },
     {
       "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
-      "start_date": "2026-05-19T17:55:00-03:00",
+      "start_date": "2026-05-19T17:15:00-03:00",
       "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-05-19T18:40:00-03:00",
+      "start_date": "2026-05-19T18:25:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-05-19T19:20:00-03:00",
+      "start_date": "2026-05-19T19:10:00-03:00",
       "title": "RBS Notícias"
     },
     {
       "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-05-19T19:45:00-03:00",
+      "start_date": "2026-05-19T19:40:00-03:00",
       "title": "Coração Acelerado"
     },
     {
@@ -110,13 +110,13 @@
     },
     {
       "desc": "Jânia recebe a notícia de que Bernardino foi sequestrado pelo bando de Josué; Rosa e Josué impedem que Gasolina se vingue de Adelzira; Arduino inicia sua campanha para deputado.",
-      "start_date": "2026-05-19T22:20:00-03:00",
+      "start_date": "2026-05-19T22:25:00-03:00",
       "title": "Guerreiros do Sol"
     },
     {
-      "desc": "O governo envia os supervilões mais perigosos do mundo para a remota ilha de Corto Maltese, repleta de inimigos. Armados com armas de alta tecnologia, eles viajam pela selva perigosa em uma missão de busca e destruição com o Coronel Rick Flag.",
-      "start_date": "2026-05-19T23:10:00-03:00",
-      "title": "O Esquadrão Suicida"
+      "desc": "Tatá Werneck recebe artistas em seu talk show para um bate-papo nada comum com muitas brincadeiras e bom humor.",
+      "start_date": "2026-05-19T23:15:00-03:00",
+      "title": "Lady Night"
     }
   ],
   "start_date": "2026-05-19"

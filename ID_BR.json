@@ -1,153 +1,8 @@
 {
-  "end_date": "2026-05-24",
+  "end_date": "2026-05-25",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
-    {
-      "desc": "",
-      "start_date": "2026-05-22T00:33:00-03:00",
-      "title": "O Lado Obscuro da Fama"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-22T01:21:00-03:00",
-      "title": "Seu Pior Pesadelo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-22T02:09:00-03:00",
-      "title": "Mentiras Criminosas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-22T02:53:00-03:00",
-      "title": "People Magazine - Além da Notícia"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-22T03:40:00-03:00",
-      "title": "Assassinato de uma Sexta à Noite"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-22T04:24:00-03:00",
-      "title": "Ainda um Mistério"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-22T05:12:00-03:00",
-      "title": "Câmera Crime"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-22T06:00:00-03:00",
-      "title": "DNA Criminoso"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-22T06:48:00-03:00",
-      "title": "Lobo em Pele de Cordeiro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-22T07:36:00-03:00",
-      "title": "Vivendo com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-22T08:25:00-03:00",
-      "title": "Vidas Destruídas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-22T09:14:00-03:00",
-      "title": "Assassinatos em Família"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-22T10:03:00-03:00",
-      "title": "Vivendo com o Inimigo - Sombras da Morte"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-22T10:52:00-03:00",
-      "title": "Irmãs Perversas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-22T11:41:00-03:00",
-      "title": "Falsidade.com"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-22T12:29:00-03:00",
-      "title": "Emboscada"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-22T13:18:00-03:00",
-      "title": "Diabólicos - A Face Oculta do Amor"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-22T14:06:00-03:00",
-      "title": "Amor Assassino"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-22T14:55:00-03:00",
-      "title": "Pecados Mortais"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-22T15:44:00-03:00",
-      "title": "Paixões Perigosas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-22T16:33:00-03:00",
-      "title": "Análise de um Crime"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-22T17:22:00-03:00",
-      "title": "Detetive Americano com Joe Kenda"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-22T18:10:00-03:00",
-      "title": "Olhos Da Lei"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-22T19:00:00-03:00",
-      "title": "Bodycam - Registros Criminosos"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-22T19:48:00-03:00",
-      "title": "Crimes que Viralizaram"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-22T20:37:00-03:00",
-      "title": "O Curioso Caso de Natalia Grace"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-22T22:09:00-03:00",
-      "title": "O Curioso Caso de..."
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-22T22:53:00-03:00",
-      "title": "Glee - O Preço da Fama"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-22T23:44:00-03:00",
-      "title": "Jared Fogle - O Monstro do Subway"
-    },
     {
       "desc": "",
       "start_date": "2026-05-23T00:33:00-03:00",
@@ -292,7 +147,152 @@
       "desc": "",
       "start_date": "2026-05-23T23:44:00-03:00",
       "title": "Jared Fogle - O Monstro do Subway"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-24T00:33:00-03:00",
+      "title": "O Lado Obscuro da Fama"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-24T01:21:00-03:00",
+      "title": "Seu Pior Pesadelo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-24T02:09:00-03:00",
+      "title": "Mentiras Criminosas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-24T02:53:00-03:00",
+      "title": "People Magazine - Além da Notícia"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-24T03:40:00-03:00",
+      "title": "Assassinato de uma Sexta à Noite"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-24T04:24:00-03:00",
+      "title": "Ainda um Mistério"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-24T05:12:00-03:00",
+      "title": "Câmera Crime"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-24T06:00:00-03:00",
+      "title": "DNA Criminoso"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-24T06:48:00-03:00",
+      "title": "Lobo em Pele de Cordeiro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-24T07:36:00-03:00",
+      "title": "Vivendo com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-24T08:25:00-03:00",
+      "title": "Vidas Destruídas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-24T09:14:00-03:00",
+      "title": "Assassinatos em Família"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-24T10:03:00-03:00",
+      "title": "Vivendo com o Inimigo - Sombras da Morte"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-24T10:52:00-03:00",
+      "title": "Irmãs Perversas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-24T11:41:00-03:00",
+      "title": "Falsidade.com"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-24T12:29:00-03:00",
+      "title": "Emboscada"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-24T13:18:00-03:00",
+      "title": "Diabólicos - A Face Oculta do Amor"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-24T14:06:00-03:00",
+      "title": "Amor Assassino"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-24T14:55:00-03:00",
+      "title": "Pecados Mortais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-24T15:44:00-03:00",
+      "title": "Paixões Perigosas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-24T16:33:00-03:00",
+      "title": "Análise de um Crime"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-24T17:22:00-03:00",
+      "title": "Detetive Americano com Joe Kenda"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-24T18:10:00-03:00",
+      "title": "Olhos Da Lei"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-24T19:00:00-03:00",
+      "title": "Bodycam - Registros Criminosos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-24T19:48:00-03:00",
+      "title": "Crimes que Viralizaram"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-24T20:37:00-03:00",
+      "title": "O Curioso Caso de Natalia Grace"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-24T22:09:00-03:00",
+      "title": "O Curioso Caso de..."
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-24T22:53:00-03:00",
+      "title": "Glee - O Preço da Fama"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-24T23:44:00-03:00",
+      "title": "Jared Fogle - O Monstro do Subway"
     }
   ],
-  "start_date": "2026-05-22"
+  "start_date": "2026-05-23"
 }

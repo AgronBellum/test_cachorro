@@ -1,88 +1,8 @@
 {
-  "end_date": "2026-05-25",
+  "end_date": "2026-05-26",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
-    {
-      "desc": "",
-      "start_date": "2026-05-23T00:33:00-03:00",
-      "title": "Mentiras de Amor"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-23T01:21:00-03:00",
-      "title": "O Castelo dos Horrores"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-23T03:40:00-03:00",
-      "title": "Tragédia de Bakersfield - Em Busca da Verdade"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-23T06:00:00-03:00",
-      "title": "Mães e Filhos - Assassinato em Família"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-23T06:48:00-03:00",
-      "title": "Ken e Barbie - O Casal Assassino"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-23T10:03:00-03:00",
-      "title": "Análise de um Crime"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-23T10:52:00-03:00",
-      "title": "O Castelo dos Horrores"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-23T13:18:00-03:00",
-      "title": "Tragédia de Bakersfield - Em Busca da Verdade"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-23T15:44:00-03:00",
-      "title": "Luigi Mangione: O Assassino do CEO"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-23T16:33:00-03:00",
-      "title": "Crimes Misteriosos - Susan Powell"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-23T18:10:00-03:00",
-      "title": "Ed Kemper - A Mente de um Monstro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-23T20:36:00-03:00",
-      "title": "Segredos Bem Casados"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-23T21:20:00-03:00",
-      "title": "Casados com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-23T22:09:00-03:00",
-      "title": "Mistério na Neve - O Caso Karen Read"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-23T22:53:00-03:00",
-      "title": "Como Não Matar Seu Amor"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-23T23:44:00-03:00",
-      "title": "Encontros Infernais"
-    },
     {
       "desc": "",
       "start_date": "2026-05-24T00:33:00-03:00",
@@ -162,7 +82,87 @@
       "desc": "",
       "start_date": "2026-05-24T23:44:00-03:00",
       "title": "Encontros Infernais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-25T00:33:00-03:00",
+      "title": "Mentiras de Amor"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-25T01:21:00-03:00",
+      "title": "O Castelo dos Horrores"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-25T03:40:00-03:00",
+      "title": "Tragédia de Bakersfield - Em Busca da Verdade"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-25T06:00:00-03:00",
+      "title": "Mães e Filhos - Assassinato em Família"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-25T06:48:00-03:00",
+      "title": "Ken e Barbie - O Casal Assassino"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-25T10:03:00-03:00",
+      "title": "Análise de um Crime"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-25T10:52:00-03:00",
+      "title": "O Castelo dos Horrores"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-25T13:18:00-03:00",
+      "title": "Tragédia de Bakersfield - Em Busca da Verdade"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-25T15:44:00-03:00",
+      "title": "Luigi Mangione: O Assassino do CEO"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-25T16:33:00-03:00",
+      "title": "Crimes Misteriosos - Susan Powell"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-25T18:10:00-03:00",
+      "title": "Ed Kemper - A Mente de um Monstro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-25T20:36:00-03:00",
+      "title": "Segredos Bem Casados"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-25T21:20:00-03:00",
+      "title": "Casados com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-25T22:09:00-03:00",
+      "title": "Mistério na Neve - O Caso Karen Read"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-25T22:53:00-03:00",
+      "title": "Como Não Matar Seu Amor"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-25T23:44:00-03:00",
+      "title": "Encontros Infernais"
     }
   ],
-  "start_date": "2026-05-23"
+  "start_date": "2026-05-24"
 }

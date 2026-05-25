@@ -1,83 +1,8 @@
 {
-  "end_date": "2026-05-26",
+  "end_date": "2026-05-27",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
-    {
-      "desc": "",
-      "start_date": "2026-05-24T00:33:00-03:00",
-      "title": "Análise de um Crime"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-24T01:21:00-03:00",
-      "title": "O Estrangulador em Série"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-24T03:40:00-03:00",
-      "title": "Glee - O Preço da Fama"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-24T06:00:00-03:00",
-      "title": "O Curioso Caso de Natalia Grace"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-24T07:36:00-03:00",
-      "title": "O Curioso Caso de..."
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-24T08:25:00-03:00",
-      "title": "Glee - O Preço da Fama"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-24T09:14:00-03:00",
-      "title": "Jared Fogle - O Monstro do Subway"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-24T10:03:00-03:00",
-      "title": "O Lado Obscuro da Fama"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-24T10:52:00-03:00",
-      "title": "O Estrangulador em Série"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-24T13:18:00-03:00",
-      "title": "Glee - O Preço da Fama"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-24T15:44:00-03:00",
-      "title": "Jamie vs. Britney - O Julgamento da Família Spears"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-24T17:22:00-03:00",
-      "title": "Nick e Aaron Carter: A Queda dos Ídolos"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-24T20:36:00-03:00",
-      "title": "Mães e Filhos - Assassinato em Família"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-24T21:20:00-03:00",
-      "title": "Ted Bundy: A Mente de um Monstro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-24T22:53:00-03:00",
-      "title": "A Mente de um Monstro - Robert Hansen, o Caçador"
-    },
     {
       "desc": "",
       "start_date": "2026-05-25T00:33:00-03:00",
@@ -152,7 +77,82 @@
       "desc": "",
       "start_date": "2026-05-25T22:53:00-03:00",
       "title": "A Mente de um Monstro - Robert Hansen, o Caçador"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-26T00:33:00-03:00",
+      "title": "Análise de um Crime"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-26T01:21:00-03:00",
+      "title": "O Estrangulador em Série"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-26T03:40:00-03:00",
+      "title": "Glee - O Preço da Fama"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-26T06:00:00-03:00",
+      "title": "O Curioso Caso de Natalia Grace"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-26T07:36:00-03:00",
+      "title": "O Curioso Caso de..."
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-26T08:25:00-03:00",
+      "title": "Glee - O Preço da Fama"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-26T09:14:00-03:00",
+      "title": "Jared Fogle - O Monstro do Subway"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-26T10:03:00-03:00",
+      "title": "O Lado Obscuro da Fama"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-26T10:52:00-03:00",
+      "title": "O Estrangulador em Série"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-26T13:18:00-03:00",
+      "title": "Glee - O Preço da Fama"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-26T15:44:00-03:00",
+      "title": "Jamie vs. Britney - O Julgamento da Família Spears"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-26T17:22:00-03:00",
+      "title": "Nick e Aaron Carter: A Queda dos Ídolos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-26T20:36:00-03:00",
+      "title": "Mães e Filhos - Assassinato em Família"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-26T21:20:00-03:00",
+      "title": "Ted Bundy: A Mente de um Monstro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-26T22:53:00-03:00",
+      "title": "A Mente de um Monstro - Robert Hansen, o Caçador"
     }
   ],
-  "start_date": "2026-05-24"
+  "start_date": "2026-05-25"
 }

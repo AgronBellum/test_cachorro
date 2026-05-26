@@ -1,158 +1,8 @@
 {
-  "end_date": "2026-05-27",
+  "end_date": "2026-05-28",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
-    {
-      "desc": "",
-      "start_date": "2026-05-25T00:33:00-03:00",
-      "title": "Férias Mortais"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-25T01:21:00-03:00",
-      "title": "Seu Pior Pesadelo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-25T02:09:00-03:00",
-      "title": "Mentiras Criminosas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-25T02:53:00-03:00",
-      "title": "People Magazine - Além da Notícia"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-25T03:40:00-03:00",
-      "title": "Assassinato de uma Sexta à Noite"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-25T04:24:00-03:00",
-      "title": "Ainda um Mistério"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-25T05:12:00-03:00",
-      "title": "Câmera Crime"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-25T06:00:00-03:00",
-      "title": "DNA Criminoso"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-25T06:48:00-03:00",
-      "title": "Lobo em Pele de Cordeiro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-25T07:36:00-03:00",
-      "title": "Vivendo com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-25T08:25:00-03:00",
-      "title": "Vidas Destruídas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-25T09:14:00-03:00",
-      "title": "Assassinatos em Família"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-25T10:03:00-03:00",
-      "title": "Vivendo com o Inimigo - Sombras da Morte"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-25T10:52:00-03:00",
-      "title": "Irmãs Perversas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-25T11:41:00-03:00",
-      "title": "Falsidade.com"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-25T12:29:00-03:00",
-      "title": "Emboscada"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-25T13:18:00-03:00",
-      "title": "Diabólicos - A Face Oculta do Amor"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-25T14:06:00-03:00",
-      "title": "Amor Assassino"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-25T14:55:00-03:00",
-      "title": "Pecados Mortais"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-25T15:44:00-03:00",
-      "title": "Paixões Perigosas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-25T16:33:00-03:00",
-      "title": "Análise de um Crime"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-25T17:22:00-03:00",
-      "title": "Detetive Americano com Joe Kenda"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-25T18:10:00-03:00",
-      "title": "Olhos Da Lei"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-25T18:58:00-03:00",
-      "title": "Bodycam - Registros Criminosos"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-25T19:47:00-03:00",
-      "title": "Crimes que Viralizaram"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-25T20:36:00-03:00",
-      "title": "Vivendo com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-25T21:20:00-03:00",
-      "title": "Lobo em Pele de Cordeiro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-25T22:09:00-03:00",
-      "title": "Corpos no Porão"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-25T22:53:00-03:00",
-      "title": "Assassinato de uma Sexta à Noite"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-25T23:44:00-03:00",
-      "title": "Sinais de um Psicopata"
-    },
     {
       "desc": "",
       "start_date": "2026-05-26T00:33:00-03:00",
@@ -160,32 +10,37 @@
     },
     {
       "desc": "",
-      "start_date": "2026-05-26T01:21:00-03:00",
+      "start_date": "2026-05-26T00:35:00-03:00",
+      "title": "Férias Mortais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-26T01:24:00-03:00",
       "title": "Seu Pior Pesadelo"
     },
     {
       "desc": "",
-      "start_date": "2026-05-26T02:09:00-03:00",
+      "start_date": "2026-05-26T02:12:00-03:00",
       "title": "Mentiras Criminosas"
     },
     {
       "desc": "",
-      "start_date": "2026-05-26T02:53:00-03:00",
+      "start_date": "2026-05-26T02:56:00-03:00",
       "title": "People Magazine - Além da Notícia"
     },
     {
       "desc": "",
-      "start_date": "2026-05-26T03:40:00-03:00",
+      "start_date": "2026-05-26T03:43:00-03:00",
       "title": "Assassinato de uma Sexta à Noite"
     },
     {
       "desc": "",
-      "start_date": "2026-05-26T04:24:00-03:00",
+      "start_date": "2026-05-26T04:27:00-03:00",
       "title": "Ainda um Mistério"
     },
     {
       "desc": "",
-      "start_date": "2026-05-26T05:12:00-03:00",
+      "start_date": "2026-05-26T05:13:00-03:00",
       "title": "Câmera Crime"
     },
     {
@@ -195,27 +50,27 @@
     },
     {
       "desc": "",
-      "start_date": "2026-05-26T06:48:00-03:00",
+      "start_date": "2026-05-26T06:49:00-03:00",
       "title": "Lobo em Pele de Cordeiro"
     },
     {
       "desc": "",
-      "start_date": "2026-05-26T07:36:00-03:00",
+      "start_date": "2026-05-26T07:37:00-03:00",
       "title": "Vivendo com o Inimigo"
     },
     {
       "desc": "",
-      "start_date": "2026-05-26T08:25:00-03:00",
+      "start_date": "2026-05-26T08:26:00-03:00",
       "title": "Vidas Destruídas"
     },
     {
       "desc": "",
-      "start_date": "2026-05-26T09:14:00-03:00",
+      "start_date": "2026-05-26T09:15:00-03:00",
       "title": "Assassinatos em Família"
     },
     {
       "desc": "",
-      "start_date": "2026-05-26T10:03:00-03:00",
+      "start_date": "2026-05-26T10:04:00-03:00",
       "title": "Vivendo com o Inimigo - Sombras da Morte"
     },
     {
@@ -240,12 +95,12 @@
     },
     {
       "desc": "",
-      "start_date": "2026-05-26T14:06:00-03:00",
+      "start_date": "2026-05-26T14:07:00-03:00",
       "title": "Amor Assassino"
     },
     {
       "desc": "",
-      "start_date": "2026-05-26T14:55:00-03:00",
+      "start_date": "2026-05-26T14:56:00-03:00",
       "title": "Pecados Mortais"
     },
     {
@@ -265,7 +120,7 @@
     },
     {
       "desc": "",
-      "start_date": "2026-05-26T18:10:00-03:00",
+      "start_date": "2026-05-26T18:11:00-03:00",
       "title": "Olhos Da Lei"
     },
     {
@@ -275,34 +130,189 @@
     },
     {
       "desc": "",
-      "start_date": "2026-05-26T19:47:00-03:00",
+      "start_date": "2026-05-26T19:48:00-03:00",
       "title": "Crimes que Viralizaram"
     },
     {
       "desc": "",
-      "start_date": "2026-05-26T20:36:00-03:00",
+      "start_date": "2026-05-26T20:40:00-03:00",
       "title": "Vivendo com o Inimigo"
     },
     {
       "desc": "",
-      "start_date": "2026-05-26T21:20:00-03:00",
+      "start_date": "2026-05-26T21:23:00-03:00",
       "title": "Lobo em Pele de Cordeiro"
     },
     {
       "desc": "",
-      "start_date": "2026-05-26T22:09:00-03:00",
+      "start_date": "2026-05-26T22:12:00-03:00",
       "title": "Corpos no Porão"
     },
     {
       "desc": "",
-      "start_date": "2026-05-26T22:53:00-03:00",
+      "start_date": "2026-05-26T22:56:00-03:00",
       "title": "Assassinato de uma Sexta à Noite"
     },
     {
       "desc": "",
-      "start_date": "2026-05-26T23:44:00-03:00",
+      "start_date": "2026-05-26T23:46:00-03:00",
+      "title": "Sinais de um Psicopata"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-27T00:33:00-03:00",
+      "title": "Férias Mortais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-27T00:35:00-03:00",
+      "title": "Férias Mortais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-27T01:24:00-03:00",
+      "title": "Seu Pior Pesadelo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-27T02:12:00-03:00",
+      "title": "Mentiras Criminosas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-27T02:56:00-03:00",
+      "title": "People Magazine - Além da Notícia"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-27T03:43:00-03:00",
+      "title": "Assassinato de uma Sexta à Noite"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-27T04:27:00-03:00",
+      "title": "Ainda um Mistério"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-27T05:13:00-03:00",
+      "title": "Câmera Crime"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-27T06:00:00-03:00",
+      "title": "DNA Criminoso"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-27T06:49:00-03:00",
+      "title": "Lobo em Pele de Cordeiro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-27T07:37:00-03:00",
+      "title": "Vivendo com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-27T08:26:00-03:00",
+      "title": "Vidas Destruídas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-27T09:15:00-03:00",
+      "title": "Assassinatos em Família"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-27T10:04:00-03:00",
+      "title": "Vivendo com o Inimigo - Sombras da Morte"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-27T10:52:00-03:00",
+      "title": "Irmãs Perversas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-27T11:41:00-03:00",
+      "title": "Falsidade.com"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-27T12:29:00-03:00",
+      "title": "Emboscada"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-27T13:18:00-03:00",
+      "title": "Diabólicos - A Face Oculta do Amor"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-27T14:07:00-03:00",
+      "title": "Amor Assassino"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-27T14:56:00-03:00",
+      "title": "Pecados Mortais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-27T15:44:00-03:00",
+      "title": "Paixões Perigosas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-27T16:33:00-03:00",
+      "title": "Análise de um Crime"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-27T17:22:00-03:00",
+      "title": "Detetive Americano com Joe Kenda"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-27T18:11:00-03:00",
+      "title": "Olhos Da Lei"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-27T18:58:00-03:00",
+      "title": "Bodycam - Registros Criminosos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-27T19:48:00-03:00",
+      "title": "Crimes que Viralizaram"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-27T20:40:00-03:00",
+      "title": "Vivendo com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-27T21:23:00-03:00",
+      "title": "Lobo em Pele de Cordeiro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-27T22:12:00-03:00",
+      "title": "Corpos no Porão"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-27T22:56:00-03:00",
+      "title": "Assassinato de uma Sexta à Noite"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-27T23:46:00-03:00",
       "title": "Sinais de um Psicopata"
     }
   ],
-  "start_date": "2026-05-25"
+  "start_date": "2026-05-26"
 }

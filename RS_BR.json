@@ -5,27 +5,27 @@
   "epg_list": [
     {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-05-28T00:35:00-03:00",
+      "start_date": "2026-05-28T00:00:00-03:00",
       "title": "Jornal da Globo"
     },
     {
+      "desc": "Um jovem médico com autismo vindo da calma vida do interior começa a trabalhar em um famoso hospital. Além dos desafios da profissão, Shaun Murphy precisa provar sua capacidade a seus colegas e superiores.",
+      "start_date": "2026-05-28T00:45:00-03:00",
+      "title": "The Good Doctor - O Bom Doutor"
+    },
+    {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-05-28T01:25:00-03:00",
+      "start_date": "2026-05-28T01:30:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-05-28T02:05:00-03:00",
+      "start_date": "2026-05-28T02:10:00-03:00",
       "title": "Coração Acelerado"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-05-28T02:50:00-03:00",
-      "title": "Vai que Cola"
-    },
-    {
-      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-05-28T03:30:00-03:00",
+      "start_date": "2026-05-28T03:10:00-03:00",
       "title": "Vai que Cola"
     },
     {
@@ -74,54 +74,49 @@
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "A comissária de bordo Montana Moore é a única em sua família que ainda não se casou. Para não ir desacompanhada ao casamento da irmã, ela bola um plano para reencontrar os seus últimos ex-namorados na esperança de se tornar noiva de um deles.",
+      "desc": "O treinador de basquete Kang Yang-hyeon reúne uma equipe improvisada de desajustados para uma competição final. Levados ao limite, seis jogadores retornam por amor ao esporte e jogam sem parar por oito dias no Torneio Nacional da KBA.",
       "start_date": "2026-05-28T15:30:00-03:00",
-      "title": "Voando para o Amor"
+      "title": "Rebound - Uma Nova Chance"
     },
     {
       "desc": "Carminha tenta se redimir com Rita, que, na verdade, é Betânia; Nina consegue fazer com que Carminha acredite que está salvando Rita; Carminha acredita que conseguiu se livrar de Rita; Suelen acha um absurdo Lúcio enganar sua mãe.",
-      "start_date": "2026-05-28T17:00:00-03:00",
+      "start_date": "2026-05-28T17:15:00-03:00",
       "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-05-28T18:05:00-03:00",
+      "start_date": "2026-05-28T18:20:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-05-28T18:45:00-03:00",
+      "start_date": "2026-05-28T19:05:00-03:00",
       "title": "RBS Notícias"
     },
     {
       "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-05-28T19:15:00-03:00",
+      "start_date": "2026-05-28T19:35:00-03:00",
       "title": "Coração Acelerado"
     },
     {
       "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-05-28T20:00:00-03:00",
+      "start_date": "2026-05-28T20:30:00-03:00",
       "title": "Jornal Nacional"
     },
     {
       "desc": "Adriana, após ser demitida, tem sua casa destruída por uma enchente e que também leva seu marido. Ainda sem entender como seguir, vai parar em um abrigo, onde cruza, pela primeira vez, com o caminho de Pedro.",
-      "start_date": "2026-05-28T20:35:00-03:00",
+      "start_date": "2026-05-28T21:20:00-03:00",
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "Todas as emoções da principal competição de futebol masculino disputada entre clubes da América do Sul, e que garante ao campeão vaga no Mundial de Clubes da FIFA.",
-      "start_date": "2026-05-28T21:15:00-03:00",
-      "title": "Corinthians x Platense"
-    },
-    {
-      "desc": "Comentaristas analisam a rodada dos estaduais, Copa do Brasil, Libertadores e muito mais.",
-      "start_date": "2026-05-28T23:30:00-03:00",
-      "title": "Segue o Jogo"
-    },
-    {
       "desc": "Arduíno e Pente Fino seguem procurando as botijas com ouro de Josué; Jânia dá a notícia da morte das meninas a Rosa e Otília; Rosa e Hildebrando partem, em fuga, rumo ao Piauí.",
-      "start_date": "2026-05-28T23:45:00-03:00",
+      "start_date": "2026-05-28T22:25:00-03:00",
       "title": "Guerreiros do Sol"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-05-28T23:15:00-03:00",
+      "title": "Inesperadas"
     }
   ],
   "start_date": "2026-05-28"

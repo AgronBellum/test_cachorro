@@ -1,93 +1,8 @@
 {
-  "end_date": "2026-06-01",
+  "end_date": "2026-06-02",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
-    {
-      "desc": "",
-      "start_date": "2026-05-30T00:33:00-03:00",
-      "title": "Mentiras de Amor"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-30T01:21:00-03:00",
-      "title": "A Queda de P. Diddy"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-30T04:24:00-03:00",
-      "title": "A Mente de um Monstro - Jeffrey Dahmer, o Canibal"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-30T06:00:00-03:00",
-      "title": "Mães e Filhos - Assassinato em Família"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-30T06:48:00-03:00",
-      "title": "Ted Bundy: A Mente de um Monstro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-30T08:25:00-03:00",
-      "title": "A Mente de um Monstro - Robert Hansen, o Caçador"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-30T10:03:00-03:00",
-      "title": "Análise de um Crime"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-30T10:52:00-03:00",
-      "title": "A Queda de P. Diddy"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-30T14:06:00-03:00",
-      "title": "A Mente de um Monstro - Jeffrey Dahmer, o Canibal"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-30T15:44:00-03:00",
-      "title": "Aaron Hernandez e os Assassinatos de Bristol"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-30T17:22:00-03:00",
-      "title": "Aileen Wuornos - A Mente de um Monstro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-30T18:58:00-03:00",
-      "title": "NXIVM - A Seita Sexual"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-30T20:36:00-03:00",
-      "title": "Segredos Bem Casados"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-30T21:20:00-03:00",
-      "title": "Casados com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-30T22:09:00-03:00",
-      "title": "Mistério na Neve - O Caso Karen Read"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-30T22:53:00-03:00",
-      "title": "Como Não Matar Seu Amor"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-30T23:44:00-03:00",
-      "title": "Encontros Infernais"
-    },
     {
       "desc": "",
       "start_date": "2026-05-31T00:33:00-03:00",
@@ -172,7 +87,92 @@
       "desc": "",
       "start_date": "2026-05-31T23:44:00-03:00",
       "title": "Encontros Infernais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-01T00:33:00-03:00",
+      "title": "Mentiras de Amor"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-01T01:21:00-03:00",
+      "title": "A Queda de P. Diddy"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-01T04:24:00-03:00",
+      "title": "A Mente de um Monstro - Jeffrey Dahmer, o Canibal"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-01T06:00:00-03:00",
+      "title": "Mães e Filhos - Assassinato em Família"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-01T06:48:00-03:00",
+      "title": "Ted Bundy: A Mente de um Monstro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-01T08:25:00-03:00",
+      "title": "A Mente de um Monstro - Robert Hansen, o Caçador"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-01T10:03:00-03:00",
+      "title": "Análise de um Crime"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-01T10:52:00-03:00",
+      "title": "A Queda de P. Diddy"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-01T14:06:00-03:00",
+      "title": "A Mente de um Monstro - Jeffrey Dahmer, o Canibal"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-01T15:44:00-03:00",
+      "title": "Aaron Hernandez e os Assassinatos de Bristol"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-01T17:22:00-03:00",
+      "title": "Aileen Wuornos - A Mente de um Monstro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-01T18:58:00-03:00",
+      "title": "NXIVM - A Seita Sexual"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-01T20:36:00-03:00",
+      "title": "Segredos Bem Casados"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-01T21:20:00-03:00",
+      "title": "Casados com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-01T22:09:00-03:00",
+      "title": "Mistério na Neve - O Caso Karen Read"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-01T22:53:00-03:00",
+      "title": "Como Não Matar Seu Amor"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-01T23:44:00-03:00",
+      "title": "Encontros Infernais"
     }
   ],
-  "start_date": "2026-05-30"
+  "start_date": "2026-05-31"
 }

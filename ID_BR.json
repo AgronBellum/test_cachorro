@@ -1,158 +1,308 @@
 {
-  "end_date": "2026-06-02",
+  "end_date": "2026-06-03",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
     {
       "desc": "",
-      "start_date": "2026-05-31T01:21:00-03:00",
-      "title": "Caso O.J. Simpson - A Prova Esquecida"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-31T04:24:00-03:00",
-      "title": "Caso O.J. Simpson - A Prova Esquecida"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-31T06:00:00-03:00",
-      "title": "O Lado Sombrio de Hollywood"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-31T07:36:00-03:00",
-      "title": "O Curioso Caso de..."
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-31T08:25:00-03:00",
-      "title": "Glee - O Preço da Fama"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-31T09:14:00-03:00",
-      "title": "Jared Fogle - O Monstro do Subway"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-31T10:03:00-03:00",
-      "title": "O Lado Obscuro da Fama"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-31T10:52:00-03:00",
-      "title": "Caso O.J. Simpson - A Prova Esquecida"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-31T14:06:00-03:00",
-      "title": "Caso O.J. Simpson - A Prova Esquecida"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-31T15:42:00-03:00",
-      "title": "Era Tudo Mentira"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-31T17:20:00-03:00",
-      "title": "O Assassino Happy Face - A Mente de um Monstro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-31T18:58:00-03:00",
-      "title": "Grim Sleeper - A Mente de um Monstro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-31T20:36:00-03:00",
-      "title": "Mães e Filhos - Assassinato em Família"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-31T21:20:00-03:00",
-      "title": "Ed Kemper - A Mente de um Monstro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-05-31T23:42:00-03:00",
-      "title": "Pânico - A História por Trás do Filme"
+      "start_date": "2026-06-01T00:33:00-03:00",
+      "title": "Férias Mortais"
     },
     {
       "desc": "",
       "start_date": "2026-06-01T01:21:00-03:00",
-      "title": "Caso O.J. Simpson - A Prova Esquecida"
+      "title": "Seu Pior Pesadelo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-01T02:09:00-03:00",
+      "title": "Mentiras Criminosas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-01T02:53:00-03:00",
+      "title": "People Magazine - Além da Notícia"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-01T03:40:00-03:00",
+      "title": "Assassinato de uma Sexta à Noite"
     },
     {
       "desc": "",
       "start_date": "2026-06-01T04:24:00-03:00",
-      "title": "Caso O.J. Simpson - A Prova Esquecida"
+      "title": "Ainda um Mistério"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-01T05:12:00-03:00",
+      "title": "Câmera Crime"
     },
     {
       "desc": "",
       "start_date": "2026-06-01T06:00:00-03:00",
-      "title": "O Lado Sombrio de Hollywood"
+      "title": "DNA Criminoso"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-01T06:48:00-03:00",
+      "title": "Lobo em Pele de Cordeiro"
     },
     {
       "desc": "",
       "start_date": "2026-06-01T07:36:00-03:00",
-      "title": "O Curioso Caso de..."
+      "title": "Vivendo com o Inimigo"
     },
     {
       "desc": "",
       "start_date": "2026-06-01T08:25:00-03:00",
-      "title": "Glee - O Preço da Fama"
+      "title": "Vidas Destruídas"
     },
     {
       "desc": "",
       "start_date": "2026-06-01T09:14:00-03:00",
-      "title": "Jared Fogle - O Monstro do Subway"
+      "title": "Assassinatos em Família"
     },
     {
       "desc": "",
       "start_date": "2026-06-01T10:03:00-03:00",
-      "title": "O Lado Obscuro da Fama"
+      "title": "Vivendo com o Inimigo - Sombras da Morte"
     },
     {
       "desc": "",
       "start_date": "2026-06-01T10:52:00-03:00",
-      "title": "Caso O.J. Simpson - A Prova Esquecida"
+      "title": "Irmãs Perversas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-01T11:41:00-03:00",
+      "title": "Falsidade.com"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-01T12:29:00-03:00",
+      "title": "Emboscada"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-01T13:18:00-03:00",
+      "title": "Diabólicos - A Face Oculta do Amor"
     },
     {
       "desc": "",
       "start_date": "2026-06-01T14:06:00-03:00",
-      "title": "Caso O.J. Simpson - A Prova Esquecida"
+      "title": "Amor Assassino"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-01T14:54:00-03:00",
+      "title": "Pecados Mortais"
     },
     {
       "desc": "",
       "start_date": "2026-06-01T15:42:00-03:00",
-      "title": "Era Tudo Mentira"
+      "title": "Paixões Perigosas"
     },
     {
       "desc": "",
-      "start_date": "2026-06-01T17:20:00-03:00",
-      "title": "O Assassino Happy Face - A Mente de um Monstro"
+      "start_date": "2026-06-01T16:30:00-03:00",
+      "title": "Análise de um Crime"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-01T17:18:00-03:00",
+      "title": "Detetive Americano com Joe Kenda"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-01T18:06:00-03:00",
+      "title": "Olhos Da Lei"
     },
     {
       "desc": "",
       "start_date": "2026-06-01T18:58:00-03:00",
-      "title": "Grim Sleeper - A Mente de um Monstro"
+      "title": "Bodycam - Registros Criminosos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-01T19:47:00-03:00",
+      "title": "Crimes que Viralizaram"
     },
     {
       "desc": "",
       "start_date": "2026-06-01T20:36:00-03:00",
-      "title": "Mães e Filhos - Assassinato em Família"
+      "title": "Vivendo com o Inimigo"
     },
     {
       "desc": "",
       "start_date": "2026-06-01T21:20:00-03:00",
-      "title": "Ed Kemper - A Mente de um Monstro"
+      "title": "Lobo em Pele de Cordeiro"
     },
     {
       "desc": "",
-      "start_date": "2026-06-01T23:42:00-03:00",
-      "title": "Pânico - A História por Trás do Filme"
+      "start_date": "2026-06-01T22:09:00-03:00",
+      "title": "Corpos no Porão"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-01T22:53:00-03:00",
+      "title": "Assassinato de uma Sexta à Noite"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-01T23:44:00-03:00",
+      "title": "Sinais de um Psicopata"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-02T00:33:00-03:00",
+      "title": "Férias Mortais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-02T01:21:00-03:00",
+      "title": "Seu Pior Pesadelo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-02T02:09:00-03:00",
+      "title": "Mentiras Criminosas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-02T02:53:00-03:00",
+      "title": "People Magazine - Além da Notícia"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-02T03:40:00-03:00",
+      "title": "Assassinato de uma Sexta à Noite"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-02T04:24:00-03:00",
+      "title": "Ainda um Mistério"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-02T05:12:00-03:00",
+      "title": "Câmera Crime"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-02T06:00:00-03:00",
+      "title": "DNA Criminoso"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-02T06:48:00-03:00",
+      "title": "Lobo em Pele de Cordeiro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-02T07:36:00-03:00",
+      "title": "Vivendo com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-02T08:25:00-03:00",
+      "title": "Vidas Destruídas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-02T09:14:00-03:00",
+      "title": "Assassinatos em Família"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-02T10:03:00-03:00",
+      "title": "Vivendo com o Inimigo - Sombras da Morte"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-02T10:52:00-03:00",
+      "title": "Irmãs Perversas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-02T11:41:00-03:00",
+      "title": "Falsidade.com"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-02T12:29:00-03:00",
+      "title": "Emboscada"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-02T13:18:00-03:00",
+      "title": "Diabólicos - A Face Oculta do Amor"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-02T14:06:00-03:00",
+      "title": "Amor Assassino"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-02T14:54:00-03:00",
+      "title": "Pecados Mortais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-02T15:42:00-03:00",
+      "title": "Paixões Perigosas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-02T16:30:00-03:00",
+      "title": "Análise de um Crime"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-02T17:18:00-03:00",
+      "title": "Detetive Americano com Joe Kenda"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-02T18:06:00-03:00",
+      "title": "Olhos Da Lei"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-02T18:58:00-03:00",
+      "title": "Bodycam - Registros Criminosos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-02T19:47:00-03:00",
+      "title": "Crimes que Viralizaram"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-02T20:36:00-03:00",
+      "title": "Vivendo com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-02T21:20:00-03:00",
+      "title": "Lobo em Pele de Cordeiro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-02T22:09:00-03:00",
+      "title": "Corpos no Porão"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-02T22:53:00-03:00",
+      "title": "Assassinato de uma Sexta à Noite"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-02T23:44:00-03:00",
+      "title": "Sinais de um Psicopata"
     }
   ],
-  "start_date": "2026-05-31"
+  "start_date": "2026-06-01"
 }

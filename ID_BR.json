@@ -1,162 +1,12 @@
 {
-  "end_date": "2026-06-04",
+  "end_date": "2026-06-05",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
     {
       "desc": "",
-      "start_date": "2026-06-02T00:33:00-03:00",
-      "title": "Crimes que Viralizaram"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-02T01:21:00-03:00",
-      "title": "Seu Pior Pesadelo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-02T02:09:00-03:00",
-      "title": "Mentiras Criminosas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-02T02:53:00-03:00",
-      "title": "People Magazine - Além da Notícia"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-02T03:40:00-03:00",
-      "title": "Assassinato de uma Sexta à Noite"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-02T04:24:00-03:00",
-      "title": "Ainda um Mistério"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-02T05:12:00-03:00",
-      "title": "Câmera Crime"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-02T06:00:00-03:00",
-      "title": "DNA Criminoso"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-02T06:48:00-03:00",
-      "title": "Lobo em Pele de Cordeiro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-02T07:36:00-03:00",
-      "title": "Vivendo com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-02T08:25:00-03:00",
-      "title": "Vidas Destruídas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-02T09:14:00-03:00",
-      "title": "Assassinatos em Família"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-02T10:03:00-03:00",
-      "title": "Vivendo com o Inimigo - Sombras da Morte"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-02T10:52:00-03:00",
-      "title": "Irmãs Perversas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-02T11:41:00-03:00",
-      "title": "Falsidade.com"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-02T12:29:00-03:00",
-      "title": "Emboscada"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-02T13:18:00-03:00",
-      "title": "Diabólicos - A Face Oculta do Amor"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-02T14:06:00-03:00",
-      "title": "Amor Assassino"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-02T14:55:00-03:00",
-      "title": "Pecados Mortais"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-02T15:43:00-03:00",
-      "title": "Paixões Perigosas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-02T16:31:00-03:00",
-      "title": "Análise de um Crime"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-02T17:19:00-03:00",
-      "title": "Detetive Americano com Joe Kenda"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-02T18:07:00-03:00",
-      "title": "Olhos Da Lei"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-02T18:58:00-03:00",
-      "title": "Bodycam - Registros Criminosos"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-02T19:47:00-03:00",
-      "title": "Crimes que Viralizaram"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-02T20:36:00-03:00",
-      "title": "Perseguições em Alta Velocidade"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-02T21:20:00-03:00",
-      "title": "Bodycam - Registros Criminosos"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-02T22:09:00-03:00",
-      "title": "Na Mira dos Sequestradores"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-02T22:53:00-03:00",
-      "title": "Pelados e Condenados"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-02T23:44:00-03:00",
-      "title": "Fúria no Trânsito"
-    },
-    {
-      "desc": "",
       "start_date": "2026-06-03T00:33:00-03:00",
-      "title": "Crimes que Viralizaram"
+      "title": "À Procura de Andrea"
     },
     {
       "desc": "",
@@ -250,22 +100,22 @@
     },
     {
       "desc": "",
-      "start_date": "2026-06-03T15:43:00-03:00",
+      "start_date": "2026-06-03T15:44:00-03:00",
       "title": "Paixões Perigosas"
     },
     {
       "desc": "",
-      "start_date": "2026-06-03T16:31:00-03:00",
+      "start_date": "2026-06-03T16:33:00-03:00",
       "title": "Análise de um Crime"
     },
     {
       "desc": "",
-      "start_date": "2026-06-03T17:19:00-03:00",
+      "start_date": "2026-06-03T17:22:00-03:00",
       "title": "Detetive Americano com Joe Kenda"
     },
     {
       "desc": "",
-      "start_date": "2026-06-03T18:07:00-03:00",
+      "start_date": "2026-06-03T18:10:00-03:00",
       "title": "Olhos Da Lei"
     },
     {
@@ -281,28 +131,168 @@
     {
       "desc": "",
       "start_date": "2026-06-03T20:36:00-03:00",
-      "title": "Perseguições em Alta Velocidade"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-03T21:20:00-03:00",
-      "title": "Bodycam - Registros Criminosos"
+      "title": "Detetive Americano com Joe Kenda"
     },
     {
       "desc": "",
       "start_date": "2026-06-03T22:09:00-03:00",
-      "title": "Na Mira dos Sequestradores"
+      "title": "People Magazine - Além da Notícia"
     },
     {
       "desc": "",
       "start_date": "2026-06-03T22:53:00-03:00",
-      "title": "Pelados e Condenados"
+      "title": "Caçada por Desaparecidos - Chicago"
     },
     {
       "desc": "",
       "start_date": "2026-06-03T23:44:00-03:00",
-      "title": "Fúria no Trânsito"
+      "title": "O Mistério da Rota 20"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-04T00:33:00-03:00",
+      "title": "À Procura de Andrea"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-04T01:21:00-03:00",
+      "title": "Seu Pior Pesadelo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-04T02:09:00-03:00",
+      "title": "Mentiras Criminosas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-04T02:53:00-03:00",
+      "title": "People Magazine - Além da Notícia"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-04T03:40:00-03:00",
+      "title": "Assassinato de uma Sexta à Noite"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-04T04:24:00-03:00",
+      "title": "Ainda um Mistério"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-04T05:12:00-03:00",
+      "title": "Câmera Crime"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-04T06:00:00-03:00",
+      "title": "DNA Criminoso"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-04T06:48:00-03:00",
+      "title": "Lobo em Pele de Cordeiro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-04T07:36:00-03:00",
+      "title": "Vivendo com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-04T08:25:00-03:00",
+      "title": "Vidas Destruídas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-04T09:14:00-03:00",
+      "title": "Assassinatos em Família"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-04T10:03:00-03:00",
+      "title": "Vivendo com o Inimigo - Sombras da Morte"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-04T10:52:00-03:00",
+      "title": "Irmãs Perversas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-04T11:41:00-03:00",
+      "title": "Falsidade.com"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-04T12:29:00-03:00",
+      "title": "Emboscada"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-04T13:18:00-03:00",
+      "title": "Diabólicos - A Face Oculta do Amor"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-04T14:06:00-03:00",
+      "title": "Amor Assassino"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-04T14:55:00-03:00",
+      "title": "Pecados Mortais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-04T15:44:00-03:00",
+      "title": "Paixões Perigosas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-04T16:33:00-03:00",
+      "title": "Análise de um Crime"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-04T17:22:00-03:00",
+      "title": "Detetive Americano com Joe Kenda"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-04T18:10:00-03:00",
+      "title": "Olhos Da Lei"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-04T18:58:00-03:00",
+      "title": "Bodycam - Registros Criminosos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-04T19:47:00-03:00",
+      "title": "Crimes que Viralizaram"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-04T20:36:00-03:00",
+      "title": "Detetive Americano com Joe Kenda"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-04T22:09:00-03:00",
+      "title": "People Magazine - Além da Notícia"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-04T22:53:00-03:00",
+      "title": "Caçada por Desaparecidos - Chicago"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-04T23:44:00-03:00",
+      "title": "O Mistério da Rota 20"
     }
   ],
-  "start_date": "2026-06-02"
+  "start_date": "2026-06-03"
 }

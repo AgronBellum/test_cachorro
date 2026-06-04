@@ -1,15 +1,156 @@
 {
   "metadata": {
     "total": 129,
-    "success": 119,
+    "success": 129,
     "categories": 8,
-    "date": "2026-06-04T15:02:34.555Z",
+    "date": "2026-06-04T15:24:28.699Z",
     "version": "EXTRACTOR_APP_V1"
   },
   "categorias": {
     "documentarios": {
       "nome": "Documentários",
-      "canais": []
+      "canais": [
+        {
+          "id": "animalplanet",
+          "name": "Animal Planet",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "m3u8_url": "https://megaflix.mgfiles.lat/bd99550b4e95619be74f6ee694afa40f/file.m3u8",
+          "headers": {
+            "referer": "https://megafrixapi.com/desktop/player/channel.php?id=",
+            "origin": "https://w2.embedtv.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
+        },
+        {
+          "id": "discoverychannel",
+          "name": "Discovery Channel",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "m3u8_url": "https://megaflix.mgfiles.lat/49efdc6ef298aafbb20524db6605facc/file.m3u8",
+          "headers": {
+            "referer": "https://megafrixapi.com/desktop/player/channel.php?id=",
+            "origin": "https://w2.embedtv.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
+        },
+        {
+          "id": "discoveryhh",
+          "name": "Discovery H&H",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "m3u8_url": "https://megaflix.mgfiles.lat/915760f9364a155be337b7554ad378f3/file.m3u8",
+          "headers": {
+            "referer": "https://megafrixapi.com/desktop/player/channel.php?id=",
+            "origin": "https://w2.embedtv.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
+        },
+        {
+          "id": "discoveryid",
+          "name": "Discovery ID",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "m3u8_url": "https://megaflix.mgfiles.lat/e9b891c12cefca253d7e30a3b2ccce7e/file.m3u8",
+          "headers": {
+            "referer": "https://megafrixapi.com/desktop/player/channel.php?id=",
+            "origin": "https://w2.embedtv.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
+        },
+        {
+          "id": "discoveryscience",
+          "name": "Discovery Science",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "m3u8_url": "https://megaflix.mgfiles.lat/ef5b1dcc1ac33524bc718dbbacaf9673/file.m3u8",
+          "headers": {
+            "referer": "https://megafrixapi.com/desktop/player/channel.php?id=",
+            "origin": "https://w2.embedtv.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
+        },
+        {
+          "id": "discoverytheather",
+          "name": "Discovery Theater",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "m3u8_url": "https://megaflix.mgfiles.lat/4df41414252cf210ef53030e83af2051/file.m3u8",
+          "headers": {
+            "referer": "https://megafrixapi.com/desktop/player/channel.php?id=",
+            "origin": "https://w2.embedtv.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
+        },
+        {
+          "id": "discoveryturbo",
+          "name": "Discovery Turbo",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "m3u8_url": "https://megaflix.mgfiles.lat/beb48fb5ac1064d26d7cf178b94bbb32/file.m3u8",
+          "headers": {
+            "referer": "https://megafrixapi.com/desktop/player/channel.php?id=",
+            "origin": "https://w2.embedtv.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
+        },
+        {
+          "id": "discoveryworld",
+          "name": "Discovery World",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "m3u8_url": "https://megaflix.mgfiles.lat/d729af700630ae79ddd4a0f4fd79dae3/file.m3u8",
+          "headers": {
+            "referer": "https://megafrixapi.com/desktop/player/channel.php?id=",
+            "origin": "https://w2.embedtv.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
+        },
+        {
+          "id": "history",
+          "name": "History",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "m3u8_url": "https://megaflix.mgfiles.lat/b6d9fd1c01cbdbf7f94be14074a1ae31/file.m3u8",
+          "headers": {
+            "referer": "https://megafrixapi.com/desktop/player/channel.php?id=",
+            "origin": "https://w2.embedtv.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
+        },
+        {
+          "id": "history2",
+          "name": "History 2",
+          "categoryId": "documentarios",
+          "categoryName": "Documentários",
+          "m3u8_url": "https://megaflix.mgfiles.lat/7ef1b9a667d4f31b540197d0b817c90d/file.m3u8",
+          "headers": {
+            "referer": "https://megafrixapi.com/desktop/player/channel.php?id=",
+            "origin": "https://w2.embedtv.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
+        }
+      ]
     },
     "filmes_series": {
       "nome": "Filmes e Séries",
@@ -1717,62 +1858,142 @@
     {
       "id": "animalplanet",
       "name": "Animal Planet",
-      "status": "error",
-      "error": "page.goto: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://megafrixapi.com/desktop/player/channel.php?id=animalplanet\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "categoryId": "documentarios",
+      "categoryName": "Documentários",
+      "m3u8_url": "https://megaflix.mgfiles.lat/bd99550b4e95619be74f6ee694afa40f/file.m3u8",
+      "headers": {
+        "referer": "https://megafrixapi.com/desktop/player/channel.php?id=",
+        "origin": "https://w2.embedtv.live/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": ""
+      },
+      "status": "success"
     },
     {
       "id": "discoverychannel",
       "name": "Discovery Channel",
-      "status": "error",
-      "error": "page.goto: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://megafrixapi.com/desktop/player/channel.php?id=discoverychannel\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "categoryId": "documentarios",
+      "categoryName": "Documentários",
+      "m3u8_url": "https://megaflix.mgfiles.lat/49efdc6ef298aafbb20524db6605facc/file.m3u8",
+      "headers": {
+        "referer": "https://megafrixapi.com/desktop/player/channel.php?id=",
+        "origin": "https://w2.embedtv.live/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": ""
+      },
+      "status": "success"
     },
     {
       "id": "discoveryhh",
       "name": "Discovery H&H",
-      "status": "error",
-      "error": "page.goto: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://megafrixapi.com/desktop/player/channel.php?id=discoveryhh\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "categoryId": "documentarios",
+      "categoryName": "Documentários",
+      "m3u8_url": "https://megaflix.mgfiles.lat/915760f9364a155be337b7554ad378f3/file.m3u8",
+      "headers": {
+        "referer": "https://megafrixapi.com/desktop/player/channel.php?id=",
+        "origin": "https://w2.embedtv.live/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": ""
+      },
+      "status": "success"
     },
     {
       "id": "discoveryid",
       "name": "Discovery ID",
-      "status": "error",
-      "error": "page.goto: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://megafrixapi.com/desktop/player/channel.php?id=discoveryid\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "categoryId": "documentarios",
+      "categoryName": "Documentários",
+      "m3u8_url": "https://megaflix.mgfiles.lat/e9b891c12cefca253d7e30a3b2ccce7e/file.m3u8",
+      "headers": {
+        "referer": "https://megafrixapi.com/desktop/player/channel.php?id=",
+        "origin": "https://w2.embedtv.live/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": ""
+      },
+      "status": "success"
     },
     {
       "id": "discoveryscience",
       "name": "Discovery Science",
-      "status": "error",
-      "error": "page.goto: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://megafrixapi.com/desktop/player/channel.php?id=discoveryscience\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "categoryId": "documentarios",
+      "categoryName": "Documentários",
+      "m3u8_url": "https://megaflix.mgfiles.lat/ef5b1dcc1ac33524bc718dbbacaf9673/file.m3u8",
+      "headers": {
+        "referer": "https://megafrixapi.com/desktop/player/channel.php?id=",
+        "origin": "https://w2.embedtv.live/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": ""
+      },
+      "status": "success"
     },
     {
       "id": "discoverytheather",
       "name": "Discovery Theater",
-      "status": "error",
-      "error": "page.goto: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://megafrixapi.com/desktop/player/channel.php?id=discoverytheather\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "categoryId": "documentarios",
+      "categoryName": "Documentários",
+      "m3u8_url": "https://megaflix.mgfiles.lat/4df41414252cf210ef53030e83af2051/file.m3u8",
+      "headers": {
+        "referer": "https://megafrixapi.com/desktop/player/channel.php?id=",
+        "origin": "https://w2.embedtv.live/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": ""
+      },
+      "status": "success"
     },
     {
       "id": "discoveryturbo",
       "name": "Discovery Turbo",
-      "status": "error",
-      "error": "page.goto: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://megafrixapi.com/desktop/player/channel.php?id=discoveryturbo\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "categoryId": "documentarios",
+      "categoryName": "Documentários",
+      "m3u8_url": "https://megaflix.mgfiles.lat/beb48fb5ac1064d26d7cf178b94bbb32/file.m3u8",
+      "headers": {
+        "referer": "https://megafrixapi.com/desktop/player/channel.php?id=",
+        "origin": "https://w2.embedtv.live/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": ""
+      },
+      "status": "success"
     },
     {
       "id": "discoveryworld",
       "name": "Discovery World",
-      "status": "error",
-      "error": "page.goto: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://megafrixapi.com/desktop/player/channel.php?id=discoveryworld\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "categoryId": "documentarios",
+      "categoryName": "Documentários",
+      "m3u8_url": "https://megaflix.mgfiles.lat/d729af700630ae79ddd4a0f4fd79dae3/file.m3u8",
+      "headers": {
+        "referer": "https://megafrixapi.com/desktop/player/channel.php?id=",
+        "origin": "https://w2.embedtv.live/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": ""
+      },
+      "status": "success"
     },
     {
       "id": "history",
       "name": "History",
-      "status": "error",
-      "error": "page.goto: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://megafrixapi.com/desktop/player/channel.php?id=history\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "categoryId": "documentarios",
+      "categoryName": "Documentários",
+      "m3u8_url": "https://megaflix.mgfiles.lat/b6d9fd1c01cbdbf7f94be14074a1ae31/file.m3u8",
+      "headers": {
+        "referer": "https://megafrixapi.com/desktop/player/channel.php?id=",
+        "origin": "https://w2.embedtv.live/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": ""
+      },
+      "status": "success"
     },
     {
       "id": "history2",
       "name": "History 2",
-      "status": "error",
-      "error": "page.goto: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://megafrixapi.com/desktop/player/channel.php?id=history2\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "categoryId": "documentarios",
+      "categoryName": "Documentários",
+      "m3u8_url": "https://megaflix.mgfiles.lat/7ef1b9a667d4f31b540197d0b817c90d/file.m3u8",
+      "headers": {
+        "referer": "https://megafrixapi.com/desktop/player/channel.php?id=",
+        "origin": "https://w2.embedtv.live/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": ""
+      },
+      "status": "success"
     },
     {
       "id": "aee",

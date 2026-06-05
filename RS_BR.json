@@ -4,34 +4,39 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
+      "desc": "Uma prévia das eletrizantes corridas da Fórmula 1, com uma visão prática, técnica e acessível dos aspectos mais importantes da principal categoria do automobilismo mundial.",
       "start_date": "2026-06-05T00:00:00-03:00",
+      "title": "Grid da Globo"
+    },
+    {
+      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
+      "start_date": "2026-06-05T00:10:00-03:00",
       "title": "Jornal da Globo"
     },
     {
       "desc": "Jendal faz uma ameaça velada a Kênia e Chinua insiste que a princesa deve se afastar de Dumi. No ateliê, todas desconfiam do padre Viriato, sem saber que se trata de Carrapato.",
-      "start_date": "2026-06-05T00:50:00-03:00",
+      "start_date": "2026-06-05T01:00:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Zilá é eleita a nova presidente do Grupo Amaral, e Alaorzinho se desespera. Naiane se incomoda ao encontrar pertences de Agrado na casa de João.",
-      "start_date": "2026-06-05T01:30:00-03:00",
+      "start_date": "2026-06-05T01:40:00-03:00",
       "title": "Coração Acelerado"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-06-05T02:15:00-03:00",
+      "start_date": "2026-06-05T02:25:00-03:00",
       "title": "Vai que Cola"
     },
     {
-      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "desc": "Em 2016, uma derrota na final olímpica do revezamento 4x100 marca para sempre a vida de uma equipe de atletas brasileiras. Três anos depois, Maria Lúcia, a responsável pela eliminação, segue brilhando no atletismo e na mídia, enquanto Adriana, que trabalhou duro na competição, vive frustrada de pequenas lutas de MMA. Em 2021, elas têm uma nova chance de reescrever essa história nas Olimpíadas de Tóquio.",
       "start_date": "2026-06-05T03:10:00-03:00",
-      "title": "Vai que Cola"
+      "title": "4x100 - Correndo por um Sonho"
     },
     {
-      "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
-      "start_date": "2026-06-05T04:00:00-03:00",
-      "title": "Hora 1"
+      "desc": "Em uma das reuniões da L.O.C.A., Liga das Obsessivas Compulsivas por Amor, Manoela, Elena e Rebeca acabam se conhecendo melhor quase por acidente e percebem que possuem mais em comum do que esperavam: as três sofreram grandes decepções amorosas e resolvem se juntar para uma grande vingança.",
+      "start_date": "2026-06-05T04:40:00-03:00",
+      "title": "L.O.C.A."
     },
     {
       "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
@@ -74,13 +79,13 @@
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Shrek e Fiona acabaram de voltar da lua de mel e vivem felizes em sua casa no pântano. O casal recebe um convite dos pais da princesa, que querem conhecer o novo genro, para um jantar no castelo. Eles ficaram sabendo que Fiona havia se casado com o seu verdadeiro amor, mas o que eles ainda não sabem é que este amor é um ogro mal-educado de mais de 300 quilos, que conta com um burro falante como melhor amigo.",
+      "desc": "Tobey Marshall, um exímio piloto, herda do pai uma oficina mecânica, onde trabalha com carros modificados. Um dia, um ex-piloto de Fórmula Indy o procura para concluir um Ford Mustang desenvolvido por um gênio da mecânica. Mesmo após a venda do carro, a rivalidade entre eles faz com que disputem uma última corrida, mas ela acaba com o falecimento de Pete, um amigo de Tobey. Considerado culpado pela morte, Tobey passa dois anos na prisão. Quando sai da cadeia, ele decide se vingar.",
       "start_date": "2026-06-05T15:35:00-03:00",
-      "title": "Shrek 2"
+      "title": "Need for Speed - O Filme"
     },
     {
       "desc": "Carminha pede que Jorginho esqueça seu passado; Jorginho diz que está atordoado; Suelen fica com ciúmes de Darkson; Jorginho descobre que Dinorah não é sua mãe; Carminha diz que está feliz por ter feito as pazes com Jorginho.",
-      "start_date": "2026-06-05T17:10:00-03:00",
+      "start_date": "2026-06-05T17:25:00-03:00",
       "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
@@ -114,9 +119,9 @@
       "title": "Guerreiros do Sol"
     },
     {
-      "desc": "Um jovem médico com autismo vindo da calma vida do interior começa a trabalhar em um famoso hospital. Além dos desafios da profissão, Shaun Murphy precisa provar sua capacidade a seus colegas e superiores.",
-      "start_date": "2026-06-05T23:15:00-03:00",
-      "title": "The Good Doctor - O Bom Doutor"
+      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
+      "start_date": "2026-06-05T23:10:00-03:00",
+      "title": "Globo Repórter"
     }
   ],
   "start_date": "2026-06-05"

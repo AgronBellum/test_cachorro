@@ -4,14 +4,9 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "Uma prévia das eletrizantes corridas da Fórmula 1, com uma visão prática, técnica e acessível dos aspectos mais importantes da principal categoria do automobilismo mundial.",
-      "start_date": "2026-06-06T00:00:00-03:00",
-      "title": "Grid da Globo"
-    },
-    {
-      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-06-06T00:10:00-03:00",
-      "title": "Jornal da Globo"
+      "desc": "Semifinal masculina da Fight do Milhão. Da Farma Conde Arena, em São José dos Campos ?SP.",
+      "start_date": "2026-06-06T00:25:00-03:00",
+      "title": "Jungle Fight 151"
     },
     {
       "desc": "Jendal faz uma ameaça velada a Kênia e Chinua insiste que a princesa deve se afastar de Dumi. No ateliê, todas desconfiam do padre Viriato, sem saber que se trata de Carrapato.",
@@ -19,44 +14,49 @@
       "title": "A Nobreza do Amor"
     },
     {
-      "desc": "Zilá é eleita a nova presidente do Grupo Amaral, e Alaorzinho se desespera. Naiane se incomoda ao encontrar pertences de Agrado na casa de João.",
-      "start_date": "2026-06-06T01:40:00-03:00",
-      "title": "Coração Acelerado"
-    },
-    {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-06-06T02:25:00-03:00",
+      "start_date": "2026-06-06T01:40:00-03:00",
       "title": "Vai que Cola"
     },
     {
-      "desc": "Encerramento da programação.",
-      "start_date": "2026-06-06T03:10:00-03:00",
-      "title": "Manutenção"
+      "desc": "Na esperança de encontrar seu pai, adolescente problemática pede para um arquiteto viúvo construir uma jangada para que ela possa atravessar oceano.",
+      "start_date": "2026-06-06T02:25:00-03:00",
+      "title": "O Livro do Amor"
     },
     {
-      "desc": "Encerramento da programação.",
-      "start_date": "2026-06-06T04:40:00-03:00",
-      "title": "Manutenção"
+      "desc": "Deborah Hall é uma mulher religiosa que luta contra um grave câncer. Casada com Ron, um importante negociante de arte, ela insiste para que o marido se aproxime de Denver, um morador de rua com um passado de sofrimento e exploração.",
+      "start_date": "2026-06-06T04:00:00-03:00",
+      "title": "Somos Todos Iguais"
     },
     {
-      "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
+      "desc": "Acompanhe a celebração da santa missa em João Pessoa.",
+      "start_date": "2026-06-06T05:45:00-03:00",
+      "title": "Santa Missa"
+    },
+    {
+      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
       "start_date": "2026-06-06T06:00:00-03:00",
-      "title": "Bom Dia Rio Grande"
+      "title": "Globo Rural"
     },
     {
-      "desc": "Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.",
+      "desc": "As principais notícias do Brasil para começar o final de semana bem-informado.",
+      "start_date": "2026-06-06T06:50:00-03:00",
+      "title": "Bom Dia Sábado"
+    },
+    {
+      "desc": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários.",
+      "start_date": "2026-06-06T07:50:00-03:00",
+      "title": "Pequenas Empresas & Grandes Negócios"
+    },
+    {
+      "desc": "Um programa democrático que aborda as diversas áreas da cultura gaúcha, e também apresenta quadros de turismo, gastronomia e as informações do agronegócio.",
       "start_date": "2026-06-06T08:30:00-03:00",
-      "title": "Bom Dia Brasil"
+      "title": "Galpão Crioulo"
     },
     {
-      "desc": "O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.",
-      "start_date": "2026-06-06T09:30:00-03:00",
-      "title": "Encontro com Patrícia Poeta"
-    },
-    {
-      "desc": "Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.",
-      "start_date": "2026-06-06T10:35:00-03:00",
-      "title": "Mais Você"
+      "desc": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa.",
+      "start_date": "2026-06-06T09:00:00-03:00",
+      "title": "É de Casa"
     },
     {
       "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
@@ -75,53 +75,53 @@
     },
     {
       "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
-      "start_date": "2026-06-06T14:45:00-03:00",
+      "start_date": "2026-06-06T14:05:00-03:00",
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Tobey Marshall, um exímio piloto, herda do pai uma oficina mecânica, onde trabalha com carros modificados. Um dia, um ex-piloto de Fórmula Indy o procura para concluir um Ford Mustang desenvolvido por um gênio da mecânica. Mesmo após a venda do carro, a rivalidade entre eles faz com que disputem uma última corrida, mas ela acaba com o falecimento de Pete, um amigo de Tobey. Considerado culpado pela morte, Tobey passa dois anos na prisão. Quando sai da cadeia, ele decide se vingar.",
-      "start_date": "2026-06-06T15:35:00-03:00",
-      "title": "Need for Speed - O Filme"
+      "desc": "De uma forma leve e divertida, muito entretenimento e informação a partir de personagens inspiradores em assuntos como cultura, bem-estar, lazer, música, viagem, gastronomia e sustentabilidade.",
+      "start_date": "2026-06-06T14:35:00-03:00",
+      "title": "Baita Sábado"
     },
     {
-      "desc": "Carminha pede que Jorginho esqueça seu passado; Jorginho diz que está atordoado; Suelen fica com ciúmes de Darkson; Jorginho descobre que Dinorah não é sua mãe; Carminha diz que está feliz por ter feito as pazes com Jorginho.",
-      "start_date": "2026-06-06T17:25:00-03:00",
-      "title": "Vale a Pena Ver de Novo - Avenida Brasil"
+      "desc": "Uma experiência que resgata o valor dos encontros. Porque existem momentos que não se medem pelo relógio, mas pelo estalo da lenha e pelo aroma da carne na brasa.",
+      "start_date": "2026-06-06T15:40:00-03:00",
+      "title": "Tempo Bueno"
+    },
+    {
+      "desc": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais.",
+      "start_date": "2026-06-06T15:55:00-03:00",
+      "title": "Caldeirão com Mion"
     },
     {
       "desc": "Jendal faz uma ameaça velada a Kênia e Chinua insiste que a princesa deve se afastar de Dumi. No ateliê, todas desconfiam do padre Viriato, sem saber que se trata de Carrapato.",
-      "start_date": "2026-06-06T18:25:00-03:00",
+      "start_date": "2026-06-06T17:30:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-06-06T19:10:00-03:00",
+      "start_date": "2026-06-06T18:15:00-03:00",
       "title": "RBS Notícias"
     },
     {
-      "desc": "Zilá é eleita a nova presidente do Grupo Amaral, e Alaorzinho se desespera. Naiane se incomoda ao encontrar pertences de Agrado na casa de João.",
-      "start_date": "2026-06-06T19:40:00-03:00",
-      "title": "Coração Acelerado"
+      "desc": "Seleções masculinas de futebol se enfrentam em partidas amistosas pelo mundo.",
+      "start_date": "2026-06-06T18:35:00-03:00",
+      "title": "Brasil x Egito"
     },
     {
       "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-06-06T20:30:00-03:00",
+      "start_date": "2026-06-06T21:15:00-03:00",
       "title": "Jornal Nacional"
     },
     {
       "desc": "Cléber lembra a Pedro que ele pode defender Adriana como testemunha de acusação e garante que está preparado para atuar no caso. Adriana se surpreende quando Tom é anunciado como testemunha de acusação em seu julgamento.",
-      "start_date": "2026-06-06T21:20:00-03:00",
+      "start_date": "2026-06-06T21:50:00-03:00",
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "Sob provocação de Romualdo, Rosa confessa ser a mulher de Josué; as crianças, Damiana e Luciano, contam a Aniete que encontraram Petúnia no sítio de Pente Fino.",
-      "start_date": "2026-06-06T22:25:00-03:00",
-      "title": "Guerreiros do Sol"
-    },
-    {
-      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
-      "start_date": "2026-06-06T23:10:00-03:00",
-      "title": "Globo Repórter"
+      "desc": "Serginho Groisman promove debates sobre temas relevantes com a participação da plateia, artistas e personalidades de diferentes áreas.",
+      "start_date": "2026-06-06T22:35:00-03:00",
+      "title": "Altas Horas"
     }
   ],
   "start_date": "2026-06-06"

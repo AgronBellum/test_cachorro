@@ -4,29 +4,19 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "Semifinal masculina da Fight do Milhão. Da Farma Conde Arena, em São José dos Campos ?SP.",
+      "desc": "Um grupo de policiais honestos é enviado a uma cidade do interior do Rio de Janeiro que sofre com o aumento da criminalidade. O governo convoca um delegado íntegro e reúne uma equipe especial para a campanha. Entre os agentes selecionados está Francis, uma investigadora novata que precisa provar que tem valor. Em pouco tempo eles resolvem o problema e são aclamados pela opinião pública. Mas a aplicação do rigor da lei começa a incomodar a todos e o governo se vê forçado a intervir novamente.",
       "start_date": "2026-06-07T00:25:00-03:00",
-      "title": "Jungle Fight 151"
+      "title": "Operações Especiais"
     },
     {
-      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-06-07T01:00:00-03:00",
-      "title": "A Nobreza do Amor"
+      "desc": "Um homem sofre um acidente e acorda em um mundo paralelo criado pelo seu inconsciente em estado de coma. Nessa nova realidade, ele ganha poderes e se une a um grupo de pessoas que habitam esse universo, mas querem voltar ao mundo real.",
+      "start_date": "2026-06-07T02:05:00-03:00",
+      "title": "Coma - A Dimensão do Futuro"
     },
     {
-      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-06-07T01:40:00-03:00",
-      "title": "Vai que Cola"
-    },
-    {
-      "desc": "Na esperança de encontrar seu pai, adolescente problemática pede para um arquiteto viúvo construir uma jangada para que ela possa atravessar oceano.",
-      "start_date": "2026-06-07T02:25:00-03:00",
-      "title": "O Livro do Amor"
-    },
-    {
-      "desc": "Deborah Hall é uma mulher religiosa que luta contra um grave câncer. Casada com Ron, um importante negociante de arte, ela insiste para que o marido se aproxime de Denver, um morador de rua com um passado de sofrimento e exploração.",
+      "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
       "start_date": "2026-06-07T04:00:00-03:00",
-      "title": "Somos Todos Iguais"
+      "title": "Hora 1"
     },
     {
       "desc": "Acompanhe a celebração da santa missa em João Pessoa.",
@@ -34,94 +24,59 @@
       "title": "Santa Missa"
     },
     {
-      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
-      "start_date": "2026-06-07T06:00:00-03:00",
-      "title": "Globo Rural"
-    },
-    {
-      "desc": "As principais notícias do Brasil para começar o final de semana bem-informado.",
-      "start_date": "2026-06-07T06:50:00-03:00",
-      "title": "Bom Dia Sábado"
-    },
-    {
-      "desc": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários.",
-      "start_date": "2026-06-07T07:50:00-03:00",
-      "title": "Pequenas Empresas & Grandes Negócios"
-    },
-    {
       "desc": "Um programa democrático que aborda as diversas áreas da cultura gaúcha, e também apresenta quadros de turismo, gastronomia e as informações do agronegócio.",
-      "start_date": "2026-06-07T08:30:00-03:00",
+      "start_date": "2026-06-07T06:35:00-03:00",
       "title": "Galpão Crioulo"
     },
     {
-      "desc": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa.",
-      "start_date": "2026-06-07T09:00:00-03:00",
-      "title": "É de Casa"
+      "desc": "A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes.",
+      "start_date": "2026-06-07T07:05:00-03:00",
+      "title": "AutoEsporte"
     },
     {
-      "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-06-07T11:45:00-03:00",
-      "title": "Jornal do Almoço"
+      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
+      "start_date": "2026-06-07T07:50:00-03:00",
+      "title": "Globo Rural"
     },
     {
-      "desc": "Confira as últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.",
-      "start_date": "2026-06-07T13:00:00-03:00",
-      "title": "Globo Esporte RS"
+      "desc": "Escalações, preparativos e tudo o que antecede os principais eventos do mundo dos esportes.",
+      "start_date": "2026-06-07T09:25:00-03:00",
+      "title": "Pré-Hora"
     },
     {
-      "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
-      "start_date": "2026-06-07T13:25:00-03:00",
-      "title": "Jornal Hoje"
+      "desc": "Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.",
+      "start_date": "2026-06-07T10:00:00-03:00",
+      "title": "GP de Mônaco"
     },
     {
-      "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
-      "start_date": "2026-06-07T14:05:00-03:00",
-      "title": "Além do Tempo - Edição Especial"
+      "desc": "Fique por dentro de tudo o que rolou durante a semana nos esportes e veja os gols pelo mundo afora. Entrevistas, reportagens sobre ciência esportiva e personagens históricos também fazem parte da atração.",
+      "start_date": "2026-06-07T12:00:00-03:00",
+      "title": "Esporte Espetacular"
     },
     {
-      "desc": "De uma forma leve e divertida, muito entretenimento e informação a partir de personagens inspiradores em assuntos como cultura, bem-estar, lazer, música, viagem, gastronomia e sustentabilidade.",
-      "start_date": "2026-06-07T14:35:00-03:00",
-      "title": "Baita Sábado"
+      "desc": "Se o Sr. Anderson, conhecido como Neo, aprendeu alguma coisa é que a escolha, mesmo sendo uma ilusão, é a única maneira de sair - ou entrar - da Matrix. Ele sabe o que precisa fazer, mas ainda não descobriu que a Matrix está mais forte e perigosa.",
+      "start_date": "2026-06-07T13:40:00-03:00",
+      "title": "Matrix Resurrections"
     },
     {
-      "desc": "Uma experiência que resgata o valor dos encontros. Porque existem momentos que não se medem pelo relógio, mas pelo estalo da lenha e pelo aroma da carne na brasa.",
-      "start_date": "2026-06-07T15:40:00-03:00",
-      "title": "Tempo Bueno"
+      "desc": "Público escolhe a família mais musical do Brasil e Paulo Vieira, Dira Paes, Aílton Graça, Otávio Müller e Xanddy Harmonia são convidados.",
+      "start_date": "2026-06-07T16:00:00-03:00",
+      "title": "Em Família com Eliana"
     },
     {
-      "desc": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais.",
-      "start_date": "2026-06-07T15:55:00-03:00",
-      "title": "Caldeirão com Mion"
+      "desc": "Em esquenta para a Copa do Mundo tem Linha do Tempo com Ronaldo Fenômeno. Além de rever momentos marcantes da carreira, público acompanha histórias pessoais do ex-jogador, desde a infância em Bento Ribeiro, zona Norte do Rio de Janeiro.",
+      "start_date": "2026-06-07T17:35:00-03:00",
+      "title": "Domingão com Huck"
     },
     {
-      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-06-07T17:30:00-03:00",
-      "title": "A Nobreza do Amor"
+      "desc": "Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência.",
+      "start_date": "2026-06-07T20:30:00-03:00",
+      "title": "Fantástico"
     },
     {
-      "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-06-07T18:15:00-03:00",
-      "title": "RBS Notícias"
-    },
-    {
-      "desc": "Seleções masculinas de futebol se enfrentam em partidas amistosas pelo mundo.",
-      "start_date": "2026-06-07T18:35:00-03:00",
-      "title": "Brasil x Egito"
-    },
-    {
-      "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-06-07T21:15:00-03:00",
-      "title": "Jornal Nacional"
-    },
-    {
-      "desc": "Adriana, após ser demitida, tem sua casa destruída por uma enchente e que também leva seu marido. Ainda sem entender como seguir, vai parar em um abrigo, onde cruza, pela primeira vez, com o caminho de Pedro.",
-      "start_date": "2026-06-07T21:50:00-03:00",
-      "title": "Quem Ama Cuida"
-    },
-    {
-      "desc": "Serginho Groisman promove debates sobre temas relevantes com a participação da plateia, artistas e personalidades de diferentes áreas.",
-      "start_date": "2026-06-07T22:35:00-03:00",
-      "title": "Altas Horas"
+      "desc": "O maior festival de música sertaneja do Brasil que acontece nas seis cidades anfitriãs: Londrina, Ribeirão Preto, Pedro Leopoldo, Barretos, Jaguariúna e Caldas Novas.",
+      "start_date": "2026-06-07T23:35:00-03:00",
+      "title": "Circuito Sertanejo"
     }
   ],
   "start_date": "2026-06-07"

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "total": 129,
-    "success": 128,
+    "success": 129,
     "categories": 8,
-    "date": "2026-06-09T18:59:08.137Z",
+    "date": "2026-06-09T18:59:26.144Z",
     "version": "EXTRACTOR_APP_V1"
   },
   "categorias": {
@@ -483,6 +483,20 @@
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Séries",
           "m3u8_url": "https://megaflix.mgfiles.lat/faa72ffc3383e05bb1c5fc6948c9ab37/file.m3u8",
+          "headers": {
+            "referer": "https://megafrixapi.com/desktop/player/channel.php?id=",
+            "origin": "https://w2.embedtv.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
+        },
+        {
+          "id": "tntseries",
+          "name": "TNT Series",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Séries",
+          "m3u8_url": "https://megaflix.mgfiles.lat/875853f06d79de63251cf24417f6e243/file.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/desktop/player/channel.php?id=",
             "origin": "https://w2.embedtv.live/",
@@ -2320,8 +2334,16 @@
     {
       "id": "tntseries",
       "name": "TNT Series",
-      "status": "error",
-      "error": "page.goto: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://megafrixapi.com/desktop/player/channel.php?id=tntseries\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Séries",
+      "m3u8_url": "https://megaflix.mgfiles.lat/875853f06d79de63251cf24417f6e243/file.m3u8",
+      "headers": {
+        "referer": "https://megafrixapi.com/desktop/player/channel.php?id=",
+        "origin": "https://w2.embedtv.live/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": ""
+      },
+      "status": "success"
     },
     {
       "id": "telecineaction",

@@ -4,8 +4,13 @@
   "provider": "mi.tv",
   "epg_list": [
     {
+      "desc": "",
+      "start_date": "2026-06-10T00:30:00-03:00",
+      "title": "Contagem Regressiva Copa do Mundo da FIFA 2026"
+    },
+    {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-06-10T00:25:00-03:00",
+      "start_date": "2026-06-10T00:45:00-03:00",
       "title": "Jornal da Globo"
     },
     {

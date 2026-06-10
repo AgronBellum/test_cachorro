@@ -1,9 +1,9 @@
 {
   "metadata": {
     "total": 129,
-    "success": 129,
+    "success": 127,
     "categories": 8,
-    "date": "2026-06-10T19:24:37.438Z",
+    "date": "2026-06-10T19:28:09.704Z",
     "version": "EXTRACTOR_APP_V1"
   },
   "categorias": {
@@ -576,20 +576,6 @@
           "status": "success"
         },
         {
-          "id": "telecinetouch",
-          "name": "Telecine Touch",
-          "categoryId": "filmes_series",
-          "categoryName": "Filmes e Séries",
-          "m3u8_url": "https://megaflix.mgfiles.lat/a3610a1075dd6039c9d6469107b9c6eb/file.m3u8",
-          "headers": {
-            "referer": "https://megafrixapi.com/desktop/player/channel.php?id=",
-            "origin": "https://w2.embedtv.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
-          },
-          "status": "success"
-        },
-        {
           "id": "universaltv",
           "name": "Universal",
           "categoryId": "filmes_series",
@@ -642,20 +628,6 @@
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
           "m3u8_url": "https://megaflix.mgfiles.lat/d27474f311941bae764dc94104ed0671/file.m3u8",
-          "headers": {
-            "referer": "https://megafrixapi.com/desktop/player/channel.php?id=",
-            "origin": "https://w2.embedtv.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
-          },
-          "status": "success"
-        },
-        {
-          "id": "bandrj",
-          "name": "Band RJ",
-          "categoryId": "aberta",
-          "categoryName": "TV Aberta e Notícias",
-          "m3u8_url": "https://megaflix.mgfiles.lat/bdf09f598f101b942a402bed3ac23579/file.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/desktop/player/channel.php?id=",
             "origin": "https://w2.embedtv.live/",
@@ -2418,16 +2390,8 @@
     {
       "id": "telecinetouch",
       "name": "Telecine Touch",
-      "categoryId": "filmes_series",
-      "categoryName": "Filmes e Séries",
-      "m3u8_url": "https://megaflix.mgfiles.lat/a3610a1075dd6039c9d6469107b9c6eb/file.m3u8",
-      "headers": {
-        "referer": "https://megafrixapi.com/desktop/player/channel.php?id=",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
-      },
-      "status": "success"
+      "status": "error",
+      "error": "page.goto: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://megafrixapi.com/desktop/player/channel.php?id=telecinetouch\", waiting until \"domcontentloaded\"\u001b[22m\n"
     },
     {
       "id": "universaltv",
@@ -2488,16 +2452,8 @@
     {
       "id": "bandrj",
       "name": "Band RJ",
-      "categoryId": "aberta",
-      "categoryName": "TV Aberta e Notícias",
-      "m3u8_url": "https://megaflix.mgfiles.lat/bdf09f598f101b942a402bed3ac23579/file.m3u8",
-      "headers": {
-        "referer": "https://megafrixapi.com/desktop/player/channel.php?id=",
-        "origin": "https://w2.embedtv.live/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
-      },
-      "status": "success"
+      "status": "error",
+      "error": "page.goto: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://megafrixapi.com/desktop/player/channel.php?id=bandrj\", waiting until \"domcontentloaded\"\u001b[22m\n"
     },
     {
       "id": "bandsp",

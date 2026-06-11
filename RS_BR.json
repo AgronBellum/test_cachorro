@@ -4,34 +4,19 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "",
-      "start_date": "2026-06-11T00:30:00-03:00",
-      "title": "Contagem Regressiva Copa do Mundo da FIFA 2026"
-    },
-    {
-      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-06-11T00:45:00-03:00",
-      "title": "Jornal da Globo"
-    },
-    {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-06-11T01:15:00-03:00",
+      "start_date": "2026-06-11T00:30:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-06-11T01:55:00-03:00",
+      "start_date": "2026-06-11T01:10:00-03:00",
       "title": "Coração Acelerado"
     },
     {
-      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-06-11T02:35:00-03:00",
-      "title": "Vai que Cola"
-    },
-    {
-      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-06-11T03:15:00-03:00",
-      "title": "Vai que Cola"
+      "desc": "O Rio de Janeiro se encontra acuado por uma onda de sequestros na década de 1990. As forças de segurança convocam agentes corruptos e um delegado com fama de genocida para salvar a cidade dos bandidos e até da polícia.",
+      "start_date": "2026-06-11T01:55:00-03:00",
+      "title": "A Divisão"
     },
     {
       "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
@@ -64,9 +49,9 @@
       "title": "Jornal do Almoço"
     },
     {
-      "desc": "Confira as últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.",
+      "desc": "As principais notícias esportivas do Brasil e do mundo.",
       "start_date": "2026-06-11T13:00:00-03:00",
-      "title": "Globo Esporte RS"
+      "title": "Globo Esporte"
     },
     {
       "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
@@ -74,28 +59,23 @@
       "title": "Jornal Hoje"
     },
     {
-      "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
-      "start_date": "2026-06-11T14:45:00-03:00",
-      "title": "Além do Tempo - Edição Especial"
+      "desc": "Destaques e principais acontecimentos do mundial, que acontece no Canadá, México e Estados Unidos.",
+      "start_date": "2026-06-11T14:20:00-03:00",
+      "title": "Copa do Mundo da FIFA 2026"
     },
     {
-      "desc": "Prestes a se casar em um megaevento na frente de milhares de pessoas, a superestrela Kat Valdez descobre que está sendo traída e decide se casar com um estranho da plateia, o simples professor Charlie. Apesar de não saber como sustentar esse casamento de fachada, os dois seguem em frente, mesmo vivendo em mundos opostos. Mas, aos poucos, um sentimento surge e os dois percebem o quanto precisam um do outro.",
-      "start_date": "2026-06-11T15:25:00-03:00",
-      "title": "Case Comigo"
-    },
-    {
-      "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
-      "start_date": "2026-06-11T17:05:00-03:00",
-      "title": "Vale a Pena Ver de Novo - Avenida Brasil"
+      "desc": "México e África do Sul competem na primeira partida do Grupo A da Copa do Mundo da FIFA. O atacante do México, Julián Quiñones, tem 33 gols marcados pelo Al Qadsiah. Oswin Appollis marcou nove vezes pelo Orlando Pirates na última temporada.",
+      "start_date": "2026-06-11T16:00:00-03:00",
+      "title": "Grupo A: México x África do Sul"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-06-11T18:25:00-03:00",
+      "start_date": "2026-06-11T18:10:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-06-11T19:10:00-03:00",
+      "start_date": "2026-06-11T18:55:00-03:00",
       "title": "RBS Notícias"
     },
     {
@@ -114,14 +94,19 @@
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "Dois sertanejos, Rosa e Josué, tornam-se um dos mais famosos casais de cangaceiros de todos os tempos. Paixões, traição, política, vingança, dinheiro e banditismo se passam em meio a uma guerra de formação do Brasil moderno.",
+      "desc": "Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.",
       "start_date": "2026-06-11T22:25:00-03:00",
+      "title": "Central da Copa"
+    },
+    {
+      "desc": "Dois sertanejos, Rosa e Josué, tornam-se um dos mais famosos casais de cangaceiros de todos os tempos. Paixões, traição, política, vingança, dinheiro e banditismo se passam em meio a uma guerra de formação do Brasil moderno.",
+      "start_date": "2026-06-11T22:50:00-03:00",
       "title": "Guerreiros do Sol"
     },
     {
-      "desc": "Documentário acompanha o último ano de preparação da Seleção antes da Copa do Mundo de 2026.",
-      "start_date": "2026-06-11T23:15:00-03:00",
-      "title": "Vai, Brasil!"
+      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
+      "start_date": "2026-06-11T23:40:00-03:00",
+      "title": "Jornal da Globo"
     }
   ],
   "start_date": "2026-06-11"

@@ -1,143 +1,8 @@
 {
-  "end_date": "2026-06-14",
+  "end_date": "2026-06-15",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
-    {
-      "desc": "",
-      "start_date": "2026-06-12T00:33:00-03:00",
-      "title": "O Lado Sombrio da TV Infantil"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-12T01:21:00-03:00",
-      "title": "Seu Pior Pesadelo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-12T02:09:00-03:00",
-      "title": "Mentiras Criminosas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-12T02:53:00-03:00",
-      "title": "People Magazine - Além da Notícia"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-12T03:40:00-03:00",
-      "title": "Assassinato de uma Sexta à Noite"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-12T04:24:00-03:00",
-      "title": "Ainda um Mistério"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-12T05:12:00-03:00",
-      "title": "Câmera Crime"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-12T06:00:00-03:00",
-      "title": "DNA Criminoso"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-12T06:48:00-03:00",
-      "title": "Lobo em Pele de Cordeiro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-12T07:36:00-03:00",
-      "title": "Vivendo com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-12T08:25:00-03:00",
-      "title": "Vidas Destruídas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-12T09:14:00-03:00",
-      "title": "Assassinatos em Família"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-12T10:03:00-03:00",
-      "title": "Vivendo com o Inimigo - Sombras da Morte"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-12T10:52:00-03:00",
-      "title": "Irmãs Perversas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-12T11:41:00-03:00",
-      "title": "Falsidade.com"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-12T12:29:00-03:00",
-      "title": "Emboscada"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-12T13:18:00-03:00",
-      "title": "Diabólicos - A Face Oculta do Amor"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-12T14:06:00-03:00",
-      "title": "Amor Assassino"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-12T14:54:00-03:00",
-      "title": "Pecados Mortais"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-12T15:42:00-03:00",
-      "title": "Paixões Perigosas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-12T16:30:00-03:00",
-      "title": "Análise de um Crime"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-12T17:18:00-03:00",
-      "title": "Detetive Americano com Joe Kenda"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-12T18:06:00-03:00",
-      "title": "Olhos Da Lei"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-12T18:58:00-03:00",
-      "title": "Bodycam - Registros Criminosos"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-12T19:47:00-03:00",
-      "title": "Crimes que Viralizaram"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-12T20:36:00-03:00",
-      "title": "Boybands: O Lado Sombrio da Fama"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-12T23:44:00-03:00",
-      "title": "Nick e Aaron Carter: A Queda dos Ídolos"
-    },
     {
       "desc": "",
       "start_date": "2026-06-13T00:33:00-03:00",
@@ -272,7 +137,142 @@
       "desc": "",
       "start_date": "2026-06-13T23:44:00-03:00",
       "title": "Nick e Aaron Carter: A Queda dos Ídolos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-14T00:33:00-03:00",
+      "title": "O Lado Sombrio da TV Infantil"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-14T01:21:00-03:00",
+      "title": "Seu Pior Pesadelo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-14T02:09:00-03:00",
+      "title": "Mentiras Criminosas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-14T02:53:00-03:00",
+      "title": "People Magazine - Além da Notícia"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-14T03:40:00-03:00",
+      "title": "Assassinato de uma Sexta à Noite"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-14T04:24:00-03:00",
+      "title": "Ainda um Mistério"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-14T05:12:00-03:00",
+      "title": "Câmera Crime"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-14T06:00:00-03:00",
+      "title": "DNA Criminoso"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-14T06:48:00-03:00",
+      "title": "Lobo em Pele de Cordeiro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-14T07:36:00-03:00",
+      "title": "Vivendo com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-14T08:25:00-03:00",
+      "title": "Vidas Destruídas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-14T09:14:00-03:00",
+      "title": "Assassinatos em Família"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-14T10:03:00-03:00",
+      "title": "Vivendo com o Inimigo - Sombras da Morte"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-14T10:52:00-03:00",
+      "title": "Irmãs Perversas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-14T11:41:00-03:00",
+      "title": "Falsidade.com"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-14T12:29:00-03:00",
+      "title": "Emboscada"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-14T13:18:00-03:00",
+      "title": "Diabólicos - A Face Oculta do Amor"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-14T14:06:00-03:00",
+      "title": "Amor Assassino"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-14T14:54:00-03:00",
+      "title": "Pecados Mortais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-14T15:42:00-03:00",
+      "title": "Paixões Perigosas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-14T16:30:00-03:00",
+      "title": "Análise de um Crime"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-14T17:18:00-03:00",
+      "title": "Detetive Americano com Joe Kenda"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-14T18:06:00-03:00",
+      "title": "Olhos Da Lei"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-14T18:58:00-03:00",
+      "title": "Bodycam - Registros Criminosos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-14T19:47:00-03:00",
+      "title": "Crimes que Viralizaram"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-14T20:36:00-03:00",
+      "title": "Boybands: O Lado Sombrio da Fama"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-14T23:44:00-03:00",
+      "title": "Nick e Aaron Carter: A Queda dos Ídolos"
     }
   ],
-  "start_date": "2026-06-12"
+  "start_date": "2026-06-13"
 }

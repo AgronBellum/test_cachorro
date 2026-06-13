@@ -4,54 +4,34 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.",
-      "start_date": "2026-06-13T00:10:00-03:00",
-      "title": "Central da Copa"
-    },
-    {
-      "desc": "Uma prévia das eletrizantes corridas da Fórmula 1, com uma visão prática, técnica e acessível dos aspectos mais importantes da principal categoria do automobilismo mundial.",
-      "start_date": "2026-06-13T00:35:00-03:00",
-      "title": "Grid da Globo"
-    },
-    {
-      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-06-13T00:45:00-03:00",
-      "title": "Jornal da Globo"
-    },
-    {
-      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-06-13T01:25:00-03:00",
-      "title": "A Nobreza do Amor"
+      "desc": "Acompanhe uma produção cinematográfica.",
+      "start_date": "2026-06-13T00:15:00-03:00",
+      "title": "Filme"
     },
     {
       "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-06-13T02:00:00-03:00",
+      "start_date": "2026-06-13T01:55:00-03:00",
       "title": "Coração Acelerado"
     },
     {
-      "desc": "Zoe decide fazer uma inseminação artificial. Já grávida, ela conhece Stan, que logo a pede em casamento. Quando o dia do nascimento do bebê se aproxima, o casal percebe que ainda não se conhece muito bem e seus planos podem mudar.",
-      "start_date": "2026-06-13T02:40:00-03:00",
-      "title": "Plano B"
+      "desc": "Acompanhe uma produção cinematográfica.",
+      "start_date": "2026-06-13T02:35:00-03:00",
+      "title": "Filme"
     },
     {
-      "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
+      "desc": "Acompanhe uma produção cinematográfica.",
+      "start_date": "2026-06-13T04:20:00-03:00",
+      "title": "Filme"
+    },
+    {
+      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
       "start_date": "2026-06-13T06:00:00-03:00",
-      "title": "Bom Dia Rio Grande"
+      "title": "Globo Repórter"
     },
     {
-      "desc": "Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.",
-      "start_date": "2026-06-13T08:30:00-03:00",
-      "title": "Bom Dia Brasil"
-    },
-    {
-      "desc": "O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.",
-      "start_date": "2026-06-13T09:30:00-03:00",
-      "title": "Encontro com Patrícia Poeta"
-    },
-    {
-      "desc": "Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.",
-      "start_date": "2026-06-13T10:35:00-03:00",
-      "title": "Mais Você"
+      "desc": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa.",
+      "start_date": "2026-06-13T07:50:00-03:00",
+      "title": "É de Casa"
     },
     {
       "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
@@ -59,9 +39,9 @@
       "title": "Jornal do Almoço"
     },
     {
-      "desc": "Confira as últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.",
+      "desc": "As principais notícias esportivas do Brasil e do mundo.",
       "start_date": "2026-06-13T13:00:00-03:00",
-      "title": "Globo Esporte RS"
+      "title": "Globo Esporte"
     },
     {
       "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
@@ -70,48 +50,48 @@
     },
     {
       "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
-      "start_date": "2026-06-13T14:45:00-03:00",
+      "start_date": "2026-06-13T14:10:00-03:00",
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Um homem e sua noiva recebem notícias devastadoras quando ele é diagnosticado com câncer terminal no fígado. Com o tempo se esgotando, amigos e familiares elaboram um plano inspirador para ajudar o jovem casal a realizar seu casamento dos sonhos.",
-      "start_date": "2026-06-13T15:25:00-03:00",
-      "title": "Por Toda a Minha Vida"
+      "desc": "Acompanhe as trapalhadas e maluquices dos alunos na sala de aula do professor Raimundo.",
+      "start_date": "2026-06-13T15:45:00-03:00",
+      "title": "Escolinha do Professor Raimundo"
     },
     {
-      "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
-      "start_date": "2026-06-13T17:05:00-03:00",
-      "title": "Vale a Pena Ver de Novo - Avenida Brasil"
+      "desc": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais.",
+      "start_date": "2026-06-13T16:15:00-03:00",
+      "title": "Caldeirão com Mion"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-06-13T18:05:00-03:00",
+      "start_date": "2026-06-13T18:40:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-06-13T18:45:00-03:00",
+      "start_date": "2026-06-13T19:25:00-03:00",
       "title": "RBS Notícias"
     },
     {
       "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-06-13T19:15:00-03:00",
+      "start_date": "2026-06-13T19:45:00-03:00",
       "title": "Coração Acelerado"
     },
     {
       "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-06-13T20:00:00-03:00",
+      "start_date": "2026-06-13T20:30:00-03:00",
       "title": "Jornal Nacional"
     },
     {
       "desc": "Adriana, após ser demitida, tem sua casa destruída por uma enchente e que também leva seu marido. Ainda sem entender como seguir, vai parar em um abrigo, onde cruza, pela primeira vez, com o caminho de Pedro.",
-      "start_date": "2026-06-13T20:50:00-03:00",
+      "start_date": "2026-06-13T21:20:00-03:00",
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "Estados Unidos e Paraguai competem na primeira partida do Grupo D da Copa do Mundo da FIFA. Weston McKennie lidera a seleção estadunidense, enquanto o Paraguai conta com o meio-campista Diego Gomez. Estados Unidos joga em casa, em Los Angeles.",
-      "start_date": "2026-06-13T21:35:00-03:00",
-      "title": "Grupo D: Estados Unidos x Paraguai"
+      "desc": "Serginho Groisman promove debates sobre temas relevantes com a participação da plateia, artistas e personalidades de diferentes áreas.",
+      "start_date": "2026-06-13T22:25:00-03:00",
+      "title": "Altas Horas"
     }
   ],
   "start_date": "2026-06-13"

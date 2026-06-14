@@ -1,98 +1,123 @@
 {
-  "end_date": "2026-06-13",
+  "end_date": "2026-06-14",
   "name": "Globo RBS TV POA",
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "Acompanhe uma produção cinematográfica.",
-      "start_date": "2026-06-13T00:15:00-03:00",
-      "title": "Filme"
+      "desc": "Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.",
+      "start_date": "2026-06-14T00:15:00-03:00",
+      "title": "Central da Copa"
     },
     {
-      "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-06-13T01:55:00-03:00",
-      "title": "Coração Acelerado"
+      "desc": "Austrália e Turquia competem na segunda partida do Grupo D, no BC Place Vancouver, no Canadá. O confronto marca a primeira vez em que ambas seleções se enfrentam em um mundial, com dois amistosos disputados em 2004. A Turquia venceu os dois jogos.",
+      "start_date": "2026-06-14T00:45:00-03:00",
+      "title": "Grupo D: Austrália x Turquia"
     },
     {
-      "desc": "Acompanhe uma produção cinematográfica.",
-      "start_date": "2026-06-13T02:35:00-03:00",
-      "title": "Filme"
+      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "start_date": "2026-06-14T03:10:00-03:00",
+      "title": "Vai que Cola"
     },
     {
-      "desc": "Acompanhe uma produção cinematográfica.",
-      "start_date": "2026-06-13T04:20:00-03:00",
-      "title": "Filme"
+      "desc": "Pedro se apaixona por Ana, com quem contracena no teatro. Quando ela aceita fazer uma telenovela, o relacionamento é abalado pelo sucesso da atriz na TV. Tudo se complica ainda mais quando Ana se apaixona por outro ator ao gravar um especial.",
+      "start_date": "2026-06-14T03:50:00-03:00",
+      "title": "Romance"
     },
     {
-      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
-      "start_date": "2026-06-13T06:00:00-03:00",
-      "title": "Globo Repórter"
+      "desc": "Quatro pequenas esquetes cujo tema central é a mentira, suas motivações e consequências. As histórias são baseadas nos causos contados por Ariano Suassuna em suas aulas mestras.",
+      "start_date": "2026-06-14T04:00:00-03:00",
+      "title": "O Auto da Boa Mentira"
+    },
+    {
+      "desc": "Acompanhe a celebração da santa missa em João Pessoa.",
+      "start_date": "2026-06-14T05:50:00-03:00",
+      "title": "Santa Missa"
+    },
+    {
+      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
+      "start_date": "2026-06-14T06:00:00-03:00",
+      "title": "Globo Rural"
+    },
+    {
+      "desc": "As principais notícias do Brasil para começar o final de semana bem-informado.",
+      "start_date": "2026-06-14T06:50:00-03:00",
+      "title": "Bom Dia Sábado"
+    },
+    {
+      "desc": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários.",
+      "start_date": "2026-06-14T07:50:00-03:00",
+      "title": "Pequenas Empresas & Grandes Negócios"
+    },
+    {
+      "desc": "Um programa democrático que aborda as diversas áreas da cultura gaúcha, e também apresenta quadros de turismo, gastronomia e as informações do agronegócio.",
+      "start_date": "2026-06-14T08:30:00-03:00",
+      "title": "Galpão Crioulo"
     },
     {
       "desc": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa.",
-      "start_date": "2026-06-13T07:50:00-03:00",
+      "start_date": "2026-06-14T09:00:00-03:00",
       "title": "É de Casa"
     },
     {
       "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-06-13T11:45:00-03:00",
+      "start_date": "2026-06-14T11:45:00-03:00",
       "title": "Jornal do Almoço"
     },
     {
       "desc": "As principais notícias esportivas do Brasil e do mundo.",
-      "start_date": "2026-06-13T13:00:00-03:00",
+      "start_date": "2026-06-14T13:00:00-03:00",
       "title": "Globo Esporte"
     },
     {
       "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
-      "start_date": "2026-06-13T13:25:00-03:00",
+      "start_date": "2026-06-14T13:25:00-03:00",
       "title": "Jornal Hoje"
     },
     {
       "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
-      "start_date": "2026-06-13T14:10:00-03:00",
+      "start_date": "2026-06-14T14:10:00-03:00",
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Acompanhe as trapalhadas e maluquices dos alunos na sala de aula do professor Raimundo.",
-      "start_date": "2026-06-13T15:45:00-03:00",
-      "title": "Escolinha do Professor Raimundo"
+      "desc": "De uma forma leve e divertida, muito entretenimento e informação a partir de personagens inspiradores em assuntos como cultura, bem-estar, lazer, música, viagem, gastronomia e sustentabilidade.",
+      "start_date": "2026-06-14T14:40:00-03:00",
+      "title": "Baita Sábado"
+    },
+    {
+      "desc": "Uma experiência que resgata o valor dos encontros. Porque existem momentos que não se medem pelo relógio, mas pelo estalo da lenha e pelo aroma da carne na brasa.",
+      "start_date": "2026-06-14T15:50:00-03:00",
+      "title": "Tempo Bueno"
     },
     {
       "desc": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais.",
-      "start_date": "2026-06-13T16:15:00-03:00",
+      "start_date": "2026-06-14T16:05:00-03:00",
       "title": "Caldeirão com Mion"
     },
     {
-      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-06-13T18:40:00-03:00",
-      "title": "A Nobreza do Amor"
+      "desc": "Escalações, preparativos e tudo o que antecede os principais eventos do mundo dos esportes.",
+      "start_date": "2026-06-14T18:00:00-03:00",
+      "title": "Pré-Hora"
     },
     {
-      "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-06-13T19:25:00-03:00",
-      "title": "RBS Notícias"
-    },
-    {
-      "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-06-13T19:45:00-03:00",
-      "title": "Coração Acelerado"
+      "desc": "O Brasil enfrenta Marrocos na primeira partida pelo Grupo C da Copa do Mundo da FIFA. Vinícius Júnior lidera o Brasil, única seleção a participar de todas as Copas do Mundo. O lateral Achraf Hakimi lidera um Marrocos invicto nas classificatórias.",
+      "start_date": "2026-06-14T18:45:00-03:00",
+      "title": "Grupo C: Brasil x Marrocos"
     },
     {
       "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-06-13T20:30:00-03:00",
+      "start_date": "2026-06-14T21:10:00-03:00",
       "title": "Jornal Nacional"
     },
     {
       "desc": "Adriana, após ser demitida, tem sua casa destruída por uma enchente e que também leva seu marido. Ainda sem entender como seguir, vai parar em um abrigo, onde cruza, pela primeira vez, com o caminho de Pedro.",
-      "start_date": "2026-06-13T21:20:00-03:00",
+      "start_date": "2026-06-14T21:45:00-03:00",
       "title": "Quem Ama Cuida"
     },
     {
       "desc": "Serginho Groisman promove debates sobre temas relevantes com a participação da plateia, artistas e personalidades de diferentes áreas.",
-      "start_date": "2026-06-13T22:25:00-03:00",
+      "start_date": "2026-06-14T22:50:00-03:00",
       "title": "Altas Horas"
     }
   ],
-  "start_date": "2026-06-13"
+  "start_date": "2026-06-14"
 }

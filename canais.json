@@ -1,9 +1,9 @@
 {
   "metadata": {
     "total": 121,
-    "success": 120,
+    "success": 121,
     "categories": 8,
-    "date": "2026-06-14T23:58:27.296Z",
+    "date": "2026-06-15T00:00:07.408Z",
     "version": "EXTRACTOR_APP_V1"
   },
   "categorias": {
@@ -1724,6 +1724,20 @@
             "cookies": ""
           },
           "status": "success"
+        },
+        {
+          "id": "acasadopatrao5",
+          "name": "A Casa do Patrão - 5",
+          "categoryId": "acasadopatrao",
+          "categoryName": "A Casa do Patrão",
+          "m3u8_url": "https://megaflix.mgfiles.lat/b954278bfea8b94a4e7ac826e5b13a82/file.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
         }
       ]
     }
@@ -3412,8 +3426,16 @@
     {
       "id": "acasadopatrao5",
       "name": "A Casa do Patrão - 5",
-      "status": "error",
-      "error": "page.goto: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://megafrixapi.com/desktop/player/channel.php?id=\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "categoryId": "acasadopatrao",
+      "categoryName": "A Casa do Patrão",
+      "m3u8_url": "https://megaflix.mgfiles.lat/b954278bfea8b94a4e7ac826e5b13a82/file.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": ""
+      },
+      "status": "success"
     }
   ]
 }

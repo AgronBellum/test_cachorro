@@ -1,9 +1,9 @@
 {
   "metadata": {
     "total": 121,
-    "success": 119,
+    "success": 121,
     "categories": 8,
-    "date": "2026-06-15T20:08:54.803Z",
+    "date": "2026-06-15T22:37:14.874Z",
     "version": "EXTRACTOR_APP_V1"
   },
   "categorias": {
@@ -665,8 +665,36 @@
           "status": "success"
         },
         {
+          "id": "bandsp",
+          "name": "Band SP",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "m3u8_url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
+        },
+        {
           "id": "cnnbrasil",
           "name": "CNN Brasil",
+          "categoryId": "aberta",
+          "categoryName": "TV Aberta e Notícias",
+          "m3u8_url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
+        },
+        {
+          "id": "cancaonova",
+          "name": "Canção Nova",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Notícias",
           "m3u8_url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8",
@@ -2362,8 +2390,16 @@
     {
       "id": "bandsp",
       "name": "Band SP",
-      "status": "error",
-      "error": "page.goto: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://megafrixapi.com/desktop/player/channel.php?id=\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "m3u8_url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": ""
+      },
+      "status": "success"
     },
     {
       "id": "cnnbrasil",
@@ -2382,8 +2418,16 @@
     {
       "id": "cancaonova",
       "name": "Canção Nova",
-      "status": "error",
-      "error": "page.goto: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://megafrixapi.com/desktop/player/channel.php?id=\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "categoryId": "aberta",
+      "categoryName": "TV Aberta e Notícias",
+      "m3u8_url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": ""
+      },
+      "status": "success"
     },
     {
       "id": "cultura",

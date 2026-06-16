@@ -4,24 +4,19 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-06-16T00:05:00-03:00",
-      "title": "Jornal da Globo"
+      "desc": "Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.",
+      "start_date": "2026-06-16T00:00:00-03:00",
+      "title": "Central da Copa"
     },
     {
-      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-06-16T00:55:00-03:00",
-      "title": "A Nobreza do Amor"
+      "desc": "Áustria batalha com a Jordânia na segunda partida do Grupo J, no Estádio da Baía de São Francisco. A Áustria se classificou com a ajuda do meio-campista Marcel Sabitzer, que tem a missão de parar o atacante Mousa Al-Taamari, da Jordânia.",
+      "start_date": "2026-06-16T00:35:00-03:00",
+      "title": "Grupo J: Áustria x Jordânia"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-06-16T01:35:00-03:00",
+      "start_date": "2026-06-16T03:15:00-03:00",
       "title": "Vai que Cola"
-    },
-    {
-      "desc": "Vera é uma mãe dedicada. Divorciada após três casamentos, vive em uma família grande, que inclui seus filhos e enteados. Destemida e experiente, ela já pegou em armas para lutar contra a ditadura e morou em diversas partes do mundo. Tânia, a filha, é mais careta e vive em um casamento que já completa 15 anos com outra mulher que está grávida do primeiro filho. Juntas, elas descobrem a beleza de fazer parte de uma família contemporânea.",
-      "start_date": "2026-06-16T02:20:00-03:00",
-      "title": "Aos Nossos Filhos"
     },
     {
       "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
@@ -69,9 +64,9 @@
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Bélgica e Egito se encontram pela primeira partida do Grupo G, no Estádio de Seattle. Ambas equipes se classificaram de maneira invicta durante seus ciclos de qualificatórias. Mohamed Salah lidera o Egito, tendo marcado nove gols na classificatória.",
+      "desc": "França e Senegal colidem na estreia do Grupo I, no Estádio de Nova York/Nova Jersey. A França conta com Kylian Mbappé, que marcou cinco vezes nas classificatórias. Senegal tem Sadio Mané, que balançou as redes dez vezes em 25 partidas no Saudita.",
       "start_date": "2026-06-16T15:30:00-03:00",
-      "title": "Grupo G: Bélgica x Egito"
+      "title": "Grupo I: França x Senegal"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
@@ -80,33 +75,33 @@
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-06-16T18:40:00-03:00",
+      "start_date": "2026-06-16T18:55:00-03:00",
       "title": "RBS Notícias"
     },
     {
-      "desc": "Arábia Saudita e Uruguai se encontram na segunda partida do Grupo H, no Estádio de Miami. Darwin Núñez chega à competição como o artilheiro do Uruguai, após liderar sua seleção com cinco gols nas classificatórias da CONMEBOL.",
-      "start_date": "2026-06-16T18:45:00-03:00",
-      "title": "Grupo H: Arábia Saudita x Uruguai"
+      "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
+      "start_date": "2026-06-16T19:30:00-03:00",
+      "title": "Coração Acelerado"
     },
     {
       "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-06-16T21:10:00-03:00",
+      "start_date": "2026-06-16T20:30:00-03:00",
       "title": "Jornal Nacional"
     },
     {
       "desc": "Adriana, após ser demitida, tem sua casa destruída por uma enchente e que também leva seu marido. Ainda sem entender como seguir, vai parar em um abrigo, onde cruza, pela primeira vez, com o caminho de Pedro.",
-      "start_date": "2026-06-16T21:45:00-03:00",
+      "start_date": "2026-06-16T21:20:00-03:00",
       "title": "Quem Ama Cuida"
     },
     {
       "desc": "Dois sertanejos, Rosa e Josué, tornam-se um dos mais famosos casais de cangaceiros de todos os tempos. Paixões, traição, política, vingança, dinheiro e banditismo se passam em meio a uma guerra de formação do Brasil moderno.",
-      "start_date": "2026-06-16T22:50:00-03:00",
+      "start_date": "2026-06-16T22:25:00-03:00",
       "title": "Guerreiros do Sol"
     },
     {
-      "desc": "Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.",
-      "start_date": "2026-06-16T23:40:00-03:00",
-      "title": "Central da Copa"
+      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
+      "start_date": "2026-06-16T23:15:00-03:00",
+      "title": "Jornal da Globo"
     }
   ],
   "start_date": "2026-06-16"

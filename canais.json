@@ -1,9 +1,9 @@
 {
   "metadata": {
     "total": 121,
-    "success": 121,
+    "success": 119,
     "categories": 8,
-    "date": "2026-06-16T00:15:03.902Z",
+    "date": "2026-06-16T00:24:24.047Z",
     "version": "EXTRACTOR_APP_V1"
   },
   "categorias": {
@@ -1342,20 +1342,6 @@
           "status": "success"
         },
         {
-          "id": "premiere8",
-          "name": "Premiere 8",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8",
-          "headers": {
-            "referer": "https://www4.embedtv.cv/",
-            "origin": "https://www4.embedtv.cv/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
-          },
-          "status": "success"
-        },
-        {
           "id": "primevideo",
           "name": "Prime Video",
           "categoryId": "esportes",
@@ -1603,20 +1589,6 @@
     "adulto": {
       "nome": "Adulto",
       "canais": [
-        {
-          "id": "playboy",
-          "name": "Play Boy",
-          "categoryId": "adulto",
-          "categoryName": "Adulto",
-          "m3u8_url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8",
-          "headers": {
-            "referer": "https://www4.embedtv.cv/",
-            "origin": "https://www4.embedtv.cv/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
-          },
-          "status": "success"
-        },
         {
           "id": "sexyhot",
           "name": "Sexy Hot",
@@ -3062,16 +3034,7 @@
     {
       "id": "premiere8",
       "name": "Premiere 8",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8",
-      "headers": {
-        "referer": "https://www4.embedtv.cv/",
-        "origin": "https://www4.embedtv.cv/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
-      },
-      "status": "success"
+      "status": "failed"
     },
     {
       "id": "primevideo",
@@ -3314,16 +3277,8 @@
     {
       "id": "playboy",
       "name": "Play Boy",
-      "categoryId": "adulto",
-      "categoryName": "Adulto",
-      "m3u8_url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8",
-      "headers": {
-        "referer": "https://www4.embedtv.cv/",
-        "origin": "https://www4.embedtv.cv/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
-      },
-      "status": "success"
+      "status": "error",
+      "error": "page.goto: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://megafrixapi.com/desktop/player/channel.php?id=\", waiting until \"domcontentloaded\"\u001b[22m\n"
     },
     {
       "id": "sexyhot",

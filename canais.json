@@ -1,9 +1,9 @@
 {
   "metadata": {
     "total": 121,
-    "success": 121,
+    "success": 119,
     "categories": 8,
-    "date": "2026-06-16T01:22:08.101Z",
+    "date": "2026-06-16T01:30:54.947Z",
     "version": "EXTRACTOR_APP_V1"
   },
   "categorias": {
@@ -1202,20 +1202,6 @@
           "status": "success"
         },
         {
-          "id": "max3",
-          "name": "Max - 3",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8",
-          "headers": {
-            "referer": "https://www4.embedtv.cv/",
-            "origin": "https://www4.embedtv.cv/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
-          },
-          "status": "success"
-        },
-        {
           "id": "paramountplus",
           "name": "Paramount Plus",
           "categoryId": "esportes",
@@ -1288,20 +1274,6 @@
         {
           "id": "premiere4",
           "name": "Premiere 4",
-          "categoryId": "esportes",
-          "categoryName": "Esportes",
-          "m3u8_url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8",
-          "headers": {
-            "referer": "https://www4.embedtv.cv/",
-            "origin": "https://www4.embedtv.cv/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-            "cookies": ""
-          },
-          "status": "success"
-        },
-        {
-          "id": "premiere5",
-          "name": "Premiere 5",
           "categoryId": "esportes",
           "categoryName": "Esportes",
           "m3u8_url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8",
@@ -2922,16 +2894,8 @@
     {
       "id": "max3",
       "name": "Max - 3",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8",
-      "headers": {
-        "referer": "https://www4.embedtv.cv/",
-        "origin": "https://www4.embedtv.cv/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
-      },
-      "status": "success"
+      "status": "error",
+      "error": "page.goto: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://megafrixapi.com/desktop/player/channel.php?id=\", waiting until \"domcontentloaded\"\u001b[22m\n"
     },
     {
       "id": "paramountplus",
@@ -3020,16 +2984,8 @@
     {
       "id": "premiere5",
       "name": "Premiere 5",
-      "categoryId": "esportes",
-      "categoryName": "Esportes",
-      "m3u8_url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8",
-      "headers": {
-        "referer": "https://www4.embedtv.cv/",
-        "origin": "https://www4.embedtv.cv/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
-        "cookies": ""
-      },
-      "status": "success"
+      "status": "error",
+      "error": "page.goto: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://megafrixapi.com/desktop/player/channel.php?id=\", waiting until \"domcontentloaded\"\u001b[22m\n"
     },
     {
       "id": "premiere6",

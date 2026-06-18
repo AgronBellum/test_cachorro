@@ -2,10 +2,10 @@
   "metadata": {
     "total": 121,
     "success": 0,
-    "honeypots": 0,
-    "errors": 121,
+    "honeypots": 121,
+    "errors": 0,
     "categories": 8,
-    "date": "2026-06-17T23:02:04.402Z",
+    "date": "2026-06-18T00:33:20.395Z",
     "version": "EXTRACTOR_APP_V9_PROXY_UA",
     "proxy_count": 100,
     "ua_rotation": true
@@ -48,728 +48,849 @@
     {
       "id": "animalplanet",
       "name": "Animal Planet",
-      "status": "error",
-      "error": "connect ECONNREFUSED 117.236.124.166:3129"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "discoverychannel",
       "name": "Discovery Channel",
-      "status": "error",
-      "error": "connect ECONNREFUSED 185.161.251.195:3129"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "discoveryhh",
       "name": "Discovery H&H",
-      "status": "error",
-      "error": "Client network socket disconnected before secure TLS connection was established"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "discoveryid",
       "name": "Discovery ID",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "discoveryscience",
       "name": "Discovery Science",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "discoverytheather",
       "name": "Discovery Theater",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "discoveryturbo",
       "name": "Discovery Turbo",
-      "status": "error",
-      "error": "connect ECONNREFUSED 219.84.152.87:3129"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "discoveryworld",
       "name": "Discovery World",
-      "status": "error",
-      "error": "Client network socket disconnected before secure TLS connection was established"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "history",
       "name": "History",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "history2",
       "name": "History 2",
-      "status": "error",
-      "error": "write EPROTO 1072448:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\\..\\third_party\\boringssl\\src\\ssl\\tls_record.cc:127:\n"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "ae",
       "name": "AE",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "amc",
       "name": "AMC",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "axn",
       "name": "AXN",
-      "status": "error",
-      "error": "write EPROTO 1072448:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\\..\\third_party\\boringssl\\src\\ssl\\tls_record.cc:127:\n"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "adultswim",
       "name": "Adult Swim",
-      "status": "error",
-      "error": "write EPROTO 1072448:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\\..\\third_party\\boringssl\\src\\ssl\\tls_record.cc:127:\n"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "cinemax",
       "name": "Cinemax",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "gnt",
       "name": "GNT",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "hbo",
       "name": "HBO",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "hbo2",
       "name": "HBO 2",
-      "status": "error",
-      "error": "Client network socket disconnected before secure TLS connection was established"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "hbofamily",
       "name": "HBO Family",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "hbomundi",
       "name": "HBO Mundi",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "hbopop",
       "name": "HBO POP",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "hboplus",
       "name": "HBO Plus",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "hboxtreme",
       "name": "HBO Xtreme",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "hgtv",
       "name": "HGTV",
-      "status": "error",
-      "error": "write EPROTO 1072448:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\\..\\third_party\\boringssl\\src\\ssl\\tls_record.cc:127:\n"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "megapix",
       "name": "Megapix",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "off",
       "name": "OFF",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "sonychannel",
       "name": "Sony Channel",
-      "status": "error",
-      "error": "write EPROTO 1072448:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\\..\\third_party\\boringssl\\src\\ssl\\tls_record.cc:127:\n"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "space",
       "name": "Space",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "starchannel",
       "name": "Star Channel",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "studiouniversal",
       "name": "Studio Universal",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "tcm",
       "name": "TCM",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "tlc",
       "name": "TLC",
-      "status": "error",
-      "error": "connect ECONNREFUSED 46.62.172.245:3129"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "tnt",
       "name": "TNT",
-      "status": "error",
-      "error": "write EPROTO 1072448:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\\..\\third_party\\boringssl\\src\\ssl\\tls_record.cc:127:\n"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "tntnovelas",
       "name": "TNT Novelas",
-      "status": "error",
-      "error": "write EPROTO 1072448:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\\..\\third_party\\boringssl\\src\\ssl\\tls_record.cc:127:\n"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "tntseries",
       "name": "TNT Series",
-      "status": "error",
-      "error": "Client network socket disconnected before secure TLS connection was established"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "telecineaction",
       "name": "Telecine Action",
-      "status": "error",
-      "error": "write EPROTO 1072448:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\\..\\third_party\\boringssl\\src\\ssl\\tls_record.cc:127:\n"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "telecinecult",
       "name": "Telecine Cult",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "telecinefun",
       "name": "Telecine Fun",
-      "status": "error",
-      "error": "Client network socket disconnected before secure TLS connection was established"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "telecinepipoca",
       "name": "Telecine Pipoca",
-      "status": "error",
-      "error": "Client network socket disconnected before secure TLS connection was established"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "telecinepremium",
       "name": "Telecine Premium",
-      "status": "error",
-      "error": "Client network socket disconnected before secure TLS connection was established"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "telecinetouch",
       "name": "Telecine Touch",
-      "status": "error",
-      "error": "write EPROTO 1072448:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\\..\\third_party\\boringssl\\src\\ssl\\tls_record.cc:127:\n"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "universaltv",
       "name": "Universal",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "warnerchannel",
       "name": "Warnerchannel",
-      "status": "error",
-      "error": "Client network socket disconnected before secure TLS connection was established"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "aparecida",
       "name": "Aparecida",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "bandnews",
       "name": "Band News",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "bandrj",
       "name": "Band RJ",
-      "status": "error",
-      "error": "Client network socket disconnected before secure TLS connection was established"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "bandsp",
       "name": "Band SP",
-      "status": "error",
-      "error": "write EPROTO 1072448:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\\..\\third_party\\boringssl\\src\\ssl\\tls_record.cc:127:\n"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "cnnbrasil",
       "name": "CNN Brasil",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "cancaonova",
       "name": "Cancao Nova",
-      "status": "error",
-      "error": "write EPROTO 1072448:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\\..\\third_party\\boringssl\\src\\ssl\\tls_record.cc:127:\n"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "cultura",
       "name": "Cultura",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "globoam",
       "name": "Globo AM",
-      "status": "error",
-      "error": "write EPROTO 1072448:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\\..\\third_party\\boringssl\\src\\ssl\\tls_record.cc:127:\n"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "globoce",
       "name": "Globo CE",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "globoes",
       "name": "Globo ES",
-      "status": "error",
-      "error": "Client network socket disconnected before secure TLS connection was established"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "globomg",
       "name": "Globo MG",
-      "status": "error",
-      "error": "Client network socket disconnected before secure TLS connection was established"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "globonews",
       "name": "Globo News",
-      "status": "error",
-      "error": "write EPROTO 1072448:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\\..\\third_party\\boringssl\\src\\ssl\\tls_record.cc:127:\n"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "globopb",
       "name": "Globo PB",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "globope",
       "name": "Globo PE",
-      "status": "error",
-      "error": "write EPROTO 1072448:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\\..\\third_party\\boringssl\\src\\ssl\\tls_record.cc:127:\n"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "globorj",
       "name": "Globo RJ",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "globors",
       "name": "Globo RS",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "globosp",
       "name": "Globo SP",
-      "status": "error",
-      "error": "Client network socket disconnected before secure TLS connection was established"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "globonovelas",
       "name": "Globo Novelas",
-      "status": "error",
-      "error": "write EPROTO 1072448:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\\..\\third_party\\boringssl\\src\\ssl\\tls_record.cc:127:\n"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "mtv",
       "name": "MTV",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "multishow",
       "name": "Multishow",
-      "status": "error",
-      "error": "read ECONNRESET"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "recordmg",
       "name": "Record MG",
-      "status": "error",
-      "error": "write EPROTO 1072448:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\\..\\third_party\\boringssl\\src\\ssl\\tls_record.cc:127:\n"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "recordrj",
       "name": "Record RJ",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "recordsp",
       "name": "Record SP",
-      "status": "error",
-      "error": "connect ECONNREFUSED 142.93.202.130:3129"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "sbtrj",
       "name": "SBT RJ",
-      "status": "error",
-      "error": "Client network socket disconnected before secure TLS connection was established"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "sbtsp",
       "name": "SBT SP",
-      "status": "error",
-      "error": "write EPROTO 1072448:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\\..\\third_party\\boringssl\\src\\ssl\\tls_record.cc:127:\n"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "bandsports",
       "name": "Band Sports",
-      "status": "error",
-      "error": "read ECONNRESET"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "caze1",
       "name": "CazeTV 1",
-      "status": "error",
-      "error": "read ECONNRESET"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "caze2",
       "name": "CazeTV 2",
-      "status": "error",
-      "error": "Client network socket disconnected before secure TLS connection was established"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "caze3",
       "name": "CazeTV 3",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "combate",
       "name": "Combate",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "disneyplus1",
       "name": "Disney Plus 1",
-      "status": "error",
-      "error": "write EPROTO 1072448:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\\..\\third_party\\boringssl\\src\\ssl\\tls_record.cc:127:\n"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "disneyplus2",
       "name": "Disney Plus 2",
-      "status": "error",
-      "error": "read ECONNRESET"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "disneyplus3",
       "name": "Disney Plus 3",
-      "status": "error",
-      "error": "Client network socket disconnected before secure TLS connection was established"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "espn",
       "name": "Espn",
-      "status": "error",
-      "error": "write EPROTO 1072448:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\\..\\third_party\\boringssl\\src\\ssl\\tls_record.cc:127:\n"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "espn2",
       "name": "Espn 2",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "espn3",
       "name": "Espn 3",
-      "status": "error",
-      "error": "Client network socket disconnected before secure TLS connection was established"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "espn4",
       "name": "Espn 4",
-      "status": "error",
-      "error": "write EPROTO 1072448:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\\..\\third_party\\boringssl\\src\\ssl\\tls_record.cc:127:\n"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "espn5",
       "name": "Espn 5",
-      "status": "error",
-      "error": "write EPROTO 1072448:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\\..\\third_party\\boringssl\\src\\ssl\\tls_record.cc:127:\n"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "espn6",
       "name": "Espn 6",
-      "status": "error",
-      "error": "write EPROTO 1072448:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\\..\\third_party\\boringssl\\src\\ssl\\tls_record.cc:127:\n"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "max1",
       "name": "Max - 1",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "max2",
       "name": "Max - 2",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "max3",
       "name": "Max - 3",
-      "status": "error",
-      "error": "Client network socket disconnected before secure TLS connection was established"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "paramountplus",
       "name": "Paramount Plus",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "paramountplus2",
       "name": "Paramount Plus 2",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "premiere",
       "name": "Premiere 1",
-      "status": "error",
-      "error": "read ECONNRESET"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "premiere2",
       "name": "Premiere 2",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "premiere3",
       "name": "Premiere 3",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "premiere4",
       "name": "Premiere 4",
-      "status": "error",
-      "error": "write EPROTO 1072448:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\\..\\third_party\\boringssl\\src\\ssl\\tls_record.cc:127:\n"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "premiere5",
       "name": "Premiere 5",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "premiere6",
       "name": "Premiere 6",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "premiere7",
       "name": "Premiere 7",
-      "status": "error",
-      "error": "write EPROTO 1072448:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\\..\\third_party\\boringssl\\src\\ssl\\tls_record.cc:127:\n"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "premiere8",
       "name": "Premiere 8",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "primevideo",
       "name": "Prime Video",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "primevideo2",
       "name": "Prime Video 2",
-      "status": "error",
-      "error": "Client network socket disconnected before secure TLS connection was established"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "sportv",
       "name": "Sportv",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "sportv2",
       "name": "Sportv 2",
-      "status": "error",
-      "error": "connect ECONNREFUSED 46.62.172.245:3129"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "sportv3",
       "name": "Sportv 3",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "sportv4",
       "name": "Sportv 4",
-      "status": "error",
-      "error": "connect ECONNREFUSED 185.161.251.195:3129"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "ufcfightpass",
       "name": "UFC Fight Pass",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "xsports",
       "name": "XSports",
-      "status": "error",
-      "error": "write EPROTO 1072448:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\\..\\third_party\\boringssl\\src\\ssl\\tls_record.cc:127:\n"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "24h_chaves",
       "name": "24H Chaves",
-      "status": "error",
-      "error": "write EPROTO 1072448:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\\..\\third_party\\boringssl\\src\\ssl\\tls_record.cc:127:\n"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "24h_dragonball",
       "name": "24H Dragon Ball Z",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "24h_naruto",
       "name": "24H Naruto Classico",
-      "status": "error",
-      "error": "connect ECONNREFUSED 219.84.152.87:3129"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "24h_simpsons",
       "name": "24H Os Simpsons",
-      "status": "error",
-      "error": "Client network socket disconnected before secure TLS connection was established"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "24h_odeiachris",
       "name": "24H Todo Mundo Odeia o Cris",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "cartoonito",
       "name": "Cartoonito",
-      "status": "error",
-      "error": "write EPROTO 1072448:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\\..\\third_party\\boringssl\\src\\ssl\\tls_record.cc:127:\n"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "cartoonnetwork",
       "name": "Cartoon Network",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "discoverykids",
       "name": "Discovery Kids",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "gloob",
       "name": "Gloob",
-      "status": "error",
-      "error": "write EPROTO 1072448:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\\..\\third_party\\boringssl\\src\\ssl\\tls_record.cc:127:\n"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "playboy",
       "name": "Play Boy",
-      "status": "error",
-      "error": "write EPROTO 1072448:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\\..\\third_party\\boringssl\\src\\ssl\\tls_record.cc:127:\n"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "sexyhot",
       "name": "Sexy Hot",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "foodnetwork",
       "name": "Food Network",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "masterchef",
       "name": "Master chef",
-      "status": "error",
-      "error": "Client network socket disconnected before secure TLS connection was established"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "acasadopatrao1",
       "name": "A Casa do Patrao - 1",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "acasadopatrao2",
       "name": "A Casa do Patrao - 2",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "acasadopatrao3",
       "name": "A Casa do Patrao - 3",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "acasadopatrao4",
       "name": "A Casa do Patrao - 4",
-      "status": "error",
-      "error": "write EPROTO 1072448:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\\..\\third_party\\boringssl\\src\\ssl\\tls_record.cc:127:\n"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     },
     {
       "id": "acasadopatrao5",
       "name": "A Casa do Patrao - 5",
-      "status": "error",
-      "error": "Timeout"
+      "status": "failed",
+      "reason": "honeypot",
+      "url": "https://megaflix.mgfiles.lat/597c354a4e90f599958640a03f59281a/file.m3u8"
     }
   ]
 }

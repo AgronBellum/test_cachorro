@@ -4,29 +4,14 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.",
-      "start_date": "2026-06-19T00:10:00-03:00",
-      "title": "Central da Copa"
-    },
-    {
-      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-06-19T00:40:00-03:00",
-      "title": "Jornal da Globo"
-    },
-    {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-06-19T01:20:00-03:00",
+      "start_date": "2026-06-19T02:10:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-06-19T01:55:00-03:00",
-      "title": "Coração Acelerado"
-    },
-    {
-      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
       "start_date": "2026-06-19T02:40:00-03:00",
-      "title": "Vai que Cola"
+      "title": "Coração Acelerado"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
@@ -34,9 +19,14 @@
       "title": "Vai que Cola"
     },
     {
-      "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
-      "start_date": "2026-06-19T04:00:00-03:00",
-      "title": "Hora 1"
+      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "start_date": "2026-06-19T03:50:00-03:00",
+      "title": "Vai que Cola"
+    },
+    {
+      "desc": "Após uma aventura imprevisível de apenas uma noite, dois casais tentam transformar seu romance casual em amor verdadeiro, vivenciando as responsabilidades que compõem um relacionamento.",
+      "start_date": "2026-06-19T04:25:00-03:00",
+      "title": "Sobre Ontem à Noite"
     },
     {
       "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
@@ -79,39 +69,54 @@
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Suíça enfrenta a Bósnia e Herzegóvina na segunda partida do Grupo B, no Estádio de Los Angeles. O jogador suíço Miro Muheim marcou nos acréscimos do segundo tempo para dar o Qatar um empate de 1 a 1, enquanto a Bósnia foi salva por Jovo Lukic.",
-      "start_date": "2026-06-19T15:30:00-03:00",
-      "title": "Grupo B: Suíça x Bósnia e Herzegovina"
+      "desc": "Dona Hermínia passa a apresentar um bem-sucedido programa de TV e fica rica. No entanto, ela precisa lidar com um lar vazio, pois Juliano e Marcelina resolveram sair de casa. Para balancear, Garib, o primogênito, chega com o neto. Além disso, ela também recebe uma longa visita da irmã Lucia Helena, a ovelha negra da família, que mora há anos em Nova York.",
+      "start_date": "2026-06-19T15:25:00-03:00",
+      "title": "Minha Mãe É uma Peça 2"
+    },
+    {
+      "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
+      "start_date": "2026-06-19T17:05:00-03:00",
+      "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-06-19T18:10:00-03:00",
+      "start_date": "2026-06-19T18:05:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-06-19T18:50:00-03:00",
+      "start_date": "2026-06-19T18:35:00-03:00",
       "title": "RBS Notícias"
     },
     {
       "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-06-19T19:10:00-03:00",
+      "start_date": "2026-06-19T18:50:00-03:00",
       "title": "Coração Acelerado"
     },
     {
       "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-06-19T20:00:00-03:00",
+      "start_date": "2026-06-19T19:30:00-03:00",
       "title": "Jornal Nacional"
     },
     {
       "desc": "Adriana agradece a defesa de Nancy. Nancy conta a Adriana o motivo pelo qual foi presa. André diz ao tio que voltou ao Brasil para trabalhar com ele. Pedro conta a Elisa que Ademir subornou Tom.",
-      "start_date": "2026-06-19T20:40:00-03:00",
+      "start_date": "2026-06-19T19:55:00-03:00",
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "México encontra a Coreia do Sul pelo Grupo A da Copa do Mundo, no Estádio de Guadalajara. Os mexicanos venceram a África do Sul por 2 a 0, com o primeiro gol por Julian Quiñones, enquanto a Coreia venceu a Tchéquia por 2 a 1, com Hwang In-beom.",
-      "start_date": "2026-06-19T21:40:00-03:00",
-      "title": "Grupo A: México x Coreia do Sul"
+      "desc": "Brasil e Haiti jogam na segunda partida do Grupo C, no Estádio da Filadélfia. A Seleção Brasileira vem de empate por 1 a 1 contra Marrocos, com gol de Vinícius Júnior, enquanto o Haiti tenta se recuperar da derrota por 1 a 0 para a Escócia.",
+      "start_date": "2026-06-19T20:30:00-03:00",
+      "title": "Grupo C: Brasil x Haiti"
+    },
+    {
+      "desc": "Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.",
+      "start_date": "2026-06-19T23:35:00-03:00",
+      "title": "Central da Copa"
+    },
+    {
+      "desc": "A Turquia enfrenta Paraguai na segunda rodada do Grupo D, no Estádio da Baía de São Francisco. Os turcos esperam se recuperar da derrota por 2 a 0 na estreia, enquanto os paraguaios foram goleados por 4 a 1 pelos EUA, com gol de Maurício.",
+      "start_date": "2026-06-19T23:45:00-03:00",
+      "title": "Grupo D: Turquia x Paraguai"
     }
   ],
   "start_date": "2026-06-19"

@@ -1,83 +1,8 @@
 {
-  "end_date": "2026-06-22",
+  "end_date": "2026-06-23",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
-    {
-      "desc": "",
-      "start_date": "2026-06-20T00:33:00-03:00",
-      "title": "Mentiras de Amor"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-20T01:21:00-03:00",
-      "title": "Um Monstro Como Nunca se Viu"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-20T04:24:00-03:00",
-      "title": "Um Monstro Como Nunca se Viu"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-20T06:00:00-03:00",
-      "title": "Mães e Filhos - Assassinato em Família"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-20T06:48:00-03:00",
-      "title": "Chapecoense Tragedy"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-20T10:01:00-03:00",
-      "title": "Sinais de um Psicopata"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-20T10:52:00-03:00",
-      "title": "Um Monstro Como Nunca se Viu"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-20T14:06:00-03:00",
-      "title": "Um Monstro Como Nunca se Viu"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-20T15:44:00-03:00",
-      "title": "O Aprendiz de Serial Killer"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-20T17:22:00-03:00",
-      "title": "Segredos Sórdidos - Dean Corll e John Wayne Gacy"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-20T20:36:00-03:00",
-      "title": "Segredos Bem Casados"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-20T21:20:00-03:00",
-      "title": "Casados com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-20T22:09:00-03:00",
-      "title": "Paixões Doentias"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-20T22:53:00-03:00",
-      "title": "Como Não Matar Seu Amor"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-20T23:44:00-03:00",
-      "title": "Encontros Infernais"
-    },
     {
       "desc": "",
       "start_date": "2026-06-21T00:33:00-03:00",
@@ -152,7 +77,82 @@
       "desc": "",
       "start_date": "2026-06-21T23:44:00-03:00",
       "title": "Encontros Infernais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-22T00:33:00-03:00",
+      "title": "Mentiras de Amor"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-22T01:21:00-03:00",
+      "title": "Um Monstro Como Nunca se Viu"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-22T04:24:00-03:00",
+      "title": "Um Monstro Como Nunca se Viu"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-22T06:00:00-03:00",
+      "title": "Mães e Filhos - Assassinato em Família"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-22T06:48:00-03:00",
+      "title": "Chapecoense Tragedy"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-22T10:01:00-03:00",
+      "title": "Sinais de um Psicopata"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-22T10:52:00-03:00",
+      "title": "Um Monstro Como Nunca se Viu"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-22T14:06:00-03:00",
+      "title": "Um Monstro Como Nunca se Viu"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-22T15:44:00-03:00",
+      "title": "O Aprendiz de Serial Killer"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-22T17:22:00-03:00",
+      "title": "Segredos Sórdidos - Dean Corll e John Wayne Gacy"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-22T20:36:00-03:00",
+      "title": "Segredos Bem Casados"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-22T21:20:00-03:00",
+      "title": "Casados com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-22T22:09:00-03:00",
+      "title": "Paixões Doentias"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-22T22:53:00-03:00",
+      "title": "Como Não Matar Seu Amor"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-22T23:44:00-03:00",
+      "title": "Encontros Infernais"
     }
   ],
-  "start_date": "2026-06-20"
+  "start_date": "2026-06-21"
 }

@@ -4,29 +4,24 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.",
-      "start_date": "2026-06-21T00:15:00-03:00",
-      "title": "Central da Copa"
+      "desc": "O advogado Bryan Stevenson assume o caso de Walter McMillian, que foi condenado à morte por assassinato, apesar das evidências que comprovam sua inocência. Stevenson encontra racismo e manobras legais enquanto luta pela vida de McMillian.",
+      "start_date": "2026-06-21T00:20:00-03:00",
+      "title": "Luta por Justiça"
     },
     {
-      "desc": "Tunísia enfrenta o Japão na segunda rodada do Grupo F, no Estádio de Monterrei. A Tunísia tenta se recuperar da goleada por 5 a 1 frente à Suécia, enquanto os japoneses empataram por 2 a 2 com os Países Baixos, com gol marcado por Daichi Kamada.",
-      "start_date": "2026-06-21T00:45:00-03:00",
-      "title": "Grupo F: Tunísia x Japão"
+      "desc": "Depois de um atentado contra o embaixador Han, Lee e Carter viajam para Paris. Lá, eles precisam proteger uma francesa que sabe demais sobre os líderes da Tríade. Eles também enfrentam a máfia chinesa de Paris e um amigo de infância de Lee.",
+      "start_date": "2026-06-21T02:05:00-03:00",
+      "title": "A Hora do Rush 3"
     },
     {
-      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
+      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
       "start_date": "2026-06-21T03:10:00-03:00",
-      "title": "A Nobreza do Amor"
+      "title": "Vai que Cola"
     },
     {
-      "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-06-21T03:40:00-03:00",
-      "title": "Coração Acelerado"
-    },
-    {
-      "desc": "Selminha é uma frentista que recebe uma herança de família, mas somente se cumprir o desafio de gastar 30 milhões de reais em 30 dias, sem acumular nada. No entanto, nessa maratona, ela descobre que existem coisas que o dinheiro não compra.",
-      "start_date": "2026-06-21T04:10:00-03:00",
-      "title": "Tô Ryca"
+      "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
+      "start_date": "2026-06-21T04:00:00-03:00",
+      "title": "Hora 1"
     },
     {
       "desc": "Acompanhe a celebração da santa missa em João Pessoa.",
@@ -34,99 +29,64 @@
       "title": "Santa Missa"
     },
     {
-      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
-      "start_date": "2026-06-21T06:00:00-03:00",
-      "title": "Globo Rural"
-    },
-    {
-      "desc": "As principais notícias do Brasil para começar o final de semana bem-informado.",
-      "start_date": "2026-06-21T06:50:00-03:00",
-      "title": "Bom Dia Sábado"
-    },
-    {
-      "desc": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários.",
-      "start_date": "2026-06-21T07:50:00-03:00",
-      "title": "Pequenas Empresas & Grandes Negócios"
-    },
-    {
       "desc": "Um programa democrático que aborda as diversas áreas da cultura gaúcha, e também apresenta quadros de turismo, gastronomia e as informações do agronegócio.",
-      "start_date": "2026-06-21T08:30:00-03:00",
+      "start_date": "2026-06-21T06:35:00-03:00",
       "title": "Galpão Crioulo"
     },
     {
-      "desc": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa.",
-      "start_date": "2026-06-21T09:00:00-03:00",
-      "title": "É de Casa"
+      "desc": "A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes.",
+      "start_date": "2026-06-21T07:05:00-03:00",
+      "title": "AutoEsporte"
     },
     {
-      "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-06-21T11:45:00-03:00",
-      "title": "Jornal do Almoço"
+      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
+      "start_date": "2026-06-21T07:35:00-03:00",
+      "title": "Globo Rural"
     },
     {
-      "desc": "As principais notícias esportivas do Brasil e do mundo.",
-      "start_date": "2026-06-21T13:00:00-03:00",
-      "title": "Globo Esporte"
+      "desc": "O \"Viver Sertanejo\" celebra o São João com Joelma, Nattan e Xand Avião em especial junino, com diferentes trajetórias e ritmos que mostram a força da música popular brasileira.",
+      "start_date": "2026-06-21T08:30:00-03:00",
+      "title": "Viver Sertanejo"
     },
     {
-      "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
-      "start_date": "2026-06-21T13:25:00-03:00",
-      "title": "Jornal Hoje"
+      "desc": "Fique por dentro de tudo o que rolou durante a semana nos esportes e veja os gols pelo mundo afora. Entrevistas, reportagens sobre ciência esportiva e personagens históricos também fazem parte da atração.",
+      "start_date": "2026-06-21T09:20:00-03:00",
+      "title": "Esporte Espetacular"
     },
     {
-      "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
-      "start_date": "2026-06-21T14:05:00-03:00",
-      "title": "Além do Tempo - Edição Especial"
+      "desc": "O Dr. Robotnik retorna à procura de uma esmeralda mística que tem o poder de destruir civilizações. Para detê-lo, Sonic se une a seu antigo parceiro, Tails, e parte em uma jornada para encontrar a joia antes que ela caia em mãos erradas.",
+      "start_date": "2026-06-21T12:35:00-03:00",
+      "title": "Sonic 2 - O Filme"
     },
     {
-      "desc": "De uma forma leve e divertida, muito entretenimento e informação a partir de personagens inspiradores em assuntos como cultura, bem-estar, lazer, música, viagem, gastronomia e sustentabilidade.",
-      "start_date": "2026-06-21T14:35:00-03:00",
-      "title": "Baita Sábado"
+      "desc": "Ao nascer, a Viúva Negra, então conhecida como Natasha Romanova, é entregue a KGB, que a prepara para se tornar sua agente suprema. Porém, o seu próprio governo tenta matá-la quando a União Soviética se desfaz.",
+      "start_date": "2026-06-21T14:25:00-03:00",
+      "title": "Viúva Negra"
     },
     {
-      "desc": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais.",
-      "start_date": "2026-06-21T15:05:00-03:00",
-      "title": "Caldeirão com Mion"
+      "desc": "No Você Decide, debates no palco. Roteiristas da dramaturgia do quadro apresentam narrativas que reproduzem diversos dilemas da vida real.",
+      "start_date": "2026-06-21T16:10:00-03:00",
+      "title": "Domingão com Huck"
     },
     {
       "desc": "Escalações, preparativos e tudo o que antecede os principais eventos do mundo dos esportes.",
-      "start_date": "2026-06-21T16:35:00-03:00",
+      "start_date": "2026-06-21T18:35:00-03:00",
       "title": "Pré-Hora"
     },
     {
-      "desc": "Alemanha enfrenta Costa do Marfim na segunda rodada do Grupo E, no Estádio de Toronto. Os alemães golearam Curaçao por 7 a 1, com dois gols de Kai Havertz, enquanto os marfinenses venceram o Equador por 1 a 0, com gol de Amad Diallo.",
-      "start_date": "2026-06-21T16:50:00-03:00",
-      "title": "Grupo E: Alemanha x Costa do Marfim"
+      "desc": "Uruguai enfrenta Cabo Verde na segunda rodada do Grupo H, no Estádio de Miami. Os uruguaios empataram com a Arábia Saudita por 1 a 1, com gol de Maximiliano Araújo, enquanto o goleiro Vozinha salvou Cabo Verde no empate sem gols frente a Espanha.",
+      "start_date": "2026-06-21T18:50:00-03:00",
+      "title": "Grupo H: Uruguai x Cabo Verde"
     },
     {
-      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-06-21T19:10:00-03:00",
-      "title": "A Nobreza do Amor"
+      "desc": "Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência.",
+      "start_date": "2026-06-21T21:10:00-03:00",
+      "title": "Fantástico"
     },
     {
-      "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-06-21T19:40:00-03:00",
-      "title": "RBS Notícias"
-    },
-    {
-      "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-06-21T20:00:00-03:00",
-      "title": "Coração Acelerado"
-    },
-    {
-      "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-06-21T20:30:00-03:00",
-      "title": "Jornal Nacional"
-    },
-    {
-      "desc": "Silvana deixa bem claro a Ademir que Tiago não fará exame de DNA. Zeni ameaça Adriana novamente. Adriana pede a Cléber que ajude Pedro a esquecê-la.",
-      "start_date": "2026-06-21T21:20:00-03:00",
-      "title": "Quem Ama Cuida"
-    },
-    {
-      "desc": "Serginho Groisman promove debates sobre temas relevantes com a participação da plateia, artistas e personalidades de diferentes áreas.",
-      "start_date": "2026-06-21T22:25:00-03:00",
-      "title": "Altas Horas"
+      "desc": "Nova Zelândia colide com o Egito na segunda rodada do Grupo G, no BC Place Vancouver. A Nova Zelândia conta com Elijah Just, que marcou duas vezes no empate com o Irã, enquanto os egípcios empataram em 1 a 1 com a Bélgica, com gol de Emam Ashour.",
+      "start_date": "2026-06-21T21:45:00-03:00",
+      "title": "Grupo G: Nova Zelândia x Egito"
     }
   ],
   "start_date": "2026-06-21"

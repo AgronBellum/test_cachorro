@@ -1,138 +1,308 @@
 {
-  "end_date": "2026-06-23",
+  "end_date": "2026-06-24",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
     {
       "desc": "",
-      "start_date": "2026-06-21T00:30:00-03:00",
-      "title": "Um Monstro Como Nunca se Viu"
+      "start_date": "2026-06-22T00:33:00-03:00",
+      "title": "Ninguém Pode Ouvir Seu Grito"
     },
     {
       "desc": "",
-      "start_date": "2026-06-21T01:18:00-03:00",
-      "title": "Tragédia de Bakersfield - Em Busca da Verdade"
+      "start_date": "2026-06-22T01:21:00-03:00",
+      "title": "Seu Pior Pesadelo"
     },
     {
       "desc": "",
-      "start_date": "2026-06-21T03:37:00-03:00",
-      "title": "Ordens Médicas"
+      "start_date": "2026-06-22T02:09:00-03:00",
+      "title": "Mentiras Criminosas"
     },
     {
       "desc": "",
-      "start_date": "2026-06-21T06:00:00-03:00",
-      "title": "A Queda de P. Diddy"
+      "start_date": "2026-06-22T02:53:00-03:00",
+      "title": "People Magazine - Além da Notícia"
     },
     {
       "desc": "",
-      "start_date": "2026-06-21T09:14:00-03:00",
-      "title": "Nick e Aaron Carter: A Queda dos Ídolos"
+      "start_date": "2026-06-22T03:40:00-03:00",
+      "title": "Assassinato de uma Sexta à Noite"
     },
     {
       "desc": "",
-      "start_date": "2026-06-21T10:03:00-03:00",
-      "title": "O Lado Sombrio da TV Infantil"
+      "start_date": "2026-06-22T04:24:00-03:00",
+      "title": "Ainda um Mistério"
     },
     {
       "desc": "",
-      "start_date": "2026-06-21T10:52:00-03:00",
-      "title": "Tragédia de Bakersfield - Em Busca da Verdade"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-21T13:17:00-03:00",
-      "title": "Ordens Médicas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-21T15:47:00-03:00",
-      "title": "Ted Bundy: A Mente de um Monstro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-21T17:23:00-03:00",
-      "title": "A Mente de um Monstro - Jeffrey Dahmer, o Canibal"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-21T18:59:00-03:00",
-      "title": "O Assassino das Rodovias"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-21T20:36:00-03:00",
-      "title": "Mães e Filhos - Assassinato em Família"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-21T21:20:00-03:00",
-      "title": "Os Irmãos Esquizofrênicos"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-22T00:30:00-03:00",
-      "title": "Um Monstro Como Nunca se Viu"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-22T01:18:00-03:00",
-      "title": "Tragédia de Bakersfield - Em Busca da Verdade"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-22T03:37:00-03:00",
-      "title": "Ordens Médicas"
+      "start_date": "2026-06-22T05:12:00-03:00",
+      "title": "Câmera Crime"
     },
     {
       "desc": "",
       "start_date": "2026-06-22T06:00:00-03:00",
-      "title": "A Queda de P. Diddy"
+      "title": "DNA Criminoso"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-22T06:48:00-03:00",
+      "title": "Lobo em Pele de Cordeiro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-22T07:36:00-03:00",
+      "title": "Vivendo com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-22T08:25:00-03:00",
+      "title": "Vidas Destruídas"
     },
     {
       "desc": "",
       "start_date": "2026-06-22T09:14:00-03:00",
-      "title": "Nick e Aaron Carter: A Queda dos Ídolos"
+      "title": "Assassinatos em Família"
     },
     {
       "desc": "",
       "start_date": "2026-06-22T10:03:00-03:00",
-      "title": "O Lado Sombrio da TV Infantil"
+      "title": "Vivendo com o Inimigo - Sombras da Morte"
     },
     {
       "desc": "",
       "start_date": "2026-06-22T10:52:00-03:00",
-      "title": "Tragédia de Bakersfield - Em Busca da Verdade"
+      "title": "Irmãs Perversas"
     },
     {
       "desc": "",
-      "start_date": "2026-06-22T13:17:00-03:00",
-      "title": "Ordens Médicas"
+      "start_date": "2026-06-22T11:41:00-03:00",
+      "title": "Falsidade.com"
     },
     {
       "desc": "",
-      "start_date": "2026-06-22T15:47:00-03:00",
-      "title": "Ted Bundy: A Mente de um Monstro"
+      "start_date": "2026-06-22T12:29:00-03:00",
+      "title": "Emboscada"
     },
     {
       "desc": "",
-      "start_date": "2026-06-22T17:23:00-03:00",
-      "title": "A Mente de um Monstro - Jeffrey Dahmer, o Canibal"
+      "start_date": "2026-06-22T13:18:00-03:00",
+      "title": "Diabólicos - A Face Oculta do Amor"
     },
     {
       "desc": "",
-      "start_date": "2026-06-22T18:59:00-03:00",
-      "title": "O Assassino das Rodovias"
+      "start_date": "2026-06-22T14:06:00-03:00",
+      "title": "Amor Assassino"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-22T14:55:00-03:00",
+      "title": "Pecados Mortais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-22T15:44:00-03:00",
+      "title": "Paixões Perigosas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-22T16:33:00-03:00",
+      "title": "Análise de um Crime"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-22T17:22:00-03:00",
+      "title": "Detetive Americano com Joe Kenda"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-22T18:10:00-03:00",
+      "title": "Olhos Da Lei"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-22T18:58:00-03:00",
+      "title": "Bodycam - Registros Criminosos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-22T19:47:00-03:00",
+      "title": "Crimes que Viralizaram"
     },
     {
       "desc": "",
       "start_date": "2026-06-22T20:36:00-03:00",
-      "title": "Mães e Filhos - Assassinato em Família"
+      "title": "Vivendo com o Inimigo"
     },
     {
       "desc": "",
       "start_date": "2026-06-22T21:20:00-03:00",
-      "title": "Os Irmãos Esquizofrênicos"
+      "title": "Lobo em Pele de Cordeiro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-22T22:09:00-03:00",
+      "title": "Corpos no Porão"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-22T22:53:00-03:00",
+      "title": "Assassinato de uma Sexta à Noite"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-22T23:44:00-03:00",
+      "title": "Sinais de um Psicopata"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-23T00:33:00-03:00",
+      "title": "Ninguém Pode Ouvir Seu Grito"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-23T01:21:00-03:00",
+      "title": "Seu Pior Pesadelo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-23T02:09:00-03:00",
+      "title": "Mentiras Criminosas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-23T02:53:00-03:00",
+      "title": "People Magazine - Além da Notícia"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-23T03:40:00-03:00",
+      "title": "Assassinato de uma Sexta à Noite"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-23T04:24:00-03:00",
+      "title": "Ainda um Mistério"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-23T05:12:00-03:00",
+      "title": "Câmera Crime"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-23T06:00:00-03:00",
+      "title": "DNA Criminoso"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-23T06:48:00-03:00",
+      "title": "Lobo em Pele de Cordeiro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-23T07:36:00-03:00",
+      "title": "Vivendo com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-23T08:25:00-03:00",
+      "title": "Vidas Destruídas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-23T09:14:00-03:00",
+      "title": "Assassinatos em Família"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-23T10:03:00-03:00",
+      "title": "Vivendo com o Inimigo - Sombras da Morte"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-23T10:52:00-03:00",
+      "title": "Irmãs Perversas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-23T11:41:00-03:00",
+      "title": "Falsidade.com"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-23T12:29:00-03:00",
+      "title": "Emboscada"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-23T13:18:00-03:00",
+      "title": "Diabólicos - A Face Oculta do Amor"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-23T14:06:00-03:00",
+      "title": "Amor Assassino"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-23T14:55:00-03:00",
+      "title": "Pecados Mortais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-23T15:44:00-03:00",
+      "title": "Paixões Perigosas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-23T16:33:00-03:00",
+      "title": "Análise de um Crime"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-23T17:22:00-03:00",
+      "title": "Detetive Americano com Joe Kenda"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-23T18:10:00-03:00",
+      "title": "Olhos Da Lei"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-23T18:58:00-03:00",
+      "title": "Bodycam - Registros Criminosos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-23T19:47:00-03:00",
+      "title": "Crimes que Viralizaram"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-23T20:36:00-03:00",
+      "title": "Vivendo com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-23T21:20:00-03:00",
+      "title": "Lobo em Pele de Cordeiro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-23T22:09:00-03:00",
+      "title": "Corpos no Porão"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-23T22:53:00-03:00",
+      "title": "Assassinato de uma Sexta à Noite"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-23T23:44:00-03:00",
+      "title": "Sinais de um Psicopata"
     }
   ],
-  "start_date": "2026-06-21"
+  "start_date": "2026-06-22"
 }

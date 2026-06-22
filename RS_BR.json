@@ -4,18 +4,18 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "O advogado Bryan Stevenson assume o caso de Walter McMillian, que foi condenado à morte por assassinato, apesar das evidências que comprovam sua inocência. Stevenson encontra racismo e manobras legais enquanto luta pela vida de McMillian.",
-      "start_date": "2026-06-22T00:20:00-03:00",
-      "title": "Luta por Justiça"
+      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
+      "start_date": "2026-06-22T02:15:00-03:00",
+      "title": "A Nobreza do Amor"
     },
     {
-      "desc": "Depois de um atentado contra o embaixador Han, Lee e Carter viajam para Paris. Lá, eles precisam proteger uma francesa que sabe demais sobre os líderes da Tríade. Eles também enfrentam a máfia chinesa de Paris e um amigo de infância de Lee.",
-      "start_date": "2026-06-22T02:05:00-03:00",
-      "title": "A Hora do Rush 3"
+      "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
+      "start_date": "2026-06-22T02:55:00-03:00",
+      "title": "Coração Acelerado"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-06-22T03:10:00-03:00",
+      "start_date": "2026-06-22T03:35:00-03:00",
       "title": "Vai que Cola"
     },
     {
@@ -24,69 +24,99 @@
       "title": "Hora 1"
     },
     {
-      "desc": "Acompanhe a celebração da santa missa em João Pessoa.",
-      "start_date": "2026-06-22T05:50:00-03:00",
-      "title": "Santa Missa"
+      "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
+      "start_date": "2026-06-22T06:00:00-03:00",
+      "title": "Bom Dia Rio Grande"
     },
     {
-      "desc": "Um programa democrático que aborda as diversas áreas da cultura gaúcha, e também apresenta quadros de turismo, gastronomia e as informações do agronegócio.",
-      "start_date": "2026-06-22T06:35:00-03:00",
-      "title": "Galpão Crioulo"
-    },
-    {
-      "desc": "A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes.",
-      "start_date": "2026-06-22T07:05:00-03:00",
-      "title": "AutoEsporte"
-    },
-    {
-      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
-      "start_date": "2026-06-22T07:35:00-03:00",
-      "title": "Globo Rural"
-    },
-    {
-      "desc": "O \"Viver Sertanejo\" celebra o São João com Joelma, Nattan e Xand Avião em especial junino, com diferentes trajetórias e ritmos que mostram a força da música popular brasileira.",
+      "desc": "Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.",
       "start_date": "2026-06-22T08:30:00-03:00",
-      "title": "Viver Sertanejo"
+      "title": "Bom Dia Brasil"
     },
     {
-      "desc": "Fique por dentro de tudo o que rolou durante a semana nos esportes e veja os gols pelo mundo afora. Entrevistas, reportagens sobre ciência esportiva e personagens históricos também fazem parte da atração.",
-      "start_date": "2026-06-22T09:20:00-03:00",
-      "title": "Esporte Espetacular"
+      "desc": "O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.",
+      "start_date": "2026-06-22T09:30:00-03:00",
+      "title": "Encontro com Patrícia Poeta"
     },
     {
-      "desc": "O Dr. Robotnik retorna à procura de uma esmeralda mística que tem o poder de destruir civilizações. Para detê-lo, Sonic se une a seu antigo parceiro, Tails, e parte em uma jornada para encontrar a joia antes que ela caia em mãos erradas.",
+      "desc": "Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.",
+      "start_date": "2026-06-22T10:35:00-03:00",
+      "title": "Mais Você"
+    },
+    {
+      "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
+      "start_date": "2026-06-22T11:45:00-03:00",
+      "title": "Jornal do Almoço"
+    },
+    {
+      "desc": "As principais notícias esportivas do Brasil e do mundo.",
       "start_date": "2026-06-22T12:35:00-03:00",
-      "title": "Sonic 2 - O Filme"
+      "title": "Globo Esporte"
     },
     {
-      "desc": "Ao nascer, a Viúva Negra, então conhecida como Natasha Romanova, é entregue a KGB, que a prepara para se tornar sua agente suprema. Porém, o seu próprio governo tenta matá-la quando a União Soviética se desfaz.",
-      "start_date": "2026-06-22T14:25:00-03:00",
-      "title": "Viúva Negra"
-    },
-    {
-      "desc": "No Você Decide, debates no palco. Roteiristas da dramaturgia do quadro apresentam narrativas que reproduzem diversos dilemas da vida real.",
-      "start_date": "2026-06-22T16:10:00-03:00",
-      "title": "Domingão com Huck"
+      "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
+      "start_date": "2026-06-22T13:00:00-03:00",
+      "title": "Jornal Hoje"
     },
     {
       "desc": "Escalações, preparativos e tudo o que antecede os principais eventos do mundo dos esportes.",
-      "start_date": "2026-06-22T18:35:00-03:00",
+      "start_date": "2026-06-22T13:35:00-03:00",
       "title": "Pré-Hora"
     },
     {
-      "desc": "Uruguai enfrenta Cabo Verde na segunda rodada do Grupo H, no Estádio de Miami. Os uruguaios empataram com a Arábia Saudita por 1 a 1, com gol de Maximiliano Araújo, enquanto o goleiro Vozinha salvou Cabo Verde no empate sem gols frente a Espanha.",
-      "start_date": "2026-06-22T18:50:00-03:00",
-      "title": "Grupo H: Uruguai x Cabo Verde"
+      "desc": "Argentina enfrenta Áustria na segunda rodada do Grupo J, no Estádio de Dallas. A Argentina bateu a Argélia por 3 a 0, com hat trick de Lionel Messi, enquanto a Áustria bateu a Jordânia por 3 a 1, com gol de Romano Schmid.",
+      "start_date": "2026-06-22T13:45:00-03:00",
+      "title": "Grupo J: Argentina x Áustria"
     },
     {
-      "desc": "Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência.",
-      "start_date": "2026-06-22T21:10:00-03:00",
-      "title": "Fantástico"
+      "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
+      "start_date": "2026-06-22T16:10:00-03:00",
+      "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
-      "desc": "Nova Zelândia colide com o Egito na segunda rodada do Grupo G, no BC Place Vancouver. A Nova Zelândia conta com Elijah Just, que marcou duas vezes no empate com o Irã, enquanto os egípcios empataram em 1 a 1 com a Bélgica, com gol de Emam Ashour.",
-      "start_date": "2026-06-22T21:45:00-03:00",
-      "title": "Grupo G: Nova Zelândia x Egito"
+      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
+      "start_date": "2026-06-22T17:30:00-03:00",
+      "title": "A Nobreza do Amor"
+    },
+    {
+      "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
+      "start_date": "2026-06-22T18:15:00-03:00",
+      "title": "RBS Notícias"
+    },
+    {
+      "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
+      "start_date": "2026-06-22T18:45:00-03:00",
+      "title": "Coração Acelerado"
+    },
+    {
+      "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
+      "start_date": "2026-06-22T19:30:00-03:00",
+      "title": "Jornal Nacional"
+    },
+    {
+      "desc": "Silvana deixa bem claro a Ademir que Tiago não fará exame de DNA. Zeni ameaça Adriana novamente. Adriana pede a Cléber que ajude Pedro a esquecê-la.",
+      "start_date": "2026-06-22T20:00:00-03:00",
+      "title": "Quem Ama Cuida"
+    },
+    {
+      "desc": "Noruega enfrenta Senegal na segunda rodada do Grupo I, no Estádio de Nova York/Nova Jersey. A Noruega vem de goleada por 4 a 1 frente ao Iraque, com dois gols de Erling Haaland, enquanto Senegal perdeu para a França por 3 a 1.",
+      "start_date": "2026-06-22T20:40:00-03:00",
+      "title": "Grupo I: Noruega x Senegal"
+    },
+    {
+      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
+      "start_date": "2026-06-22T23:10:00-03:00",
+      "title": "Jornal da Globo"
+    },
+    {
+      "desc": "Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.",
+      "start_date": "2026-06-22T23:25:00-03:00",
+      "title": "Central da Copa"
+    },
+    {
+      "desc": "A Jordânia enfrenta a Argélia na segunda rodada do Grupo J, no Estádio da Baía de San Francisco. Os jordanenses perderam para a Áustria por 3 a 1, com gol de Ali Olwan, enquanto a Argélia perdeu por 3 a 0 para a Argentina.",
+      "start_date": "2026-06-22T23:45:00-03:00",
+      "title": "Grupo J: Jordânia x Argélia"
     }
   ],
   "start_date": "2026-06-22"

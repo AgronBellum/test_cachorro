@@ -4,18 +4,28 @@
   "provider": "mi.tv",
   "epg_list": [
     {
+      "desc": "Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.",
+      "start_date": "2026-06-23T01:10:00-03:00",
+      "title": "Central da Copa"
+    },
+    {
+      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
+      "start_date": "2026-06-23T01:35:00-03:00",
+      "title": "Jornal da Globo"
+    },
+    {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-06-23T02:15:00-03:00",
+      "start_date": "2026-06-23T02:05:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-06-23T02:55:00-03:00",
+      "start_date": "2026-06-23T02:35:00-03:00",
       "title": "Coração Acelerado"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-06-23T03:35:00-03:00",
+      "start_date": "2026-06-23T03:05:00-03:00",
       "title": "Vai que Cola"
     },
     {
@@ -50,73 +60,68 @@
     },
     {
       "desc": "As principais notícias esportivas do Brasil e do mundo.",
-      "start_date": "2026-06-23T12:35:00-03:00",
+      "start_date": "2026-06-23T13:00:00-03:00",
       "title": "Globo Esporte"
     },
     {
       "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
-      "start_date": "2026-06-23T13:00:00-03:00",
+      "start_date": "2026-06-23T13:25:00-03:00",
       "title": "Jornal Hoje"
     },
     {
-      "desc": "Escalações, preparativos e tudo o que antecede os principais eventos do mundo dos esportes.",
-      "start_date": "2026-06-23T13:35:00-03:00",
-      "title": "Pré-Hora"
-    },
-    {
-      "desc": "Argentina enfrenta Áustria na segunda rodada do Grupo J, no Estádio de Dallas. A Argentina bateu a Argélia por 3 a 0, com hat trick de Lionel Messi, enquanto a Áustria bateu a Jordânia por 3 a 1, com gol de Romano Schmid.",
-      "start_date": "2026-06-23T13:45:00-03:00",
-      "title": "Grupo J: Argentina x Áustria"
+      "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
+      "start_date": "2026-06-23T14:45:00-03:00",
+      "title": "Além do Tempo - Edição Especial"
     },
     {
       "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
-      "start_date": "2026-06-23T16:10:00-03:00",
+      "start_date": "2026-06-23T15:30:00-03:00",
       "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
+      "desc": "Escalações, preparativos e tudo o que antecede os principais eventos do mundo dos esportes.",
+      "start_date": "2026-06-23T16:30:00-03:00",
+      "title": "Pré-Hora"
+    },
+    {
+      "desc": "Inglaterra e Gana jogam pela segunda rodada do Grupo L, no Estádio de Boston. Os ingleses bateram a Croácia por 4 a 2, com dois gols de Harry Kane, enquanto Gana venceu o Panamá por 1 a 0. Caleb Yirenkyi balançou as redes.",
+      "start_date": "2026-06-23T16:45:00-03:00",
+      "title": "Grupo L: Inglaterra x Gana"
+    },
+    {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-06-23T17:30:00-03:00",
+      "start_date": "2026-06-23T19:10:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-06-23T18:15:00-03:00",
+      "start_date": "2026-06-23T19:40:00-03:00",
       "title": "RBS Notícias"
     },
     {
       "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-06-23T18:45:00-03:00",
+      "start_date": "2026-06-23T20:00:00-03:00",
       "title": "Coração Acelerado"
     },
     {
       "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-06-23T19:30:00-03:00",
+      "start_date": "2026-06-23T20:30:00-03:00",
       "title": "Jornal Nacional"
     },
     {
       "desc": "Silvana deixa bem claro a Ademir que Tiago não fará exame de DNA. Zeni ameaça Adriana novamente. Adriana pede a Cléber que ajude Pedro a esquecê-la.",
-      "start_date": "2026-06-23T20:00:00-03:00",
+      "start_date": "2026-06-23T21:20:00-03:00",
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "Noruega enfrenta Senegal na segunda rodada do Grupo I, no Estádio de Nova York/Nova Jersey. A Noruega vem de goleada por 4 a 1 frente ao Iraque, com dois gols de Erling Haaland, enquanto Senegal perdeu para a França por 3 a 1.",
-      "start_date": "2026-06-23T20:40:00-03:00",
-      "title": "Grupo I: Noruega x Senegal"
+      "desc": "Escalações, preparativos e tudo o que antecede os principais eventos do mundo dos esportes.",
+      "start_date": "2026-06-23T22:30:00-03:00",
+      "title": "Pré-Hora"
     },
     {
-      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-06-23T23:10:00-03:00",
-      "title": "Jornal da Globo"
-    },
-    {
-      "desc": "Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.",
-      "start_date": "2026-06-23T23:25:00-03:00",
-      "title": "Central da Copa"
-    },
-    {
-      "desc": "A Jordânia enfrenta a Argélia na segunda rodada do Grupo J, no Estádio da Baía de San Francisco. Os jordanenses perderam para a Áustria por 3 a 1, com gol de Ali Olwan, enquanto a Argélia perdeu por 3 a 0 para a Argentina.",
-      "start_date": "2026-06-23T23:45:00-03:00",
-      "title": "Grupo J: Jordânia x Argélia"
+      "desc": "Colômbia e RD Congo jogam na segunda rodada do Grupo K, no Estádio de Guadalajara. Os colombianos venceram Uzbequistão por 3 a 1, com gol de Jaminton Campaz, enquanto os congoleses empataram por 1 a 1 com Portugal, com a ajuda de Yoane Wissa.",
+      "start_date": "2026-06-23T22:45:00-03:00",
+      "title": "Grupo K: Colômbia x RD Congo"
     }
   ],
   "start_date": "2026-06-23"

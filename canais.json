@@ -1,9 +1,9 @@
 {
   "metadata": {
     "total": 121,
-    "success": 114,
+    "success": 121,
     "categories": 8,
-    "date": "2026-06-23T09:59:37.315Z",
+    "date": "2026-06-23T13:58:47.243Z",
     "version": "EXTRACTOR_APP_V1"
   },
   "categorias": {
@@ -95,6 +95,20 @@
           "status": "success"
         },
         {
+          "id": "discoveryturbo",
+          "name": "Discovery Turbo",
+          "categoryId": "documentarios",
+          "categoryName": "Documentarios",
+          "m3u8_url": "https://megaflix.mgfiles.lat/b954278bfea8b94a4e7ac826e5b13a82/file.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
+        },
+        {
           "id": "discoveryworld",
           "name": "Discovery World",
           "categoryId": "documentarios",
@@ -144,6 +158,20 @@
         {
           "id": "ae",
           "name": "AE",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Series",
+          "m3u8_url": "https://megaflix.mgfiles.lat/b954278bfea8b94a4e7ac826e5b13a82/file.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
+        },
+        {
+          "id": "amc",
+          "name": "AMC",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
           "m3u8_url": "https://megaflix.mgfiles.lat/b954278bfea8b94a4e7ac826e5b13a82/file.m3u8",
@@ -270,6 +298,20 @@
         {
           "id": "hbopop",
           "name": "HBO POP",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Series",
+          "m3u8_url": "https://megaflix.mgfiles.lat/b954278bfea8b94a4e7ac826e5b13a82/file.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
+        },
+        {
+          "id": "hboplus",
+          "name": "HBO Plus",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
           "m3u8_url": "https://megaflix.mgfiles.lat/b954278bfea8b94a4e7ac826e5b13a82/file.m3u8",
@@ -536,6 +578,20 @@
         {
           "id": "telecinetouch",
           "name": "Telecine Touch",
+          "categoryId": "filmes_series",
+          "categoryName": "Filmes e Series",
+          "m3u8_url": "https://megaflix.mgfiles.lat/b954278bfea8b94a4e7ac826e5b13a82/file.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
+        },
+        {
+          "id": "universaltv",
+          "name": "Universal",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
           "m3u8_url": "https://megaflix.mgfiles.lat/b954278bfea8b94a4e7ac826e5b13a82/file.m3u8",
@@ -1090,6 +1146,20 @@
           "status": "success"
         },
         {
+          "id": "espn5",
+          "name": "Espn 5",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "m3u8_url": "https://megaflix.mgfiles.lat/b954278bfea8b94a4e7ac826e5b13a82/file.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
+        },
+        {
           "id": "espn6",
           "name": "Espn 6",
           "categoryId": "esportes",
@@ -1106,6 +1176,20 @@
         {
           "id": "max1",
           "name": "Max - 1",
+          "categoryId": "esportes",
+          "categoryName": "Esportes",
+          "m3u8_url": "https://megaflix.mgfiles.lat/b954278bfea8b94a4e7ac826e5b13a82/file.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
+        },
+        {
+          "id": "max2",
+          "name": "Max - 2",
           "categoryId": "esportes",
           "categoryName": "Esportes",
           "m3u8_url": "https://megaflix.mgfiles.lat/b954278bfea8b94a4e7ac826e5b13a82/file.m3u8",
@@ -1487,6 +1571,20 @@
           "status": "success"
         },
         {
+          "id": "discoverykids",
+          "name": "Discovery Kids",
+          "categoryId": "desenhos",
+          "categoryName": "Desenhos e Infantil",
+          "m3u8_url": "https://megaflix.mgfiles.lat/b954278bfea8b94a4e7ac826e5b13a82/file.m3u8",
+          "headers": {
+            "referer": "https://www4.embedtv.cv/",
+            "origin": "https://www4.embedtv.cv/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+            "cookies": ""
+          },
+          "status": "success"
+        },
+        {
           "id": "gloob",
           "name": "Gloob",
           "categoryId": "desenhos",
@@ -1732,8 +1830,16 @@
     {
       "id": "discoveryturbo",
       "name": "Discovery Turbo",
-      "status": "error",
-      "error": "page.goto: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://megafrixapi.com/desktop/player/channel.php?id=\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "categoryId": "documentarios",
+      "categoryName": "Documentarios",
+      "m3u8_url": "https://megaflix.mgfiles.lat/b954278bfea8b94a4e7ac826e5b13a82/file.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": ""
+      },
+      "status": "success"
     },
     {
       "id": "discoveryworld",
@@ -1794,8 +1900,16 @@
     {
       "id": "amc",
       "name": "AMC",
-      "status": "error",
-      "error": "page.goto: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://megafrixapi.com/desktop/player/channel.php?id=\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Series",
+      "m3u8_url": "https://megaflix.mgfiles.lat/b954278bfea8b94a4e7ac826e5b13a82/file.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": ""
+      },
+      "status": "success"
     },
     {
       "id": "axn",
@@ -1926,8 +2040,16 @@
     {
       "id": "hboplus",
       "name": "HBO Plus",
-      "status": "error",
-      "error": "page.goto: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://megafrixapi.com/desktop/player/channel.php?id=\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Series",
+      "m3u8_url": "https://megaflix.mgfiles.lat/b954278bfea8b94a4e7ac826e5b13a82/file.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": ""
+      },
+      "status": "success"
     },
     {
       "id": "hboxtreme",
@@ -2198,8 +2320,16 @@
     {
       "id": "universaltv",
       "name": "Universal",
-      "status": "error",
-      "error": "page.goto: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://megafrixapi.com/desktop/player/channel.php?id=\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "categoryId": "filmes_series",
+      "categoryName": "Filmes e Series",
+      "m3u8_url": "https://megaflix.mgfiles.lat/b954278bfea8b94a4e7ac826e5b13a82/file.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": ""
+      },
+      "status": "success"
     },
     {
       "id": "warnerchannel",
@@ -2736,8 +2866,16 @@
     {
       "id": "espn5",
       "name": "Espn 5",
-      "status": "error",
-      "error": "page.goto: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://megafrixapi.com/desktop/player/channel.php?id=\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "m3u8_url": "https://megaflix.mgfiles.lat/b954278bfea8b94a4e7ac826e5b13a82/file.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": ""
+      },
+      "status": "success"
     },
     {
       "id": "espn6",
@@ -2770,8 +2908,16 @@
     {
       "id": "max2",
       "name": "Max - 2",
-      "status": "error",
-      "error": "page.goto: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://megafrixapi.com/desktop/player/channel.php?id=\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "categoryId": "esportes",
+      "categoryName": "Esportes",
+      "m3u8_url": "https://megaflix.mgfiles.lat/b954278bfea8b94a4e7ac826e5b13a82/file.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": ""
+      },
+      "status": "success"
     },
     {
       "id": "max3",
@@ -3140,8 +3286,16 @@
     {
       "id": "discoverykids",
       "name": "Discovery Kids",
-      "status": "error",
-      "error": "page.goto: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://megafrixapi.com/desktop/player/channel.php?id=\", waiting until \"domcontentloaded\"\u001b[22m\n"
+      "categoryId": "desenhos",
+      "categoryName": "Desenhos e Infantil",
+      "m3u8_url": "https://megaflix.mgfiles.lat/b954278bfea8b94a4e7ac826e5b13a82/file.m3u8",
+      "headers": {
+        "referer": "https://www4.embedtv.cv/",
+        "origin": "https://www4.embedtv.cv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123 Safari/537.36",
+        "cookies": ""
+      },
+      "status": "success"
     },
     {
       "id": "gloob",

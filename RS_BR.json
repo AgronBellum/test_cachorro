@@ -1,128 +1,108 @@
 {
-  "end_date": "2026-06-23",
+  "end_date": "2026-06-24",
   "name": "Globo RBS TV POA",
   "provider": "mi.tv",
   "epg_list": [
     {
       "desc": "Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.",
-      "start_date": "2026-06-23T01:10:00-03:00",
+      "start_date": "2026-06-24T00:10:00-03:00",
       "title": "Central da Copa"
     },
     {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-06-23T01:35:00-03:00",
+      "start_date": "2026-06-24T00:35:00-03:00",
       "title": "Jornal da Globo"
     },
     {
-      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-06-23T02:05:00-03:00",
-      "title": "A Nobreza do Amor"
-    },
-    {
-      "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-06-23T02:35:00-03:00",
-      "title": "Coração Acelerado"
-    },
-    {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-06-23T03:05:00-03:00",
+      "start_date": "2026-06-24T01:10:00-03:00",
       "title": "Vai que Cola"
     },
     {
+      "desc": "Carlos Marighella comanda um grupo de jovens guerrilheiros e tenta divulgar sua luta contra a ditadura para o povo brasileiro, mas a censura descredita a revolução. O seu principal opositor é Lúcio, policial que o rotula como inimigo público do país.",
+      "start_date": "2026-06-24T01:55:00-03:00",
+      "title": "Marighella"
+    },
+    {
       "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
-      "start_date": "2026-06-23T04:00:00-03:00",
+      "start_date": "2026-06-24T04:00:00-03:00",
       "title": "Hora 1"
     },
     {
       "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
-      "start_date": "2026-06-23T06:00:00-03:00",
+      "start_date": "2026-06-24T06:00:00-03:00",
       "title": "Bom Dia Rio Grande"
     },
     {
       "desc": "Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.",
-      "start_date": "2026-06-23T08:30:00-03:00",
+      "start_date": "2026-06-24T08:30:00-03:00",
       "title": "Bom Dia Brasil"
     },
     {
       "desc": "O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.",
-      "start_date": "2026-06-23T09:30:00-03:00",
+      "start_date": "2026-06-24T09:30:00-03:00",
       "title": "Encontro com Patrícia Poeta"
     },
     {
       "desc": "Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.",
-      "start_date": "2026-06-23T10:35:00-03:00",
+      "start_date": "2026-06-24T10:35:00-03:00",
       "title": "Mais Você"
     },
     {
       "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-06-23T11:45:00-03:00",
+      "start_date": "2026-06-24T11:45:00-03:00",
       "title": "Jornal do Almoço"
     },
     {
       "desc": "As principais notícias esportivas do Brasil e do mundo.",
-      "start_date": "2026-06-23T13:00:00-03:00",
+      "start_date": "2026-06-24T13:00:00-03:00",
       "title": "Globo Esporte"
     },
     {
       "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
-      "start_date": "2026-06-23T13:25:00-03:00",
+      "start_date": "2026-06-24T13:25:00-03:00",
       "title": "Jornal Hoje"
     },
     {
       "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
-      "start_date": "2026-06-23T14:45:00-03:00",
+      "start_date": "2026-06-24T14:45:00-03:00",
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
-      "start_date": "2026-06-23T15:30:00-03:00",
-      "title": "Vale a Pena Ver de Novo - Avenida Brasil"
-    },
-    {
       "desc": "Escalações, preparativos e tudo o que antecede os principais eventos do mundo dos esportes.",
-      "start_date": "2026-06-23T16:30:00-03:00",
+      "start_date": "2026-06-24T15:30:00-03:00",
       "title": "Pré-Hora"
     },
     {
-      "desc": "Inglaterra e Gana jogam pela segunda rodada do Grupo L, no Estádio de Boston. Os ingleses bateram a Croácia por 4 a 2, com dois gols de Harry Kane, enquanto Gana venceu o Panamá por 1 a 0. Caleb Yirenkyi balançou as redes.",
-      "start_date": "2026-06-23T16:45:00-03:00",
-      "title": "Grupo L: Inglaterra x Gana"
+      "desc": "Cobertura da 23ª edição do maior torneio de futebol entre seleções do mundo, que, pela primeira vez em sua história, conta com três sedes diferentes. Canadá, Estados Unidos e México são os países anfitriões, em uma versão com 48 países participantes.",
+      "start_date": "2026-06-24T15:45:00-03:00",
+      "title": "Copa do Mundo da FIFA 2026"
     },
     {
-      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-06-23T19:10:00-03:00",
-      "title": "A Nobreza do Amor"
+      "desc": "Escalações, preparativos e tudo o que antecede os principais eventos do mundo dos esportes.",
+      "start_date": "2026-06-24T18:15:00-03:00",
+      "title": "Pré-Hora"
     },
     {
-      "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-06-23T19:40:00-03:00",
-      "title": "RBS Notícias"
-    },
-    {
-      "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-06-23T20:00:00-03:00",
-      "title": "Coração Acelerado"
+      "desc": "Escócia enfrenta o Brasil na terceira rodada do Grupo C, no Estádio de Miami. Brasil venceu o Haiti por 3 a 0, com dois gols de Matheus Cunha no primeiro tempo. A Escócia tenta se recuperar da derrota por 1 a 0 frente ao Marrocos.",
+      "start_date": "2026-06-24T18:45:00-03:00",
+      "title": "Grupo C: Escócia x Brasil"
     },
     {
       "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-06-23T20:30:00-03:00",
+      "start_date": "2026-06-24T21:10:00-03:00",
       "title": "Jornal Nacional"
     },
     {
       "desc": "Silvana deixa bem claro a Ademir que Tiago não fará exame de DNA. Zeni ameaça Adriana novamente. Adriana pede a Cléber que ajude Pedro a esquecê-la.",
-      "start_date": "2026-06-23T21:20:00-03:00",
+      "start_date": "2026-06-24T21:30:00-03:00",
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "Escalações, preparativos e tudo o que antecede os principais eventos do mundo dos esportes.",
-      "start_date": "2026-06-23T22:30:00-03:00",
-      "title": "Pré-Hora"
-    },
-    {
-      "desc": "Colômbia e RD Congo jogam na segunda rodada do Grupo K, no Estádio de Guadalajara. Os colombianos venceram Uzbequistão por 3 a 1, com gol de Jaminton Campaz, enquanto os congoleses empataram por 1 a 1 com Portugal, com a ajuda de Yoane Wissa.",
-      "start_date": "2026-06-23T22:45:00-03:00",
-      "title": "Grupo K: Colômbia x RD Congo"
+      "desc": "Cobertura da 23ª edição do maior torneio de futebol entre seleções do mundo, que, pela primeira vez em sua história, conta com três sedes diferentes. Canadá, Estados Unidos e México são os países anfitriões, em uma versão com 48 países participantes.",
+      "start_date": "2026-06-24T21:45:00-03:00",
+      "title": "Copa do Mundo da FIFA 2026"
     }
   ],
-  "start_date": "2026-06-23"
+  "start_date": "2026-06-24"
 }

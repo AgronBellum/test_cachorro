@@ -1,123 +1,108 @@
 {
-  "end_date": "2026-06-25",
+  "end_date": "2026-06-26",
   "name": "Globo RBS TV POA",
   "provider": "mi.tv",
   "epg_list": [
     {
+      "desc": "Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.",
+      "start_date": "2026-06-26T01:10:00-03:00",
+      "title": "Central da Copa"
+    },
+    {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-06-25T00:20:00-03:00",
+      "start_date": "2026-06-26T01:35:00-03:00",
       "title": "Jornal da Globo"
     },
     {
-      "desc": "Pedro Bial debate e propõe o diálogo sobre assuntos contemporâneos, do Brasil e do mundo, com seus convidados.",
-      "start_date": "2026-06-25T01:10:00-03:00",
-      "title": "Conversa com Bial"
-    },
-    {
-      "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-06-25T01:50:00-03:00",
-      "title": "Coração Acelerado"
-    },
-    {
-      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-06-25T02:30:00-03:00",
-      "title": "Vai que Cola"
-    },
-    {
-      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-06-25T03:15:00-03:00",
-      "title": "Vai que Cola"
+      "desc": "Curaçao enfrenta Costa do Marfim na terceira rodada do Grupo E, no Estádio da Filadélfia. Curaçao conta com Eloy Room, que teve 15 defesas contra Equador, enquanto os marfinenses precisam de Kessié para se recuperarem da derrota para Alemanha.",
+      "start_date": "2026-06-26T02:00:00-03:00",
+      "title": "Grupo E: Curaçao x Costa do Marfim"
     },
     {
       "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
-      "start_date": "2026-06-25T04:00:00-03:00",
+      "start_date": "2026-06-26T04:00:00-03:00",
       "title": "Hora 1"
     },
     {
       "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
-      "start_date": "2026-06-25T06:00:00-03:00",
+      "start_date": "2026-06-26T06:00:00-03:00",
       "title": "Bom Dia Rio Grande"
     },
     {
       "desc": "Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.",
-      "start_date": "2026-06-25T08:30:00-03:00",
+      "start_date": "2026-06-26T08:30:00-03:00",
       "title": "Bom Dia Brasil"
     },
     {
       "desc": "O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.",
-      "start_date": "2026-06-25T09:30:00-03:00",
+      "start_date": "2026-06-26T09:30:00-03:00",
       "title": "Encontro com Patrícia Poeta"
     },
     {
       "desc": "Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.",
-      "start_date": "2026-06-25T10:35:00-03:00",
+      "start_date": "2026-06-26T10:35:00-03:00",
       "title": "Mais Você"
     },
     {
       "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-06-25T11:45:00-03:00",
+      "start_date": "2026-06-26T11:45:00-03:00",
       "title": "Jornal do Almoço"
     },
     {
       "desc": "As principais notícias esportivas do Brasil e do mundo.",
-      "start_date": "2026-06-25T13:00:00-03:00",
+      "start_date": "2026-06-26T13:00:00-03:00",
       "title": "Globo Esporte"
     },
     {
       "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
-      "start_date": "2026-06-25T13:25:00-03:00",
+      "start_date": "2026-06-26T13:25:00-03:00",
       "title": "Jornal Hoje"
     },
     {
       "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
-      "start_date": "2026-06-25T14:45:00-03:00",
+      "start_date": "2026-06-26T14:45:00-03:00",
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Acompanhe uma produção cinematográfica.",
-      "start_date": "2026-06-25T15:25:00-03:00",
-      "title": "Filme"
-    },
-    {
       "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
-      "start_date": "2026-06-25T17:10:00-03:00",
+      "start_date": "2026-06-26T15:30:00-03:00",
       "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
-      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-06-25T18:30:00-03:00",
-      "title": "A Nobreza do Amor"
+      "desc": "Escalações, preparativos e tudo o que antecede os principais eventos do mundo dos esportes.",
+      "start_date": "2026-06-26T16:30:00-03:00",
+      "title": "Pré-Hora"
     },
     {
-      "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-06-25T19:15:00-03:00",
-      "title": "RBS Notícias"
-    },
-    {
-      "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-06-25T19:45:00-03:00",
-      "title": "Coração Acelerado"
+      "desc": "Equador enfrenta Alemanha na terceira rodada do Grupo E, no Estádio de Nova York/Nova Jersey. Os equatorianos contam com Piero Hincapié após o empate sem gols contra Curaçao, enquanto os alemães têm Deniz Undav com três gols marcados.",
+      "start_date": "2026-06-26T17:00:00-03:00",
+      "title": "Grupo E: Equador x Alemanha"
     },
     {
       "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-06-25T20:30:00-03:00",
+      "start_date": "2026-06-26T19:10:00-03:00",
       "title": "Jornal Nacional"
     },
     {
-      "desc": "Adriana, após ser demitida, tem sua casa destruída por uma enchente e que também leva seu marido. Ainda sem entender como seguir, vai parar em um abrigo, onde cruza, pela primeira vez, com o caminho de Pedro.",
-      "start_date": "2026-06-25T21:20:00-03:00",
+      "desc": "Japão enfrenta Suécia na terceira rodada do Grupo F, no Estádio de Dallas. Os japoneses bateram a Tunísia por 4 a 0, com ajuda de Ko Itakura, enquanto os suecos contam com Victor Lindelöf para se recuperarem do 5 a 1 frente aos Países Baixos.",
+      "start_date": "2026-06-26T19:35:00-03:00",
+      "title": "Grupo F: Japão x Suécia"
+    },
+    {
+      "desc": "Pilar e Silvana se enfrentam. Silvana cobra um posicionamento de Fabia e a amiga promete tentar conversar com Ulisses e reverter a situação.",
+      "start_date": "2026-06-26T22:10:00-03:00",
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "Acompanhe uma produção cinematográfica.",
-      "start_date": "2026-06-25T22:25:00-03:00",
-      "title": "Filme"
+      "desc": "Escalações, preparativos e tudo o que antecede os principais eventos do mundo dos esportes.",
+      "start_date": "2026-06-26T22:35:00-03:00",
+      "title": "Pré-Hora"
     },
     {
-      "desc": "Acompanhe uma produção cinematográfica.",
-      "start_date": "2026-06-25T23:10:00-03:00",
-      "title": "Filme"
+      "desc": "Turquia enfrenta os Estados Unidos na terceira rodada do Grupo D, no Estádio de Los Angeles. Os EUA bateram a Austrália por 2 a 0, com gol marcado por Alex Freeman. Já os turcos perderam para o Paraguai pelo placar de 1 a 0.",
+      "start_date": "2026-06-26T23:00:00-03:00",
+      "title": "Grupo D: Turquia x Estados Unidos"
     }
   ],
-  "start_date": "2026-06-25"
+  "start_date": "2026-06-26"
 }

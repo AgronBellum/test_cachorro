@@ -4,59 +4,49 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "Egito enfrenta Irã na terceira rodada do Grupo G, no Estádio de Seattle. Os iranianos empataram sem gols com a Bélgica, com grandes defesas de Alireza Beiranvand. Já os egípcios venceram a Nova Zelândia de virada, por 3 a 1.",
-      "start_date": "2026-06-27T00:00:00-03:00",
-      "title": "Grupo G: Egito x Irã"
-    },
-    {
       "desc": "Destaques, entrevistas e análises de partidas das principais competições esportivas.",
-      "start_date": "2026-06-27T02:00:00-03:00",
+      "start_date": "2026-06-27T01:00:00-03:00",
       "title": "Pós-Jogo"
     },
     {
-      "desc": "Uma prévia das eletrizantes corridas da Fórmula 1, com uma visão prática, técnica e acessível dos aspectos mais importantes da principal categoria do automobilismo mundial.",
-      "start_date": "2026-06-27T02:10:00-03:00",
-      "title": "Grid da Globo"
-    },
-    {
-      "desc": "Cabo Verde e Arábia Saudita jogam na terceira rodada do Grupo H, no Estádio de Houston. Cabo Verde empatou com o Uruguai por 2 a 2, com gols de Kevin Pina e Helio Varela, enquanto os sauditas foram goleados pela Espanha, por 4 a 0.",
-      "start_date": "2026-06-27T02:20:00-03:00",
-      "title": "Grupo H: Cabo Verde x Arábia Saudita"
-    },
-    {
-      "desc": "Virgínia insinua a Teresa que seria bom levar o ateliê para fora de Barro Preto. Viriato sofre ao carregar o segredo de confissão de Sebastião. Ele pensa em alertar Lúcia/Alika sobre as verdadeiras intenções de Virgínia.",
-      "start_date": "2026-06-27T04:20:00-03:00",
-      "title": "A Nobreza do Amor"
-    },
-    {
-      "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-06-27T04:50:00-03:00",
-      "title": "Coração Acelerado"
-    },
-    {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-06-27T05:25:00-03:00",
+      "start_date": "2026-06-27T01:10:00-03:00",
       "title": "Vai que Cola"
     },
     {
-      "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
+      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "start_date": "2026-06-27T01:55:00-03:00",
+      "title": "Vai que Cola"
+    },
+    {
+      "desc": "Às vésperas das eleições presidenciais no Brasil, Cacá Viana, apresentador de um telejornal, enfrenta conflitos éticos no trabalho e nas relações pessoais com dois candidatos com os quais ele possui relações de amizade. Uma jovem é atropelada e morta em um acidente de trânsito, fato que muda a vida do âncora e de seus amigos.",
+      "start_date": "2026-06-27T02:40:00-03:00",
+      "title": "Contra a Parede"
+    },
+    {
+      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
       "start_date": "2026-06-27T06:00:00-03:00",
-      "title": "Bom Dia Rio Grande"
+      "title": "Globo Rural"
     },
     {
-      "desc": "Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.",
+      "desc": "As principais notícias do Brasil para começar o final de semana bem-informado.",
+      "start_date": "2026-06-27T06:50:00-03:00",
+      "title": "Bom Dia Sábado"
+    },
+    {
+      "desc": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários.",
+      "start_date": "2026-06-27T07:50:00-03:00",
+      "title": "Pequenas Empresas & Grandes Negócios"
+    },
+    {
+      "desc": "Um programa democrático que aborda as diversas áreas da cultura gaúcha, e também apresenta quadros de turismo, gastronomia e as informações do agronegócio.",
       "start_date": "2026-06-27T08:30:00-03:00",
-      "title": "Bom Dia Brasil"
+      "title": "Galpão Crioulo"
     },
     {
-      "desc": "O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.",
-      "start_date": "2026-06-27T09:30:00-03:00",
-      "title": "Encontro com Patrícia Poeta"
-    },
-    {
-      "desc": "Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.",
-      "start_date": "2026-06-27T10:35:00-03:00",
-      "title": "Mais Você"
+      "desc": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa.",
+      "start_date": "2026-06-27T09:00:00-03:00",
+      "title": "É de Casa"
     },
     {
       "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
@@ -74,84 +64,54 @@
       "title": "Jornal Hoje"
     },
     {
-      "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
-      "start_date": "2026-06-27T14:45:00-03:00",
-      "title": "Além do Tempo - Edição Especial"
+      "desc": "Após ser dispensada por seu noivo, Joy McNally decide chorar as mágoas em Las Vegas. Lá, ela conhece Jack Fuller, que foi demitido por seu próprio pai. Depois de uma noite de diversão e bebedeira, os dois acordam e descobrem que se casaram. Antes de se separar, eles apostam uma moeda em um caça-níquel, ganhando três milhões de dólares. No entanto, as regras determinam que eles só podem ficar com o dinheiro se provarem que são um casal estável, o que os obriga a morar juntos.",
+      "start_date": "2026-06-27T14:10:00-03:00",
+      "title": "Jogo de Amor em Las Vegas"
     },
     {
-      "desc": "Escalações, preparativos e tudo o que antecede os principais eventos do mundo dos esportes.",
-      "start_date": "2026-06-27T15:30:00-03:00",
-      "title": "Pré-Hora"
+      "desc": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais.",
+      "start_date": "2026-06-27T15:35:00-03:00",
+      "title": "Caldeirão com Mion"
     },
     {
       "desc": "Especialistas fazem prévias de transmissões esportivas, com informações, entrevistas e destaques.",
-      "start_date": "2026-06-27T15:50:00-03:00",
+      "start_date": "2026-06-27T17:30:00-03:00",
       "title": "Pré-Jogo"
     },
     {
-      "desc": "Noruega enfrenta a França na terceira rodada do Grupo I, no Estádio de Boston. Erling Haaland marcou duas vezes na vitória norueguesa frente a Senegal, por 3 a 2. A França venceu o Iraque por 3 a 0, com dois gols de Kylian Mbappé.",
-      "start_date": "2026-06-27T16:00:00-03:00",
-      "title": "Grupo I: Noruega x França"
+      "desc": "Panamá e a Inglaterra jogam na terceira rodada do Grupo L, no Estádio de Nova York/Nova Jersey. O Panamá perdeu para a Croácia por 1 a 0, enquanto os ingleses empataram com Gana por 0 a 0. Uma vitória dá a classificação para a seleção vencedora.",
+      "start_date": "2026-06-27T18:00:00-03:00",
+      "title": "Grupo L: Panamá x Inglaterra"
     },
     {
       "desc": "Destaques, entrevistas e análises de partidas das principais competições esportivas.",
-      "start_date": "2026-06-27T18:00:00-03:00",
+      "start_date": "2026-06-27T20:00:00-03:00",
       "title": "Pós-Jogo"
     },
     {
-      "desc": "Virgínia insinua a Teresa que seria bom levar o ateliê para fora de Barro Preto. Viriato sofre ao carregar o segredo de confissão de Sebastião. Ele pensa em alertar Lúcia/Alika sobre as verdadeiras intenções de Virgínia.",
-      "start_date": "2026-06-27T18:10:00-03:00",
-      "title": "A Nobreza do Amor"
-    },
-    {
-      "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-06-27T18:40:00-03:00",
-      "title": "RBS Notícias"
-    },
-    {
-      "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-06-27T19:00:00-03:00",
-      "title": "Coração Acelerado"
-    },
-    {
       "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-06-27T19:40:00-03:00",
+      "start_date": "2026-06-27T20:15:00-03:00",
       "title": "Jornal Nacional"
     },
     {
       "desc": "Adriana, após ser demitida, tem sua casa destruída por uma enchente e que também leva seu marido. Ainda sem entender como seguir, vai parar em um abrigo, onde cruza, pela primeira vez, com o caminho de Pedro.",
-      "start_date": "2026-06-27T20:10:00-03:00",
+      "start_date": "2026-06-27T21:15:00-03:00",
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "Especialistas fazem prévias de transmissões esportivas, com informações, entrevistas e destaques.",
-      "start_date": "2026-06-27T20:40:00-03:00",
-      "title": "Pré-Jogo"
-    },
-    {
-      "desc": "Uruguai enfrenta a Espanha na terceira rodada do Grupo H, no Estádio de Guadalajara. Os uruguaios empataram por 2 a 2 com Cabo Verde, com gol de Maxi Araujo. Já os espanhóis bateram a Arábia Saudita por 4 a 0, com dois gols de Mikel Oyarzabal.",
-      "start_date": "2026-06-27T21:00:00-03:00",
-      "title": "Grupo H: Uruguai x Espanha"
-    },
-    {
-      "desc": "Destaques, entrevistas e análises de partidas das principais competições esportivas.",
-      "start_date": "2026-06-27T23:00:00-03:00",
-      "title": "Pós-Jogo"
-    },
-    {
-      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-06-27T23:10:00-03:00",
-      "title": "Jornal da Globo"
-    },
-    {
       "desc": "Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.",
-      "start_date": "2026-06-27T23:25:00-03:00",
+      "start_date": "2026-06-27T22:20:00-03:00",
       "title": "Central da Copa"
     },
     {
       "desc": "Especialistas fazem prévias de transmissões esportivas, com informações, entrevistas e destaques.",
-      "start_date": "2026-06-27T23:45:00-03:00",
+      "start_date": "2026-06-27T22:45:00-03:00",
       "title": "Pré-Jogo"
+    },
+    {
+      "desc": "Argélia e Áustria jogam na terceira rodada do Grupo J, no Estádio de Kansas City. A Argélia venceu a Jordânia por 2 a 1, com gols de Amine Gouiri e Nadhir Bengouali. Já a Áustria quer se recuperar da derrota por 2 a 0 frente à Argentina.",
+      "start_date": "2026-06-27T23:00:00-03:00",
+      "title": "Grupo J: Argélia x Áustria"
     }
   ],
   "start_date": "2026-06-27"

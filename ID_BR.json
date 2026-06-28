@@ -1,83 +1,8 @@
 {
-  "end_date": "2026-06-29",
+  "end_date": "2026-06-30",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
-    {
-      "desc": "",
-      "start_date": "2026-06-27T00:09:00-03:00",
-      "title": "Encontros Infernais"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-27T00:33:00-03:00",
-      "title": "Mentiras de Amor"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-27T01:21:00-03:00",
-      "title": "Amor Fatal - As Seis Esposas de Thomas Randolph"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-27T03:40:00-03:00",
-      "title": "O Mistério do Palhaço Assassino"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-27T06:00:00-03:00",
-      "title": "Mães e Filhos - Assassinato em Família"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-27T06:48:00-03:00",
-      "title": "Os Irmãos Esquizofrênicos"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-27T10:03:00-03:00",
-      "title": "Um Monstro Como Nunca se Viu"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-27T10:52:00-03:00",
-      "title": "Amor Fatal - As Seis Esposas de Thomas Randolph"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-27T13:13:00-03:00",
-      "title": "O Mistério do Palhaço Assassino"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-27T15:39:00-03:00",
-      "title": "Kevin Spacey - A História Não Contada"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-27T17:37:00-03:00",
-      "title": "O Caso Sherri Papini"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-27T20:45:00-03:00",
-      "title": "Segredos Bem Casados"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-27T21:36:00-03:00",
-      "title": "Casados com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-27T22:27:00-03:00",
-      "title": "Paixões Doentias"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-06-27T23:18:00-03:00",
-      "title": "Como Não Matar Seu Amor"
-    },
     {
       "desc": "",
       "start_date": "2026-06-28T00:09:00-03:00",
@@ -152,7 +77,82 @@
       "desc": "",
       "start_date": "2026-06-28T23:18:00-03:00",
       "title": "Como Não Matar Seu Amor"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-29T00:09:00-03:00",
+      "title": "Encontros Infernais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-29T00:33:00-03:00",
+      "title": "Mentiras de Amor"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-29T01:21:00-03:00",
+      "title": "Amor Fatal - As Seis Esposas de Thomas Randolph"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-29T03:40:00-03:00",
+      "title": "O Mistério do Palhaço Assassino"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-29T06:00:00-03:00",
+      "title": "Mães e Filhos - Assassinato em Família"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-29T06:48:00-03:00",
+      "title": "Os Irmãos Esquizofrênicos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-29T10:03:00-03:00",
+      "title": "Um Monstro Como Nunca se Viu"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-29T10:52:00-03:00",
+      "title": "Amor Fatal - As Seis Esposas de Thomas Randolph"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-29T13:13:00-03:00",
+      "title": "O Mistério do Palhaço Assassino"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-29T15:39:00-03:00",
+      "title": "Kevin Spacey - A História Não Contada"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-29T17:37:00-03:00",
+      "title": "O Caso Sherri Papini"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-29T20:45:00-03:00",
+      "title": "Segredos Bem Casados"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-29T21:36:00-03:00",
+      "title": "Casados com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-29T22:27:00-03:00",
+      "title": "Paixões Doentias"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-06-29T23:18:00-03:00",
+      "title": "Como Não Matar Seu Amor"
     }
   ],
-  "start_date": "2026-06-27"
+  "start_date": "2026-06-28"
 }

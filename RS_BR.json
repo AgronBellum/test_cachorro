@@ -1,118 +1,133 @@
 {
-  "end_date": "2026-06-27",
+  "end_date": "2026-06-28",
   "name": "Globo RBS TV POA",
   "provider": "mi.tv",
   "epg_list": [
     {
       "desc": "Destaques, entrevistas e análises de partidas das principais competições esportivas.",
-      "start_date": "2026-06-27T01:00:00-03:00",
+      "start_date": "2026-06-28T01:00:00-03:00",
       "title": "Pós-Jogo"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-06-27T01:10:00-03:00",
+      "start_date": "2026-06-28T01:10:00-03:00",
       "title": "Vai que Cola"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-06-27T01:55:00-03:00",
+      "start_date": "2026-06-28T01:55:00-03:00",
       "title": "Vai que Cola"
     },
     {
-      "desc": "Às vésperas das eleições presidenciais no Brasil, Cacá Viana, apresentador de um telejornal, enfrenta conflitos éticos no trabalho e nas relações pessoais com dois candidatos com os quais ele possui relações de amizade. Uma jovem é atropelada e morta em um acidente de trânsito, fato que muda a vida do âncora e de seus amigos.",
-      "start_date": "2026-06-27T02:40:00-03:00",
-      "title": "Contra a Parede"
+      "desc": "Alice sofre um colapso nervoso de tanto trabalhar e se interna em um spa para se livrar do estresse. Porém, o momento não poderia ser mais inoportuno, pois a rede de sex shop está para abrir sua primeira loja no exterior e Alice vai tentar de tudo para voltar ao trabalho e salvar seu casamento.",
+      "start_date": "2026-06-28T02:40:00-03:00",
+      "title": "De Pernas pro Ar 2"
+    },
+    {
+      "desc": "A carreira da ginasta olímpica, Simone Biles, desde sua vida em um orfanato até as incontáveis horas de treino e sacrifício que a levaram a ganhar 19 medalhas e a se tornar uma das melhores da história.",
+      "start_date": "2026-06-28T04:00:00-03:00",
+      "title": "A História de Simone Biles: Coragem para Vencer"
+    },
+    {
+      "desc": "Acompanhe a celebração da santa missa em João Pessoa.",
+      "start_date": "2026-06-28T05:45:00-03:00",
+      "title": "Santa Missa"
     },
     {
       "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
-      "start_date": "2026-06-27T06:00:00-03:00",
+      "start_date": "2026-06-28T06:00:00-03:00",
       "title": "Globo Rural"
     },
     {
       "desc": "As principais notícias do Brasil para começar o final de semana bem-informado.",
-      "start_date": "2026-06-27T06:50:00-03:00",
+      "start_date": "2026-06-28T06:50:00-03:00",
       "title": "Bom Dia Sábado"
     },
     {
       "desc": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários.",
-      "start_date": "2026-06-27T07:50:00-03:00",
+      "start_date": "2026-06-28T07:50:00-03:00",
       "title": "Pequenas Empresas & Grandes Negócios"
     },
     {
       "desc": "Um programa democrático que aborda as diversas áreas da cultura gaúcha, e também apresenta quadros de turismo, gastronomia e as informações do agronegócio.",
-      "start_date": "2026-06-27T08:30:00-03:00",
+      "start_date": "2026-06-28T08:30:00-03:00",
       "title": "Galpão Crioulo"
     },
     {
       "desc": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa.",
-      "start_date": "2026-06-27T09:00:00-03:00",
+      "start_date": "2026-06-28T09:00:00-03:00",
       "title": "É de Casa"
     },
     {
       "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-06-27T11:45:00-03:00",
+      "start_date": "2026-06-28T11:45:00-03:00",
       "title": "Jornal do Almoço"
     },
     {
       "desc": "As principais notícias esportivas do Brasil e do mundo.",
-      "start_date": "2026-06-27T13:00:00-03:00",
+      "start_date": "2026-06-28T13:00:00-03:00",
       "title": "Globo Esporte"
     },
     {
       "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
-      "start_date": "2026-06-27T13:25:00-03:00",
+      "start_date": "2026-06-28T13:25:00-03:00",
       "title": "Jornal Hoje"
     },
     {
-      "desc": "Após ser dispensada por seu noivo, Joy McNally decide chorar as mágoas em Las Vegas. Lá, ela conhece Jack Fuller, que foi demitido por seu próprio pai. Depois de uma noite de diversão e bebedeira, os dois acordam e descobrem que se casaram. Antes de se separar, eles apostam uma moeda em um caça-níquel, ganhando três milhões de dólares. No entanto, as regras determinam que eles só podem ficar com o dinheiro se provarem que são um casal estável, o que os obriga a morar juntos.",
-      "start_date": "2026-06-27T14:10:00-03:00",
-      "title": "Jogo de Amor em Las Vegas"
+      "desc": "De uma forma leve e divertida, muito entretenimento e informação a partir de personagens inspiradores em assuntos como cultura, bem-estar, lazer, música, viagem, gastronomia e sustentabilidade.",
+      "start_date": "2026-06-28T14:10:00-03:00",
+      "title": "Baita Sábado"
+    },
+    {
+      "desc": "Uma experiência que resgata o valor dos encontros. Porque existem momentos que não se medem pelo relógio, mas pelo estalo da lenha e pelo aroma da carne na brasa.",
+      "start_date": "2026-06-28T15:15:00-03:00",
+      "title": "Tempo Bueno"
     },
     {
       "desc": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais.",
-      "start_date": "2026-06-27T15:35:00-03:00",
+      "start_date": "2026-06-28T15:35:00-03:00",
       "title": "Caldeirão com Mion"
     },
     {
       "desc": "Especialistas fazem prévias de transmissões esportivas, com informações, entrevistas e destaques.",
-      "start_date": "2026-06-27T17:30:00-03:00",
+      "start_date": "2026-06-28T17:30:00-03:00",
       "title": "Pré-Jogo"
     },
     {
       "desc": "Panamá e a Inglaterra jogam na terceira rodada do Grupo L, no Estádio de Nova York/Nova Jersey. O Panamá perdeu para a Croácia por 1 a 0, enquanto os ingleses empataram com Gana por 0 a 0. Uma vitória dá a classificação para a seleção vencedora.",
-      "start_date": "2026-06-27T18:00:00-03:00",
+      "start_date": "2026-06-28T18:00:00-03:00",
       "title": "Grupo L: Panamá x Inglaterra"
     },
     {
       "desc": "Destaques, entrevistas e análises de partidas das principais competições esportivas.",
-      "start_date": "2026-06-27T20:00:00-03:00",
+      "start_date": "2026-06-28T20:00:00-03:00",
       "title": "Pós-Jogo"
     },
     {
       "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-06-27T20:15:00-03:00",
+      "start_date": "2026-06-28T20:15:00-03:00",
       "title": "Jornal Nacional"
     },
     {
       "desc": "Adriana, após ser demitida, tem sua casa destruída por uma enchente e que também leva seu marido. Ainda sem entender como seguir, vai parar em um abrigo, onde cruza, pela primeira vez, com o caminho de Pedro.",
-      "start_date": "2026-06-27T21:15:00-03:00",
+      "start_date": "2026-06-28T21:15:00-03:00",
       "title": "Quem Ama Cuida"
     },
     {
       "desc": "Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.",
-      "start_date": "2026-06-27T22:20:00-03:00",
+      "start_date": "2026-06-28T22:20:00-03:00",
       "title": "Central da Copa"
     },
     {
       "desc": "Especialistas fazem prévias de transmissões esportivas, com informações, entrevistas e destaques.",
-      "start_date": "2026-06-27T22:45:00-03:00",
+      "start_date": "2026-06-28T22:45:00-03:00",
       "title": "Pré-Jogo"
     },
     {
       "desc": "Argélia e Áustria jogam na terceira rodada do Grupo J, no Estádio de Kansas City. A Argélia venceu a Jordânia por 2 a 1, com gols de Amine Gouiri e Nadhir Bengouali. Já a Áustria quer se recuperar da derrota por 2 a 0 frente à Argentina.",
-      "start_date": "2026-06-27T23:00:00-03:00",
+      "start_date": "2026-06-28T23:00:00-03:00",
       "title": "Grupo J: Argélia x Áustria"
     }
   ],
-  "start_date": "2026-06-27"
+  "start_date": "2026-06-28"
 }

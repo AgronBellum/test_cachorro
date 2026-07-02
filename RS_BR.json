@@ -4,24 +4,29 @@
   "provider": "mi.tv",
   "epg_list": [
     {
+      "desc": "Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.",
+      "start_date": "2026-07-02T00:00:00-03:00",
+      "title": "Central da Copa"
+    },
+    {
+      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
+      "start_date": "2026-07-02T00:30:00-03:00",
+      "title": "Jornal da Globo"
+    },
+    {
+      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
+      "start_date": "2026-07-02T01:20:00-03:00",
+      "title": "A Nobreza do Amor"
+    },
+    {
       "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-07-02T00:20:00-03:00",
+      "start_date": "2026-07-02T01:55:00-03:00",
       "title": "Coração Acelerado"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-07-02T01:05:00-03:00",
+      "start_date": "2026-07-02T02:50:00-03:00",
       "title": "Vai que Cola"
-    },
-    {
-      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-07-02T01:45:00-03:00",
-      "title": "Vai que Cola"
-    },
-    {
-      "desc": "Roberta e Suzana são irmãs e nutrem um desejo de vingança em relação à avó, que atormentava ambas na infância com conceitos rígidos de etiqueta e educação. Anos depois, elas decidem sequestrá-la e levá-la para a casa de praia da família. Com elas, viajam Renato, um advogado que é amigo de Roberta e não sabe que a avó dela está no porta-malas, e Francisco, médico e marido de Suzana, que estranha a repentina viagem da esposa e acredita que ela está fazendo uso de entorpecentes.",
-      "start_date": "2026-07-02T02:30:00-03:00",
-      "title": "Muito Gelo e Dois Dedos d'Água"
     },
     {
       "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
@@ -65,32 +70,32 @@
     },
     {
       "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
-      "start_date": "2026-07-02T14:45:00-03:00",
+      "start_date": "2026-07-02T14:40:00-03:00",
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
-      "start_date": "2026-07-02T15:25:00-03:00",
-      "title": "Vale a Pena Ver de Novo - Avenida Brasil"
-    },
-    {
       "desc": "Escalações, preparativos e tudo o que antecede os principais eventos do mundo dos esportes.",
-      "start_date": "2026-07-02T16:30:00-03:00",
+      "start_date": "2026-07-02T15:20:00-03:00",
       "title": "Pré-Hora"
     },
     {
-      "desc": "Bélgica e Senegal jogam nos dezesseis avos de final, no Estádio de Seattle. Senegal termina em terceiro no Grupo I após goleada aplicada no Iraque, por 5 a 0. Os Belgas lideram o Grupo G com um forte 5 a 1 frente à Nova Zelândia.",
-      "start_date": "2026-07-02T17:00:00-03:00",
-      "title": "Dezesseis Avos de Final: Bélgica x Senegal"
+      "desc": "Espanha e Áustria jogam nos dezesseis avos de final, no Estádio de Los Angeles. Os austríacos vêm em segundo no Grupo J, após empate em 3 a 3 contra a Argélia. Já a Fúria lidera o Grupo H, com vitória por 1 a 0 contra o Uruguai.",
+      "start_date": "2026-07-02T16:00:00-03:00",
+      "title": "Dezesseis Avos de Final: Espanha x Áustria"
+    },
+    {
+      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
+      "start_date": "2026-07-02T18:10:00-03:00",
+      "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-07-02T19:10:00-03:00",
+      "start_date": "2026-07-02T19:00:00-03:00",
       "title": "RBS Notícias"
     },
     {
       "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-07-02T19:40:00-03:00",
+      "start_date": "2026-07-02T19:30:00-03:00",
       "title": "Coração Acelerado"
     },
     {
@@ -104,19 +109,9 @@
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "A obra mergulha na origem do gênero do pagode na periferia de São Paulo, sua ascensão nacional e seu legado atualmente.",
+      "desc": "A história de um fazendeiro que vive na fronteira do Arizona e se torna o improvável defensor de um jovem mexicano que foge desesperadamente dos assassinos do cartel que o perseguiram até os Estados Unidos.",
       "start_date": "2026-07-02T22:25:00-03:00",
-      "title": "Anos 90 - A Explosão do Pagode"
-    },
-    {
-      "desc": "Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.",
-      "start_date": "2026-07-02T23:00:00-03:00",
-      "title": "Central da Copa"
-    },
-    {
-      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-07-02T23:30:00-03:00",
-      "title": "Jornal da Globo"
+      "title": "Na Mira do Perigo"
     }
   ],
   "start_date": "2026-07-02"

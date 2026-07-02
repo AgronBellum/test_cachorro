@@ -3,7 +3,7 @@
     "total": 121,
     "success": 121,
     "categories": 8,
-    "date": "2026-07-01T14:55:14.988471Z",
+    "date": "2026-07-02T18:52:05.182971Z",
     "version": "EXTRACTOR_APP_V1"
   },
   "categorias": {
@@ -15,7 +15,7 @@
           "name": "Animal Planet",
           "categoryId": "documentarios",
           "categoryName": "Documentarios",
-          "m3u8_url": "https://megaflix.mgfiles.lat/32fa2f2e2c4def98f37646e8296f3b79/file.m3u8",
+          "m3u8_url": "https://megaflix.mgfiles.lat/0220eb5f5741e310bc8ee991b36363dc/file.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"

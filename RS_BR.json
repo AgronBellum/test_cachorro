@@ -1,108 +1,128 @@
 {
-  "end_date": "2026-07-04",
+  "end_date": "2026-07-05",
   "name": "Globo RBS TV POA",
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "Acompanhe uma produção cinematográfica.",
-      "start_date": "2026-07-04T00:15:00-03:00",
-      "title": "Filme"
+      "desc": "Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.",
+      "start_date": "2026-07-05T00:00:00-03:00",
+      "title": "Central da Copa"
     },
     {
-      "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-07-04T01:55:00-03:00",
+      "desc": "Uma família negra da periferia de Contagem, Minas Gerais, busca seguir seus sonhos em um país que acaba de eleger como presidente um homem de extrema-direita, que representa o contrário de tudo que eles são.",
+      "start_date": "2026-07-05T00:30:00-03:00",
+      "title": "Marte Um"
+    },
+    {
+      "desc": "Tonho se mostra lúcido e todos comemoram. Dona Menina visita Tonho, e Lúcia/Alika se impressiona com a fala da rezadeira sobre o destino do amado.",
+      "start_date": "2026-07-05T02:25:00-03:00",
+      "title": "A Nobreza do Amor"
+    },
+    {
+      "desc": "Agrado se entende com Eduarda e elas decidem viajar juntas. Ronei e Zilá enganam Cinara para conseguir o livro de ervas de Nora. Ronei desconfia de Osmar.",
+      "start_date": "2026-07-05T03:05:00-03:00",
       "title": "Coração Acelerado"
     },
     {
-      "desc": "Acompanhe uma produção cinematográfica.",
-      "start_date": "2026-07-04T02:35:00-03:00",
-      "title": "Filme"
+      "desc": "Pedro marca um encontro com seus melhores amigos do colégio depois de 40 anos sem os ver. O convite para recriar uma foto tirada por eles no dia da inauguração do metrô de São Paulo é, na realidade, um pretexto para avisá-los de que ele pretende se matar, mas não antes de ver seu time, o Palmeiras, ser campeão.",
+      "start_date": "2026-07-05T04:00:00-03:00",
+      "title": "45 do Segundo Tempo"
     },
     {
-      "desc": "Acompanhe uma produção cinematográfica.",
-      "start_date": "2026-07-04T04:20:00-03:00",
-      "title": "Filme"
+      "desc": "Acompanhe a celebração da santa missa em João Pessoa.",
+      "start_date": "2026-07-05T05:45:00-03:00",
+      "title": "Santa Missa"
     },
     {
-      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
-      "start_date": "2026-07-04T06:00:00-03:00",
-      "title": "Globo Repórter"
+      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
+      "start_date": "2026-07-05T06:00:00-03:00",
+      "title": "Globo Rural"
+    },
+    {
+      "desc": "As principais notícias do Brasil para começar o final de semana bem-informado.",
+      "start_date": "2026-07-05T06:50:00-03:00",
+      "title": "Bom Dia Sábado"
+    },
+    {
+      "desc": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários.",
+      "start_date": "2026-07-05T07:50:00-03:00",
+      "title": "Pequenas Empresas & Grandes Negócios"
     },
     {
       "desc": "Um programa democrático que aborda as diversas áreas da cultura gaúcha, e também apresenta quadros de turismo, gastronomia e as informações do agronegócio.",
-      "start_date": "2026-07-04T06:50:00-03:00",
+      "start_date": "2026-07-05T08:30:00-03:00",
       "title": "Galpão Crioulo"
     },
     {
       "desc": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa.",
-      "start_date": "2026-07-04T07:50:00-03:00",
+      "start_date": "2026-07-05T09:00:00-03:00",
       "title": "É de Casa"
     },
     {
       "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-07-04T11:45:00-03:00",
+      "start_date": "2026-07-05T11:45:00-03:00",
       "title": "Jornal do Almoço"
     },
     {
       "desc": "As principais notícias esportivas do Brasil e do mundo.",
-      "start_date": "2026-07-04T13:00:00-03:00",
+      "start_date": "2026-07-05T13:00:00-03:00",
       "title": "Globo Esporte"
     },
     {
       "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
-      "start_date": "2026-07-04T13:25:00-03:00",
+      "start_date": "2026-07-05T13:25:00-03:00",
       "title": "Jornal Hoje"
     },
     {
       "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
-      "start_date": "2026-07-04T14:10:00-03:00",
+      "start_date": "2026-07-05T14:05:00-03:00",
       "title": "Além do Tempo - Edição Especial"
     },
     {
       "desc": "De uma forma leve e divertida, muito entretenimento e informação a partir de personagens inspiradores em assuntos como cultura, bem-estar, lazer, música, viagem, gastronomia e sustentabilidade.",
-      "start_date": "2026-07-04T14:35:00-03:00",
+      "start_date": "2026-07-05T14:35:00-03:00",
       "title": "Baita Sábado"
     },
     {
-      "desc": "Acompanhe as trapalhadas e maluquices dos alunos na sala de aula do professor Raimundo.",
-      "start_date": "2026-07-04T15:45:00-03:00",
-      "title": "Escolinha do Professor Raimundo"
+      "desc": "Uma experiência que resgata o valor dos encontros. Porque existem momentos que não se medem pelo relógio, mas pelo estalo da lenha e pelo aroma da carne na brasa.",
+      "start_date": "2026-07-05T15:40:00-03:00",
+      "title": "Tempo Bueno"
     },
     {
       "desc": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais.",
-      "start_date": "2026-07-04T16:15:00-03:00",
+      "start_date": "2026-07-05T16:15:00-03:00",
       "title": "Caldeirão com Mion"
     },
     {
-      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-07-04T18:40:00-03:00",
+      "desc": "Tonho se mostra lúcido e todos comemoram. Dona Menina visita Tonho, e Lúcia/Alika se impressiona com a fala da rezadeira sobre o destino do amado.",
+      "start_date": "2026-07-05T18:35:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-07-04T19:25:00-03:00",
+      "start_date": "2026-07-05T19:15:00-03:00",
       "title": "RBS Notícias"
     },
     {
-      "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-07-04T19:45:00-03:00",
+      "desc": "Agrado se entende com Eduarda e elas decidem viajar juntas. Ronei e Zilá enganam Cinara para conseguir o livro de ervas de Nora. Ronei desconfia de Osmar.",
+      "start_date": "2026-07-05T19:35:00-03:00",
       "title": "Coração Acelerado"
     },
     {
       "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-07-04T20:30:00-03:00",
+      "start_date": "2026-07-05T20:30:00-03:00",
       "title": "Jornal Nacional"
     },
     {
       "desc": "Adriana, após ser demitida, tem sua casa destruída por uma enchente e que também leva seu marido. Ainda sem entender como seguir, vai parar em um abrigo, onde cruza, pela primeira vez, com o caminho de Pedro.",
-      "start_date": "2026-07-04T21:20:00-03:00",
+      "start_date": "2026-07-05T21:20:00-03:00",
       "title": "Quem Ama Cuida"
     },
     {
       "desc": "Serginho Groisman promove debates sobre temas relevantes com a participação da plateia, artistas e personalidades de diferentes áreas.",
-      "start_date": "2026-07-04T22:25:00-03:00",
+      "start_date": "2026-07-05T22:15:00-03:00",
       "title": "Altas Horas"
     }
   ],
-  "start_date": "2026-07-04"
+  "start_date": "2026-07-05"
 }

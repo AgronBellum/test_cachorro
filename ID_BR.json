@@ -1,83 +1,8 @@
 {
-  "end_date": "2026-07-06",
+  "end_date": "2026-07-07",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
-    {
-      "desc": "",
-      "start_date": "2026-07-04T00:22:00-03:00",
-      "title": "Mentiras de Amor"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-04T01:14:00-03:00",
-      "title": "Peter Nygard - Além da Moda"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-04T05:09:00-03:00",
-      "title": "O Lado Obscuro da Fama"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-04T06:00:00-03:00",
-      "title": "Benjaman Kyle - O Homem sem Identidade"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-04T06:48:00-03:00",
-      "title": "As 93 Vítimas de Samuel Little"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-04T10:04:00-03:00",
-      "title": "Peter Nygard - Além da Moda"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-04T13:59:00-03:00",
-      "title": "People Magazine - Gucci, Morte e Mistério"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-04T14:50:00-03:00",
-      "title": "O Lado Obscuro da Fama"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-04T16:32:00-03:00",
-      "title": "People Magazine - Crimes da Moda"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-04T18:58:00-03:00",
-      "title": "Lady Gucci - A História de Patrizia Reggiani"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-04T20:16:00-03:00",
-      "title": "Segredos Bem Casados"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-04T21:04:00-03:00",
-      "title": "Casados com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-04T21:53:00-03:00",
-      "title": "Paixões Doentias"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-04T22:43:00-03:00",
-      "title": "Como Não Matar Seu Amor"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-04T23:33:00-03:00",
-      "title": "Encontros Infernais"
-    },
     {
       "desc": "",
       "start_date": "2026-07-05T00:22:00-03:00",
@@ -152,7 +77,82 @@
       "desc": "",
       "start_date": "2026-07-05T23:33:00-03:00",
       "title": "Encontros Infernais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-06T00:22:00-03:00",
+      "title": "Mentiras de Amor"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-06T01:14:00-03:00",
+      "title": "Peter Nygard - Além da Moda"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-06T05:09:00-03:00",
+      "title": "O Lado Obscuro da Fama"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-06T06:00:00-03:00",
+      "title": "Benjaman Kyle - O Homem sem Identidade"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-06T06:48:00-03:00",
+      "title": "As 93 Vítimas de Samuel Little"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-06T10:04:00-03:00",
+      "title": "Peter Nygard - Além da Moda"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-06T13:59:00-03:00",
+      "title": "People Magazine - Gucci, Morte e Mistério"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-06T14:50:00-03:00",
+      "title": "O Lado Obscuro da Fama"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-06T16:32:00-03:00",
+      "title": "People Magazine - Crimes da Moda"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-06T18:58:00-03:00",
+      "title": "Lady Gucci - A História de Patrizia Reggiani"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-06T20:16:00-03:00",
+      "title": "Segredos Bem Casados"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-06T21:04:00-03:00",
+      "title": "Casados com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-06T21:53:00-03:00",
+      "title": "Paixões Doentias"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-06T22:43:00-03:00",
+      "title": "Como Não Matar Seu Amor"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-06T23:33:00-03:00",
+      "title": "Encontros Infernais"
     }
   ],
-  "start_date": "2026-07-04"
+  "start_date": "2026-07-05"
 }

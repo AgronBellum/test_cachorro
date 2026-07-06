@@ -4,13 +4,28 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "O jornalista Fernando e seu amigo César abraçam a luta armada contra a ditadura militar no final da década de 1960 após a instauração do Ato Institucional n.º 5. Os dois se alistam em um grupo guerrilheiro de esquerda. Em uma das ações do grupo militante, César é ferido e capturado pelos militares. Fernando planeja o sequestro do embaixador dos Estados Unidos no Brasil, Charles Burke Elbrick, para negociar a liberdade de César e de outros companheiros presos.",
-      "start_date": "2026-07-06T01:35:00-03:00",
-      "title": "O que É Isso, Companheiro?"
+      "desc": "Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.",
+      "start_date": "2026-07-06T00:15:00-03:00",
+      "title": "Central da Copa"
+    },
+    {
+      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
+      "start_date": "2026-07-06T00:45:00-03:00",
+      "title": "Jornal da Globo"
+    },
+    {
+      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
+      "start_date": "2026-07-06T01:30:00-03:00",
+      "title": "A Nobreza do Amor"
+    },
+    {
+      "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
+      "start_date": "2026-07-06T02:15:00-03:00",
+      "title": "Coração Acelerado"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-07-06T03:15:00-03:00",
+      "start_date": "2026-07-06T03:00:00-03:00",
       "title": "Vai que Cola"
     },
     {
@@ -19,74 +34,84 @@
       "title": "Hora 1"
     },
     {
-      "desc": "Acompanhe a celebração da santa missa em João Pessoa.",
-      "start_date": "2026-07-06T05:45:00-03:00",
-      "title": "Santa Missa"
+      "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
+      "start_date": "2026-07-06T06:00:00-03:00",
+      "title": "Bom Dia Rio Grande"
     },
     {
-      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
-      "start_date": "2026-07-06T06:35:00-03:00",
-      "title": "Globo Repórter"
-    },
-    {
-      "desc": "Um programa democrático que aborda as diversas áreas da cultura gaúcha, e também apresenta quadros de turismo, gastronomia e as informações do agronegócio.",
-      "start_date": "2026-07-06T07:25:00-03:00",
-      "title": "Galpão Crioulo"
-    },
-    {
-      "desc": "A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes.",
-      "start_date": "2026-07-06T07:55:00-03:00",
-      "title": "AutoEsporte"
-    },
-    {
-      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
+      "desc": "Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.",
       "start_date": "2026-07-06T08:30:00-03:00",
-      "title": "Globo Rural"
+      "title": "Bom Dia Brasil"
     },
     {
-      "desc": "Daniel abre a porteira de sua fazenda para receber grandes astros da música sertaneja. Juntos, eles relembram suas trajetórias, falam sobre suas inspirações e se deixam levar pelas modas de viola.",
-      "start_date": "2026-07-06T09:40:00-03:00",
-      "title": "Viver Sertanejo"
+      "desc": "O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.",
+      "start_date": "2026-07-06T09:30:00-03:00",
+      "title": "Encontro com Patrícia Poeta"
     },
     {
-      "desc": "Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.",
-      "start_date": "2026-07-06T10:40:00-03:00",
-      "title": "GP da Grã-Bretanha"
+      "desc": "Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.",
+      "start_date": "2026-07-06T10:35:00-03:00",
+      "title": "Mais Você"
     },
     {
-      "desc": "Fique por dentro de tudo o que rolou durante a semana nos esportes e veja os gols pelo mundo afora. Entrevistas, reportagens sobre ciência esportiva e personagens históricos também fazem parte da atração.",
-      "start_date": "2026-07-06T13:10:00-03:00",
-      "title": "Esporte Espetacular"
+      "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
+      "start_date": "2026-07-06T11:45:00-03:00",
+      "title": "Jornal do Almoço"
     },
     {
-      "desc": "Todo final de semana, Luciano Huck oferece o melhor do entretenimento, com quadros divertidos e emocionantes, muita música, a presença marcante de famosos e matérias especiais pelo Brasil.",
-      "start_date": "2026-07-06T14:05:00-03:00",
-      "title": "Domingão com Huck"
+      "desc": "As principais notícias esportivas do Brasil e do mundo.",
+      "start_date": "2026-07-06T13:00:00-03:00",
+      "title": "Globo Esporte"
     },
     {
-      "desc": "Escalações, preparativos e tudo o que antecede os principais eventos do mundo dos esportes.",
-      "start_date": "2026-07-06T15:30:00-03:00",
-      "title": "Pré-Hora"
+      "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
+      "start_date": "2026-07-06T13:25:00-03:00",
+      "title": "Jornal Hoje"
     },
     {
-      "desc": "Brasil e Noruega jogam nas oitavas de final, no Estádio de Nova York/Nova Jersey. Os brasileiros bateram o Japão por 2 a 1, com gol de Gabriel Martinelli nos acréscimos. Erling Haaland marcou o gol da vitória norueguesa contra Costa do Marfim.",
+      "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
+      "start_date": "2026-07-06T14:40:00-03:00",
+      "title": "Além do Tempo - Edição Especial"
+    },
+    {
+      "desc": "Tom Baker decide se mudar com sua numerosa família para outra cidade para conseguir o emprego de seus sonhos: treinar a equipe de futebol de sua pequena cidade. Porém, ele percebe que não será fácil quando a esposa Kate faz uma turnê para promover seu livro e o deixa sozinho com os doze filhos.",
+      "start_date": "2026-07-06T15:25:00-03:00",
+      "title": "Doze É Demais"
+    },
+    {
+      "desc": "Carminha procura por Tufão; Jorginho acredita que Tufão vai se divorciar de Nina; Tufão diz que sente falta de Monalisa; Carminha fica furiosa ao descobrir que Tufão saiu com Monalisa; Carminha desabafa com Muricy; Nina e Jorginho se beijam.",
       "start_date": "2026-07-06T16:50:00-03:00",
-      "title": "Oitavas de Final: Brasil x Noruega"
+      "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
-      "desc": "Todo final de semana, Luciano Huck oferece o melhor do entretenimento, com quadros divertidos e emocionantes, muita música, a presença marcante de famosos e matérias especiais pelo Brasil.",
-      "start_date": "2026-07-06T19:10:00-03:00",
-      "title": "Domingão com Huck"
+      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
+      "start_date": "2026-07-06T18:05:00-03:00",
+      "title": "A Nobreza do Amor"
     },
     {
-      "desc": "Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência.",
+      "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
+      "start_date": "2026-07-06T18:45:00-03:00",
+      "title": "RBS Notícias"
+    },
+    {
+      "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
+      "start_date": "2026-07-06T19:15:00-03:00",
+      "title": "Coração Acelerado"
+    },
+    {
+      "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
       "start_date": "2026-07-06T20:30:00-03:00",
-      "title": "Fantástico"
+      "title": "Jornal Nacional"
     },
     {
-      "desc": "Loki, o irmão de Thor, ganha acesso ao poder ilimitado do cubo cósmico ao roubá-lo de dentro das instalações da S.H.I.E.L.D. Nick Fury, o diretor desta agência internacional que mantém a paz, logo reúne os únicos super-heróis que serão capazes de defender a Terra de ameaças sem precedentes. Homem de Ferro, Capitão América, Hulk, Thor, Viúva Negra e Gavião Arqueiro formam o time dos sonhos de Fury, mas eles precisam aprender a colocar os egos de lado e agir como um grupo em prol da humanidade.",
-      "start_date": "2026-07-06T23:35:00-03:00",
-      "title": "Os Vingadores"
+      "desc": "Adriana, após ser demitida, tem sua casa destruída por uma enchente e que também leva seu marido. Ainda sem entender como seguir, vai parar em um abrigo, onde cruza, pela primeira vez, com o caminho de Pedro.",
+      "start_date": "2026-07-06T21:20:00-03:00",
+      "title": "Quem Ama Cuida"
+    },
+    {
+      "desc": "Thor busca por paz, mas seus planos são interrompidos por Gorr, o Carniceiro dos Deuses, um assassino galáctico. Para combater esta ameaça, ele pede que Rei Valquíria, Korg e Jane Foster o ajudem.",
+      "start_date": "2026-07-06T22:20:00-03:00",
+      "title": "Thor: Amor e Trovão"
     }
   ],
   "start_date": "2026-07-06"

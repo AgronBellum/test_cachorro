@@ -4,19 +4,29 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-07-09T00:35:00-03:00",
-      "title": "A Nobreza do Amor"
+      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
+      "start_date": "2026-07-09T00:20:00-03:00",
+      "title": "Jornal da Globo"
+    },
+    {
+      "desc": "Pedro Bial debate e propõe o diálogo sobre assuntos contemporâneos, do Brasil e do mundo, com seus convidados.",
+      "start_date": "2026-07-09T01:10:00-03:00",
+      "title": "Conversa com Bial"
     },
     {
       "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-07-09T01:10:00-03:00",
+      "start_date": "2026-07-09T01:50:00-03:00",
       "title": "Coração Acelerado"
     },
     {
-      "desc": "Roque e Pudim, compositores da velha guarda da Vai-Vai, partilham um pequeno apartamento, décadas de amizade, o amor por sua escola de samba e uma dúvida sobre o que aconteceu com a passista Rita, paixão de ambos. No entanto, o surgimento de Ritinha, filha da grande paixão perdida, ameaça desmoronar a amizade deles.",
-      "start_date": "2026-07-09T01:55:00-03:00",
-      "title": "O Pai da Rita"
+      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "start_date": "2026-07-09T02:30:00-03:00",
+      "title": "Vai que Cola"
+    },
+    {
+      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "start_date": "2026-07-09T03:15:00-03:00",
+      "title": "Vai que Cola"
     },
     {
       "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
@@ -64,28 +74,28 @@
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Dona Lurdes, ao enfrentar um período de tristeza quando os filhos saem de casa, recupera-se e passa a aproveitar ainda mais a vida.",
-      "start_date": "2026-07-09T15:35:00-03:00",
-      "title": "Dona Lurdes, o Filme"
+      "desc": "Acompanhe uma produção cinematográfica.",
+      "start_date": "2026-07-09T15:25:00-03:00",
+      "title": "Filme"
     },
     {
       "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
-      "start_date": "2026-07-09T17:05:00-03:00",
+      "start_date": "2026-07-09T17:10:00-03:00",
       "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-07-09T18:25:00-03:00",
+      "start_date": "2026-07-09T18:30:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-07-09T19:10:00-03:00",
+      "start_date": "2026-07-09T19:15:00-03:00",
       "title": "RBS Notícias"
     },
     {
       "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-07-09T19:40:00-03:00",
+      "start_date": "2026-07-09T19:45:00-03:00",
       "title": "Coração Acelerado"
     },
     {
@@ -99,24 +109,14 @@
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "A obra mergulha na origem do gênero do pagode na periferia de São Paulo, sua ascensão nacional e seu legado atualmente.",
-      "start_date": "2026-07-09T22:10:00-03:00",
-      "title": "Anos 90 - A Explosão do Pagode"
+      "desc": "Acompanhe uma produção cinematográfica.",
+      "start_date": "2026-07-09T22:25:00-03:00",
+      "title": "Filme"
     },
     {
-      "desc": "Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.",
-      "start_date": "2026-07-09T22:50:00-03:00",
-      "title": "Central da Copa"
-    },
-    {
-      "desc": "Violentada pelo tio na adolescência, Carolina muda de cidade para se distanciar da situação. Ao voltar para Ceilândia, revive traumas do passado e decide denunciar seu abusador.",
+      "desc": "Acompanhe uma produção cinematográfica.",
       "start_date": "2026-07-09T23:10:00-03:00",
-      "title": "Justiça 2"
-    },
-    {
-      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-07-09T23:50:00-03:00",
-      "title": "Jornal da Globo"
+      "title": "Filme"
     }
   ],
   "start_date": "2026-07-09"

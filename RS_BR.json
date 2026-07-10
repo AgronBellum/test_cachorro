@@ -1,123 +1,118 @@
 {
-  "end_date": "2026-07-09",
+  "end_date": "2026-07-10",
   "name": "Globo RBS TV POA",
   "provider": "mi.tv",
   "epg_list": [
     {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-07-09T00:20:00-03:00",
+      "start_date": "2026-07-10T00:10:00-03:00",
       "title": "Jornal da Globo"
     },
     {
-      "desc": "Pedro Bial debate e propõe o diálogo sobre assuntos contemporâneos, do Brasil e do mundo, com seus convidados.",
-      "start_date": "2026-07-09T01:10:00-03:00",
-      "title": "Conversa com Bial"
-    },
-    {
       "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-07-09T01:50:00-03:00",
+      "start_date": "2026-07-10T01:00:00-03:00",
       "title": "Coração Acelerado"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-07-09T02:30:00-03:00",
+      "start_date": "2026-07-10T01:45:00-03:00",
       "title": "Vai que Cola"
     },
     {
-      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-07-09T03:15:00-03:00",
-      "title": "Vai que Cola"
+      "desc": "Em 1831, durante a travessia do Atlântico em uma fragata inglesa rumo à Europa, Pedro, o ex-imperador do Brasil, busca forças físicas e emocionais para enfrentar seu irmão, que usurpou seu reino em Portugal. Pedro se vê doente e inseguro. Ele entra na embarcação em busca de um lugar e também em busca de si mesmo.",
+      "start_date": "2026-07-10T02:30:00-03:00",
+      "title": "A Viagem de Pedro"
     },
     {
       "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
-      "start_date": "2026-07-09T04:00:00-03:00",
+      "start_date": "2026-07-10T04:00:00-03:00",
       "title": "Hora 1"
     },
     {
       "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
-      "start_date": "2026-07-09T06:00:00-03:00",
+      "start_date": "2026-07-10T06:00:00-03:00",
       "title": "Bom Dia Rio Grande"
     },
     {
       "desc": "Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.",
-      "start_date": "2026-07-09T08:30:00-03:00",
+      "start_date": "2026-07-10T08:30:00-03:00",
       "title": "Bom Dia Brasil"
     },
     {
       "desc": "O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.",
-      "start_date": "2026-07-09T09:30:00-03:00",
+      "start_date": "2026-07-10T09:30:00-03:00",
       "title": "Encontro com Patrícia Poeta"
     },
     {
       "desc": "Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.",
-      "start_date": "2026-07-09T10:35:00-03:00",
+      "start_date": "2026-07-10T10:35:00-03:00",
       "title": "Mais Você"
     },
     {
       "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-07-09T11:45:00-03:00",
+      "start_date": "2026-07-10T11:45:00-03:00",
       "title": "Jornal do Almoço"
     },
     {
       "desc": "As principais notícias esportivas do Brasil e do mundo.",
-      "start_date": "2026-07-09T13:00:00-03:00",
+      "start_date": "2026-07-10T13:00:00-03:00",
       "title": "Globo Esporte"
     },
     {
       "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
-      "start_date": "2026-07-09T13:25:00-03:00",
+      "start_date": "2026-07-10T13:25:00-03:00",
       "title": "Jornal Hoje"
     },
     {
       "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
-      "start_date": "2026-07-09T14:45:00-03:00",
+      "start_date": "2026-07-10T14:35:00-03:00",
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Acompanhe uma produção cinematográfica.",
-      "start_date": "2026-07-09T15:25:00-03:00",
-      "title": "Filme"
-    },
-    {
       "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
-      "start_date": "2026-07-09T17:10:00-03:00",
+      "start_date": "2026-07-10T15:20:00-03:00",
       "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
-      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-07-09T18:30:00-03:00",
-      "title": "A Nobreza do Amor"
+      "desc": "França e Marrocos jogam nas quartas de final, no Estádio de Boston. Os franceses bateram o Paraguai por 1 a 0, com o décimo-sexto gol de Kylian Mbappé em Copas do Mundo. Já Marrocos venceu o Canadá por 3 a 0, com dois gols de Azzedine Ounahi.",
+      "start_date": "2026-07-10T16:35:00-03:00",
+      "title": "Quartas de Final: França x Marrocos"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-07-09T19:15:00-03:00",
+      "start_date": "2026-07-10T19:10:00-03:00",
       "title": "RBS Notícias"
     },
     {
       "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-07-09T19:45:00-03:00",
+      "start_date": "2026-07-10T19:40:00-03:00",
       "title": "Coração Acelerado"
     },
     {
       "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-07-09T20:30:00-03:00",
+      "start_date": "2026-07-10T20:30:00-03:00",
       "title": "Jornal Nacional"
     },
     {
       "desc": "Adriana, após ser demitida, tem sua casa destruída por uma enchente e que também leva seu marido. Ainda sem entender como seguir, vai parar em um abrigo, onde cruza, pela primeira vez, com o caminho de Pedro.",
-      "start_date": "2026-07-09T21:20:00-03:00",
+      "start_date": "2026-07-10T21:20:00-03:00",
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "Acompanhe uma produção cinematográfica.",
-      "start_date": "2026-07-09T22:25:00-03:00",
-      "title": "Filme"
+      "desc": "Com uma proposta irrecusável do padre da cidade, Pablo e Luisão pegam um empréstimo com agiota para vender salgados em uma romaria, mas são surpreendidos com a concorrência.",
+      "start_date": "2026-07-10T22:25:00-03:00",
+      "title": "Pablo & Luisão"
     },
     {
-      "desc": "Acompanhe uma produção cinematográfica.",
-      "start_date": "2026-07-09T23:10:00-03:00",
-      "title": "Filme"
+      "desc": "Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.",
+      "start_date": "2026-07-10T22:55:00-03:00",
+      "title": "Central da Copa"
+    },
+    {
+      "desc": "Renato, um traficante de classe média, se muda para a comunidade do Sol Nascente. Com seu som alto ligado 24 horas por dia, passa a entrar em conflito com as vizinhas Geíza e Sandra.",
+      "start_date": "2026-07-10T23:15:00-03:00",
+      "title": "Justiça 2"
     }
   ],
-  "start_date": "2026-07-09"
+  "start_date": "2026-07-10"
 }

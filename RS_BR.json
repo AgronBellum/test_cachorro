@@ -4,34 +4,14 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.",
-      "start_date": "2026-07-12T00:35:00-03:00",
-      "title": "Central da Copa"
+      "desc": "O agente federal Doug Carlin viaja para investigar a causa de uma explosão fatal que ocorreu em Nova Orleans. Ele descobre um meio de viajar no tempo e, consequentemente, evitar que a tragédia aconteça.",
+      "start_date": "2026-07-12T01:50:00-03:00",
+      "title": "Déjà Vu"
     },
     {
-      "desc": "Aimée é herdeira de um milionário envolvido com corrupção. Influenciadora digital, seus bens são bloqueados pela Receita Federal. Forçada a ficar sem o dinheiro do pai, Aimée precisa se refugiar em uma fazenda em ruínas no interior do Ceará.",
-      "start_date": "2026-07-12T00:50:00-03:00",
-      "title": "Bem-Vinda a Quixeramobim"
-    },
-    {
-      "desc": "Chinua revela a Dumi que Kênia foi encarcerada a mando de Jendal e Alika afirma a Tonho que tem uma dívida de gratidão com Omar.",
-      "start_date": "2026-07-12T02:40:00-03:00",
-      "title": "A Nobreza do Amor"
-    },
-    {
-      "desc": "Ronei lembra João Raul sobre a multa para rescindir seu contrato, e Walmir se desespera. Alaorzinho aprova a declaração pública de amor de Gael para Naiane.",
-      "start_date": "2026-07-12T03:15:00-03:00",
-      "title": "Coração Acelerado"
-    },
-    {
-      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-07-12T03:50:00-03:00",
-      "title": "Vai que Cola"
-    },
-    {
-      "desc": "O sonho de Pérola é ser uma chef de cozinha. Seu desejo fica perto de se tornar realidade quando é chamada para ser assistente de um renomado chef em um programa de TV.",
-      "start_date": "2026-07-12T04:30:00-03:00",
-      "title": "Uma Pitada de Sorte"
+      "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
+      "start_date": "2026-07-12T04:00:00-03:00",
+      "title": "Hora 1"
     },
     {
       "desc": "Acompanhe a celebração da santa missa em João Pessoa.",
@@ -39,94 +19,64 @@
       "title": "Santa Missa"
     },
     {
-      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
-      "start_date": "2026-07-12T06:00:00-03:00",
-      "title": "Globo Rural"
-    },
-    {
-      "desc": "As principais notícias do Brasil para começar o final de semana bem-informado.",
-      "start_date": "2026-07-12T06:50:00-03:00",
-      "title": "Bom Dia Sábado"
-    },
-    {
-      "desc": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários.",
-      "start_date": "2026-07-12T07:50:00-03:00",
-      "title": "Pequenas Empresas & Grandes Negócios"
+      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
+      "start_date": "2026-07-12T06:40:00-03:00",
+      "title": "Globo Repórter"
     },
     {
       "desc": "Um programa democrático que aborda as diversas áreas da cultura gaúcha, e também apresenta quadros de turismo, gastronomia e as informações do agronegócio.",
-      "start_date": "2026-07-12T08:30:00-03:00",
+      "start_date": "2026-07-12T07:30:00-03:00",
       "title": "Galpão Crioulo"
     },
     {
-      "desc": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa.",
-      "start_date": "2026-07-12T09:00:00-03:00",
-      "title": "É de Casa"
+      "desc": "A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes.",
+      "start_date": "2026-07-12T08:00:00-03:00",
+      "title": "AutoEsporte"
     },
     {
-      "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-07-12T11:45:00-03:00",
-      "title": "Jornal do Almoço"
+      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
+      "start_date": "2026-07-12T08:30:00-03:00",
+      "title": "Globo Rural"
     },
     {
-      "desc": "As principais notícias esportivas do Brasil e do mundo.",
-      "start_date": "2026-07-12T13:00:00-03:00",
-      "title": "Globo Esporte"
+      "desc": "Daniel abre a porteira de sua fazenda para receber grandes astros da música sertaneja. Juntos, eles relembram suas trajetórias, falam sobre suas inspirações e se deixam levar pelas modas de viola.",
+      "start_date": "2026-07-12T10:05:00-03:00",
+      "title": "Viver Sertanejo"
     },
     {
-      "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
-      "start_date": "2026-07-12T13:25:00-03:00",
-      "title": "Jornal Hoje"
+      "desc": "Fique por dentro de tudo o que rolou durante a semana nos esportes e veja os gols pelo mundo afora. Entrevistas, reportagens sobre ciência esportiva e personagens históricos também fazem parte da atração.",
+      "start_date": "2026-07-12T11:00:00-03:00",
+      "title": "Esporte Espetacular"
     },
     {
-      "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
-      "start_date": "2026-07-12T14:10:00-03:00",
-      "title": "Além do Tempo - Edição Especial"
+      "desc": "O mundo fica chocado quando grupo de viajantes do tempo chega em 2051 para entregar mensagem urgente: trinta anos no futuro, a humanidade está perdendo guerra global contra espécie alienígena mortal.",
+      "start_date": "2026-07-12T12:25:00-03:00",
+      "title": "A Guerra do Amanhã"
     },
     {
-      "desc": "De uma forma leve e divertida, muito entretenimento e informação a partir de personagens inspiradores em assuntos como cultura, bem-estar, lazer, música, viagem, gastronomia e sustentabilidade.",
-      "start_date": "2026-07-12T14:40:00-03:00",
-      "title": "Baita Sábado"
+      "desc": "Eliana recebe cantora gospel Sarah Beatriz e, além disso, visita casa de Susana Vieira, no RJ.",
+      "start_date": "2026-07-12T14:15:00-03:00",
+      "title": "Em Família com Eliana"
     },
     {
-      "desc": "Uma experiência que resgata o valor dos encontros. Porque existem momentos que não se medem pelo relógio, mas pelo estalo da lenha e pelo aroma da carne na brasa.",
-      "start_date": "2026-07-12T15:50:00-03:00",
-      "title": "Tempo Bueno"
+      "desc": "Billy Batson tem apenas 14 anos, mas recebeu de um antigo mago o dom de se transformar em um super-herói adulto chamado Shazam. Ao gritar a palavra \"Shazam!\", o adolescente se transforma nessa sua poderosa versão adulta para se divertir e testar suas habilidades. Contudo, ele precisa aprender a controlar seus poderes para enfrentar o malvado Dr. Thaddeus Sivana.",
+      "start_date": "2026-07-12T15:30:00-03:00",
+      "title": "Shazam!"
     },
     {
-      "desc": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais.",
-      "start_date": "2026-07-12T16:15:00-03:00",
-      "title": "Caldeirão com Mion"
+      "desc": "Todo final de semana, Luciano Huck oferece o melhor do entretenimento, com quadros divertidos e emocionantes, muita música, a presença marcante de famosos e matérias especiais pelo Brasil.",
+      "start_date": "2026-07-12T17:30:00-03:00",
+      "title": "Domingão com Huck"
     },
     {
-      "desc": "Chinua revela a Dumi que Kênia foi encarcerada a mando de Jendal e Alika afirma a Tonho que tem uma dívida de gratidão com Omar.",
-      "start_date": "2026-07-12T18:40:00-03:00",
-      "title": "A Nobreza do Amor"
-    },
-    {
-      "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-07-12T19:20:00-03:00",
-      "title": "RBS Notícias"
-    },
-    {
-      "desc": "Ronei lembra João Raul sobre a multa para rescindir seu contrato, e Walmir se desespera. Alaorzinho aprova a declaração pública de amor de Gael para Naiane.",
-      "start_date": "2026-07-12T19:40:00-03:00",
-      "title": "Coração Acelerado"
-    },
-    {
-      "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
+      "desc": "Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência.",
       "start_date": "2026-07-12T20:30:00-03:00",
-      "title": "Jornal Nacional"
+      "title": "Fantástico"
     },
     {
-      "desc": "Lyris e Nancy aceitam ajudar Adriana. Lyris incentiva Adriana a contar a Pedro sobre o motivo que a levou a se afastar do advogado e Nicolau percebe que Brigitte está fantasiando ao dizer que César está interessado nela.",
-      "start_date": "2026-07-12T21:30:00-03:00",
-      "title": "Quem Ama Cuida"
-    },
-    {
-      "desc": "Serginho Groisman promove debates sobre temas relevantes com a participação da plateia, artistas e personalidades de diferentes áreas.",
-      "start_date": "2026-07-12T22:45:00-03:00",
-      "title": "Altas Horas"
+      "desc": "Um plano de resgate dá errado e um diplomata sul-coreano precisa se aventurar no coração do Líbano em uma última e desesperada tentativa de trazer seu colega de volta para casa.",
+      "start_date": "2026-07-12T23:35:00-03:00",
+      "title": "Resgate Internacional"
     }
   ],
   "start_date": "2026-07-12"

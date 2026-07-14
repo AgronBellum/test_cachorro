@@ -5,32 +5,27 @@
   "epg_list": [
     {
       "desc": "Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.",
-      "start_date": "2026-07-14T00:00:00-03:00",
+      "start_date": "2026-07-14T00:40:00-03:00",
       "title": "Central da Copa"
     },
     {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-07-14T00:15:00-03:00",
+      "start_date": "2026-07-14T01:10:00-03:00",
       "title": "Jornal da Globo"
     },
     {
       "desc": "Chinua revela a Dumi que Kênia foi encarcerada a mando de Jendal e Alika afirma a Tonho que tem uma dívida de gratidão com Omar.",
-      "start_date": "2026-07-14T01:05:00-03:00",
+      "start_date": "2026-07-14T02:00:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Ronei lembra João Raul sobre a multa para rescindir seu contrato, e Walmir se desespera. Alaorzinho aprova a declaração pública de amor de Gael para Naiane.",
-      "start_date": "2026-07-14T01:45:00-03:00",
+      "start_date": "2026-07-14T02:40:00-03:00",
       "title": "Coração Acelerado"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-07-14T02:30:00-03:00",
-      "title": "Vai que Cola"
-    },
-    {
-      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-07-14T03:15:00-03:00",
+      "start_date": "2026-07-14T03:25:00-03:00",
       "title": "Vai que Cola"
     },
     {
@@ -79,9 +74,9 @@
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "O Dr. Dolittle vive com uma variedade de animais e conversa com eles diariamente. A jovem rainha Victoria fica doente e o médico e seus amigos peludos embarcam em uma aventura épica em uma ilha mítica para encontrarem a cura.",
+      "desc": "Acompanhe as emoções dos filmes especialmente selecionados para a sua família.",
       "start_date": "2026-07-14T15:25:00-03:00",
-      "title": "Dolittle"
+      "title": "Sessão da Tarde"
     },
     {
       "desc": "Nina ironiza Max por salvá-lo; Suelen é ameaçada; Zezé acusa Nina de ter tentado roubar Tufão; Monalisa revela sem querer que perdeu um filho de Tufão; Débora e Jorginho discutem; Tufão diz a Nina que está apaixonado por outra mulher.",
@@ -114,9 +109,19 @@
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "Nando trabalha como entregador em uma lanchonete de Copacabana e sonha em ser uma estrela do trap, mas não tem muitas oportunidades. Até que ele conhece Jaque, uma moça acostumada desde cedo a se virar para sobreviver - nem sempre da forma mais convencional. Jaque acredita no potencial de Nando e decide, à sua maneira, lançá-lo como artista.",
+      "desc": "Para economizar, Luisão decide se mudar com a família. Mas o novo endereço é, na verdade, uma sala comercial na frente da escola dos filhos, expondo todo o grupo.",
       "start_date": "2026-07-14T22:25:00-03:00",
-      "title": "Confia - Sonho de Cria"
+      "title": "Pablo & Luisão"
+    },
+    {
+      "desc": "Pedro Bial debate e propõe o diálogo sobre assuntos contemporâneos, do Brasil e do mundo, com seus convidados.",
+      "start_date": "2026-07-14T23:00:00-03:00",
+      "title": "Conversa com Bial"
+    },
+    {
+      "desc": "Balthazar sai da cadeia e, por acaso, encontra Silvana. Ele a confronta e ela decide ajudá-lo, convencida de que ele é inocente; uma festa em Brasília reúne os poderosos da cidade.",
+      "start_date": "2026-07-14T23:50:00-03:00",
+      "title": "Justiça 2"
     }
   ],
   "start_date": "2026-07-14"

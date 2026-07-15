@@ -4,28 +4,28 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.",
-      "start_date": "2026-07-15T00:40:00-03:00",
-      "title": "Central da Copa"
-    },
-    {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-07-15T01:10:00-03:00",
+      "start_date": "2026-07-15T00:05:00-03:00",
       "title": "Jornal da Globo"
     },
     {
       "desc": "Dumi, Akin e Ladisa são perseguidos por Pascoal e a guarda real, mas conseguem fugir. Pascoal encontra a chave do esconderijo que Ladisa deixou cair durante a fuga.",
-      "start_date": "2026-07-15T02:00:00-03:00",
+      "start_date": "2026-07-15T00:55:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "João Raul e Agrado namoram. Ronei tenta intrigar Eduarda contra Agrado. Gael e Naiane ficam juntos, e Zilá se preocupa e Laurinha gosta das atitudes de Malvino.",
-      "start_date": "2026-07-15T02:40:00-03:00",
+      "start_date": "2026-07-15T01:35:00-03:00",
       "title": "Coração Acelerado"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-07-15T03:25:00-03:00",
+      "start_date": "2026-07-15T02:40:00-03:00",
+      "title": "Vai que Cola"
+    },
+    {
+      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "start_date": "2026-07-15T03:20:00-03:00",
       "title": "Vai que Cola"
     },
     {
@@ -74,33 +74,28 @@
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Um piloto de uma pequena cidade morre misteriosamente durante o voo. Em pânico, o passageiro Doug White tenta pousar o avião e salvar toda a sua família.",
-      "start_date": "2026-07-15T15:25:00-03:00",
-      "title": "Fé nas Alturas"
-    },
-    {
-      "desc": "Jorginho vai atrás de Nina e a questiona sobre eles ficarem juntos; Carminha conta plano para Max; Carminha comunica à família que deixará a mansão; Max vai atrás de Tufão devido à situação de Carminha; Tufão tenta convencer Carminha a ficar.",
-      "start_date": "2026-07-15T17:05:00-03:00",
-      "title": "Vale a Pena Ver de Novo - Avenida Brasil"
+      "desc": "Cobertura da 23ª edição do maior torneio de futebol entre seleções do mundo, que, pela primeira vez em sua história, conta com três sedes diferentes. Canadá, Estados Unidos e México são os países anfitriões, em uma versão com 48 países participantes.",
+      "start_date": "2026-07-15T16:00:00-03:00",
+      "title": "Semifinal: Inglaterra x Argentina"
     },
     {
       "desc": "Dumi, Akin e Ladisa são perseguidos por Pascoal e a guarda real, mas conseguem fugir. Pascoal encontra a chave do esconderijo que Ladisa deixou cair durante a fuga.",
-      "start_date": "2026-07-15T18:25:00-03:00",
+      "start_date": "2026-07-15T18:05:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-07-15T19:10:00-03:00",
+      "start_date": "2026-07-15T18:45:00-03:00",
       "title": "RBS Notícias"
     },
     {
       "desc": "João Raul e Agrado namoram. Ronei tenta intrigar Eduarda contra Agrado. Gael e Naiane ficam juntos, e Zilá se preocupa e Laurinha gosta das atitudes de Malvino.",
-      "start_date": "2026-07-15T19:40:00-03:00",
+      "start_date": "2026-07-15T19:15:00-03:00",
       "title": "Coração Acelerado"
     },
     {
       "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-07-15T20:30:00-03:00",
+      "start_date": "2026-07-15T20:00:00-03:00",
       "title": "Jornal Nacional"
     },
     {
@@ -109,18 +104,18 @@
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "Para economizar, Luisão decide se mudar com a família. Mas o novo endereço é, na verdade, uma sala comercial na frente da escola dos filhos, expondo todo o grupo.",
+      "desc": "A obra mergulha na origem do gênero do pagode na periferia de São Paulo, sua ascensão nacional e seu legado atualmente.",
       "start_date": "2026-07-15T22:25:00-03:00",
-      "title": "Pablo & Luisão"
+      "title": "Anos 90 - A Explosão do Pagode"
     },
     {
-      "desc": "Os fundadores do Porta dos Fundos, Gregório Duvivier, João Vicente de Castro e Fábio Porchat são os convidados do \"Conversa com Bial\".",
+      "desc": "Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.",
       "start_date": "2026-07-15T23:00:00-03:00",
-      "title": "Conversa com Bial"
+      "title": "Central da Copa"
     },
     {
-      "desc": "Balthazar sai da cadeia e, por acaso, encontra Silvana. Ele a confronta e ela decide ajudá-lo, convencida de que ele é inocente; uma festa em Brasília reúne os poderosos da cidade.",
-      "start_date": "2026-07-15T23:50:00-03:00",
+      "desc": "Com Jayme fora da cadeia e de volta à frente dos negócios da família, Carolina pede demissão do pet shop e passa a trabalhar como contadora no prostíbulo Las Primas.",
+      "start_date": "2026-07-15T23:15:00-03:00",
       "title": "Justiça 2"
     }
   ],

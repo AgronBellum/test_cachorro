@@ -4,34 +4,34 @@
   "provider": "mi.tv",
   "epg_list": [
     {
+      "desc": "Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.",
+      "start_date": "2026-07-17T00:15:00-03:00",
+      "title": "Central da Copa"
+    },
+    {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-07-17T00:05:00-03:00",
+      "start_date": "2026-07-17T00:30:00-03:00",
       "title": "Jornal da Globo"
     },
     {
       "desc": "Tonho e Alika combinam de se casar no dia da festa da moagem, e sua família comemora. Virgínia se irrita quando Mirinho se recusa a fugir com ela. Graça incentiva Mirinho a convencer Diógenes a abrir agência de banco em uma outra capital.",
-      "start_date": "2026-07-17T00:55:00-03:00",
+      "start_date": "2026-07-17T01:20:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Xavier exige que Zilá lhe dê mais dinheiro em troca de seu silêncio sobre Soraia e Esteban, Naiane e Laurinha pensam em editar o vídeo de Gael atrapalhado no restaurante.",
-      "start_date": "2026-07-17T01:35:00-03:00",
+      "start_date": "2026-07-17T02:00:00-03:00",
       "title": "Coração Acelerado"
     },
     {
-      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-07-17T02:20:00-03:00",
-      "title": "Vai que Cola"
+      "desc": "O romance intenso de um casal começa a esfriar depois de dez anos juntos. A dupla tenta esquentar o relacionamento e decide se gravar fazendo sexo. Parece uma grande ideia, até que eles descobrem que seus momentos mais íntimos tornaram-se públicos na internet. Em pânico, eles correm contra o tempo atrás da constrangedora gravação.",
+      "start_date": "2026-07-17T02:45:00-03:00",
+      "title": "Sex Tape - Perdido na Nuvem"
     },
     {
-      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-07-17T03:10:00-03:00",
-      "title": "Vai que Cola"
-    },
-    {
-      "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
+      "desc": "Quincas é funcionário público cansado da vida que leva. Um dia, ele resolve deixar sua família e cair na farra, ganhando fama como Quincas Berro d'Água, mas acaba falecendo em uma de suas festas. A família tenta organizar um enterro respeitável, mas seus amigos planejam levá-lo em uma última aventura.",
       "start_date": "2026-07-17T04:00:00-03:00",
-      "title": "Hora 1"
+      "title": "Quincas Berro d'Água"
     },
     {
       "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
@@ -74,9 +74,9 @@
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Desde que se separou da esposa, Gabriel concentra toda a sua atenção na filha Sofia, sem a menor intenção de se apaixonar novamente. Mas a chegada de um amor platônico da adolescência pode fazer Gabriel mudar de opinião.",
+      "desc": "Dominic Toretto descobre que sua amada Letty foi assassinada e resolve procurar pelo autor do crime. Enquanto isso, o agente Brian O'Conner está em busca de um traficante de drogas. Eles percebem que talvez estejam atrás da mesma pessoa.",
       "start_date": "2026-07-17T15:25:00-03:00",
-      "title": "Sem Filhos"
+      "title": "Velozes e Furiosos 4"
     },
     {
       "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
@@ -109,18 +109,23 @@
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "Paulo faz curso de teatro e Luisão acredita que o filho usa drogas, passando a espioná-lo. Para acalmar Luisão, Pablo oferece ao amigo um chá que os coloca em uma enrascada.",
+      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
       "start_date": "2026-07-17T22:25:00-03:00",
-      "title": "Pablo & Luisão"
+      "title": "Globo Repórter"
     },
     {
       "desc": "Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.",
-      "start_date": "2026-07-17T23:00:00-03:00",
+      "start_date": "2026-07-17T23:15:00-03:00",
       "title": "Central da Copa"
     },
     {
-      "desc": "Geíza faz pressão para que Sandra peça demissão; o deputado Olavo Ferrero passa mal durante uma festa e seu esquema de corrupção com Nestor Teixeira é descoberto.",
-      "start_date": "2026-07-17T23:15:00-03:00",
+      "desc": "Uma prévia das eletrizantes corridas da Fórmula 1, com uma visão prática, técnica e acessível dos aspectos mais importantes da principal categoria do automobilismo mundial.",
+      "start_date": "2026-07-17T23:30:00-03:00",
+      "title": "Grid da Globo"
+    },
+    {
+      "desc": "Jordana aceita a proposta de Milena e se compromete a lançar a carreira dela como cantora; primeiro show de Milena na festa dos poderosos é sucesso absoluto.",
+      "start_date": "2026-07-17T23:40:00-03:00",
       "title": "Justiça 2"
     }
   ],

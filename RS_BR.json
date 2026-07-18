@@ -4,18 +4,23 @@
   "provider": "mi.tv",
   "epg_list": [
     {
+      "desc": "Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.",
+      "start_date": "2026-07-18T00:15:00-03:00",
+      "title": "Central da Copa"
+    },
+    {
       "desc": "Rita, Nina e Nelita são amigas desde muito jovens e sempre sonharam em ficar ricas. Depois de 50 anos jogando na loteria sem sucesso, finalmente elas ganham o suficiente para arrumar suas vidas e escondem o prêmio de seus maridos.",
       "start_date": "2026-07-18T00:30:00-03:00",
       "title": "Amigas de Sorte"
     },
     {
       "desc": "Xavier exige que Zilá lhe dê mais dinheiro em troca de seu silêncio sobre Soraia e Esteban, Naiane e Laurinha pensam em editar o vídeo de Gael atrapalhado no restaurante.",
-      "start_date": "2026-07-18T01:50:00-03:00",
+      "start_date": "2026-07-18T02:20:00-03:00",
       "title": "Coração Acelerado"
     },
     {
       "desc": "Johannes Van Almeida, um pintor que acaba de sair da prisão, quer recomeçar sua vida, mas tudo muda quando a negociante de arte, Antoinette, e a atriz internacional em crise, Florence Lizz, ficam em seu caminho.",
-      "start_date": "2026-07-18T02:15:00-03:00",
+      "start_date": "2026-07-18T02:45:00-03:00",
       "title": "Vermelho Monet"
     },
     {
@@ -25,7 +30,7 @@
     },
     {
       "desc": "Acompanhe a celebração da santa missa em João Pessoa.",
-      "start_date": "2026-07-18T05:45:00-03:00",
+      "start_date": "2026-07-18T05:50:00-03:00",
       "title": "Santa Missa"
     },
     {
@@ -89,7 +94,7 @@
       "title": "Caldeirão com Mion"
     },
     {
-      "desc": "Cobertura da 23ª edição do maior torneio de futebol entre seleções do mundo, que, pela primeira vez em sua história, conta com três sedes diferentes. Canadá, Estados Unidos e México são os países anfitriões, em uma versão com 48 países participantes.",
+      "desc": "França e Inglaterra disputam o terceiro lugar da Copa do Mundo, no Estádio de Miami. Os franceses perderam por 2 a 0 para a Espanha na semifinal, enquanto que os ingleses foram batidos de virada para a Argentina, por 2 a 1, com gol de Anthony Gordon.",
       "start_date": "2026-07-18T17:45:00-03:00",
       "title": "Disputa de Terceiro Lugar: França x Inglaterra"
     },

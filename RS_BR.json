@@ -4,29 +4,19 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.",
-      "start_date": "2026-07-19T00:15:00-03:00",
-      "title": "Central da Copa"
+      "desc": "Agente do FBI troca de rosto com um terrorista para vingar a morte do filho, mas tudo se transforma em um grande pesadelo e ele precisa lutar pela sua vida e também de sua família.",
+      "start_date": "2026-07-19T01:30:00-03:00",
+      "title": "A Outra Face"
     },
     {
-      "desc": "Rita, Nina e Nelita são amigas desde muito jovens e sempre sonharam em ficar ricas. Depois de 50 anos jogando na loteria sem sucesso, finalmente elas ganham o suficiente para arrumar suas vidas e escondem o prêmio de seus maridos.",
-      "start_date": "2026-07-19T00:30:00-03:00",
-      "title": "Amigas de Sorte"
+      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "start_date": "2026-07-19T03:15:00-03:00",
+      "title": "Vai que Cola"
     },
     {
-      "desc": "Xavier exige que Zilá lhe dê mais dinheiro em troca de seu silêncio sobre Soraia e Esteban, Naiane e Laurinha pensam em editar o vídeo de Gael atrapalhado no restaurante.",
-      "start_date": "2026-07-19T02:20:00-03:00",
-      "title": "Coração Acelerado"
-    },
-    {
-      "desc": "Johannes Van Almeida, um pintor que acaba de sair da prisão, quer recomeçar sua vida, mas tudo muda quando a negociante de arte, Antoinette, e a atriz internacional em crise, Florence Lizz, ficam em seu caminho.",
-      "start_date": "2026-07-19T02:45:00-03:00",
-      "title": "Vermelho Monet"
-    },
-    {
-      "desc": "O capitão Sabertooth lidera um bando de piratas em alto-mar. A bordo de seu navio, estão o desajeitado Wally e o jovem Tiny. Em busca do reconhecimento de outros piratas, a dupla se aventura em uma longa e perigosa viagem atrás de um tesouro perdido.",
+      "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
       "start_date": "2026-07-19T04:00:00-03:00",
-      "title": "Aventura dos Sete Mares"
+      "title": "Hora 1"
     },
     {
       "desc": "Acompanhe a celebração da santa missa em João Pessoa.",
@@ -34,89 +24,59 @@
       "title": "Santa Missa"
     },
     {
-      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
-      "start_date": "2026-07-19T06:00:00-03:00",
-      "title": "Globo Rural"
-    },
-    {
-      "desc": "As principais notícias do Brasil para começar o final de semana bem-informado.",
-      "start_date": "2026-07-19T06:50:00-03:00",
-      "title": "Bom Dia Sábado"
-    },
-    {
-      "desc": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários.",
-      "start_date": "2026-07-19T07:50:00-03:00",
-      "title": "Pequenas Empresas & Grandes Negócios"
+      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
+      "start_date": "2026-07-19T06:35:00-03:00",
+      "title": "Globo Repórter"
     },
     {
       "desc": "Um programa democrático que aborda as diversas áreas da cultura gaúcha, e também apresenta quadros de turismo, gastronomia e as informações do agronegócio.",
-      "start_date": "2026-07-19T08:30:00-03:00",
+      "start_date": "2026-07-19T07:25:00-03:00",
       "title": "Galpão Crioulo"
     },
     {
-      "desc": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa.",
-      "start_date": "2026-07-19T09:00:00-03:00",
-      "title": "É de Casa"
+      "desc": "A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes.",
+      "start_date": "2026-07-19T07:55:00-03:00",
+      "title": "AutoEsporte"
     },
     {
-      "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-07-19T11:45:00-03:00",
-      "title": "Jornal do Almoço"
+      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
+      "start_date": "2026-07-19T08:30:00-03:00",
+      "title": "Globo Rural"
     },
     {
-      "desc": "As principais notícias esportivas do Brasil e do mundo.",
-      "start_date": "2026-07-19T13:00:00-03:00",
-      "title": "Globo Esporte"
+      "desc": "Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.",
+      "start_date": "2026-07-19T09:40:00-03:00",
+      "title": "GP da Bélgica"
     },
     {
-      "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
-      "start_date": "2026-07-19T13:25:00-03:00",
-      "title": "Jornal Hoje"
+      "desc": "Fique por dentro de tudo o que rolou durante a semana nos esportes e veja os gols pelo mundo afora. Entrevistas, reportagens sobre ciência esportiva e personagens históricos também fazem parte da atração.",
+      "start_date": "2026-07-19T12:00:00-03:00",
+      "title": "Esporte Espetacular"
     },
     {
-      "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
-      "start_date": "2026-07-19T14:10:00-03:00",
-      "title": "Além do Tempo - Edição Especial"
+      "desc": "Destaques e principais acontecimentos do mundial, que acontece no Canadá, México e Estados Unidos.",
+      "start_date": "2026-07-19T14:00:00-03:00",
+      "title": "Copa do Mundo da FIFA 2026"
     },
     {
-      "desc": "De uma forma leve e divertida, muito entretenimento e informação a partir de personagens inspiradores em assuntos como cultura, bem-estar, lazer, música, viagem, gastronomia e sustentabilidade.",
-      "start_date": "2026-07-19T14:40:00-03:00",
-      "title": "Baita Sábado"
+      "desc": "Espanha e Argentina jogam na final da Copa do Mundo, no Estádio de Nova York/Nova Jersey. Os espanhóis venceram a França por 2 a 0 para avançar à última fase, enquanto que os Argentinos venceram a Inglaterra de virada, com gol de Lionel Messi.",
+      "start_date": "2026-07-19T16:00:00-03:00",
+      "title": "Final: Espanha x Argentina"
     },
     {
-      "desc": "Uma experiência que resgata o valor dos encontros. Porque existem momentos que não se medem pelo relógio, mas pelo estalo da lenha e pelo aroma da carne na brasa.",
-      "start_date": "2026-07-19T15:40:00-03:00",
-      "title": "Tempo Bueno"
+      "desc": "Todo final de semana, Luciano Huck oferece o melhor do entretenimento, com quadros divertidos e emocionantes, muita música, a presença marcante de famosos e matérias especiais pelo Brasil.",
+      "start_date": "2026-07-19T19:05:00-03:00",
+      "title": "Domingão com Huck"
     },
     {
-      "desc": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais.",
-      "start_date": "2026-07-19T16:05:00-03:00",
-      "title": "Caldeirão com Mion"
-    },
-    {
-      "desc": "França e Inglaterra disputam o terceiro lugar da Copa do Mundo, no Estádio de Miami. Os franceses perderam por 2 a 0 para a Espanha na semifinal, enquanto que os ingleses foram batidos de virada para a Argentina, por 2 a 1, com gol de Anthony Gordon.",
-      "start_date": "2026-07-19T17:45:00-03:00",
-      "title": "Disputa de Terceiro Lugar: França x Inglaterra"
-    },
-    {
-      "desc": "Xavier exige que Zilá lhe dê mais dinheiro em troca de seu silêncio sobre Soraia e Esteban, Naiane e Laurinha pensam em editar o vídeo de Gael atrapalhado no restaurante.",
-      "start_date": "2026-07-19T20:05:00-03:00",
-      "title": "Coração Acelerado"
-    },
-    {
-      "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
+      "desc": "Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência.",
       "start_date": "2026-07-19T20:30:00-03:00",
-      "title": "Jornal Nacional"
+      "title": "Fantástico"
     },
     {
-      "desc": "Tiago adormece no sofá da casa de Bruna e Pedro. Carmita observa o anel de Pilar. Otoniel descobre quem é Francesca.",
-      "start_date": "2026-07-19T21:20:00-03:00",
-      "title": "Quem Ama Cuida"
-    },
-    {
-      "desc": "Serginho Groisman promove debates sobre temas relevantes com a participação da plateia, artistas e personalidades de diferentes áreas.",
-      "start_date": "2026-07-19T22:25:00-03:00",
-      "title": "Altas Horas"
+      "desc": "O ex-agente secreto Robert McCall acredita que seu passado ficou para trás e tenta viver uma nova vida. Ele conhece Alina, uma jovem que está sob poder de uma quadrilha russa, e simplesmente não consegue ignorá-la. Munido de suas extraordinárias habilidades, ele ressurge como um verdadeiro anjo vingador. Longe da aposentadoria e com um novo desejo de fazer justiça, McCall decide ajudar quem foi brutalizado e oprimido.",
+      "start_date": "2026-07-19T23:40:00-03:00",
+      "title": "O Protetor"
     }
   ],
   "start_date": "2026-07-19"

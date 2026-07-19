@@ -1,78 +1,8 @@
 {
-  "end_date": "2026-07-20",
+  "end_date": "2026-07-21",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
-    {
-      "desc": "",
-      "start_date": "2026-07-18T00:33:00-03:00",
-      "title": "Mentiras de Amor"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-18T01:21:00-03:00",
-      "title": "NXIVM - A Seita Sexual"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-18T02:53:00-03:00",
-      "title": "Ruby e Jodi - Uma Seita de Pecado e Poder"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-18T06:00:00-03:00",
-      "title": "Benjaman Kyle - O Homem sem Identidade"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-18T07:34:00-03:00",
-      "title": "Abdelmassih - Do Milagre ao Crime"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-18T10:39:00-03:00",
-      "title": "Abdelmassih - Do Milagre ao Crime"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-18T11:39:00-03:00",
-      "title": "NXIVM - A Seita Sexual"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-18T13:18:00-03:00",
-      "title": "Ruby e Jodi - Uma Seita de Pecado e Poder"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-18T16:33:00-03:00",
-      "title": "People Magazine: Por Dentro das Seitas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-18T17:24:00-03:00",
-      "title": "Onision - Abuso na Internet"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-18T21:18:00-03:00",
-      "title": "Como Não Matar Seu Amor"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-18T22:09:00-03:00",
-      "title": "O Paraíso das Plus Size - Abusos e Mentiras"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-18T22:53:00-03:00",
-      "title": "Prometo Ser Cruel"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-18T23:44:00-03:00",
-      "title": "Encontros Infernais"
-    },
     {
       "desc": "",
       "start_date": "2026-07-19T00:33:00-03:00",
@@ -142,7 +72,77 @@
       "desc": "",
       "start_date": "2026-07-19T23:44:00-03:00",
       "title": "Encontros Infernais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-20T00:33:00-03:00",
+      "title": "Mentiras de Amor"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-20T01:21:00-03:00",
+      "title": "NXIVM - A Seita Sexual"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-20T02:53:00-03:00",
+      "title": "Ruby e Jodi - Uma Seita de Pecado e Poder"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-20T06:00:00-03:00",
+      "title": "Benjaman Kyle - O Homem sem Identidade"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-20T07:34:00-03:00",
+      "title": "Abdelmassih - Do Milagre ao Crime"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-20T10:39:00-03:00",
+      "title": "Abdelmassih - Do Milagre ao Crime"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-20T11:39:00-03:00",
+      "title": "NXIVM - A Seita Sexual"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-20T13:18:00-03:00",
+      "title": "Ruby e Jodi - Uma Seita de Pecado e Poder"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-20T16:33:00-03:00",
+      "title": "People Magazine: Por Dentro das Seitas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-20T17:24:00-03:00",
+      "title": "Onision - Abuso na Internet"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-20T21:18:00-03:00",
+      "title": "Como Não Matar Seu Amor"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-20T22:09:00-03:00",
+      "title": "O Paraíso das Plus Size - Abusos e Mentiras"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-20T22:53:00-03:00",
+      "title": "Prometo Ser Cruel"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-20T23:44:00-03:00",
+      "title": "Encontros Infernais"
     }
   ],
-  "start_date": "2026-07-18"
+  "start_date": "2026-07-19"
 }

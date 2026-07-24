@@ -5,28 +5,33 @@
   "epg_list": [
     {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-07-24T00:35:00-03:00",
+      "start_date": "2026-07-24T00:15:00-03:00",
       "title": "Jornal da Globo"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-07-24T01:25:00-03:00",
+      "start_date": "2026-07-24T01:05:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-07-24T02:05:00-03:00",
+      "start_date": "2026-07-24T01:45:00-03:00",
       "title": "Coração Acelerado"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-07-24T02:50:00-03:00",
+      "start_date": "2026-07-24T02:30:00-03:00",
       "title": "Vai que Cola"
     },
     {
-      "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
-      "start_date": "2026-07-24T04:00:00-03:00",
-      "title": "Hora 1"
+      "desc": "Jovem, intensa e autêntica, Dani só queria levar uma vida normal. Mas, desde criança, vive em descompasso com seu mundo. Enquanto encanta a todos com o talento que a torna uma brilhante escritora, ela tenta de todas as formas controlar seus medos e constantes crises de ansiedade.",
+      "start_date": "2026-07-24T03:25:00-03:00",
+      "title": "Depois a Louca Sou Eu"
+    },
+    {
+      "desc": "Um homem que não encontra rumo na vida é confundido com famoso palestrante motivacional. Ao tomar seu lugar, ele tenta achar uma razão para viver.",
+      "start_date": "2026-07-24T04:35:00-03:00",
+      "title": "O Palestrante"
     },
     {
       "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
@@ -69,13 +74,13 @@
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Um homem e sua ex-esposa correm para Bali para impedir que sua filha se case. Enquanto tentam sabotar desesperadamente o casamento, a dupla brigona logo se vê reacendendo velhos sentimentos que um dia os fizeram felizes juntos.",
-      "start_date": "2026-07-24T15:30:00-03:00",
-      "title": "Ingresso para o Paraíso"
+      "desc": "No reino de Auradon, Ben, o bondoso filho adolescente do Rei Fera e da Rainha Bela, assume o trono. Ele permite que descendentes dos vilões entrem em Auradon, pela primeira vez, para frequentarem a escola, ao lado dos filhos adolescentes da Fada Madrinha, Cinderela, Bela Adormecida e Mulan. À medida que os filhos do mal conhecem os filhos do bem, suas histórias começam a incorporar temas encorajadores relacionados à autoconfiança, beleza interior, responsabilidade e justiça.",
+      "start_date": "2026-07-24T15:25:00-03:00",
+      "title": "Descendentes"
     },
     {
       "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
-      "start_date": "2026-07-24T17:10:00-03:00",
+      "start_date": "2026-07-24T17:15:00-03:00",
       "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
@@ -104,18 +109,18 @@
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "A família vai para a casa da tia Vera e tio Zé em uma comunidade ribeirinha. Sem muita valentia, Pablo e Luisão vão caçar jacaré e se metem em uma enrascada.",
+      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
       "start_date": "2026-07-24T22:25:00-03:00",
-      "title": "Pablo & Luisão"
+      "title": "Globo Repórter"
     },
     {
-      "desc": "Fábio Porchat explora as boas histórias que as pessoas têm para contar. Em um cenário intimista e com artistas no centro da plateia, ele convida famosos e anônimos a compartilhar experiências, sejam elas inesquecíveis, engraçadas ou até assustadoras.",
-      "start_date": "2026-07-24T23:00:00-03:00",
-      "title": "Que História É Essa, Porchat?"
+      "desc": "Uma prévia das eletrizantes corridas da Fórmula 1, com uma visão prática, técnica e acessível dos aspectos mais importantes da principal categoria do automobilismo mundial.",
+      "start_date": "2026-07-24T23:15:00-03:00",
+      "title": "Grid da Globo"
     },
     {
-      "desc": "Geíza confronta Abílio, que se vê obrigado a convocar Nestor para negociar com a manicure; Balthazar e Cassiano encontram Sandra e oferecem ajuda; Nestor lança sua candidatura.",
-      "start_date": "2026-07-24T23:50:00-03:00",
+      "desc": "Milena entrega a pasta com os documentos de Diuzinho a Jordana; Jayme e Egisto se desentendem por conta dos caça-níqueis; Egisto passa mal e é ajudado por Milena.",
+      "start_date": "2026-07-24T23:25:00-03:00",
       "title": "Justiça 2"
     }
   ],

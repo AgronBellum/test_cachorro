@@ -1,78 +1,8 @@
 {
-  "end_date": "2026-07-27",
+  "end_date": "2026-07-28",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
-    {
-      "desc": "",
-      "start_date": "2026-07-25T00:33:00-03:00",
-      "title": "Mentiras de Amor"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-25T01:21:00-03:00",
-      "title": "O Caso Sherri Papini"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-25T04:24:00-03:00",
-      "title": "Kevin Spacey - A História Não Contada"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-25T06:00:00-03:00",
-      "title": "Benjaman Kyle - O Homem sem Identidade"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-25T07:36:00-03:00",
-      "title": "Crimes Grandiosos - Jodi Arias"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-25T10:03:00-03:00",
-      "title": "Um Monstro Como Nunca se Viu"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-25T10:52:00-03:00",
-      "title": "O Caso Sherri Papini"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-25T14:06:00-03:00",
-      "title": "Kevin Spacey - A História Não Contada"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-25T15:44:00-03:00",
-      "title": "O Culto da Morte - O Caso Andrea Yates"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-25T18:10:00-03:00",
-      "title": "House of Hammer - Segredos de Família"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-25T20:36:00-03:00",
-      "title": "Segredos Bem Casados"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-25T21:20:00-03:00",
-      "title": "O Paraíso das Plus Size - Abusos e Mentiras"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-25T22:53:00-03:00",
-      "title": "Prometo Ser Cruel"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-07-25T23:44:00-03:00",
-      "title": "Encontros Infernais"
-    },
     {
       "desc": "",
       "start_date": "2026-07-26T00:33:00-03:00",
@@ -142,7 +72,77 @@
       "desc": "",
       "start_date": "2026-07-26T23:44:00-03:00",
       "title": "Encontros Infernais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-27T00:33:00-03:00",
+      "title": "Mentiras de Amor"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-27T01:21:00-03:00",
+      "title": "O Caso Sherri Papini"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-27T04:24:00-03:00",
+      "title": "Kevin Spacey - A História Não Contada"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-27T06:00:00-03:00",
+      "title": "Benjaman Kyle - O Homem sem Identidade"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-27T07:36:00-03:00",
+      "title": "Crimes Grandiosos - Jodi Arias"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-27T10:03:00-03:00",
+      "title": "Um Monstro Como Nunca se Viu"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-27T10:52:00-03:00",
+      "title": "O Caso Sherri Papini"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-27T14:06:00-03:00",
+      "title": "Kevin Spacey - A História Não Contada"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-27T15:44:00-03:00",
+      "title": "O Culto da Morte - O Caso Andrea Yates"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-27T18:10:00-03:00",
+      "title": "House of Hammer - Segredos de Família"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-27T20:36:00-03:00",
+      "title": "Segredos Bem Casados"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-27T21:20:00-03:00",
+      "title": "O Paraíso das Plus Size - Abusos e Mentiras"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-27T22:53:00-03:00",
+      "title": "Prometo Ser Cruel"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-07-27T23:44:00-03:00",
+      "title": "Encontros Infernais"
     }
   ],
-  "start_date": "2026-07-25"
+  "start_date": "2026-07-26"
 }

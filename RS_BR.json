@@ -5,22 +5,27 @@
   "epg_list": [
     {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-07-28T01:10:00-03:00",
+      "start_date": "2026-07-28T00:35:00-03:00",
       "title": "Jornal da Globo"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-07-28T01:50:00-03:00",
+      "start_date": "2026-07-28T01:25:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-07-28T02:30:00-03:00",
+      "start_date": "2026-07-28T02:05:00-03:00",
       "title": "Coração Acelerado"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-07-28T03:20:00-03:00",
+      "start_date": "2026-07-28T02:50:00-03:00",
+      "title": "Vai que Cola"
+    },
+    {
+      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "start_date": "2026-07-28T03:25:00-03:00",
       "title": "Vai que Cola"
     },
     {
@@ -69,13 +74,13 @@
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Freya é traída por sua irmã Ravenna e decide se retirar. Dotada de poderes capazes de congelar seus inimigos, Freya ensina seus jovens soldados a nunca se apaixonar. Quando Eric e Sara descumprem a regra, a rainha faz de tudo para detê-los.",
+      "desc": "Maya é uma caixa de supermercado insatisfeita com sua vida profissional. Porém, tudo muda com uma pequena alteração em seu currículo e suas redes sociais. Com sua experiência das ruas, habilidades excepcionais e a ajuda de seus amigos, ela se reinventa e tenta se tornar uma executiva de sucesso.",
       "start_date": "2026-07-28T15:30:00-03:00",
-      "title": "O Caçador e a Rainha do Gelo"
+      "title": "Uma Nova Chance"
     },
     {
       "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
-      "start_date": "2026-07-28T17:15:00-03:00",
+      "start_date": "2026-07-28T17:10:00-03:00",
       "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
@@ -104,9 +109,19 @@
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "Após formar uma família, Jake Sully e Neytiri fazem de tudo para ficarem juntos. No entanto, eles devem sair de casa e explorar as regiões de Pandora quando uma antiga ameaça ressurge, e Jake deve travar uma guerra difícil contra os humanos.",
+      "desc": "Pablo, Luisão e Conceição usam suas economias para investir em um negócio de avestruz. Outras pessoas da cidade entram no esquema de pirâmide, que fica conhecido nacionalmente.",
       "start_date": "2026-07-28T22:25:00-03:00",
-      "title": "Avatar - O Caminho da Água"
+      "title": "Pablo & Luisão"
+    },
+    {
+      "desc": "Pedro Bial debate e propõe o diálogo sobre assuntos contemporâneos, do Brasil e do mundo, com seus convidados.",
+      "start_date": "2026-07-28T23:00:00-03:00",
+      "title": "Conversa com Bial"
+    },
+    {
+      "desc": "Balthazar se culpa pela morte de Sandra; Jayme descobre que Carolina pagou a conta do hospital; Balthazar e Cassiano divulgam um vídeo gravado com Silvana.",
+      "start_date": "2026-07-28T23:50:00-03:00",
+      "title": "Justiça 2"
     }
   ],
   "start_date": "2026-07-28"

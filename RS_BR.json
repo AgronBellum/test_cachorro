@@ -5,33 +5,33 @@
   "epg_list": [
     {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-07-31T00:30:00-03:00",
+      "start_date": "2026-07-31T00:05:00-03:00",
       "title": "Jornal da Globo"
     },
     {
       "desc": "Virgínia promete uma noite de amor com Sebastião em troca de descobrir a relação entre Omar e Lúcia/Alika. Kênia acredita que Binta esteja mesmo ao lado de Jendal e nega o convite para jantar com os dois.",
-      "start_date": "2026-07-31T01:20:00-03:00",
+      "start_date": "2026-07-31T00:55:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Agrado e Eduarda fazem um comunicado sobre suas carreiras. Ronei teme ter seus negócios impactados pela decisão da dupla e Janete decide prestar queixa contra Verônica.",
-      "start_date": "2026-07-31T02:00:00-03:00",
+      "start_date": "2026-07-31T01:35:00-03:00",
       "title": "Coração Acelerado"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-07-31T02:50:00-03:00",
+      "start_date": "2026-07-31T02:25:00-03:00",
       "title": "Vai que Cola"
     },
     {
-      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-07-31T03:25:00-03:00",
-      "title": "Vai que Cola"
+      "desc": "Uma mãe suburbana herda o império da máfia de seu falecido avô, na Itália. Guiada pelo consigliere de confiança da empresa, ela desafia de forma hilária as expectativas de todos ao se ver presa no meio de uma guerra mortal de máfias.",
+      "start_date": "2026-07-31T03:05:00-03:00",
+      "title": "Mafia Mamma - De Repente Criminosa"
     },
     {
-      "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
-      "start_date": "2026-07-31T04:00:00-03:00",
-      "title": "Hora 1"
+      "desc": "Tino é um pai de família que tem sua rotina transformada ao ganhar na loteria. Em dez anos, o fanfarrão e sua mulher Jane gastam todo o dinheiro com uma vida de ostentação. Ao descobrir que está falido, é obrigado a aceitar a ajuda de seu vizinho Amauri, um consultor financeiro nada divertido e extremamente econômico. Jane engravida do terceiro filho, e Tino faz de tudo para esconder da esposa que estão na pior, pois a recomendação médica é que a grávida evite fortes emoções.",
+      "start_date": "2026-07-31T04:25:00-03:00",
+      "title": "Até que a Sorte nos Separe"
     },
     {
       "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
@@ -74,13 +74,13 @@
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Harriet contrata uma jornalista para escrever seu obituário, mas não fica satisfeita e resolve partir em uma aventura para reescrever sua história de vida.",
+      "desc": "Tess é uma mãe que luta demais para se entender com a filha adolescente rebelde, Anna, de 15 anos. Decididas a acabar com as brigas, elas repentinamente trocam de corpos após comerem biscoitos da sorte em um restaurante chinês. Agora, cada uma precisa aprender a lidar com a vida da outra, com as confusões crescendo ainda mais pelo fato de Tess estar de casamento marcado.",
       "start_date": "2026-07-31T15:30:00-03:00",
-      "title": "A Última Palavra"
+      "title": "Sexta-Feira Muito Louca"
     },
     {
       "desc": "Lucinda reencontra Santiago e fala de Nina para ele; Max e Jorginho brigam; Nilo coloca fogo na casa de Lucinda; Nina se desespera após briga com Jorginho.",
-      "start_date": "2026-07-31T17:15:00-03:00",
+      "start_date": "2026-07-31T17:10:00-03:00",
       "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
@@ -109,18 +109,13 @@
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "Uma empresária trapaceira convida Pablo e Luisão para gravar um CD e fazer shows. Deslumbrada, a dupla não sabe o risco que corre e estampa a capa do jornal.",
+      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
       "start_date": "2026-07-31T22:25:00-03:00",
-      "title": "Pablo & Luisão"
+      "title": "Globo Repórter"
     },
     {
-      "desc": "Fábio Porchat explora as boas histórias que as pessoas têm para contar. Em um cenário intimista e com artistas no centro da plateia, ele convida famosos e anônimos a compartilhar experiências, sejam elas inesquecíveis, engraçadas ou até assustadoras.",
-      "start_date": "2026-07-31T22:55:00-03:00",
-      "title": "Que História É Essa, Porchat?"
-    },
-    {
-      "desc": "Geíza tenta se suicidar, mas Abílio a impede. Os dois se unem, com a ajuda de Darlan, para provar que Nestor matou Sandra.",
-      "start_date": "2026-07-31T23:40:00-03:00",
+      "desc": "Milena entrega dinheiro a Luara, e as duas são vistas por Jordana e Egisto. Ele, então, passa a investigar Luara.",
+      "start_date": "2026-07-31T23:15:00-03:00",
       "title": "Justiça 2"
     }
   ],

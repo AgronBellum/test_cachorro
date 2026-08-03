@@ -1,63 +1,8 @@
 {
-  "end_date": "2026-08-04",
+  "end_date": "2026-08-05",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
-    {
-      "desc": "",
-      "start_date": "2026-08-02T01:29:00-03:00",
-      "title": "Os Irmãos Esquizofrênicos"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-02T04:28:00-03:00",
-      "title": "Grim Sleeper - A Mente de um Monstro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-02T06:00:00-03:00",
-      "title": "Sinais de um Psicopata"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-02T06:25:00-03:00",
-      "title": "Kevin Spacey - A História Não Contada"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-02T08:22:00-03:00",
-      "title": "O Lado Sombrio de Hollywood"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-02T09:55:00-03:00",
-      "title": "Jamie vs. Britney - O Julgamento da Família Spears"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-02T11:40:00-03:00",
-      "title": "Os Irmãos Esquizofrênicos"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-02T14:52:00-03:00",
-      "title": "Ken e Barbie - O Casal Assassino"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-02T18:45:00-03:00",
-      "title": "Kevin Spacey - A História Não Contada"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-02T20:43:00-03:00",
-      "title": "Benjaman Kyle - O Homem sem Identidade"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-02T23:48:00-03:00",
-      "title": "Pânico - A História por Trás do Filme"
-    },
     {
       "desc": "",
       "start_date": "2026-08-03T01:29:00-03:00",
@@ -112,7 +57,62 @@
       "desc": "",
       "start_date": "2026-08-03T23:48:00-03:00",
       "title": "Pânico - A História por Trás do Filme"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-04T01:29:00-03:00",
+      "title": "Os Irmãos Esquizofrênicos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-04T04:28:00-03:00",
+      "title": "Grim Sleeper - A Mente de um Monstro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-04T06:00:00-03:00",
+      "title": "Sinais de um Psicopata"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-04T06:25:00-03:00",
+      "title": "Kevin Spacey - A História Não Contada"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-04T08:22:00-03:00",
+      "title": "O Lado Sombrio de Hollywood"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-04T09:55:00-03:00",
+      "title": "Jamie vs. Britney - O Julgamento da Família Spears"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-04T11:40:00-03:00",
+      "title": "Os Irmãos Esquizofrênicos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-04T14:52:00-03:00",
+      "title": "Ken e Barbie - O Casal Assassino"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-04T18:45:00-03:00",
+      "title": "Kevin Spacey - A História Não Contada"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-04T20:43:00-03:00",
+      "title": "Benjaman Kyle - O Homem sem Identidade"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-04T23:48:00-03:00",
+      "title": "Pânico - A História por Trás do Filme"
     }
   ],
-  "start_date": "2026-08-02"
+  "start_date": "2026-08-03"
 }

@@ -5,33 +5,33 @@
   "epg_list": [
     {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-08-07T00:35:00-03:00",
+      "start_date": "2026-08-07T00:05:00-03:00",
       "title": "Jornal da Globo"
     },
     {
       "desc": "Teresa acredita que Omar não desistirá de Alika, que se preocupa. Ana Maria confronta Manoel sobre o relacionamento dos dois. Mirinho disfarça o constrangimento ao ver Adalgisa, e Virgínia explica que convocou a modista para lhe fazer um vestido.",
-      "start_date": "2026-08-07T01:25:00-03:00",
+      "start_date": "2026-08-07T00:55:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-08-07T02:05:00-03:00",
+      "start_date": "2026-08-07T01:35:00-03:00",
       "title": "Coração Acelerado"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-08-07T02:50:00-03:00",
+      "start_date": "2026-08-07T02:20:00-03:00",
       "title": "Vai que Cola"
     },
     {
-      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-08-07T03:25:00-03:00",
-      "title": "Vai que Cola"
+      "desc": "Sargento Sebastião está em busca de vingar morte de seu irmão, um caminhoneiro assassinado brutalmente. Ainda abalado, está disposto a tudo para fazer justiça, nem que seja com as próprias mãos. Em sua jornada, porém, dois policiais da cidade acabam sendo confundidos com os suspeitos, se tornando o alvo principal de Sebastião e causando rebuliço na região.",
+      "start_date": "2026-08-07T03:10:00-03:00",
+      "title": "Cano Serrado"
     },
     {
-      "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
-      "start_date": "2026-08-07T04:00:00-03:00",
-      "title": "Hora 1"
+      "desc": "Diogo e Emília estão juntos há 16 anos e têm filha adolescente. A vida dos dois vira de cabeça para baixo quando descobrem que Ricardo e Bettina, seus melhores amigos, possuem casamento aberto e praticam a troca de casais. Os amigos tentam convencê-los de que é possível ser feliz levando esse estilo de vida.",
+      "start_date": "2026-08-07T04:20:00-03:00",
+      "title": "Dois Mais Dois"
     },
     {
       "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
@@ -74,9 +74,9 @@
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Bart é vocalista de uma banda cristã e tem um relacionamento conturbado com seu pai, que sempre o maltratou e nunca entendeu seu amor pela música. Com a força de Deus, ele resolve eternizar sua relação em uma canção, \"I Can Only Imagine\".",
+      "desc": "Diego descobre que talvez não seja o pai do jovem Benito. Então, os dois embarcam em uma jornada comovente para descobrir a verdade.",
       "start_date": "2026-08-07T15:30:00-03:00",
-      "title": "Eu Só Posso Imaginar"
+      "title": "Vamos Consertar o Mundo"
     },
     {
       "desc": "Carminha encara Nina, mas não revela que sabe seu segredo; Lucinda conta sobre os planos de Nina para Santiago; Carminha diz a Max que Nina, na verdade, é Rita.",
@@ -109,18 +109,13 @@
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "Luisão resolve tratar uma ferida com um curandeiro amigo de Pablo em outra cidade. Durante a viagem, o dinheiro acaba e a família precisa ajudá-lo a voltar para a festa de Neto.",
+      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
       "start_date": "2026-08-07T22:25:00-03:00",
-      "title": "Pablo & Luisão"
+      "title": "Globo Repórter"
     },
     {
-      "desc": "Fábio Porchat explora as boas histórias que as pessoas têm para contar. Em um cenário intimista e com artistas no centro da plateia, ele convida famosos e anônimos a compartilhar experiências, sejam elas inesquecíveis, engraçadas ou até assustadoras.",
-      "start_date": "2026-08-07T23:00:00-03:00",
-      "title": "Que História É Essa, Porchat?"
-    },
-    {
-      "desc": "Milena acompanha Jordana à delegacia para ouvir esclarecimentos sobre o acidente com Egisto; Luara volta a chantagear Milena; a cumplicidade entre Milena e Jordana cresce.",
-      "start_date": "2026-08-07T23:45:00-03:00",
+      "desc": "Jordana descobre que o carro de Egisto foi sabotado e pede ajuda a Jayme para descobrir quem o matou; Luara chantageia Milena para conseguir um emprego na gravadora.",
+      "start_date": "2026-08-07T23:15:00-03:00",
       "title": "Justiça 2"
     }
   ],

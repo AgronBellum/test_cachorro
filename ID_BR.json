@@ -1,78 +1,8 @@
 {
-  "end_date": "2026-08-10",
+  "end_date": "2026-08-11",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
-    {
-      "desc": "",
-      "start_date": "2026-08-08T00:40:00-03:00",
-      "title": "Como Não Matar Seu Amor"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-08T01:29:00-03:00",
-      "title": "O Castelo dos Horrores"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-08T03:44:00-03:00",
-      "title": "Tragédia de Bakersfield - Em Busca da Verdade"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-08T06:00:00-03:00",
-      "title": "Benjaman Kyle - O Homem sem Identidade"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-08T09:12:00-03:00",
-      "title": "Pânico - A História por Trás do Filme"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-08T10:52:00-03:00",
-      "title": "O Castelo dos Horrores"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-08T13:16:00-03:00",
-      "title": "Tragédia de Bakersfield - Em Busca da Verdade"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-08T15:44:00-03:00",
-      "title": "Jamie vs. Britney - O Julgamento da Família Spears"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-08T17:28:00-03:00",
-      "title": "Mistério na Neve - O Caso Karen Read"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-08T20:43:00-03:00",
-      "title": "Mistério na Neve - O Caso Karen Read"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-08T21:27:00-03:00",
-      "title": "Amores Tóxicos"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-08T22:16:00-03:00",
-      "title": "Sob Efeito do Amor"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-08T23:00:00-03:00",
-      "title": "Prometo Ser Cruel"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-08T23:51:00-03:00",
-      "title": "Encontros Infernais"
-    },
     {
       "desc": "",
       "start_date": "2026-08-09T00:40:00-03:00",
@@ -142,7 +72,77 @@
       "desc": "",
       "start_date": "2026-08-09T23:51:00-03:00",
       "title": "Encontros Infernais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-10T00:40:00-03:00",
+      "title": "Como Não Matar Seu Amor"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-10T01:29:00-03:00",
+      "title": "O Castelo dos Horrores"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-10T03:44:00-03:00",
+      "title": "Tragédia de Bakersfield - Em Busca da Verdade"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-10T06:00:00-03:00",
+      "title": "Benjaman Kyle - O Homem sem Identidade"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-10T09:12:00-03:00",
+      "title": "Pânico - A História por Trás do Filme"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-10T10:52:00-03:00",
+      "title": "O Castelo dos Horrores"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-10T13:16:00-03:00",
+      "title": "Tragédia de Bakersfield - Em Busca da Verdade"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-10T15:44:00-03:00",
+      "title": "Jamie vs. Britney - O Julgamento da Família Spears"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-10T17:28:00-03:00",
+      "title": "Mistério na Neve - O Caso Karen Read"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-10T20:43:00-03:00",
+      "title": "Mistério na Neve - O Caso Karen Read"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-10T21:27:00-03:00",
+      "title": "Amores Tóxicos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-10T22:16:00-03:00",
+      "title": "Sob Efeito do Amor"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-10T23:00:00-03:00",
+      "title": "Prometo Ser Cruel"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-10T23:51:00-03:00",
+      "title": "Encontros Infernais"
     }
   ],
-  "start_date": "2026-08-08"
+  "start_date": "2026-08-09"
 }

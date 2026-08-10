@@ -1,98 +1,8 @@
 {
-  "end_date": "2026-08-11",
+  "end_date": "2026-08-12",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
-    {
-      "desc": "",
-      "start_date": "2026-08-09T00:40:00-03:00",
-      "title": "Impacto de um Crime"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-09T01:29:00-03:00",
-      "title": "O Estrangulador em Série"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-09T03:44:00-03:00",
-      "title": "Glee - O Preço da Fama"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-09T06:00:00-03:00",
-      "title": "Ted Bundy: A Mente de um Monstro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-09T07:34:00-03:00",
-      "title": "Pânico em Nova York - O Inimigo das Mulheres"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-09T09:13:00-03:00",
-      "title": "A Mente de um Monstro - Robert Hansen, o Caçador"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-09T10:52:00-03:00",
-      "title": "O Estrangulador em Série"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-09T13:16:00-03:00",
-      "title": "Glee - O Preço da Fama"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-09T15:46:00-03:00",
-      "title": "Assassinato em Mansfield"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-09T17:25:00-03:00",
-      "title": "Vivendo com o Inimigo - De Frente com o Assassino"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-09T18:14:00-03:00",
-      "title": "Vivendo com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-09T19:03:00-03:00",
-      "title": "Sinais de um Psicopata"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-09T19:53:00-03:00",
-      "title": "Casados com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-09T20:41:00-03:00",
-      "title": "Crimes e Mentiras: O Caso Chris Watts"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-09T21:29:00-03:00",
-      "title": "Amor Assassino"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-09T22:18:00-03:00",
-      "title": "Cidade Pacata, Crime Cruel"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-09T23:02:00-03:00",
-      "title": "Amores Tóxicos"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-09T23:51:00-03:00",
-      "title": "Paixões Doentias"
-    },
     {
       "desc": "",
       "start_date": "2026-08-10T00:40:00-03:00",
@@ -182,7 +92,97 @@
       "desc": "",
       "start_date": "2026-08-10T23:51:00-03:00",
       "title": "Paixões Doentias"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-11T00:40:00-03:00",
+      "title": "Impacto de um Crime"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-11T01:29:00-03:00",
+      "title": "O Estrangulador em Série"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-11T03:44:00-03:00",
+      "title": "Glee - O Preço da Fama"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-11T06:00:00-03:00",
+      "title": "Ted Bundy: A Mente de um Monstro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-11T07:34:00-03:00",
+      "title": "Pânico em Nova York - O Inimigo das Mulheres"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-11T09:13:00-03:00",
+      "title": "A Mente de um Monstro - Robert Hansen, o Caçador"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-11T10:52:00-03:00",
+      "title": "O Estrangulador em Série"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-11T13:16:00-03:00",
+      "title": "Glee - O Preço da Fama"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-11T15:46:00-03:00",
+      "title": "Assassinato em Mansfield"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-11T17:25:00-03:00",
+      "title": "Vivendo com o Inimigo - De Frente com o Assassino"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-11T18:14:00-03:00",
+      "title": "Vivendo com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-11T19:03:00-03:00",
+      "title": "Sinais de um Psicopata"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-11T19:53:00-03:00",
+      "title": "Casados com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-11T20:41:00-03:00",
+      "title": "Crimes e Mentiras: O Caso Chris Watts"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-11T21:29:00-03:00",
+      "title": "Amor Assassino"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-11T22:18:00-03:00",
+      "title": "Cidade Pacata, Crime Cruel"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-11T23:02:00-03:00",
+      "title": "Amores Tóxicos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-11T23:51:00-03:00",
+      "title": "Paixões Doentias"
     }
   ],
-  "start_date": "2026-08-09"
+  "start_date": "2026-08-10"
 }

@@ -4,54 +4,69 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-08-15T00:05:00-03:00",
-      "title": "Jornal da Globo"
+      "desc": "A novela \"Coração Acelerado\" lançou, desde a estreia, hits exclusivos para a trilha dos personagens. Em uma experiência inédita para o público, os cantores convidados e os personagens vão interpretar as canções que embalam a novela e outras que marcaram gerações no segmento sertanejo, celebrando o gênero que é a alma da novela.",
+      "start_date": "2026-08-15T00:15:00-03:00",
+      "title": "Turnê Coração Acelerado"
     },
     {
-      "desc": "Alika se revolta contra Omar e afirma que não se submeterá a ele em troca de sua ajuda. Tem início a cerimônia de casamento de Jendal e Binta.",
-      "start_date": "2026-08-15T00:55:00-03:00",
+      "desc": "Pascoal entrega Kênia para Jendal, que volta a castigar a filha e a trancar em seu quarto. Fortunato descobre que Maria Helena consegue se libertar dos aposentos.",
+      "start_date": "2026-08-15T01:05:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-08-15T01:35:00-03:00",
+      "start_date": "2026-08-15T01:45:00-03:00",
       "title": "Coração Acelerado"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-08-15T02:20:00-03:00",
+      "start_date": "2026-08-15T02:35:00-03:00",
       "title": "Vai que Cola"
     },
     {
-      "desc": "Depois de perder a esposa, Otto tem problemas para dormir sem o seu remédio natural: um chá de alface que ela preparava. Sozinho e cansado, ele começa a observar o cotidiano de seus peculiares vizinhos.",
-      "start_date": "2026-08-15T03:05:00-03:00",
-      "title": "Noites de Alface"
+      "desc": "Pascoal entrega Kênia para Jendal, que volta a castigar a filha e a trancar em seu quarto. Fortunato descobre que Maria Helena consegue se libertar dos aposentos.",
+      "start_date": "2026-08-15T02:50:00-03:00",
+      "title": "A Nobreza do Amor"
     },
     {
-      "desc": "Um homem casado se envolve com uma mulher que mal conhece. Pouco depois, ele começa a ser chantageado por ela para participar de um plano envolvendo um assassinato e precisa decidir até onde está disposto a ir para ocultar a traição de sua esposa.",
+      "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
+      "start_date": "2026-08-15T03:30:00-03:00",
+      "title": "Coração Acelerado"
+    },
+    {
+      "desc": "Gilly Hopkins é uma garota de 12 anos que passa por diversos lares adotivos durante a vida. Ela é enviada para a casa de Maime Trotter e planeja uma fuga para se juntar à sua mãe biológica, mas as coisas não são tão simples quanto ela imaginava.",
       "start_date": "2026-08-15T04:25:00-03:00",
-      "title": "Perdas e Danos"
+      "title": "A Fabulosa Gilly Hopkins"
     },
     {
-      "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
+      "desc": "Acompanhe a celebração da santa missa em João Pessoa.",
+      "start_date": "2026-08-15T05:50:00-03:00",
+      "title": "Santa Missa"
+    },
+    {
+      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
       "start_date": "2026-08-15T06:00:00-03:00",
-      "title": "Bom Dia Rio Grande"
+      "title": "Globo Rural"
     },
     {
-      "desc": "Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.",
+      "desc": "As principais notícias do Brasil para começar o final de semana bem-informado.",
+      "start_date": "2026-08-15T06:50:00-03:00",
+      "title": "Bom Dia Sábado"
+    },
+    {
+      "desc": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários.",
+      "start_date": "2026-08-15T07:50:00-03:00",
+      "title": "Pequenas Empresas & Grandes Negócios"
+    },
+    {
+      "desc": "Um programa democrático que aborda as diversas áreas da cultura gaúcha, e também apresenta quadros de turismo, gastronomia e as informações do agronegócio.",
       "start_date": "2026-08-15T08:30:00-03:00",
-      "title": "Bom Dia Brasil"
+      "title": "Galpão Crioulo"
     },
     {
-      "desc": "O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.",
-      "start_date": "2026-08-15T09:30:00-03:00",
-      "title": "Encontro com Patrícia Poeta"
-    },
-    {
-      "desc": "Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.",
-      "start_date": "2026-08-15T10:35:00-03:00",
-      "title": "Mais Você"
+      "desc": "O É de Casa celebra 11 anos levando informação e entretenimento para todo o país e recebe convidados especiais: os atores Cauã Reymond e Mariana Sena, da série \"Jogada de Risco\". No quadro S.O.S Viva o Verde, Murilo e Talitha ajudam Josiane, de 42 anos, a salvar uma amoreira-bonsai, além de cuidar da roseira da família.",
+      "start_date": "2026-08-15T09:00:00-03:00",
+      "title": "É de Casa"
     },
     {
       "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
@@ -69,38 +84,43 @@
       "title": "Jornal Hoje"
     },
     {
-      "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
-      "start_date": "2026-08-15T14:45:00-03:00",
+      "desc": "Melissa e Lívia antipatizam uma com a outra no primeiro encontro. Ariel chega a Bellarosa e confessa que não consegue entender os desígnios divinos. Emília trama algo contra Vitória. Felipe e Lívia se encontram na festa em Bellarosa.",
+      "start_date": "2026-08-15T14:10:00-03:00",
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Rachel Chu é uma professora de economia nos Estados Unidos e namora Nick Young há algum tempo. Quando Nick convida Rachel para ir ao casamento do melhor amigo em Singapura, ele esquece de avisar à namorada que, como herdeiro de uma fortuna, ele é um dos solteiros mais cobiçados do local, colocando Rachel na mira de outras candidatas e da mãe de Nick, que desaprova o namoro.",
+      "desc": "De uma forma leve e divertida, muito entretenimento e informação a partir de personagens inspiradores em assuntos como cultura, bem-estar, lazer, música, viagem, gastronomia e sustentabilidade.",
+      "start_date": "2026-08-15T14:40:00-03:00",
+      "title": "Baita Sábado"
+    },
+    {
+      "desc": "Uma aventura por uma parte pouco conhecida do Rio Grande do Sul. Foram seis meses de viagens e gravações, milhares de quilômetros rodados e muitas horas de imagens registrando lugares, animais, matas, lagoas, rios e mar.",
       "start_date": "2026-08-15T15:30:00-03:00",
-      "title": "Podres de Ricos"
+      "title": "Nossa Terra"
     },
     {
-      "desc": "As principais notícias do dia no Rio Grande do Sul.",
-      "start_date": "2026-08-15T16:55:00-03:00",
-      "title": "Boletim RBS Notícias"
+      "desc": "Uma experiência que resgata o valor dos encontros. Porque existem momentos que não se medem pelo relógio, mas pelo estalo da lenha e pelo aroma da carne na brasa.",
+      "start_date": "2026-08-15T15:50:00-03:00",
+      "title": "Tempo Bueno"
     },
     {
-      "desc": "Zezé vê Carminha sendo empregada de Nina e conta para Janaína; Nina faz Carminha comer a mesma comida que ela servia às empregadas.",
-      "start_date": "2026-08-15T17:05:00-03:00",
-      "title": "Vale a Pena Ver de Novo - Avenida Brasil"
+      "desc": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais.",
+      "start_date": "2026-08-15T16:10:00-03:00",
+      "title": "Caldeirão com Mion"
     },
     {
-      "desc": "Alika se revolta contra Omar e afirma que não se submeterá a ele em troca de sua ajuda. Tem início a cerimônia de casamento de Jendal e Binta.",
-      "start_date": "2026-08-15T18:15:00-03:00",
+      "desc": "Pascoal entrega Kênia para Jendal, que volta a castigar a filha e a trancar em seu quarto. Fortunato descobre que Maria Helena consegue se libertar dos aposentos.",
+      "start_date": "2026-08-15T18:30:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-08-15T19:00:00-03:00",
+      "start_date": "2026-08-15T19:15:00-03:00",
       "title": "RBS Notícias"
     },
     {
       "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-08-15T19:40:00-03:00",
+      "start_date": "2026-08-15T19:35:00-03:00",
       "title": "Coração Acelerado"
     },
     {
@@ -109,19 +129,14 @@
       "title": "Jornal Nacional"
     },
     {
-      "desc": "Pedro e Ademir discutem na presença de Bruna e Carmita e Silvana propõe a Tiago que ambos se aproximem de Ulisses, a fim de que o filho recupere a presidência da joalheria.",
+      "desc": "Pedro decide esperar Adriana na casa dela para descobrir o motivo de sua mentira. Adriana vende as joias para um sheik. Adriana conta a Pedro e à família sobre a herança que recebeu de Arthur.",
       "start_date": "2026-08-15T21:20:00-03:00",
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
+      "desc": "Serginho Groisman promove debates sobre temas relevantes com a participação da plateia, artistas e personalidades de diferentes áreas.",
       "start_date": "2026-08-15T22:25:00-03:00",
-      "title": "Globo Repórter"
-    },
-    {
-      "desc": "Milena grava um comercial sob a direção de Jordana; Luara começa a trabalhar na Jordana Records e sofre um atentado.",
-      "start_date": "2026-08-15T23:15:00-03:00",
-      "title": "Justiça 2"
+      "title": "Altas Horas"
     }
   ],
   "start_date": "2026-08-15"

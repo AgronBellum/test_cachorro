@@ -4,39 +4,19 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "A novela \"Coração Acelerado\" lançou, desde a estreia, hits exclusivos para a trilha dos personagens. Em uma experiência inédita para o público, os cantores convidados e os personagens vão interpretar as canções que embalam a novela e outras que marcaram gerações no segmento sertanejo, celebrando o gênero que é a alma da novela.",
-      "start_date": "2026-08-16T00:15:00-03:00",
-      "title": "Turnê Coração Acelerado"
-    },
-    {
-      "desc": "Pascoal entrega Kênia para Jendal, que volta a castigar a filha e a trancar em seu quarto. Fortunato descobre que Maria Helena consegue se libertar dos aposentos.",
-      "start_date": "2026-08-16T01:05:00-03:00",
-      "title": "A Nobreza do Amor"
-    },
-    {
-      "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-08-16T01:45:00-03:00",
-      "title": "Coração Acelerado"
+      "desc": "O Doutor Richard Kimble é um cirurgião de prestígio de Chicago com uma vida praticamente perfeita. No entanto, tudo vem abaixo no dia em que sua mulher é brutalmente assassinada e ele é acusado injustamente de ter cometido o crime.",
+      "start_date": "2026-08-16T01:15:00-03:00",
+      "title": "O Fugitivo"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-08-16T02:35:00-03:00",
+      "start_date": "2026-08-16T03:20:00-03:00",
       "title": "Vai que Cola"
     },
     {
-      "desc": "Pascoal entrega Kênia para Jendal, que volta a castigar a filha e a trancar em seu quarto. Fortunato descobre que Maria Helena consegue se libertar dos aposentos.",
-      "start_date": "2026-08-16T02:50:00-03:00",
-      "title": "A Nobreza do Amor"
-    },
-    {
-      "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-08-16T03:30:00-03:00",
-      "title": "Coração Acelerado"
-    },
-    {
-      "desc": "Gilly Hopkins é uma garota de 12 anos que passa por diversos lares adotivos durante a vida. Ela é enviada para a casa de Maime Trotter e planeja uma fuga para se juntar à sua mãe biológica, mas as coisas não são tão simples quanto ela imaginava.",
-      "start_date": "2026-08-16T04:25:00-03:00",
-      "title": "A Fabulosa Gilly Hopkins"
+      "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
+      "start_date": "2026-08-16T04:00:00-03:00",
+      "title": "Hora 1"
     },
     {
       "desc": "Acompanhe a celebração da santa missa em João Pessoa.",
@@ -44,99 +24,69 @@
       "title": "Santa Missa"
     },
     {
-      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
-      "start_date": "2026-08-16T06:00:00-03:00",
-      "title": "Globo Rural"
-    },
-    {
-      "desc": "As principais notícias do Brasil para começar o final de semana bem-informado.",
-      "start_date": "2026-08-16T06:50:00-03:00",
-      "title": "Bom Dia Sábado"
-    },
-    {
-      "desc": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários.",
-      "start_date": "2026-08-16T07:50:00-03:00",
-      "title": "Pequenas Empresas & Grandes Negócios"
+      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
+      "start_date": "2026-08-16T06:40:00-03:00",
+      "title": "Globo Repórter"
     },
     {
       "desc": "Um programa democrático que aborda as diversas áreas da cultura gaúcha, e também apresenta quadros de turismo, gastronomia e as informações do agronegócio.",
-      "start_date": "2026-08-16T08:30:00-03:00",
+      "start_date": "2026-08-16T07:30:00-03:00",
       "title": "Galpão Crioulo"
     },
     {
-      "desc": "O É de Casa celebra 11 anos levando informação e entretenimento para todo o país e recebe convidados especiais: os atores Cauã Reymond e Mariana Sena, da série \"Jogada de Risco\". No quadro S.O.S Viva o Verde, Murilo e Talitha ajudam Josiane, de 42 anos, a salvar uma amoreira-bonsai, além de cuidar da roseira da família.",
-      "start_date": "2026-08-16T09:00:00-03:00",
-      "title": "É de Casa"
+      "desc": "A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes.",
+      "start_date": "2026-08-16T08:00:00-03:00",
+      "title": "AutoEsporte"
     },
     {
-      "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-08-16T11:45:00-03:00",
-      "title": "Jornal do Almoço"
+      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
+      "start_date": "2026-08-16T08:30:00-03:00",
+      "title": "Globo Rural"
     },
     {
-      "desc": "Confira as últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.",
-      "start_date": "2026-08-16T13:00:00-03:00",
-      "title": "Globo Esporte RS"
+      "desc": "Daniel abre a porteira de sua fazenda para receber grandes astros da música sertaneja. Juntos, eles relembram suas trajetórias, falam sobre suas inspirações e se deixam levar pelas modas de viola.",
+      "start_date": "2026-08-16T10:05:00-03:00",
+      "title": "Viver Sertanejo"
     },
     {
-      "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
-      "start_date": "2026-08-16T13:25:00-03:00",
-      "title": "Jornal Hoje"
+      "desc": "Fique por dentro de tudo o que rolou durante a semana nos esportes e veja os gols pelo mundo afora. Entrevistas, reportagens sobre ciência esportiva e personagens históricos também fazem parte da atração.",
+      "start_date": "2026-08-16T11:00:00-03:00",
+      "title": "Esporte Espetacular"
     },
     {
-      "desc": "Melissa e Lívia antipatizam uma com a outra no primeiro encontro. Ariel chega a Bellarosa e confessa que não consegue entender os desígnios divinos. Emília trama algo contra Vitória. Felipe e Lívia se encontram na festa em Bellarosa.",
-      "start_date": "2026-08-16T14:10:00-03:00",
-      "title": "Além do Tempo - Edição Especial"
+      "desc": "O jovem Jann Mardenborough vence uma série de competições do vídeo-game Gran Turismo, promovidas por uma grande empresa automobilística, e ganha a oportunidade de se tornar um piloto profissional.",
+      "start_date": "2026-08-16T12:25:00-03:00",
+      "title": "Gran Turismo - De Jogador a Corredor"
     },
     {
-      "desc": "De uma forma leve e divertida, muito entretenimento e informação a partir de personagens inspiradores em assuntos como cultura, bem-estar, lazer, música, viagem, gastronomia e sustentabilidade.",
-      "start_date": "2026-08-16T14:40:00-03:00",
-      "title": "Baita Sábado"
+      "desc": "No \"Em Família com Eliana\", a trajetória do grupo Revelação e de Xande de Pilares. Edição recebe Fábio Porchat com a mãe, Isabella, e a avó Maria Alice.",
+      "start_date": "2026-08-16T14:20:00-03:00",
+      "title": "Em Família com Eliana"
     },
     {
-      "desc": "Uma aventura por uma parte pouco conhecida do Rio Grande do Sul. Foram seis meses de viagens e gravações, milhares de quilômetros rodados e muitas horas de imagens registrando lugares, animais, matas, lagoas, rios e mar.",
+      "desc": "Os principais acontecimentos do Brasileirão, com notícias de clubes e atletas antes das partidas.",
       "start_date": "2026-08-16T15:30:00-03:00",
-      "title": "Nossa Terra"
+      "title": "Bora Pro Jogo"
     },
     {
-      "desc": "Uma experiência que resgata o valor dos encontros. Porque existem momentos que não se medem pelo relógio, mas pelo estalo da lenha e pelo aroma da carne na brasa.",
-      "start_date": "2026-08-16T15:50:00-03:00",
-      "title": "Tempo Bueno"
+      "desc": "Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.",
+      "start_date": "2026-08-16T15:45:00-03:00",
+      "title": "Atlético-MG x Grêmio"
     },
     {
-      "desc": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais.",
-      "start_date": "2026-08-16T16:10:00-03:00",
-      "title": "Caldeirão com Mion"
+      "desc": "Todo final de semana, Luciano Huck oferece o melhor do entretenimento, com quadros divertidos e emocionantes, muita música, a presença marcante de famosos e matérias especiais pelo Brasil.",
+      "start_date": "2026-08-16T18:10:00-03:00",
+      "title": "Domingão com Huck"
     },
     {
-      "desc": "Pascoal entrega Kênia para Jendal, que volta a castigar a filha e a trancar em seu quarto. Fortunato descobre que Maria Helena consegue se libertar dos aposentos.",
-      "start_date": "2026-08-16T18:30:00-03:00",
-      "title": "A Nobreza do Amor"
-    },
-    {
-      "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-08-16T19:15:00-03:00",
-      "title": "RBS Notícias"
-    },
-    {
-      "desc": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
-      "start_date": "2026-08-16T19:35:00-03:00",
-      "title": "Coração Acelerado"
-    },
-    {
-      "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
+      "desc": "Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência.",
       "start_date": "2026-08-16T20:30:00-03:00",
-      "title": "Jornal Nacional"
+      "title": "Fantástico"
     },
     {
-      "desc": "Pedro decide esperar Adriana na casa dela para descobrir o motivo de sua mentira. Adriana vende as joias para um sheik. Adriana conta a Pedro e à família sobre a herança que recebeu de Arthur.",
-      "start_date": "2026-08-16T21:20:00-03:00",
-      "title": "Quem Ama Cuida"
-    },
-    {
-      "desc": "Serginho Groisman promove debates sobre temas relevantes com a participação da plateia, artistas e personalidades de diferentes áreas.",
-      "start_date": "2026-08-16T22:25:00-03:00",
-      "title": "Altas Horas"
+      "desc": "Tom Carter é um lendário ladrão de bancos. Mas sua vida muda quando ele se apaixona por Annie e decide deixar o crime para trás. Ele aceita se entregar para a justiça, mas não imaginava que seria enganado por policiais corruptos.",
+      "start_date": "2026-08-16T23:35:00-03:00",
+      "title": "Legado Explosivo"
     }
   ],
   "start_date": "2026-08-16"

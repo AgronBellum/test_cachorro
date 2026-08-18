@@ -4,23 +4,28 @@
   "provider": "mi.tv",
   "epg_list": [
     {
+      "desc": "Fernando persegue o carro que atropelou Balthazar, e Cassiano descobre a relação de Nestor com o atentado; Silvana sai da clínica; o pedido de indenização de Balthazar é deferido.",
+      "start_date": "2026-08-18T00:05:00-03:00",
+      "title": "Justiça 2"
+    },
+    {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-08-18T00:10:00-03:00",
+      "start_date": "2026-08-18T00:50:00-03:00",
       "title": "Jornal da Globo"
     },
     {
       "desc": "Pascoal entrega Kênia para Jendal, que volta a castigar a filha e a trancar em seu quarto. Fortunato descobre que Maria Helena consegue se libertar dos aposentos.",
-      "start_date": "2026-08-18T01:00:00-03:00",
+      "start_date": "2026-08-18T01:40:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Bela diz a Lucas que não está em um bom momento para se envolver com alguém. Vanessa anuncia a Pérola e Gabriel que pensa em vender o hospital para Junqueira e Leandra acompanha Bela durante um parto.",
-      "start_date": "2026-08-18T01:40:00-03:00",
+      "start_date": "2026-08-18T02:20:00-03:00",
       "title": "Por Você"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-08-18T02:30:00-03:00",
+      "start_date": "2026-08-18T03:05:00-03:00",
       "title": "Vai que Cola"
     },
     {
@@ -69,28 +74,28 @@
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Uma cabeleireira em dificuldades encontra um renovado senso de propósito quando conhece um pai viúvo e suas duas filhas. Com o seu filho mais novo gravemente doente e à espera de um transplante de fígado, a mulher feroz reúne uma comunidade inteira para ajudar.",
+      "desc": "A jornada de cinco adolescentes que devem buscar algo extraordinário quando eles tomam consciência de que a sua pequena cidade Angel Grove - e o mundo - estão à beira de sofrer um ataque alienígena. Escolhidos pelo destino, eles irão descobrir que são os únicos que poderão salvar o planeta. Mas para isso, eles devem superar seus problemas pessoais e juntarem suas forças, antes que seja tarde demais.",
       "start_date": "2026-08-18T15:30:00-03:00",
-      "title": "Uma Vida de Esperança"
+      "title": "Power Rangers"
     },
     {
       "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
-      "start_date": "2026-08-18T17:25:00-03:00",
+      "start_date": "2026-08-18T17:30:00-03:00",
       "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
       "desc": "Pascoal entrega Kênia para Jendal, que volta a castigar a filha e a trancar em seu quarto. Fortunato descobre que Maria Helena consegue se libertar dos aposentos.",
-      "start_date": "2026-08-18T18:25:00-03:00",
+      "start_date": "2026-08-18T18:30:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-08-18T19:10:00-03:00",
+      "start_date": "2026-08-18T19:15:00-03:00",
       "title": "RBS Notícias"
     },
     {
       "desc": "Bela diz a Lucas que não está em um bom momento para se envolver com alguém. Vanessa anuncia a Pérola e Gabriel que pensa em vender o hospital para Junqueira e Leandra acompanha Bela durante um parto.",
-      "start_date": "2026-08-18T19:40:00-03:00",
+      "start_date": "2026-08-18T19:45:00-03:00",
       "title": "Por Você"
     },
     {
@@ -104,9 +109,14 @@
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "Elder e Daiane são um casal em meio a uma guerra urbana. Enquanto ele luta para sobreviver após uma bala perdida, o primeiro filho deles está prestes a nascer.",
+      "desc": "Pablo é preso por brigar com o diretor da escola pelo melhor ponto de venda de salgados. Ele, Luisão e os salgueiros se unem para criar um sindicato e proteger a profissão.",
       "start_date": "2026-08-18T22:45:00-03:00",
-      "title": "Vítimas do Dia"
+      "title": "Pablo & Luisão"
+    },
+    {
+      "desc": "Pedro Bial debate e propõe o diálogo sobre assuntos contemporâneos, do Brasil e do mundo, com seus convidados.",
+      "start_date": "2026-08-18T23:15:00-03:00",
+      "title": "Conversa com Bial"
     }
   ],
   "start_date": "2026-08-18"

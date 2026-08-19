@@ -4,28 +4,28 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "Fernando persegue o carro que atropelou Balthazar, e Cassiano descobre a relação de Nestor com o atentado; Silvana sai da clínica; o pedido de indenização de Balthazar é deferido.",
-      "start_date": "2026-08-19T00:05:00-03:00",
-      "title": "Justiça 2"
-    },
-    {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-08-19T00:50:00-03:00",
+      "start_date": "2026-08-19T00:35:00-03:00",
       "title": "Jornal da Globo"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-08-19T01:40:00-03:00",
+      "start_date": "2026-08-19T01:25:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-08-19T02:20:00-03:00",
+      "start_date": "2026-08-19T02:00:00-03:00",
       "title": "Por Você"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-08-19T03:05:00-03:00",
+      "start_date": "2026-08-19T02:40:00-03:00",
+      "title": "Vai que Cola"
+    },
+    {
+      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "start_date": "2026-08-19T03:20:00-03:00",
       "title": "Vai que Cola"
     },
     {
@@ -70,58 +70,63 @@
     },
     {
       "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
-      "start_date": "2026-08-19T14:45:00-03:00",
+      "start_date": "2026-08-19T14:35:00-03:00",
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "A jornada de cinco adolescentes que devem buscar algo extraordinário quando eles tomam consciência de que a sua pequena cidade Angel Grove - e o mundo - estão à beira de sofrer um ataque alienígena. Escolhidos pelo destino, eles irão descobrir que são os únicos que poderão salvar o planeta. Mas para isso, eles devem superar seus problemas pessoais e juntarem suas forças, antes que seja tarde demais.",
-      "start_date": "2026-08-19T15:30:00-03:00",
-      "title": "Power Rangers"
+      "desc": "Pureza arruma um emprego em uma fazenda e acaba testemunhando o tratamento brutal de trabalhadores rurais escravizados. Agora, além de buscar pelo filho desaparecido, ela precisa escapar de lá e informar as autoridades sobre as atrocidades.",
+      "start_date": "2026-08-19T15:20:00-03:00",
+      "title": "Pureza"
     },
     {
       "desc": "As principais notícias do dia no Rio Grande do Sul.",
-      "start_date": "2026-08-19T17:10:00-03:00",
+      "start_date": "2026-08-19T16:40:00-03:00",
       "title": "Boletim RBS Notícias"
     },
     {
       "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
-      "start_date": "2026-08-19T17:20:00-03:00",
+      "start_date": "2026-08-19T16:50:00-03:00",
       "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-08-19T18:20:00-03:00",
+      "start_date": "2026-08-19T17:50:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-08-19T19:05:00-03:00",
+      "start_date": "2026-08-19T18:30:00-03:00",
       "title": "RBS Notícias"
     },
     {
       "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-08-19T19:45:00-03:00",
+      "start_date": "2026-08-19T19:00:00-03:00",
       "title": "Por Você"
     },
     {
       "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-08-19T20:30:00-03:00",
+      "start_date": "2026-08-19T19:40:00-03:00",
       "title": "Jornal Nacional"
     },
     {
       "desc": "Após ser demitida, Adriana tem sua casa destruída por uma enchente que também leva seu marido. Ainda sem entender como seguir, ela vai parar em um abrigo. Lá, Adriana cruza pela primeira vez com o caminho de Pedro.",
-      "start_date": "2026-08-19T21:40:00-03:00",
+      "start_date": "2026-08-19T20:40:00-03:00",
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "Pablo é preso por brigar com o diretor da escola pelo melhor ponto de venda de salgados. Ele, Luisão e os salgueiros se unem para criar um sindicato e proteger a profissão.",
-      "start_date": "2026-08-19T22:45:00-03:00",
-      "title": "Pablo & Luisão"
+      "desc": "Todas as emoções da principal competição de futebol masculino disputada entre clubes da América do Sul, e que garante ao campeão vaga no Mundial de Clubes da FIFA.",
+      "start_date": "2026-08-19T21:15:00-03:00",
+      "title": "Flamengo x Cruzeiro"
     },
     {
-      "desc": "Maria Bethânia e Paulo Vieira falam sobre arte, televisão, religiosidade e Brasil. Ambos os artistas, de gerações, linguagens e trajetórias distintas, atravessam a mesma confiança na força da cultura popular do Brasil.",
-      "start_date": "2026-08-19T23:15:00-03:00",
-      "title": "Conversa com Bial"
+      "desc": "Comentaristas analisam a rodada dos estaduais, Copa do Brasil, Libertadores e muito mais.",
+      "start_date": "2026-08-19T23:30:00-03:00",
+      "title": "Segue o Jogo"
+    },
+    {
+      "desc": "Bete desaparece depois do acidente de carro com Jayme e Carolina.",
+      "start_date": "2026-08-19T23:45:00-03:00",
+      "title": "Justiça 2"
     }
   ],
   "start_date": "2026-08-19"

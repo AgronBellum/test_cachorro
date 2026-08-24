@@ -1,63 +1,8 @@
 {
-  "end_date": "2026-08-25",
+  "end_date": "2026-08-26",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
-    {
-      "desc": "",
-      "start_date": "2026-08-23T01:25:00-03:00",
-      "title": "Caso Madeleine Mccann - O Principal Suspeito"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-23T03:40:00-03:00",
-      "title": "Ordens Médicas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-23T06:00:00-03:00",
-      "title": "Sinais de um Psicopata"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-23T06:25:00-03:00",
-      "title": "As 93 Vítimas de Samuel Little"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-23T09:38:00-03:00",
-      "title": "Aileen Wuornos - A Mente de um Monstro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-23T11:16:00-03:00",
-      "title": "Caso Madeleine Mccann - O Principal Suspeito"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-23T13:36:00-03:00",
-      "title": "Ordens Médicas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-23T16:09:00-03:00",
-      "title": "Lady Gucci - A História de Patrizia Reggiani"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-23T17:25:00-03:00",
-      "title": "O Caso Sherri Papini"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-23T20:43:00-03:00",
-      "title": "Dose Fatal"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-23T23:04:00-03:00",
-      "title": "O Paraíso das Plus Size - Abusos e Mentiras"
-    },
     {
       "desc": "",
       "start_date": "2026-08-24T01:25:00-03:00",
@@ -112,7 +57,62 @@
       "desc": "",
       "start_date": "2026-08-24T23:04:00-03:00",
       "title": "O Paraíso das Plus Size - Abusos e Mentiras"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-25T01:25:00-03:00",
+      "title": "Caso Madeleine Mccann - O Principal Suspeito"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-25T03:40:00-03:00",
+      "title": "Ordens Médicas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-25T06:00:00-03:00",
+      "title": "Sinais de um Psicopata"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-25T06:25:00-03:00",
+      "title": "As 93 Vítimas de Samuel Little"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-25T09:38:00-03:00",
+      "title": "Aileen Wuornos - A Mente de um Monstro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-25T11:16:00-03:00",
+      "title": "Caso Madeleine Mccann - O Principal Suspeito"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-25T13:36:00-03:00",
+      "title": "Ordens Médicas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-25T16:09:00-03:00",
+      "title": "Lady Gucci - A História de Patrizia Reggiani"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-25T17:25:00-03:00",
+      "title": "O Caso Sherri Papini"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-25T20:43:00-03:00",
+      "title": "Dose Fatal"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-25T23:04:00-03:00",
+      "title": "O Paraíso das Plus Size - Abusos e Mentiras"
     }
   ],
-  "start_date": "2026-08-23"
+  "start_date": "2026-08-24"
 }

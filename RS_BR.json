@@ -5,32 +5,27 @@
   "epg_list": [
     {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-08-25T00:05:00-03:00",
+      "start_date": "2026-08-25T00:15:00-03:00",
       "title": "Jornal da Globo"
     },
     {
       "desc": "Virgínia pede um novo favor a Sebastião. Belmira registra quando Salma fala sobre seu desinteresse no casamento com Fuad. Mirinho descobre que Tonho e Lúcia/Alika marcaram a data de seu casamento.",
-      "start_date": "2026-08-25T00:55:00-03:00",
+      "start_date": "2026-08-25T01:05:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Peixe e seus irmãos conseguem distrair Vera e fugir da casa de acolhimento e Bela se desespera ao descobrir sobre a fuga das crianças, e pede ajuda a Gabriel para encontrá-los.",
-      "start_date": "2026-08-25T01:35:00-03:00",
+      "start_date": "2026-08-25T01:45:00-03:00",
       "title": "Por Você"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-08-25T02:20:00-03:00",
+      "start_date": "2026-08-25T02:30:00-03:00",
       "title": "Vai que Cola"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-08-25T03:00:00-03:00",
-      "title": "Vai que Cola"
-    },
-    {
-      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-08-25T03:30:00-03:00",
+      "start_date": "2026-08-25T03:10:00-03:00",
       "title": "Vai que Cola"
     },
     {
@@ -79,9 +74,9 @@
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Depois de perder a herança da família em Las Vegas, Tino precisa se virar para conseguir dinheiro. Ele começa a vender biscoitos na rua até ser atropelado pelo filho de um milionário, que se apaixona por sua filha Teté. O pai do rapaz lhe oferece um trabalho na corretora para que ele possa pagar pelo casamento da filha. No exercício de suas novas funções, Tino leva à falência a maior empresa do Brasil, mergulhando o país em uma grande crise financeira.",
-      "start_date": "2026-08-25T15:40:00-03:00",
-      "title": "Até que a Sorte nos Separe 3"
+      "desc": "Christy e Kevin Beam são pais de três garotas: Abbie, Annabel e Adelynn. Cristãos convictos, os Beams vão à igreja com frequência. Um dia, Annabel começa a sentir fortes dores na região do abdome. Após muitos exames, é constatado que a garota possui um grave problema digestivo. A situação faz Christy buscar a todo custo algum meio de salvar a vida da filha, ao mesmo tempo, em que se afasta cada vez mais de sua crença em Deus.",
+      "start_date": "2026-08-25T15:30:00-03:00",
+      "title": "Milagres do Paraíso"
     },
     {
       "desc": "As principais notícias do dia no Rio Grande do Sul.",
@@ -105,7 +100,7 @@
     },
     {
       "desc": "Peixe e seus irmãos conseguem distrair Vera e fugir da casa de acolhimento e Bela se desespera ao descobrir sobre a fuga das crianças, e pede ajuda a Gabriel para encontrá-los.",
-      "start_date": "2026-08-25T19:40:00-03:00",
+      "start_date": "2026-08-25T19:10:00-03:00",
       "title": "Por Você"
     },
     {
@@ -124,9 +119,14 @@
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "Alex, um assassino profissional, se recusa a completar um trabalho para uma organização criminosa e acaba se tornando um alvo. Agentes do FBI e da inteligência mexicana são trazidos para investigar seu rastro de corpos, levando-os para mais perto de Alex. Com o sindicato do crime e o FBI em perseguição, apenas uma coisa pode impedi-lo: uma doença que lhe causa grave perda de memória e afeta todos os seus movimentos. Alex agora deve questionar todas as suas ações e em quem ele pode confiar.",
+      "desc": "Em busca de seus sonhos, artistas talentosos entram nesta casa para formar grupos musicais de sucesso. Cantores de diferentes estilos enfrentam diversas etapas em sua jornada nos palcos.",
       "start_date": "2026-08-25T22:35:00-03:00",
-      "title": "Assassino sem Rastro"
+      "title": "Estrelas da Casa"
+    },
+    {
+      "desc": "Pedro Bial debate e propõe o diálogo sobre assuntos contemporâneos, do Brasil e do mundo, com seus convidados.",
+      "start_date": "2026-08-25T23:25:00-03:00",
+      "title": "Conversa com Bial"
     }
   ],
   "start_date": "2026-08-25"

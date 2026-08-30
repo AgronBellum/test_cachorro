@@ -4,34 +4,19 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "Um homem permite que sua esposa tenha relações com outras pessoas para tentar salvar seu casamento. Porém, quando os amantes dela começam a desaparecer, o marido se torna o principal suspeito.",
-      "start_date": "2026-08-30T00:15:00-03:00",
-      "title": "Águas Profundas"
+      "desc": "O escudeiro Jacques Le Gris ataca a esposa de Jean de Carrouge, um respeitado cavaleiro. Ela o denuncia, em um ato de coragem que põe sua vida em risco. O julgamento por combate, um duelo até a morte, coloca o destino dos três nas mãos de Deus.",
+      "start_date": "2026-08-30T00:20:00-03:00",
+      "title": "O Último Duelo"
     },
     {
-      "desc": "Mirinho decide ir até o engenho, e Graça conforta o filho afirmando que se livrou do capanga. Alika descobre que Tonho sofreu um atentado e Belmira revela toda a verdade sobre Ritinha a Marta.",
-      "start_date": "2026-08-30T01:45:00-03:00",
-      "title": "A Nobreza do Amor"
+      "desc": "No ano de 2027, a infertilidade é uma ameaça real para a civilização, e o último humano a nascer em anos acaba de morrer. Frente a um cenário pessimista sobre o futuro, um burocrata desiludido se torna o herói improvável que pode salvar a humanidade. Para isso, ele enfrenta seus próprios demônios e tenta proteger a última esperança do planeta: uma jovem mulher milagrosamente grávida, descoberta pela ativista inteligente com quem fora casado.",
+      "start_date": "2026-08-30T02:20:00-03:00",
+      "title": "Filhos da Esperança"
     },
     {
-      "desc": "Ítalo machuca o braço, e Lucas, Peixe e Glorinha o levam até o hospital Luz. Vitor questiona Leandra sobre o namoro dos dois. Peixe conversa com Gabriel. Gabriel flagra Lucas e Bela juntos, e Vanessa observa a reação do ex-marido.",
-      "start_date": "2026-08-30T02:30:00-03:00",
-      "title": "Por Você"
-    },
-    {
-      "desc": "Em uma das reuniões da L.O.C.A., Liga das Obsessivas Compulsivas por Amor, Manoela, Elena e Rebeca acabam se conhecendo melhor quase por acidente e percebem que possuem mais em comum do que esperavam: as três sofreram grandes decepções amorosas e resolvem se juntar para uma grande vingança.",
-      "start_date": "2026-08-30T03:15:00-03:00",
-      "title": "L.O.C.A."
-    },
-    {
-      "desc": "A jornada de aventura e fantasia de Claé e Bruô, agentes secretos de reinos rivais. Eles precisam superar suas diferenças e unir forças para buscar os Perlimps, criaturas misteriosas capazes de encontrar um caminho para a paz em tempos de guerra.",
-      "start_date": "2026-08-30T04:35:00-03:00",
-      "title": "Perlimps"
-    },
-    {
-      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
-      "start_date": "2026-08-30T05:50:00-03:00",
-      "title": "Globo Rural"
+      "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
+      "start_date": "2026-08-30T04:00:00-03:00",
+      "title": "Hora 1"
     },
     {
       "desc": "Acompanhe a celebração da santa missa em João Pessoa.",
@@ -39,114 +24,74 @@
       "title": "Santa Missa"
     },
     {
-      "desc": "As principais notícias do Brasil para começar o final de semana bem-informado.",
-      "start_date": "2026-08-30T06:45:00-03:00",
-      "title": "Bom Dia Sábado"
-    },
-    {
-      "desc": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários.",
-      "start_date": "2026-08-30T07:45:00-03:00",
-      "title": "Pequenas Empresas & Grandes Negócios"
+      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
+      "start_date": "2026-08-30T06:40:00-03:00",
+      "title": "Globo Repórter"
     },
     {
       "desc": "Um programa democrático que aborda as diversas áreas da cultura gaúcha, e também apresenta quadros de turismo, gastronomia e as informações do agronegócio.",
-      "start_date": "2026-08-30T08:30:00-03:00",
+      "start_date": "2026-08-30T07:30:00-03:00",
       "title": "Galpão Crioulo"
     },
     {
-      "desc": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa.",
-      "start_date": "2026-08-30T09:00:00-03:00",
-      "title": "É de Casa"
+      "desc": "A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes.",
+      "start_date": "2026-08-30T08:00:00-03:00",
+      "title": "AutoEsporte"
     },
     {
-      "desc": "Uma experiência que resgata o valor dos encontros. Porque existem momentos que não se medem pelo relógio, mas pelo estalo da lenha e pelo aroma da carne na brasa.",
-      "start_date": "2026-08-30T11:45:00-03:00",
-      "title": "Tempo Bueno"
+      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
+      "start_date": "2026-08-30T08:30:00-03:00",
+      "title": "Globo Rural"
     },
     {
-      "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-08-30T12:00:00-03:00",
-      "title": "Jornal do Almoço"
+      "desc": "Daniel abre a porteira de sua fazenda para receber grandes astros da música sertaneja. Juntos, eles relembram suas trajetórias, falam sobre suas inspirações e se deixam levar pelas modas de viola.",
+      "start_date": "2026-08-30T10:05:00-03:00",
+      "title": "Viver Sertanejo"
     },
     {
-      "desc": "Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.",
-      "start_date": "2026-08-30T13:00:00-03:00",
-      "title": "Propaganda Eleitoral"
+      "desc": "Fique por dentro de tudo o que rolou durante a semana nos esportes e veja os gols pelo mundo afora. Entrevistas, reportagens sobre ciência esportiva e personagens históricos também fazem parte da atração.",
+      "start_date": "2026-08-30T11:00:00-03:00",
+      "title": "Esporte Espetacular"
     },
     {
-      "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-08-30T13:25:00-03:00",
-      "title": "Jornal do Almoço"
+      "desc": "Um homem precisa correr contra o tempo para impedir que os piores tiranos e criminosos da história exterminem milhões de pessoas e destruam a humanidade.",
+      "start_date": "2026-08-30T12:30:00-03:00",
+      "title": "King's Man - A Origem"
     },
     {
-      "desc": "Confira as últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.",
-      "start_date": "2026-08-30T13:35:00-03:00",
-      "title": "Globo Esporte RS"
+      "desc": "O \"Em Família com Eliana\" tem especial dedicado a Ivete Sangalo. Dani Calabresa participa, fala sobre maternidade e se diverte nas dinâmicas com Ivete.",
+      "start_date": "2026-08-30T14:25:00-03:00",
+      "title": "Em Família com Eliana"
     },
     {
-      "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
-      "start_date": "2026-08-30T13:50:00-03:00",
-      "title": "Jornal Hoje"
+      "desc": "Os principais acontecimentos do Brasileirão, com notícias de clubes e atletas antes das partidas.",
+      "start_date": "2026-08-30T15:30:00-03:00",
+      "title": "Bora Pro Jogo"
     },
     {
-      "desc": "De uma forma leve e divertida, muito entretenimento e informação a partir de personagens inspiradores em assuntos como cultura, bem-estar, lazer, música, viagem, gastronomia e sustentabilidade.",
-      "start_date": "2026-08-30T14:35:00-03:00",
-      "title": "Baita Sábado"
+      "desc": "Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.",
+      "start_date": "2026-08-30T15:45:00-03:00",
+      "title": "Flamengo x Botafogo"
     },
     {
-      "desc": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais.",
-      "start_date": "2026-08-30T15:00:00-03:00",
-      "title": "Caldeirão com Mion"
+      "desc": "Todo final de semana, Luciano Huck oferece o melhor do entretenimento, com quadros divertidos e emocionantes, muita música, a presença marcante de famosos e matérias especiais pelo Brasil.",
+      "start_date": "2026-08-30T18:10:00-03:00",
+      "title": "Domingão com Huck"
     },
     {
-      "desc": "Acompanhe as emoções da divisão de elite do futebol feminino brasileiro, com 16 clubes na disputa.",
-      "start_date": "2026-08-30T16:20:00-03:00",
-      "title": "Quartas de Final: Grêmio x São Paulo"
-    },
-    {
-      "desc": "Mirinho decide ir até o engenho, e Graça conforta o filho afirmando que se livrou do capanga. Alika descobre que Tonho sofreu um atentado e Belmira revela toda a verdade sobre Ritinha a Marta.",
-      "start_date": "2026-08-30T18:30:00-03:00",
-      "title": "A Nobreza do Amor"
-    },
-    {
-      "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-08-30T19:20:00-03:00",
-      "title": "RBS Notícias"
-    },
-    {
-      "desc": "Ítalo machuca o braço, e Lucas, Peixe e Glorinha o levam até o hospital Luz. Vitor questiona Leandra sobre o namoro dos dois. Peixe conversa com Gabriel. Gabriel flagra Lucas e Bela juntos, e Vanessa observa a reação do ex-marido.",
-      "start_date": "2026-08-30T19:40:00-03:00",
-      "title": "Por Você"
-    },
-    {
-      "desc": "Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.",
+      "desc": "Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência.",
       "start_date": "2026-08-30T20:30:00-03:00",
-      "title": "Propaganda Eleitoral"
+      "title": "Fantástico"
     },
     {
-      "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-08-30T20:55:00-03:00",
-      "title": "Jornal Nacional"
-    },
-    {
-      "desc": "Renata Vasconcellos e César Tralli entrevistam candidatos à presidência do Brasil.",
-      "start_date": "2026-08-30T21:20:00-03:00",
-      "title": "Entrevista com os Candidatos à Presidência"
-    },
-    {
-      "desc": "Adriana aceita as desculpas de Dora. Diná ameaça Edvaldo. Pedro alerta Dora sobre Ademir, afirmando que o pai pode usar de seu conhecimento para prolongar o divórcio litigioso.",
-      "start_date": "2026-08-30T22:05:00-03:00",
-      "title": "Quem Ama Cuida"
-    },
-    {
-      "desc": "Blogueirinha comanda uma atração repleta de humor ácido para testar a sintonia dos cantores, se valendo de provocações e alfinetadas para discutir desentendimentos, desafios e momentos curiosos do confinamento.",
-      "start_date": "2026-08-30T22:50:00-03:00",
+      "desc": "Em busca de seus sonhos, artistas talentosos entram nesta casa para formar grupos musicais de sucesso. Cantores de diferentes estilos enfrentam diversas etapas em sua jornada nos palcos.",
+      "start_date": "2026-08-30T23:30:00-03:00",
       "title": "Estrelas da Casa"
     },
     {
-      "desc": "Lendas do MMA colidem dentro de um ringue de boxe, na Mercado Livre Arena Pacaembu, em São Paulo. Maurício \"Shogun\" Rua e Glover Teixeira, ícones do Ultimate Fighting Championship, se enfrentam na luta principal da noite.",
-      "start_date": "2026-08-30T23:15:00-03:00",
-      "title": "Spaten Fight Night 3 - Maurício Shogun x Glover Teixeira"
+      "desc": "O maior festival de música sertaneja do Brasil que acontece nas seis cidades anfitriãs: Londrina, Ribeirão Preto, Pedro Leopoldo, Barretos, Jaguariúna e Caldas Novas.",
+      "start_date": "2026-08-30T23:35:00-03:00",
+      "title": "Circuito Sertanejo"
     }
   ],
   "start_date": "2026-08-30"

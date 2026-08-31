@@ -1,118 +1,308 @@
 {
-  "end_date": "2026-09-01",
+  "end_date": "2026-09-02",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
     {
       "desc": "",
-      "start_date": "2026-08-30T01:29:00-03:00",
-      "title": "Os Irmãos Menendez - Assassinos ou Sobreviventes?"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-30T02:57:00-03:00",
-      "title": "As 93 Vítimas de Samuel Little"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-30T06:00:00-03:00",
-      "title": "Mulheres Desaparecidas do Alasca"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-30T08:24:00-03:00",
-      "title": "Crimes e Mentiras - Ted Bundy"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-30T09:13:00-03:00",
-      "title": "O Assassino do Rio Green"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-30T10:52:00-03:00",
-      "title": "Os Irmãos Menendez - Assassinos ou Sobreviventes?"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-30T12:32:00-03:00",
-      "title": "As 93 Vítimas de Samuel Little"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-30T15:46:00-03:00",
-      "title": "Abdelmassih - Do Milagre ao Crime"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-30T19:03:00-03:00",
-      "title": "Disappeared: The Bradley Sisters"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-30T20:43:00-03:00",
-      "title": "Princesa Diana - Acidente ou Traição?"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-08-30T23:00:00-03:00",
-      "title": "House of Hammer - Segredos de Família"
+      "start_date": "2026-08-31T00:40:00-03:00",
+      "title": "Morte no Paraíso"
     },
     {
       "desc": "",
       "start_date": "2026-08-31T01:29:00-03:00",
-      "title": "Os Irmãos Menendez - Assassinos ou Sobreviventes?"
+      "title": "Seu Pior Pesadelo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-31T02:13:00-03:00",
+      "title": "Mentiras Criminosas"
     },
     {
       "desc": "",
       "start_date": "2026-08-31T02:57:00-03:00",
-      "title": "As 93 Vítimas de Samuel Little"
+      "title": "People Magazine - Além da Notícia"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-31T03:44:00-03:00",
+      "title": "Assassinato de uma Sexta à Noite"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-31T04:28:00-03:00",
+      "title": "Ainda um Mistério"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-31T05:16:00-03:00",
+      "title": "Câmera Crime"
     },
     {
       "desc": "",
       "start_date": "2026-08-31T06:00:00-03:00",
-      "title": "Mulheres Desaparecidas do Alasca"
+      "title": "DNA Criminoso"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-31T06:44:00-03:00",
+      "title": "Lobo em Pele de Cordeiro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-31T07:34:00-03:00",
+      "title": "Vivendo com o Inimigo"
     },
     {
       "desc": "",
       "start_date": "2026-08-31T08:24:00-03:00",
-      "title": "Crimes e Mentiras - Ted Bundy"
+      "title": "Vidas Destruídas"
     },
     {
       "desc": "",
       "start_date": "2026-08-31T09:13:00-03:00",
-      "title": "O Assassino do Rio Green"
+      "title": "Assassinatos em Família"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-31T10:02:00-03:00",
+      "title": "Vivendo com o Inimigo - Sombras da Morte"
     },
     {
       "desc": "",
       "start_date": "2026-08-31T10:52:00-03:00",
-      "title": "Os Irmãos Menendez - Assassinos ou Sobreviventes?"
+      "title": "Irmãs Perversas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-31T11:42:00-03:00",
+      "title": "Falsidade.com"
     },
     {
       "desc": "",
       "start_date": "2026-08-31T12:32:00-03:00",
-      "title": "As 93 Vítimas de Samuel Little"
+      "title": "Emboscada"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-31T13:16:00-03:00",
+      "title": "Diabólicos - A Face Oculta do Amor"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-31T14:06:00-03:00",
+      "title": "Amor Assassino"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-31T14:56:00-03:00",
+      "title": "Pecados Mortais"
     },
     {
       "desc": "",
       "start_date": "2026-08-31T15:46:00-03:00",
-      "title": "Abdelmassih - Do Milagre ao Crime"
+      "title": "Paixões Perigosas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-31T16:36:00-03:00",
+      "title": "Análise de um Crime"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-31T17:25:00-03:00",
+      "title": "Detetive Americano com Joe Kenda"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-31T18:14:00-03:00",
+      "title": "Olhos Da Lei"
     },
     {
       "desc": "",
       "start_date": "2026-08-31T19:03:00-03:00",
-      "title": "Disappeared: The Bradley Sisters"
+      "title": "Bodycam - Registros Criminosos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-31T19:53:00-03:00",
+      "title": "Crimes que Viralizaram"
     },
     {
       "desc": "",
       "start_date": "2026-08-31T20:43:00-03:00",
-      "title": "Princesa Diana - Acidente ou Traição?"
+      "title": "Vivendo com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-31T21:27:00-03:00",
+      "title": "Lobo em Pele de Cordeiro - Abuso de Poder"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-31T22:16:00-03:00",
+      "title": "Vivendo com o Inimigo - Criando um Assassino"
     },
     {
       "desc": "",
       "start_date": "2026-08-31T23:00:00-03:00",
-      "title": "House of Hammer - Segredos de Família"
+      "title": "Assassinato de uma Sexta à Noite"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-08-31T23:51:00-03:00",
+      "title": "Sinais de um Psicopata"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-01T00:40:00-03:00",
+      "title": "Morte no Paraíso"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-01T01:29:00-03:00",
+      "title": "Seu Pior Pesadelo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-01T02:13:00-03:00",
+      "title": "Mentiras Criminosas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-01T02:57:00-03:00",
+      "title": "People Magazine - Além da Notícia"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-01T03:44:00-03:00",
+      "title": "Assassinato de uma Sexta à Noite"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-01T04:28:00-03:00",
+      "title": "Ainda um Mistério"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-01T05:16:00-03:00",
+      "title": "Câmera Crime"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-01T06:00:00-03:00",
+      "title": "DNA Criminoso"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-01T06:44:00-03:00",
+      "title": "Lobo em Pele de Cordeiro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-01T07:34:00-03:00",
+      "title": "Vivendo com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-01T08:24:00-03:00",
+      "title": "Vidas Destruídas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-01T09:13:00-03:00",
+      "title": "Assassinatos em Família"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-01T10:02:00-03:00",
+      "title": "Vivendo com o Inimigo - Sombras da Morte"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-01T10:52:00-03:00",
+      "title": "Irmãs Perversas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-01T11:42:00-03:00",
+      "title": "Falsidade.com"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-01T12:32:00-03:00",
+      "title": "Emboscada"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-01T13:16:00-03:00",
+      "title": "Diabólicos - A Face Oculta do Amor"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-01T14:06:00-03:00",
+      "title": "Amor Assassino"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-01T14:56:00-03:00",
+      "title": "Pecados Mortais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-01T15:46:00-03:00",
+      "title": "Paixões Perigosas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-01T16:36:00-03:00",
+      "title": "Análise de um Crime"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-01T17:25:00-03:00",
+      "title": "Detetive Americano com Joe Kenda"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-01T18:14:00-03:00",
+      "title": "Olhos Da Lei"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-01T19:03:00-03:00",
+      "title": "Bodycam - Registros Criminosos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-01T19:53:00-03:00",
+      "title": "Crimes que Viralizaram"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-01T20:43:00-03:00",
+      "title": "Vivendo com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-01T21:27:00-03:00",
+      "title": "Lobo em Pele de Cordeiro - Abuso de Poder"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-01T22:16:00-03:00",
+      "title": "Vivendo com o Inimigo - Criando um Assassino"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-01T23:00:00-03:00",
+      "title": "Assassinato de uma Sexta à Noite"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-01T23:51:00-03:00",
+      "title": "Sinais de um Psicopata"
     }
   ],
-  "start_date": "2026-08-30"
+  "start_date": "2026-08-31"
 }

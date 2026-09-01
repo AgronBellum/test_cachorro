@@ -5,22 +5,27 @@
   "epg_list": [
     {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-09-01T01:05:00-03:00",
+      "start_date": "2026-09-01T00:20:00-03:00",
       "title": "Jornal da Globo"
     },
     {
       "desc": "Mirinho decide ir até o engenho, e Graça conforta o filho afirmando que se livrou do capanga. Alika descobre que Tonho sofreu um atentado e Belmira revela toda a verdade sobre Ritinha a Marta.",
-      "start_date": "2026-09-01T01:45:00-03:00",
+      "start_date": "2026-09-01T01:10:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Ítalo machuca o braço, e Lucas, Peixe e Glorinha o levam até o hospital Luz. Vitor questiona Leandra sobre o namoro dos dois. Peixe conversa com Gabriel. Gabriel flagra Lucas e Bela juntos, e Vanessa observa a reação do ex-marido.",
-      "start_date": "2026-09-01T02:30:00-03:00",
+      "start_date": "2026-09-01T01:55:00-03:00",
       "title": "Por Você"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-09-01T03:20:00-03:00",
+      "start_date": "2026-09-01T02:45:00-03:00",
+      "title": "Vai que Cola"
+    },
+    {
+      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "start_date": "2026-09-01T03:25:00-03:00",
       "title": "Vai que Cola"
     },
     {
@@ -79,9 +84,9 @@
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Fátima saiu de São Luís do Maranhão para o Rio de Janeiro com o sonho de ser cantora. À medida que os anos passam, o seu sonho fica cada vez mais distante e ela se vê obrigada a trocar os palcos pelas cartas do tarô.",
+      "desc": "A história de Ben Carson, menino pobre de Detroit, que tirava notas ruins na escola, e que se tornou o diretor do centro de neurologia pediátrica do hospital Johns Hopkins.",
       "start_date": "2026-09-01T15:40:00-03:00",
-      "title": "Tire 5 Cartas"
+      "title": "Mãos Talentosas - A História de Ben Carson"
     },
     {
       "desc": "As principais notícias do dia no Rio Grande do Sul.",
@@ -129,9 +134,9 @@
       "title": "Estrelas da Casa"
     },
     {
-      "desc": "Jonas Taylor lidera uma equipe de pesquisa em um mergulho exploratório nas profundezas do oceano. Enfrentando tubarões pré-históricos colossais e saqueadores ambientais implacáveis, eles devem fugir e nadar mais que seus impiedosos predadores.",
-      "start_date": "2026-09-01T23:30:00-03:00",
-      "title": "Megatubarão 2"
+      "desc": "Pedro Bial debate e propõe o diálogo sobre assuntos contemporâneos, do Brasil e do mundo, com seus convidados.",
+      "start_date": "2026-09-01T23:40:00-03:00",
+      "title": "Conversa com Bial"
     }
   ],
   "start_date": "2026-09-01"

@@ -4,23 +4,23 @@
   "provider": "mi.tv",
   "epg_list": [
     {
+      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
+      "start_date": "2026-09-03T00:35:00-03:00",
+      "title": "Jornal da Globo"
+    },
+    {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-09-03T00:45:00-03:00",
+      "start_date": "2026-09-03T01:25:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-09-03T01:30:00-03:00",
+      "start_date": "2026-09-03T02:10:00-03:00",
       "title": "Por Você"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-09-03T02:20:00-03:00",
-      "title": "Vai que Cola"
-    },
-    {
-      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-09-03T03:05:00-03:00",
+      "start_date": "2026-09-03T03:00:00-03:00",
       "title": "Vai que Cola"
     },
     {
@@ -79,9 +79,9 @@
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "A vida tranquila de um homem é abalada. Um ÓVNI cai em seu quintal na zona rural da Pensilvânia. Enquanto ele faz amizade com um misterioso extraterrestre, as coisas começam a se complicar quando dois vizinhos o descobrem.",
+      "desc": "Cláudio e Helena estão prestes a se separar. Durante uma discussão, eles trocam de corpos mais uma vez e são obrigados a viver a vida do outro. Para complicar ainda mais a situação, a filha do casal está grávida e não sabe como contar aos pais.",
       "start_date": "2026-09-03T15:40:00-03:00",
-      "title": "Nosso Amigo Extraordinário"
+      "title": "Se Eu Fosse Você 2"
     },
     {
       "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
@@ -90,23 +90,18 @@
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-09-03T17:50:00-03:00",
+      "start_date": "2026-09-03T18:10:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-09-03T18:30:00-03:00",
+      "start_date": "2026-09-03T18:55:00-03:00",
       "title": "RBS Notícias"
     },
     {
       "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-09-03T19:10:00-03:00",
+      "start_date": "2026-09-03T19:35:00-03:00",
       "title": "Por Você"
-    },
-    {
-      "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-09-03T20:00:00-03:00",
-      "title": "Jornal Nacional"
     },
     {
       "desc": "Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.",
@@ -114,29 +109,24 @@
       "title": "Propaganda Eleitoral"
     },
     {
-      "desc": "Após ser demitida, Adriana tem sua casa destruída por uma enchente que também leva seu marido. Ainda sem entender como seguir, ela vai parar em um abrigo. Lá, Adriana cruza pela primeira vez com o caminho de Pedro.",
+      "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
       "start_date": "2026-09-03T20:55:00-03:00",
+      "title": "Jornal Nacional"
+    },
+    {
+      "desc": "Após ser demitida, Adriana tem sua casa destruída por uma enchente que também leva seu marido. Ainda sem entender como seguir, ela vai parar em um abrigo. Lá, Adriana cruza pela primeira vez com o caminho de Pedro.",
+      "start_date": "2026-09-03T21:45:00-03:00",
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "Equipes de todo o território brasileiro se enfrentam no tradicional mata-mata de futebol masculino de olho na sonhada vaga para a Copa Libertadores da América.",
-      "start_date": "2026-09-03T21:20:00-03:00",
-      "title": "Santos x Palmeiras"
-    },
-    {
-      "desc": "Comentaristas analisam a rodada dos estaduais, Copa do Brasil, Libertadores e muito mais.",
-      "start_date": "2026-09-03T23:30:00-03:00",
-      "title": "Segue o Jogo"
-    },
-    {
       "desc": "Em busca de seus sonhos, artistas talentosos entram nesta casa para formar grupos musicais de sucesso. Cantores de diferentes estilos enfrentam diversas etapas em sua jornada nos palcos.",
-      "start_date": "2026-09-03T23:50:00-03:00",
+      "start_date": "2026-09-03T22:55:00-03:00",
       "title": "Estrelas da Casa"
     },
     {
-      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-09-03T23:55:00-03:00",
-      "title": "Jornal da Globo"
+      "desc": "Fábio Porchat explora as boas histórias que as pessoas têm para contar. Em um cenário intimista e com artistas no centro da plateia, ele convida famosos e anônimos a compartilhar experiências, sejam elas inesquecíveis, engraçadas ou até assustadoras.",
+      "start_date": "2026-09-03T23:50:00-03:00",
+      "title": "Que História É Essa, Porchat?"
     }
   ],
   "start_date": "2026-09-03"

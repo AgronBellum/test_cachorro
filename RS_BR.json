@@ -5,22 +5,27 @@
   "epg_list": [
     {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-09-08T01:25:00-03:00",
+      "start_date": "2026-09-08T00:20:00-03:00",
       "title": "Jornal da Globo"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-09-08T01:50:00-03:00",
+      "start_date": "2026-09-08T01:10:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-09-08T02:30:00-03:00",
+      "start_date": "2026-09-08T01:50:00-03:00",
       "title": "Por Você"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-09-08T03:20:00-03:00",
+      "start_date": "2026-09-08T02:40:00-03:00",
+      "title": "Vai que Cola"
+    },
+    {
+      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "start_date": "2026-09-08T03:25:00-03:00",
       "title": "Vai que Cola"
     },
     {
@@ -79,9 +84,9 @@
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Jorge brinca de reportagem enquanto sonha de verdade com a profissão. Entre os percalços que vive junto a sua melhor amiga, Toinha, em São João do Cariri, é bem no meio do mundo que ele vai ficar mais perto do seu sonho.",
+      "desc": "Membros da família Portokalos se reúnem na Grécia para uma viagem hilária e emocionante, cheia de amor e reviravoltas.",
       "start_date": "2026-09-08T16:00:00-03:00",
-      "title": "Jorge Quer Ser Repórter"
+      "title": "Casamento Grego 3"
     },
     {
       "desc": "As principais notícias do dia no Rio Grande do Sul.",
@@ -120,18 +125,18 @@
     },
     {
       "desc": "Após ser demitida, Adriana tem sua casa destruída por uma enchente que também leva seu marido. Ainda sem entender como seguir, ela vai parar em um abrigo. Lá, Adriana cruza pela primeira vez com o caminho de Pedro.",
-      "start_date": "2026-09-08T21:40:00-03:00",
+      "start_date": "2026-09-08T21:45:00-03:00",
       "title": "Quem Ama Cuida"
     },
     {
       "desc": "Em busca de seus sonhos, artistas talentosos entram nesta casa para formar grupos musicais de sucesso. Cantores de diferentes estilos enfrentam diversas etapas em sua jornada nos palcos.",
-      "start_date": "2026-09-08T22:50:00-03:00",
+      "start_date": "2026-09-08T22:55:00-03:00",
       "title": "Estrelas da Casa"
     },
     {
-      "desc": "O maior festival de música e entretenimento do mundo traz shows de Calvin Harris, Black Eyed Peas, Gilberto Gil, Ivete Sangalo, Foo Fighters, Elton John, Maroon 5 e muito mais.",
-      "start_date": "2026-09-08T23:15:00-03:00",
-      "title": "Rock in Rio 2026"
+      "desc": "Pedro Bial debate e propõe o diálogo sobre assuntos contemporâneos, do Brasil e do mundo, com seus convidados.",
+      "start_date": "2026-09-08T23:40:00-03:00",
+      "title": "Conversa com Bial"
     }
   ],
   "start_date": "2026-09-08"

@@ -5,38 +5,33 @@
   "epg_list": [
     {
       "desc": "O maior festival de música e entretenimento do mundo traz shows de Calvin Harris, Black Eyed Peas, Gilberto Gil, Ivete Sangalo, Foo Fighters, Elton John, Maroon 5 e muito mais.",
-      "start_date": "2026-09-12T00:25:00-03:00",
+      "start_date": "2026-09-12T00:50:00-03:00",
       "title": "Rock in Rio 2026"
     },
     {
-      "desc": "Uma prévia das eletrizantes corridas da Fórmula 1, com uma visão prática, técnica e acessível dos aspectos mais importantes da principal categoria do automobilismo mundial.",
-      "start_date": "2026-09-12T01:25:00-03:00",
-      "title": "Grid da Globo"
-    },
-    {
-      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-09-12T01:35:00-03:00",
-      "title": "Jornal da Globo"
-    },
-    {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-09-12T02:05:00-03:00",
+      "start_date": "2026-09-12T01:50:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-09-12T02:45:00-03:00",
+      "start_date": "2026-09-12T02:35:00-03:00",
       "title": "Por Você"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-09-12T03:35:00-03:00",
+      "start_date": "2026-09-12T03:20:00-03:00",
       "title": "Vai que Cola"
     },
     {
-      "desc": "Pedro trabalha em uma grande empresa estatal, que em breve será privatizada. Pressionado por um cruel processo de reestruturação, ele tem que demitir sua equipe e antecipar a sua aposentadoria. Aposentado e com uma doença na pele, decide se separar da família e mudar para Barbosa, sua pequena cidade natal, no interior distante. Lá, ele descobre que a onça-pintada que habitava a floresta ao redor de Barbosa, no tempo da sua infância, está mais viva do que nunca.",
-      "start_date": "2026-09-12T04:20:00-03:00",
-      "title": "Homem Onça"
+      "desc": "Tino e Jane são salvos da falência pela inesperada herança do Tio Olavinho. O problema é que o testamento traz um pedido incomum: o ricaço deseja que suas cinzas sejam lançadas no Grand Canyon. Aproveitando a viagem, o casal resolve dar uma esticadinha em Las Vegas. Entretanto, Tino se empolga com a jogatina de um cassino e perde todo o dinheiro da herança na mesa de pôquer. Para piorar, ainda fica devendo US$ 10 milhões a um capanga da máfia mexicana, que deseja receber o dinheiro a todo custo.",
+      "start_date": "2026-09-12T04:00:00-03:00",
+      "title": "Até que a Sorte nos Separe 2"
+    },
+    {
+      "desc": "Acompanhe a celebração da santa missa em João Pessoa.",
+      "start_date": "2026-09-12T05:45:00-03:00",
+      "title": "Santa Missa"
     },
     {
       "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
@@ -44,28 +39,33 @@
       "title": "Globo Rural"
     },
     {
-      "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
-      "start_date": "2026-09-12T06:00:00-03:00",
-      "title": "Bom Dia Rio Grande"
+      "desc": "As principais notícias do Brasil para começar o final de semana bem-informado.",
+      "start_date": "2026-09-12T06:45:00-03:00",
+      "title": "Bom Dia Sábado"
     },
     {
-      "desc": "Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.",
+      "desc": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários.",
+      "start_date": "2026-09-12T07:45:00-03:00",
+      "title": "Pequenas Empresas & Grandes Negócios"
+    },
+    {
+      "desc": "Um programa democrático que aborda as diversas áreas da cultura gaúcha, e também apresenta quadros de turismo, gastronomia e as informações do agronegócio.",
       "start_date": "2026-09-12T08:30:00-03:00",
-      "title": "Bom Dia Brasil"
+      "title": "Galpão Crioulo"
     },
     {
-      "desc": "O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.",
-      "start_date": "2026-09-12T09:30:00-03:00",
-      "title": "Encontro com Patrícia Poeta"
+      "desc": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa.",
+      "start_date": "2026-09-12T09:00:00-03:00",
+      "title": "É de Casa"
     },
     {
-      "desc": "Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.",
-      "start_date": "2026-09-12T10:35:00-03:00",
-      "title": "Mais Você"
+      "desc": "Uma experiência que resgata o valor dos encontros. Porque existem momentos que não se medem pelo relógio, mas pelo estalo da lenha e pelo aroma da carne na brasa.",
+      "start_date": "2026-09-12T11:45:00-03:00",
+      "title": "Tempo Bueno"
     },
     {
       "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-09-12T11:45:00-03:00",
+      "start_date": "2026-09-12T12:00:00-03:00",
       "title": "Jornal do Almoço"
     },
     {
@@ -89,38 +89,33 @@
       "title": "Jornal Hoje"
     },
     {
-      "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
+      "desc": "De uma forma leve e divertida, muito entretenimento e informação a partir de personagens inspiradores em assuntos como cultura, bem-estar, lazer, música, viagem, gastronomia e sustentabilidade.",
+      "start_date": "2026-09-12T14:35:00-03:00",
+      "title": "Baita Sábado"
+    },
+    {
+      "desc": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais.",
       "start_date": "2026-09-12T15:00:00-03:00",
-      "title": "Além do Tempo - Edição Especial"
+      "title": "Caldeirão com Mion"
     },
     {
-      "desc": "Em plena pandemia de COVID-19, a aposentada Laurita usa a jovem vizinha, Amanda, para fazer sua lista de compras de supermercado.",
-      "start_date": "2026-09-12T16:00:00-03:00",
-      "title": "A Lista"
-    },
-    {
-      "desc": "As principais notícias do dia no Rio Grande do Sul.",
-      "start_date": "2026-09-12T17:05:00-03:00",
-      "title": "Boletim RBS Notícias"
-    },
-    {
-      "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
-      "start_date": "2026-09-12T17:15:00-03:00",
-      "title": "Vale a Pena Ver de Novo - Avenida Brasil"
+      "desc": "Acompanhe as emoções da divisão de elite do futebol feminino brasileiro, com 16 clubes na disputa.",
+      "start_date": "2026-09-12T16:20:00-03:00",
+      "title": "Semifinal, Jogo de Ida: Flamengo x São Paulo"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-09-12T18:10:00-03:00",
+      "start_date": "2026-09-12T18:30:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-09-12T18:55:00-03:00",
+      "start_date": "2026-09-12T19:20:00-03:00",
       "title": "RBS Notícias"
     },
     {
       "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-09-12T19:35:00-03:00",
+      "start_date": "2026-09-12T19:40:00-03:00",
       "title": "Por Você"
     },
     {
@@ -144,9 +139,9 @@
       "title": "Estrelas da Casa"
     },
     {
-      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
-      "start_date": "2026-09-12T23:35:00-03:00",
-      "title": "Globo Repórter"
+      "desc": "Serginho Groisman promove debates sobre temas relevantes com a participação da plateia, artistas e personalidades de diferentes áreas.",
+      "start_date": "2026-09-12T23:25:00-03:00",
+      "title": "Altas Horas"
     }
   ],
   "start_date": "2026-09-12"

@@ -4,19 +4,14 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "O maior festival de música e entretenimento do mundo traz shows de Calvin Harris, Black Eyed Peas, Gilberto Gil, Ivete Sangalo, Foo Fighters, Elton John, Maroon 5 e muito mais.",
-      "start_date": "2026-09-13T00:50:00-03:00",
-      "title": "Rock in Rio 2026"
+      "desc": "Em 2077, Jack Harper é o responsável pela manutenção de equipamentos de segurança em um planeta Terra irreconhecível, que foi destruído por uma raça alienígena. O que restou da humanidade vive hoje em uma colônia lunar, para onde Jack irá assim que terminar seu trabalho na Terra. Porém, um dia, ele encontra a espaçonave de uma mulher e, ao conhecê-la, tudo o que Jack sabe até então é posto em dúvida, iniciando-se uma jornada em que ele precisará descobrir o que realmente aconteceu no passado.",
+      "start_date": "2026-09-13T00:35:00-03:00",
+      "title": "Oblivion"
     },
     {
-      "desc": "José garante a Teresa que voltará para o Brasil. Marta conversa com Virgínia sobre seu casamento com Mirinho. Tonho sofre com a impossibilidade de seu amor por Alika.",
-      "start_date": "2026-09-13T01:50:00-03:00",
-      "title": "A Nobreza do Amor"
-    },
-    {
-      "desc": "Vitor se declara para Leandra. Juarez sofre com a consequência de seus atos e Peixe anuncia a Bela e aos irmãos que passará um período na casa de Gabriel.",
+      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
       "start_date": "2026-09-13T02:35:00-03:00",
-      "title": "Por Você"
+      "title": "Vai que Cola"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
@@ -24,9 +19,9 @@
       "title": "Vai que Cola"
     },
     {
-      "desc": "Tino e Jane são salvos da falência pela inesperada herança do Tio Olavinho. O problema é que o testamento traz um pedido incomum: o ricaço deseja que suas cinzas sejam lançadas no Grand Canyon. Aproveitando a viagem, o casal resolve dar uma esticadinha em Las Vegas. Entretanto, Tino se empolga com a jogatina de um cassino e perde todo o dinheiro da herança na mesa de pôquer. Para piorar, ainda fica devendo US$ 10 milhões a um capanga da máfia mexicana, que deseja receber o dinheiro a todo custo.",
+      "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
       "start_date": "2026-09-13T04:00:00-03:00",
-      "title": "Até que a Sorte nos Separe 2"
+      "title": "Hora 1"
     },
     {
       "desc": "Acompanhe a celebração da santa missa em João Pessoa.",
@@ -34,114 +29,79 @@
       "title": "Santa Missa"
     },
     {
-      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
-      "start_date": "2026-09-13T05:50:00-03:00",
-      "title": "Globo Rural"
-    },
-    {
-      "desc": "As principais notícias do Brasil para começar o final de semana bem-informado.",
-      "start_date": "2026-09-13T06:45:00-03:00",
-      "title": "Bom Dia Sábado"
-    },
-    {
-      "desc": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários.",
-      "start_date": "2026-09-13T07:45:00-03:00",
-      "title": "Pequenas Empresas & Grandes Negócios"
+      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
+      "start_date": "2026-09-13T06:35:00-03:00",
+      "title": "Globo Repórter"
     },
     {
       "desc": "Um programa democrático que aborda as diversas áreas da cultura gaúcha, e também apresenta quadros de turismo, gastronomia e as informações do agronegócio.",
-      "start_date": "2026-09-13T08:30:00-03:00",
+      "start_date": "2026-09-13T07:20:00-03:00",
       "title": "Galpão Crioulo"
     },
     {
-      "desc": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa.",
-      "start_date": "2026-09-13T09:00:00-03:00",
-      "title": "É de Casa"
+      "desc": "A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes.",
+      "start_date": "2026-09-13T07:45:00-03:00",
+      "title": "AutoEsporte"
     },
     {
-      "desc": "Uma experiência que resgata o valor dos encontros. Porque existem momentos que não se medem pelo relógio, mas pelo estalo da lenha e pelo aroma da carne na brasa.",
-      "start_date": "2026-09-13T11:45:00-03:00",
-      "title": "Tempo Bueno"
+      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
+      "start_date": "2026-09-13T08:20:00-03:00",
+      "title": "Globo Rural"
     },
     {
-      "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
+      "desc": "Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.",
+      "start_date": "2026-09-13T09:40:00-03:00",
+      "title": "GP da Espanha"
+    },
+    {
+      "desc": "Trigésima-sexta edição do torneio sul-americano entre seleções de vôlei feminino. Do Rio de Janeiro.",
       "start_date": "2026-09-13T12:00:00-03:00",
-      "title": "Jornal do Almoço"
+      "title": "Brasil x Argentina"
     },
     {
-      "desc": "Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.",
-      "start_date": "2026-09-13T13:00:00-03:00",
-      "title": "Propaganda Eleitoral"
+      "desc": "Fique por dentro de tudo o que rolou durante a semana nos esportes e veja os gols pelo mundo afora. Entrevistas, reportagens sobre ciência esportiva e personagens históricos também fazem parte da atração.",
+      "start_date": "2026-09-13T13:30:00-03:00",
+      "title": "Esporte Espetacular"
     },
     {
-      "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-09-13T13:25:00-03:00",
-      "title": "Jornal do Almoço"
+      "desc": "Eliana abre sua casa e recebe Thiaguinho e Carol Peixinho no \"Em Família\". Gil do Vigor e Bia Reis participam da competição \"Invertidamente\", com humor, surpresas e momentos de afeto.",
+      "start_date": "2026-09-13T14:15:00-03:00",
+      "title": "Em Família com Eliana"
     },
     {
-      "desc": "Confira as últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.",
-      "start_date": "2026-09-13T13:35:00-03:00",
-      "title": "Globo Esporte RS"
-    },
-    {
-      "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
-      "start_date": "2026-09-13T13:50:00-03:00",
-      "title": "Jornal Hoje"
-    },
-    {
-      "desc": "De uma forma leve e divertida, muito entretenimento e informação a partir de personagens inspiradores em assuntos como cultura, bem-estar, lazer, música, viagem, gastronomia e sustentabilidade.",
-      "start_date": "2026-09-13T14:35:00-03:00",
-      "title": "Baita Sábado"
-    },
-    {
-      "desc": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais.",
+      "desc": "Todo final de semana, Luciano Huck oferece o melhor do entretenimento, com quadros divertidos e emocionantes, muita música, a presença marcante de famosos e matérias especiais pelo Brasil.",
       "start_date": "2026-09-13T15:00:00-03:00",
-      "title": "Caldeirão com Mion"
+      "title": "Domingão com Huck"
     },
     {
-      "desc": "Acompanhe as emoções da divisão de elite do futebol feminino brasileiro, com 16 clubes na disputa.",
-      "start_date": "2026-09-13T16:20:00-03:00",
-      "title": "Semifinal, Jogo de Ida: Flamengo x São Paulo"
+      "desc": "Os principais acontecimentos do Brasileirão, com notícias de clubes e atletas antes das partidas.",
+      "start_date": "2026-09-13T16:50:00-03:00",
+      "title": "Bora Pro Jogo"
     },
     {
-      "desc": "José garante a Teresa que voltará para o Brasil. Marta conversa com Virgínia sobre seu casamento com Mirinho. Tonho sofre com a impossibilidade de seu amor por Alika.",
-      "start_date": "2026-09-13T18:30:00-03:00",
-      "title": "A Nobreza do Amor"
+      "desc": "Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.",
+      "start_date": "2026-09-13T17:15:00-03:00",
+      "title": "Flamengo x Corinthians"
     },
     {
-      "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-09-13T19:20:00-03:00",
-      "title": "RBS Notícias"
+      "desc": "Todo final de semana, Luciano Huck oferece o melhor do entretenimento, com quadros divertidos e emocionantes, muita música, a presença marcante de famosos e matérias especiais pelo Brasil.",
+      "start_date": "2026-09-13T19:35:00-03:00",
+      "title": "Domingão com Huck"
     },
     {
-      "desc": "Vitor se declara para Leandra. Juarez sofre com a consequência de seus atos e Peixe anuncia a Bela e aos irmãos que passará um período na casa de Gabriel.",
-      "start_date": "2026-09-13T19:40:00-03:00",
-      "title": "Por Você"
-    },
-    {
-      "desc": "Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.",
+      "desc": "Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência.",
       "start_date": "2026-09-13T20:30:00-03:00",
-      "title": "Propaganda Eleitoral"
+      "title": "Fantástico"
     },
     {
-      "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-09-13T20:55:00-03:00",
-      "title": "Jornal Nacional"
-    },
-    {
-      "desc": "Iuri e Nicolau se encontram na casa de Brigitte. Nicolau enfrenta Pilar e Adriana recebe uma mensagem de César pedindo para ela ir a sua casa com um advogado.",
-      "start_date": "2026-09-13T21:45:00-03:00",
-      "title": "Quem Ama Cuida"
-    },
-    {
-      "desc": "Blogueirinha comanda o \"Fora do Tom\", quadro focado em fofocas, revelações e atritos da convivência. A apresentadora coloca os participantes à prova por meio de perguntas diretas, dinâmicas interativas e resgates de declarações do confinamento.",
-      "start_date": "2026-09-13T22:55:00-03:00",
+      "desc": "Em busca de seus sonhos, artistas talentosos entram nesta casa para formar grupos musicais de sucesso. Cantores de diferentes estilos enfrentam diversas etapas em sua jornada nos palcos.",
+      "start_date": "2026-09-13T23:30:00-03:00",
       "title": "Estrelas da Casa"
     },
     {
-      "desc": "Serginho Groisman promove debates sobre temas relevantes com a participação da plateia, artistas e personalidades de diferentes áreas.",
-      "start_date": "2026-09-13T23:25:00-03:00",
-      "title": "Altas Horas"
+      "desc": "O maior festival de música e entretenimento do mundo traz shows de Calvin Harris, Black Eyed Peas, Gilberto Gil, Ivete Sangalo, Foo Fighters, Elton John, Maroon 5 e muito mais.",
+      "start_date": "2026-09-13T23:35:00-03:00",
+      "title": "Rock in Rio 2026"
     }
   ],
   "start_date": "2026-09-13"

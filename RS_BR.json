@@ -5,22 +5,27 @@
   "epg_list": [
     {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-09-15T01:15:00-03:00",
+      "start_date": "2026-09-15T00:20:00-03:00",
       "title": "Jornal da Globo"
     },
     {
       "desc": "José garante a Teresa que voltará para o Brasil. Marta conversa com Virgínia sobre seu casamento com Mirinho. Tonho sofre com a impossibilidade de seu amor por Alika.",
-      "start_date": "2026-09-15T01:45:00-03:00",
+      "start_date": "2026-09-15T01:10:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Vitor se declara para Leandra. Juarez sofre com a consequência de seus atos e Peixe anuncia a Bela e aos irmãos que passará um período na casa de Gabriel.",
-      "start_date": "2026-09-15T02:25:00-03:00",
+      "start_date": "2026-09-15T01:50:00-03:00",
       "title": "Por Você"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-09-15T03:15:00-03:00",
+      "start_date": "2026-09-15T02:40:00-03:00",
+      "title": "Vai que Cola"
+    },
+    {
+      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "start_date": "2026-09-15T03:20:00-03:00",
       "title": "Vai que Cola"
     },
     {
@@ -79,9 +84,9 @@
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "A funkeira Kellen é cancelada devido a um vídeo onde ela é vista destratando seus fãs. Reflexiva e, no fundo do poço, decide voltar às suas origens e conta com o apoio de sua família para recuperar-se.",
+      "desc": "Três famílias de diferentes culturas na mesma comunidade, mas todos completamente estranhos. Eles levam vidas muito distintas até que mensagens trágicas e acidentes os unem em um caminho de amor, graça e misericórdia.",
       "start_date": "2026-09-15T16:00:00-03:00",
-      "title": "Barraco de Família"
+      "title": "Uma Questão de Fé"
     },
     {
       "desc": "As principais notícias do dia no Rio Grande do Sul.",
@@ -129,9 +134,9 @@
       "title": "Estrelas da Casa"
     },
     {
-      "desc": "Teth Adam recebeu poderes divinos, que utilizou para uma vingança e, por isso, foi aprisionado. Quase 5 mil anos depois, o Adão Negro é liberto de sua tumba para lançar sua justiça cruel sobre a Terra.",
-      "start_date": "2026-09-15T23:30:00-03:00",
-      "title": "Adão Negro"
+      "desc": "Pedro Bial debate e propõe o diálogo sobre assuntos contemporâneos, do Brasil e do mundo, com seus convidados.",
+      "start_date": "2026-09-15T23:40:00-03:00",
+      "title": "Conversa com Bial"
     }
   ],
   "start_date": "2026-09-15"

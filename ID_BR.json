@@ -1,162 +1,12 @@
 {
-  "end_date": "2026-09-17",
+  "end_date": "2026-09-18",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
     {
       "desc": "",
-      "start_date": "2026-09-15T00:40:00-03:00",
-      "title": "Pelados e Condenados"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-09-15T01:29:00-03:00",
-      "title": "Seu Pior Pesadelo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-09-15T02:13:00-03:00",
-      "title": "Mentiras Criminosas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-09-15T02:57:00-03:00",
-      "title": "People Magazine - Além da Notícia"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-09-15T03:44:00-03:00",
-      "title": "Assassinato de uma Sexta à Noite"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-09-15T04:28:00-03:00",
-      "title": "Ainda um Mistério"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-09-15T05:16:00-03:00",
-      "title": "Câmera Crime"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-09-15T06:00:00-03:00",
-      "title": "DNA Criminoso"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-09-15T06:44:00-03:00",
-      "title": "Lobo em Pele de Cordeiro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-09-15T07:34:00-03:00",
-      "title": "Vivendo com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-09-15T08:49:00-03:00",
-      "title": "Vidas Destruídas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-09-15T09:38:00-03:00",
-      "title": "Assassinatos em Família"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-09-15T10:27:00-03:00",
-      "title": "Vivendo com o Inimigo - Sombras da Morte"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-09-15T11:17:00-03:00",
-      "title": "Irmãs Perversas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-09-15T12:07:00-03:00",
-      "title": "Falsidade.com"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-09-15T12:57:00-03:00",
-      "title": "Emboscada"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-09-15T13:41:00-03:00",
-      "title": "Diabólicos - A Face Oculta do Amor"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-09-15T14:31:00-03:00",
-      "title": "Amor Assassino"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-09-15T15:21:00-03:00",
-      "title": "Pecados Mortais"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-09-15T16:11:00-03:00",
-      "title": "Paixões Perigosas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-09-15T17:01:00-03:00",
-      "title": "Análise de um Crime"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-09-15T17:50:00-03:00",
-      "title": "Detetive Americano com Joe Kenda"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-09-15T18:39:00-03:00",
-      "title": "Olhos Da Lei"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-09-15T19:28:00-03:00",
-      "title": "Bodycam - Registros Criminosos"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-09-15T20:18:00-03:00",
-      "title": "Crimes que Viralizaram"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-09-15T20:43:00-03:00",
-      "title": "As Piores Prisões do Mundo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-09-15T21:27:00-03:00",
-      "title": "Ronda Policial"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-09-15T22:16:00-03:00",
-      "title": "Confissões de um Crime"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-09-15T23:00:00-03:00",
-      "title": "Policial Bom, Policial Mau"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-09-15T23:51:00-03:00",
-      "title": "Fúria no Trânsito"
-    },
-    {
-      "desc": "",
       "start_date": "2026-09-16T00:40:00-03:00",
-      "title": "Pelados e Condenados"
+      "title": "Cena do Crime - Arquivos Confidenciais"
     },
     {
       "desc": "",
@@ -281,28 +131,168 @@
     {
       "desc": "",
       "start_date": "2026-09-16T20:43:00-03:00",
-      "title": "As Piores Prisões do Mundo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-09-16T21:27:00-03:00",
-      "title": "Ronda Policial"
+      "title": "Detetive Americano com Joe Kenda"
     },
     {
       "desc": "",
       "start_date": "2026-09-16T22:16:00-03:00",
-      "title": "Confissões de um Crime"
+      "title": "Confissões de Assassinos - Verdades Perturbadoras"
     },
     {
       "desc": "",
       "start_date": "2026-09-16T23:00:00-03:00",
-      "title": "Policial Bom, Policial Mau"
+      "title": "Investigação Criminal"
     },
     {
       "desc": "",
       "start_date": "2026-09-16T23:51:00-03:00",
-      "title": "Fúria no Trânsito"
+      "title": "190 - O Assassino Ligou?"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-17T00:40:00-03:00",
+      "title": "Cena do Crime - Arquivos Confidenciais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-17T01:29:00-03:00",
+      "title": "Seu Pior Pesadelo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-17T02:13:00-03:00",
+      "title": "Mentiras Criminosas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-17T02:57:00-03:00",
+      "title": "People Magazine - Além da Notícia"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-17T03:44:00-03:00",
+      "title": "Assassinato de uma Sexta à Noite"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-17T04:28:00-03:00",
+      "title": "Ainda um Mistério"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-17T05:16:00-03:00",
+      "title": "Câmera Crime"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-17T06:00:00-03:00",
+      "title": "DNA Criminoso"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-17T06:44:00-03:00",
+      "title": "Lobo em Pele de Cordeiro"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-17T07:34:00-03:00",
+      "title": "Vivendo com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-17T08:49:00-03:00",
+      "title": "Vidas Destruídas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-17T09:38:00-03:00",
+      "title": "Assassinatos em Família"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-17T10:27:00-03:00",
+      "title": "Vivendo com o Inimigo - Sombras da Morte"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-17T11:17:00-03:00",
+      "title": "Irmãs Perversas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-17T12:07:00-03:00",
+      "title": "Falsidade.com"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-17T12:57:00-03:00",
+      "title": "Emboscada"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-17T13:41:00-03:00",
+      "title": "Diabólicos - A Face Oculta do Amor"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-17T14:31:00-03:00",
+      "title": "Amor Assassino"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-17T15:21:00-03:00",
+      "title": "Pecados Mortais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-17T16:11:00-03:00",
+      "title": "Paixões Perigosas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-17T17:01:00-03:00",
+      "title": "Análise de um Crime"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-17T17:50:00-03:00",
+      "title": "Detetive Americano com Joe Kenda"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-17T18:39:00-03:00",
+      "title": "Olhos Da Lei"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-17T19:28:00-03:00",
+      "title": "Bodycam - Registros Criminosos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-17T20:18:00-03:00",
+      "title": "Crimes que Viralizaram"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-17T20:43:00-03:00",
+      "title": "Detetive Americano com Joe Kenda"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-17T22:16:00-03:00",
+      "title": "Confissões de Assassinos - Verdades Perturbadoras"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-17T23:00:00-03:00",
+      "title": "Investigação Criminal"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-09-17T23:51:00-03:00",
+      "title": "190 - O Assassino Ligou?"
     }
   ],
-  "start_date": "2026-09-15"
+  "start_date": "2026-09-16"
 }

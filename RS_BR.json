@@ -4,29 +4,39 @@
   "provider": "mi.tv",
   "epg_list": [
     {
+      "desc": "Rebecca reflete sobre como um estranho pode se tornar tão importante após retornar de Los Angeles; Jack conhece Miguel, um vendedor que lhe empresta um blazer para encontrar os pais de Rebecca.",
+      "start_date": "2026-09-18T00:20:00-03:00",
+      "title": "This Is Us - Histórias de Família"
+    },
+    {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-09-18T00:35:00-03:00",
+      "start_date": "2026-09-18T01:10:00-03:00",
       "title": "Jornal da Globo"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-09-18T01:25:00-03:00",
+      "start_date": "2026-09-18T02:00:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Juarez atira da ponte o dinheiro que Zé deixou em seu poder. Lucas convida Bela para jantar e conhecer sua casa. Toy se apresenta como médico a Leandra. Juarez pede ajuda a Dalila para surpreender Iara.",
-      "start_date": "2026-09-18T02:05:00-03:00",
+      "start_date": "2026-09-18T02:40:00-03:00",
       "title": "Por Você"
     },
     {
-      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-09-18T02:55:00-03:00",
-      "title": "Vai que Cola"
+      "desc": "Encerramento da programação.",
+      "start_date": "2026-09-18T03:30:00-03:00",
+      "title": "Manutenção"
     },
     {
-      "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
-      "start_date": "2026-09-18T04:00:00-03:00",
-      "title": "Hora 1"
+      "desc": "Na esperança de encontrar seu pai, adolescente problemática pede para um arquiteto viúvo construir uma jangada para que ela possa atravessar oceano.",
+      "start_date": "2026-09-18T04:15:00-03:00",
+      "title": "O Livro do Amor"
+    },
+    {
+      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
+      "start_date": "2026-09-18T05:50:00-03:00",
+      "title": "Globo Rural"
     },
     {
       "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
@@ -79,18 +89,18 @@
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Doente em estado terminal, o rei Harold chama Fiona e Shrek para uma conversa sobre a sucessão de seu reinado e o futuro do povo em Tão Tão Distante. Como o genro se recusa a assumir o trono e prefere continuar sua pacata vida no pântano, a única saída é encontrar o primo Artur. Na companhia do Burro e do Gato de Botas, Shrek se encarrega da missão e sai em busca do parente que pode ser seu substituto no trono. Mas, antes de cumprir a tarefa, enfrenta as armações do ambicioso Príncipe Encantado.",
-      "start_date": "2026-09-18T15:55:00-03:00",
-      "title": "Shrek Terceiro"
+      "desc": "Os pedidos de noivado de ambos são um fracasso, e os eternos românticos Margot e Griffin dão por si juntos na véspera de Ano Novo, após uma série de eventos fatídicos. Acreditando ambos no amor verdadeiro, eles lançam-se em uma aventura mágica.",
+      "start_date": "2026-09-18T16:00:00-03:00",
+      "title": "Destinos Traçados"
     },
     {
       "desc": "As principais notícias do dia no Rio Grande do Sul.",
-      "start_date": "2026-09-18T17:05:00-03:00",
+      "start_date": "2026-09-18T17:00:00-03:00",
       "title": "Boletim RBS Notícias"
     },
     {
       "desc": "Tufão fica contrariado ao saber do casamento; Jorginho se preocupa com a paixão de Tufão por Nina; Nina se emociona com presente de Tufão; Carminha instrui Max a reatar com Ivana e manter a parceria; Carminha pressiona e Tufão confessa que ama Nina.",
-      "start_date": "2026-09-18T17:15:00-03:00",
+      "start_date": "2026-09-18T17:10:00-03:00",
       "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
@@ -129,9 +139,9 @@
       "title": "Estrelas da Casa"
     },
     {
-      "desc": "Fábio Porchat explora as boas histórias que as pessoas têm para contar. Em um cenário intimista e com artistas no centro da plateia, ele convida famosos e anônimos a compartilhar experiências, sejam elas inesquecíveis, engraçadas ou até assustadoras.",
-      "start_date": "2026-09-18T23:50:00-03:00",
-      "title": "Que História É Essa, Porchat?"
+      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
+      "start_date": "2026-09-18T23:30:00-03:00",
+      "title": "Globo Repórter"
     }
   ],
   "start_date": "2026-09-18"

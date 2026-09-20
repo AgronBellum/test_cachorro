@@ -4,29 +4,24 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "Apresentações dos grandes músicos sertanejos no maior circuito de show do país.",
-      "start_date": "2026-09-20T00:45:00-03:00",
-      "title": "Circuito Sertanejo"
+      "desc": "A guerreira Sarah Connor se une a Grace, um híbrido entre ciborgue e humano, e ao T-800 para proteger a jovem Dani Ramos de um novo tipo de exterminador que chega do futuro à Cidade do México.",
+      "start_date": "2026-09-20T00:35:00-03:00",
+      "title": "O Exterminador do Futuro - Destino Sombrio"
     },
     {
-      "desc": "A família Gaspar sai de férias no verão de 1991. Após uma discussão, todos são atingidos por uma violenta tempestade. Quando finalmente voltam à praia, eles descobrem que viajaram para o ano de 2022: um futuro totalmente diferente do que conhecem.",
-      "start_date": "2026-09-20T01:35:00-03:00",
-      "title": "O Amanhã É Hoje"
+      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "start_date": "2026-09-20T02:35:00-03:00",
+      "title": "Vai que Cola"
     },
     {
-      "desc": "Omar avisa que conseguiu cancelar as passagens. Casemiro revela que expulsou Mirinho de casa, e Marta se espanta. Ritinha presenteia Diógenes com desenho feito por ela.",
-      "start_date": "2026-09-20T03:05:00-03:00",
-      "title": "A Nobreza do Amor"
+      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "start_date": "2026-09-20T03:20:00-03:00",
+      "title": "Vai que Cola"
     },
     {
-      "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-09-20T03:50:00-03:00",
-      "title": "Por Você"
-    },
-    {
-      "desc": "Caco Antibes sai da prisão e planeja golpe ao lado de Vavá, Cassandra, Ribamar e Magda, a família mais famosa do Largo do Arouche.",
-      "start_date": "2026-09-20T04:40:00-03:00",
-      "title": "Sai de Baixo - O Filme"
+      "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
+      "start_date": "2026-09-20T04:00:00-03:00",
+      "title": "Hora 1"
     },
     {
       "desc": "Acompanhe a celebração da santa missa em João Pessoa.",
@@ -34,114 +29,69 @@
       "title": "Santa Missa"
     },
     {
-      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
-      "start_date": "2026-09-20T05:50:00-03:00",
-      "title": "Globo Rural"
-    },
-    {
-      "desc": "As principais notícias do Brasil para começar o final de semana bem-informado.",
-      "start_date": "2026-09-20T06:45:00-03:00",
-      "title": "Bom Dia Sábado"
-    },
-    {
-      "desc": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários.",
-      "start_date": "2026-09-20T07:45:00-03:00",
-      "title": "Pequenas Empresas & Grandes Negócios"
-    },
-    {
       "desc": "Um programa democrático que aborda as diversas áreas da cultura gaúcha, e também apresenta quadros de turismo, gastronomia e as informações do agronegócio.",
-      "start_date": "2026-09-20T08:30:00-03:00",
+      "start_date": "2026-09-20T06:35:00-03:00",
       "title": "Galpão Crioulo"
     },
     {
-      "desc": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa.",
-      "start_date": "2026-09-20T09:00:00-03:00",
-      "title": "É de Casa"
+      "desc": "A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes.",
+      "start_date": "2026-09-20T07:00:00-03:00",
+      "title": "AutoEsporte"
     },
     {
-      "desc": "Uma experiência que resgata o valor dos encontros. Porque existem momentos que não se medem pelo relógio, mas pelo estalo da lenha e pelo aroma da carne na brasa.",
-      "start_date": "2026-09-20T11:45:00-03:00",
-      "title": "Tempo Bueno"
+      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
+      "start_date": "2026-09-20T07:30:00-03:00",
+      "title": "Globo Rural"
     },
     {
-      "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-09-20T12:00:00-03:00",
-      "title": "Jornal do Almoço"
+      "desc": "Daniel abre a porteira de sua fazenda para receber grandes astros da música sertaneja. Juntos, eles relembram suas trajetórias, falam sobre suas inspirações e se deixam levar pelas modas de viola.",
+      "start_date": "2026-09-20T08:50:00-03:00",
+      "title": "Viver Sertanejo"
     },
     {
-      "desc": "Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.",
-      "start_date": "2026-09-20T13:00:00-03:00",
-      "title": "Propaganda Eleitoral"
+      "desc": "Fique por dentro de tudo o que rolou durante a semana nos esportes e veja os gols pelo mundo afora. Entrevistas, reportagens sobre ciência esportiva e personagens históricos também fazem parte da atração.",
+      "start_date": "2026-09-20T09:40:00-03:00",
+      "title": "Esporte Espetacular"
     },
     {
-      "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-09-20T13:25:00-03:00",
-      "title": "Jornal do Almoço"
+      "desc": "A Dra. Lily Houghton pede a ajuda do sagaz capitão Frank Wolff para levá-la à Amazônia em seu barco em ruínas. Juntos, eles procuram por uma árvore ancestral que detém o poder de curar - uma descoberta que deve mudar o futuro da medicina.",
+      "start_date": "2026-09-20T12:25:00-03:00",
+      "title": "Jungle Cruise"
     },
     {
-      "desc": "Confira as últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.",
-      "start_date": "2026-09-20T13:35:00-03:00",
-      "title": "Globo Esporte RS"
+      "desc": "Eliana visita Taís Araújo. No palco, a apresentadora recebe Priscilla e Guilherme & Benuto, que participam de uma surpresa a Gabriel Lucas, jovem que viralizou na internet por talento musical.",
+      "start_date": "2026-09-20T14:30:00-03:00",
+      "title": "Em Família com Eliana"
     },
     {
-      "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
-      "start_date": "2026-09-20T13:50:00-03:00",
-      "title": "Jornal Hoje"
+      "desc": "Os principais acontecimentos do Brasileirão, com notícias de clubes e atletas antes das partidas.",
+      "start_date": "2026-09-20T15:30:00-03:00",
+      "title": "Bora Pro Jogo"
     },
     {
-      "desc": "De uma forma leve e divertida, muito entretenimento e informação a partir de personagens inspiradores em assuntos como cultura, bem-estar, lazer, música, viagem, gastronomia e sustentabilidade.",
-      "start_date": "2026-09-20T14:35:00-03:00",
-      "title": "Baita Sábado"
+      "desc": "Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.",
+      "start_date": "2026-09-20T16:00:00-03:00",
+      "title": "Corinthians x Fluminense"
     },
     {
-      "desc": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais.",
-      "start_date": "2026-09-20T15:00:00-03:00",
-      "title": "Caldeirão com Mion"
+      "desc": "Todo final de semana, Luciano Huck oferece o melhor do entretenimento, com quadros divertidos e emocionantes, muita música, a presença marcante de famosos e matérias especiais pelo Brasil.",
+      "start_date": "2026-09-20T18:10:00-03:00",
+      "title": "Domingão com Huck"
     },
     {
-      "desc": "Acompanhe as emoções da divisão de elite do futebol feminino brasileiro, com 16 clubes na disputa.",
-      "start_date": "2026-09-20T16:20:00-03:00",
-      "title": "Semifinal: São Paulo x Flamengo"
-    },
-    {
-      "desc": "Omar avisa que conseguiu cancelar as passagens. Casemiro revela que expulsou Mirinho de casa, e Marta se espanta. Ritinha presenteia Diógenes com desenho feito por ela.",
-      "start_date": "2026-09-20T18:30:00-03:00",
-      "title": "A Nobreza do Amor"
-    },
-    {
-      "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-09-20T19:20:00-03:00",
-      "title": "RBS Notícias"
-    },
-    {
-      "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-09-20T19:40:00-03:00",
-      "title": "Por Você"
-    },
-    {
-      "desc": "Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.",
+      "desc": "Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência.",
       "start_date": "2026-09-20T20:30:00-03:00",
-      "title": "Propaganda Eleitoral"
+      "title": "Fantástico"
     },
     {
-      "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-09-20T20:55:00-03:00",
-      "title": "Jornal Nacional"
-    },
-    {
-      "desc": "Após ser demitida, Adriana tem sua casa destruída por uma enchente que também leva seu marido. Ainda sem entender como seguir, ela vai parar em um abrigo. Lá, Adriana cruza pela primeira vez com o caminho de Pedro.",
-      "start_date": "2026-09-20T21:45:00-03:00",
-      "title": "Quem Ama Cuida"
-    },
-    {
-      "desc": "Blogueirinha coloca participantes à prova com perguntas diretas e resgates de declarações da casa.",
-      "start_date": "2026-09-20T22:55:00-03:00",
+      "desc": "Em busca de seus sonhos, artistas talentosos entram nesta casa para formar grupos musicais de sucesso. Cantores de diferentes estilos enfrentam diversas etapas em sua jornada nos palcos.",
+      "start_date": "2026-09-20T23:30:00-03:00",
       "title": "Estrelas da Casa"
     },
     {
-      "desc": "Serginho Groisman promove debates sobre temas relevantes com a participação da plateia, artistas e personalidades de diferentes áreas.",
-      "start_date": "2026-09-20T23:25:00-03:00",
-      "title": "Altas Horas"
+      "desc": "O maior festival de música e entretenimento do mundo traz shows de Calvin Harris, Black Eyed Peas, Gilberto Gil, Ivete Sangalo, Foo Fighters, Elton John, Maroon 5 e muito mais.",
+      "start_date": "2026-09-20T23:35:00-03:00",
+      "title": "Rock in Rio 2026"
     }
   ],
   "start_date": "2026-09-20"

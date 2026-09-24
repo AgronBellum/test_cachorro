@@ -4,24 +4,24 @@
   "provider": "mi.tv",
   "epg_list": [
     {
+      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
+      "start_date": "2026-09-24T00:35:00-03:00",
+      "title": "Jornal da Globo"
+    },
+    {
       "desc": "Omar avisa que conseguiu cancelar as passagens. Casemiro revela que expulsou Mirinho de casa, e Marta se espanta. Ritinha presenteia Diógenes com desenho feito por ela.",
-      "start_date": "2026-09-24T00:30:00-03:00",
+      "start_date": "2026-09-24T01:25:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-09-24T01:10:00-03:00",
+      "start_date": "2026-09-24T02:05:00-03:00",
       "title": "Por Você"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-09-24T01:55:00-03:00",
+      "start_date": "2026-09-24T02:50:00-03:00",
       "title": "Vai que Cola"
-    },
-    {
-      "desc": "Em uma das reuniões da L.O.C.A., Liga das Obsessivas Compulsivas por Amor, Manoela, Elena e Rebeca acabam se conhecendo melhor quase por acidente e percebem que possuem mais em comum do que esperavam: as três sofreram grandes decepções amorosas e resolvem se juntar para uma grande vingança.",
-      "start_date": "2026-09-24T02:45:00-03:00",
-      "title": "L.O.C.A."
     },
     {
       "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
@@ -79,28 +79,28 @@
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Um casal de amigos de infância profundamente conectados se separa após a família dela se mudar da Coreia do Sul. Duas décadas depois, a dupla se reencontra em Nova York e confronta noções de destino, amor e escolhas.",
-      "start_date": "2026-09-24T15:40:00-03:00",
-      "title": "Vidas Passadas"
+      "desc": "O Gato de Botas descobre que sua paixão pela aventura cobra seu preço: ele já gastou oito de suas nove vidas. Ele então parte em uma jornada épica para encontrar o mítico Último Desejo e restaurar suas nove vidas.",
+      "start_date": "2026-09-24T15:35:00-03:00",
+      "title": "Gato de Botas 2 - O Último Pedido"
     },
     {
       "desc": "As principais notícias do dia no Rio Grande do Sul.",
-      "start_date": "2026-09-24T17:00:00-03:00",
+      "start_date": "2026-09-24T17:15:00-03:00",
       "title": "Boletim RBS Notícias"
     },
     {
       "desc": "Max acha que Carminha está tentando colocar ele contra Nina; Jorginho e Nina tentam fazer as pazes e deixar tudo esclarecido; Jorginho não sabe que Tufão está gostando de Nina; Carminha pede o apoio de Nilo e diz que vai recompensá-lo.",
-      "start_date": "2026-09-24T17:10:00-03:00",
+      "start_date": "2026-09-24T17:25:00-03:00",
       "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
       "desc": "Omar avisa que conseguiu cancelar as passagens. Casemiro revela que expulsou Mirinho de casa, e Marta se espanta. Ritinha presenteia Diógenes com desenho feito por ela.",
-      "start_date": "2026-09-24T18:10:00-03:00",
+      "start_date": "2026-09-24T18:20:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-09-24T18:45:00-03:00",
+      "start_date": "2026-09-24T19:05:00-03:00",
       "title": "RBS Notícias"
     },
     {
@@ -129,9 +129,9 @@
       "title": "Estrelas da Casa"
     },
     {
-      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-09-24T23:40:00-03:00",
-      "title": "Jornal da Globo"
+      "desc": "Fábio Porchat explora as boas histórias que as pessoas têm para contar. Em um cenário intimista e com artistas no centro da plateia, ele convida famosos e anônimos a compartilhar experiências, sejam elas inesquecíveis, engraçadas ou até assustadoras.",
+      "start_date": "2026-09-24T23:50:00-03:00",
+      "title": "Que História É Essa, Porchat?"
     }
   ],
   "start_date": "2026-09-24"

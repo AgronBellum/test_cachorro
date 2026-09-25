@@ -5,33 +5,28 @@
   "epg_list": [
     {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-09-25T00:35:00-03:00",
+      "start_date": "2026-09-25T00:55:00-03:00",
       "title": "Jornal da Globo"
     },
     {
-      "desc": "",
-      "start_date": "2026-09-25T01:20:00-03:00",
-      "title": "Radar NFL"
+      "desc": "Beth e Randall se adaptam à vida na Filadélfia; Jack e Rebecca levam seus filhos para a piscina.",
+      "start_date": "2026-09-25T01:45:00-03:00",
+      "title": "This Is Us - Histórias de Família"
     },
     {
       "desc": "Omar avisa que conseguiu cancelar as passagens. Casemiro revela que expulsou Mirinho de casa, e Marta se espanta. Ritinha presenteia Diógenes com desenho feito por ela.",
-      "start_date": "2026-09-25T01:25:00-03:00",
+      "start_date": "2026-09-25T02:35:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-09-25T02:05:00-03:00",
+      "start_date": "2026-09-25T03:15:00-03:00",
       "title": "Por Você"
     },
     {
-      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-09-25T02:50:00-03:00",
-      "title": "Vai que Cola"
-    },
-    {
-      "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
-      "start_date": "2026-09-25T04:00:00-03:00",
-      "title": "Hora 1"
+      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
+      "start_date": "2026-09-25T05:50:00-03:00",
+      "title": "Globo Rural"
     },
     {
       "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
@@ -39,18 +34,23 @@
       "title": "Bom Dia Rio Grande"
     },
     {
+      "desc": "Seleções masculinas de futebol se enfrentam em partidas amistosas pelo mundo.",
+      "start_date": "2026-09-25T06:50:00-03:00",
+      "title": "Austrália x Brasil"
+    },
+    {
       "desc": "Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.",
-      "start_date": "2026-09-25T08:30:00-03:00",
+      "start_date": "2026-09-25T09:05:00-03:00",
       "title": "Bom Dia Brasil"
     },
     {
       "desc": "Patrícia Poeta mostra tudo o que rolou em sua estreia na Semana de Moda de Nova York. Roberta Miranda celebra 40 anos de carreira. Adolescente leva centenas de picadas de abelhas em frente à escola em Belo Horizonte. Farmacêutica dá dicas de onde guardar medicamentos sem prejudicar a eficácia.",
-      "start_date": "2026-09-25T09:30:00-03:00",
+      "start_date": "2026-09-25T09:45:00-03:00",
       "title": "Encontro com Patrícia Poeta"
     },
     {
       "desc": "Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.",
-      "start_date": "2026-09-25T10:35:00-03:00",
+      "start_date": "2026-09-25T10:40:00-03:00",
       "title": "Mais Você"
     },
     {
@@ -84,9 +84,9 @@
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "O Gato de Botas descobre que sua paixão pela aventura cobra seu preço: ele já gastou oito de suas nove vidas. Ele então parte em uma jornada épica para encontrar o mítico Último Desejo e restaurar suas nove vidas.",
+      "desc": "Quatro melhores amigas fazem uma viagem inesquecível para ver Tom Brady jogar no Super Bowl.",
       "start_date": "2026-09-25T15:35:00-03:00",
-      "title": "Gato de Botas 2 - O Último Pedido"
+      "title": "80 for Brady - Quatro Amigas e uma Paixão"
     },
     {
       "desc": "As principais notícias do dia no Rio Grande do Sul.",
@@ -100,7 +100,7 @@
     },
     {
       "desc": "Omar avisa que conseguiu cancelar as passagens. Casemiro revela que expulsou Mirinho de casa, e Marta se espanta. Ritinha presenteia Diógenes com desenho feito por ela.",
-      "start_date": "2026-09-25T18:20:00-03:00",
+      "start_date": "2026-09-25T18:10:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
@@ -129,14 +129,9 @@
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "Na Final do Reality, grupos mistos de Pop e Pagode apresentam as faixas inéditas \"Quem Não Vai Querer\" e \"Dia D\", compostas exclusivamente para o programa.",
-      "start_date": "2026-09-25T22:55:00-03:00",
-      "title": "Estrelas da Casa"
-    },
-    {
-      "desc": "Fábio Porchat explora as boas histórias que as pessoas têm para contar. Em um cenário intimista e com artistas no centro da plateia, ele convida famosos e anônimos a compartilhar experiências, sejam elas inesquecíveis, engraçadas ou até assustadoras.",
-      "start_date": "2026-09-25T23:50:00-03:00",
-      "title": "Que História É Essa, Porchat?"
+      "desc": "Debate com participação de Frederico Antunes, do PSD, Germano Rigotto, do MDB, Manuela d'Ávila, do PSOL, Marcel van Hattem, do Novo, Milton Cardoso, do PSDB, Paulo Pimenta, do PT, Renato Jaguarão, do Cidadania e Ubiratan Sanderson, do PL.",
+      "start_date": "2026-09-25T22:50:00-03:00",
+      "title": "Eleições 2026: Debate dos Candidatos ao Senado do Rio Grande do Sul"
     }
   ],
   "start_date": "2026-09-25"

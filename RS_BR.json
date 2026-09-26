@@ -4,24 +4,29 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-09-26T00:55:00-03:00",
-      "title": "Jornal da Globo"
-    },
-    {
-      "desc": "Beth e Randall se adaptam à vida na Filadélfia; Jack e Rebecca levam seus filhos para a piscina.",
-      "start_date": "2026-09-26T01:45:00-03:00",
-      "title": "This Is Us - Histórias de Família"
+      "desc": "Compactos, reprises e destaques da principal competição de velocidade entre monopostos do planeta.",
+      "start_date": "2026-09-26T00:45:00-03:00",
+      "title": "Fórmula 1"
     },
     {
       "desc": "Virgínia exige que Sebastião a acompanhe na recepção a Jendal, e Nilo e Januário se preocupam com o retorno insuficiente da colheita nas terras de Tonho.",
-      "start_date": "2026-09-26T02:35:00-03:00",
+      "start_date": "2026-09-26T01:50:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
-      "desc": "A trajetória de Antônio Carlos Bernardes Gomes, o Mussum, dos Trapalhões. A infância pobre, a carreira militar, a relação com a Mangueira e o sucesso com o grupo Originais do Samba, além dos bastidores como integrante dos Trapalhões.",
+      "desc": "Bela e Iara encontram Soraia, outra companheira abandonada por Aroldo que, sem saber de seu paradeiro, diz que elas deveriam desistir de procurá-lo.",
+      "start_date": "2026-09-26T02:30:00-03:00",
+      "title": "Por Você"
+    },
+    {
+      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
       "start_date": "2026-09-26T03:10:00-03:00",
-      "title": "Mussum, o Filmis"
+      "title": "Vai que Cola"
+    },
+    {
+      "desc": "Em 1979, Sidney Magal, um dos artistas mais populares e celebrados do país, segue a rotina de ensaios e compromissos em Salvador. Durante um programa de TV, ele conhece a deslumbrante Magali e se apaixona de forma inédita e avassaladora. Para conquistá-la, ele precisa vencer a resistência de Jean Pierre, seu empresário passional, além da desconfiança da família, amigos e da própria Magali.",
+      "start_date": "2026-09-26T04:00:00-03:00",
+      "title": "Meu Sangue Ferve por Você"
     },
     {
       "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
@@ -29,33 +34,38 @@
       "title": "Globo Rural"
     },
     {
-      "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
-      "start_date": "2026-09-26T06:00:00-03:00",
-      "title": "Bom Dia Rio Grande"
+      "desc": "As principais missas realizadas por Vossa Santidade, o Papa.",
+      "start_date": "2026-09-26T05:50:00-03:00",
+      "title": "Santa Missa"
     },
     {
-      "desc": "Seleções masculinas de futebol se enfrentam em partidas amistosas pelo mundo.",
-      "start_date": "2026-09-26T06:50:00-03:00",
-      "title": "Austrália x Brasil"
+      "desc": "As principais notícias do Brasil para começar o final de semana bem-informado.",
+      "start_date": "2026-09-26T06:45:00-03:00",
+      "title": "Bom Dia Sábado"
     },
     {
-      "desc": "Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.",
-      "start_date": "2026-09-26T09:05:00-03:00",
-      "title": "Bom Dia Brasil"
+      "desc": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários.",
+      "start_date": "2026-09-26T07:45:00-03:00",
+      "title": "Pequenas Empresas & Grandes Negócios"
     },
     {
-      "desc": "O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.",
-      "start_date": "2026-09-26T09:45:00-03:00",
-      "title": "Encontro com Patrícia Poeta"
+      "desc": "Um programa democrático que aborda as diversas áreas da cultura gaúcha, e também apresenta quadros de turismo, gastronomia e as informações do agronegócio.",
+      "start_date": "2026-09-26T08:30:00-03:00",
+      "title": "Galpão Crioulo"
     },
     {
-      "desc": "Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.",
-      "start_date": "2026-09-26T10:40:00-03:00",
-      "title": "Mais Você"
+      "desc": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa.",
+      "start_date": "2026-09-26T09:00:00-03:00",
+      "title": "É de Casa"
+    },
+    {
+      "desc": "Uma experiência que resgata o valor dos encontros. Porque existem momentos que não se medem pelo relógio, mas pelo estalo da lenha e pelo aroma da carne na brasa.",
+      "start_date": "2026-09-26T11:45:00-03:00",
+      "title": "Tempo Bueno"
     },
     {
       "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-09-26T11:45:00-03:00",
+      "start_date": "2026-09-26T12:00:00-03:00",
       "title": "Jornal do Almoço"
     },
     {
@@ -79,38 +89,33 @@
       "title": "Jornal Hoje"
     },
     {
-      "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
+      "desc": "De uma forma leve e divertida, muito entretenimento e informação a partir de personagens inspiradores em assuntos como cultura, bem-estar, lazer, música, viagem, gastronomia e sustentabilidade.",
+      "start_date": "2026-09-26T14:35:00-03:00",
+      "title": "Baita Sábado"
+    },
+    {
+      "desc": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais.",
       "start_date": "2026-09-26T15:00:00-03:00",
-      "title": "Além do Tempo - Edição Especial"
+      "title": "Caldeirão com Mion"
     },
     {
-      "desc": "Quatro melhores amigas fazem uma viagem inesquecível para ver Tom Brady jogar no Super Bowl.",
-      "start_date": "2026-09-26T15:35:00-03:00",
-      "title": "80 for Brady - Quatro Amigas e uma Paixão"
-    },
-    {
-      "desc": "As principais notícias do dia no Rio Grande do Sul.",
-      "start_date": "2026-09-26T17:15:00-03:00",
-      "title": "Boletim RBS Notícias"
-    },
-    {
-      "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
-      "start_date": "2026-09-26T17:25:00-03:00",
-      "title": "Vale a Pena Ver de Novo - Avenida Brasil"
+      "desc": "Acompanhe as emoções da divisão de elite do futebol feminino brasileiro, com 16 clubes na disputa.",
+      "start_date": "2026-09-26T16:20:00-03:00",
+      "title": "Final, Jogo de Ida: Corinthians x São Paulo"
     },
     {
       "desc": "Virgínia exige que Sebastião a acompanhe na recepção a Jendal, e Nilo e Januário se preocupam com o retorno insuficiente da colheita nas terras de Tonho.",
-      "start_date": "2026-09-26T18:10:00-03:00",
+      "start_date": "2026-09-26T18:30:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-09-26T19:05:00-03:00",
+      "start_date": "2026-09-26T19:20:00-03:00",
       "title": "RBS Notícias"
     },
     {
       "desc": "Bela e Iara encontram Soraia, outra companheira abandonada por Aroldo que, sem saber de seu paradeiro, diz que elas deveriam desistir de procurá-lo.",
-      "start_date": "2026-09-26T19:35:00-03:00",
+      "start_date": "2026-09-26T19:40:00-03:00",
       "title": "Por Você"
     },
     {
@@ -129,9 +134,9 @@
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "Debate com participação de Frederico Antunes, do PSD, Germano Rigotto, do MDB, Manuela d'Ávila, do PSOL, Marcel van Hattem, do Novo, Milton Cardoso, do PSDB, Paulo Pimenta, do PT, Renato Jaguarão, do Cidadania e Ubiratan Sanderson, do PL.",
-      "start_date": "2026-09-26T22:50:00-03:00",
-      "title": "Eleições 2026: Debate dos Candidatos ao Senado do Rio Grande do Sul"
+      "desc": "Serginho Groisman promove debates sobre temas relevantes com a participação da plateia, artistas e personalidades de diferentes áreas.",
+      "start_date": "2026-09-26T22:55:00-03:00",
+      "title": "Altas Horas"
     }
   ],
   "start_date": "2026-09-26"

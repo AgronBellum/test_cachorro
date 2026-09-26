@@ -1,138 +1,138 @@
 {
-  "end_date": "2026-09-25",
+  "end_date": "2026-09-26",
   "name": "Globo RBS TV POA",
   "provider": "mi.tv",
   "epg_list": [
     {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-09-25T00:55:00-03:00",
+      "start_date": "2026-09-26T00:55:00-03:00",
       "title": "Jornal da Globo"
     },
     {
       "desc": "Beth e Randall se adaptam à vida na Filadélfia; Jack e Rebecca levam seus filhos para a piscina.",
-      "start_date": "2026-09-25T01:45:00-03:00",
+      "start_date": "2026-09-26T01:45:00-03:00",
       "title": "This Is Us - Histórias de Família"
     },
     {
-      "desc": "Omar avisa que conseguiu cancelar as passagens. Casemiro revela que expulsou Mirinho de casa, e Marta se espanta. Ritinha presenteia Diógenes com desenho feito por ela.",
-      "start_date": "2026-09-25T02:35:00-03:00",
+      "desc": "Virgínia exige que Sebastião a acompanhe na recepção a Jendal, e Nilo e Januário se preocupam com o retorno insuficiente da colheita nas terras de Tonho.",
+      "start_date": "2026-09-26T02:35:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
-      "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-09-25T03:15:00-03:00",
-      "title": "Por Você"
+      "desc": "A trajetória de Antônio Carlos Bernardes Gomes, o Mussum, dos Trapalhões. A infância pobre, a carreira militar, a relação com a Mangueira e o sucesso com o grupo Originais do Samba, além dos bastidores como integrante dos Trapalhões.",
+      "start_date": "2026-09-26T03:10:00-03:00",
+      "title": "Mussum, o Filmis"
     },
     {
       "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
-      "start_date": "2026-09-25T05:50:00-03:00",
+      "start_date": "2026-09-26T05:50:00-03:00",
       "title": "Globo Rural"
     },
     {
       "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
-      "start_date": "2026-09-25T06:00:00-03:00",
+      "start_date": "2026-09-26T06:00:00-03:00",
       "title": "Bom Dia Rio Grande"
     },
     {
       "desc": "Seleções masculinas de futebol se enfrentam em partidas amistosas pelo mundo.",
-      "start_date": "2026-09-25T06:50:00-03:00",
+      "start_date": "2026-09-26T06:50:00-03:00",
       "title": "Austrália x Brasil"
     },
     {
       "desc": "Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.",
-      "start_date": "2026-09-25T09:05:00-03:00",
+      "start_date": "2026-09-26T09:05:00-03:00",
       "title": "Bom Dia Brasil"
     },
     {
-      "desc": "Patrícia Poeta mostra tudo o que rolou em sua estreia na Semana de Moda de Nova York. Roberta Miranda celebra 40 anos de carreira. Adolescente leva centenas de picadas de abelhas em frente à escola em Belo Horizonte. Farmacêutica dá dicas de onde guardar medicamentos sem prejudicar a eficácia.",
-      "start_date": "2026-09-25T09:45:00-03:00",
+      "desc": "O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.",
+      "start_date": "2026-09-26T09:45:00-03:00",
       "title": "Encontro com Patrícia Poeta"
     },
     {
       "desc": "Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.",
-      "start_date": "2026-09-25T10:40:00-03:00",
+      "start_date": "2026-09-26T10:40:00-03:00",
       "title": "Mais Você"
     },
     {
       "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-09-25T11:45:00-03:00",
+      "start_date": "2026-09-26T11:45:00-03:00",
       "title": "Jornal do Almoço"
     },
     {
       "desc": "Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.",
-      "start_date": "2026-09-25T13:00:00-03:00",
+      "start_date": "2026-09-26T13:00:00-03:00",
       "title": "Propaganda Eleitoral"
     },
     {
       "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-09-25T13:25:00-03:00",
+      "start_date": "2026-09-26T13:25:00-03:00",
       "title": "Jornal do Almoço"
     },
     {
       "desc": "Confira as últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.",
-      "start_date": "2026-09-25T13:35:00-03:00",
+      "start_date": "2026-09-26T13:35:00-03:00",
       "title": "Globo Esporte RS"
     },
     {
       "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
-      "start_date": "2026-09-25T13:50:00-03:00",
+      "start_date": "2026-09-26T13:50:00-03:00",
       "title": "Jornal Hoje"
     },
     {
-      "desc": "Emília implora que Lívia se afaste de Vitória. Bento procura Bernardo. Alberto avisa a Emília que só deixará a cidade depois que se encontrar com Vitória. Bento devolve a chave para Rosa e fala que alugou uma casa.",
-      "start_date": "2026-09-25T15:00:00-03:00",
+      "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
+      "start_date": "2026-09-26T15:00:00-03:00",
       "title": "Além do Tempo - Edição Especial"
     },
     {
       "desc": "Quatro melhores amigas fazem uma viagem inesquecível para ver Tom Brady jogar no Super Bowl.",
-      "start_date": "2026-09-25T15:35:00-03:00",
+      "start_date": "2026-09-26T15:35:00-03:00",
       "title": "80 for Brady - Quatro Amigas e uma Paixão"
     },
     {
       "desc": "As principais notícias do dia no Rio Grande do Sul.",
-      "start_date": "2026-09-25T17:15:00-03:00",
+      "start_date": "2026-09-26T17:15:00-03:00",
       "title": "Boletim RBS Notícias"
     },
     {
-      "desc": "Max acha que Carminha está tentando colocar ele contra Nina; Jorginho e Nina tentam fazer as pazes e deixar tudo esclarecido; Jorginho não sabe que Tufão está gostando de Nina; Carminha pede o apoio de Nilo e diz que vai recompensá-lo.",
-      "start_date": "2026-09-25T17:25:00-03:00",
+      "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
+      "start_date": "2026-09-26T17:25:00-03:00",
       "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
-      "desc": "Omar avisa que conseguiu cancelar as passagens. Casemiro revela que expulsou Mirinho de casa, e Marta se espanta. Ritinha presenteia Diógenes com desenho feito por ela.",
-      "start_date": "2026-09-25T18:10:00-03:00",
+      "desc": "Virgínia exige que Sebastião a acompanhe na recepção a Jendal, e Nilo e Januário se preocupam com o retorno insuficiente da colheita nas terras de Tonho.",
+      "start_date": "2026-09-26T18:10:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-09-25T19:05:00-03:00",
+      "start_date": "2026-09-26T19:05:00-03:00",
       "title": "RBS Notícias"
     },
     {
-      "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-09-25T19:35:00-03:00",
+      "desc": "Bela e Iara encontram Soraia, outra companheira abandonada por Aroldo que, sem saber de seu paradeiro, diz que elas deveriam desistir de procurá-lo.",
+      "start_date": "2026-09-26T19:35:00-03:00",
       "title": "Por Você"
     },
     {
       "desc": "Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.",
-      "start_date": "2026-09-25T20:30:00-03:00",
+      "start_date": "2026-09-26T20:30:00-03:00",
       "title": "Propaganda Eleitoral"
     },
     {
       "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-09-25T20:55:00-03:00",
+      "start_date": "2026-09-26T20:55:00-03:00",
       "title": "Jornal Nacional"
     },
     {
-      "desc": "Após ser demitida, Adriana tem sua casa destruída por uma enchente que também leva seu marido. Ainda sem entender como seguir, ela vai parar em um abrigo. Lá, Adriana cruza pela primeira vez com o caminho de Pedro.",
-      "start_date": "2026-09-25T21:45:00-03:00",
+      "desc": "Pilar avisa a Diná que investigou a vida de Andréa. Rosa mostra a Joel o caderno de receitas de Francesca.",
+      "start_date": "2026-09-26T21:45:00-03:00",
       "title": "Quem Ama Cuida"
     },
     {
       "desc": "Debate com participação de Frederico Antunes, do PSD, Germano Rigotto, do MDB, Manuela d'Ávila, do PSOL, Marcel van Hattem, do Novo, Milton Cardoso, do PSDB, Paulo Pimenta, do PT, Renato Jaguarão, do Cidadania e Ubiratan Sanderson, do PL.",
-      "start_date": "2026-09-25T22:50:00-03:00",
+      "start_date": "2026-09-26T22:50:00-03:00",
       "title": "Eleições 2026: Debate dos Candidatos ao Senado do Rio Grande do Sul"
     }
   ],
-  "start_date": "2026-09-25"
+  "start_date": "2026-09-26"
 }

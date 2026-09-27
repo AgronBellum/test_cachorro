@@ -4,19 +4,9 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "Compactos, reprises e destaques da principal competição de velocidade entre monopostos do planeta.",
-      "start_date": "2026-09-27T00:45:00-03:00",
-      "title": "Fórmula 1"
-    },
-    {
-      "desc": "Virgínia exige que Sebastião a acompanhe na recepção a Jendal, e Nilo e Januário se preocupam com o retorno insuficiente da colheita nas terras de Tonho.",
-      "start_date": "2026-09-27T01:50:00-03:00",
-      "title": "A Nobreza do Amor"
-    },
-    {
-      "desc": "Bela e Iara encontram Soraia, outra companheira abandonada por Aroldo que, sem saber de seu paradeiro, diz que elas deveriam desistir de procurá-lo.",
-      "start_date": "2026-09-27T02:30:00-03:00",
-      "title": "Por Você"
+      "desc": "Após ser culpado pela morte de Harvey Dent e passar de herói a vilão, Batman desaparece. As coisas mudam com a chegada de uma ladra misteriosa, a Mulher-Gato, e Bane, um terrorista mascarado, que fazem Batman abandonar seu exílio forçado.",
+      "start_date": "2026-09-27T00:40:00-03:00",
+      "title": "Batman - O Cavaleiro das Trevas Ressurge"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
@@ -24,14 +14,9 @@
       "title": "Vai que Cola"
     },
     {
-      "desc": "Em 1979, Sidney Magal, um dos artistas mais populares e celebrados do país, segue a rotina de ensaios e compromissos em Salvador. Durante um programa de TV, ele conhece a deslumbrante Magali e se apaixona de forma inédita e avassaladora. Para conquistá-la, ele precisa vencer a resistência de Jean Pierre, seu empresário passional, além da desconfiança da família, amigos e da própria Magali.",
+      "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
       "start_date": "2026-09-27T04:00:00-03:00",
-      "title": "Meu Sangue Ferve por Você"
-    },
-    {
-      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
-      "start_date": "2026-09-27T05:50:00-03:00",
-      "title": "Globo Rural"
+      "title": "Hora 1"
     },
     {
       "desc": "As principais missas realizadas por Vossa Santidade, o Papa.",
@@ -39,104 +24,74 @@
       "title": "Santa Missa"
     },
     {
-      "desc": "As principais notícias do Brasil para começar o final de semana bem-informado.",
-      "start_date": "2026-09-27T06:45:00-03:00",
-      "title": "Bom Dia Sábado"
-    },
-    {
-      "desc": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários.",
-      "start_date": "2026-09-27T07:45:00-03:00",
-      "title": "Pequenas Empresas & Grandes Negócios"
+      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
+      "start_date": "2026-09-27T06:40:00-03:00",
+      "title": "Globo Repórter"
     },
     {
       "desc": "Um programa democrático que aborda as diversas áreas da cultura gaúcha, e também apresenta quadros de turismo, gastronomia e as informações do agronegócio.",
-      "start_date": "2026-09-27T08:30:00-03:00",
+      "start_date": "2026-09-27T07:30:00-03:00",
       "title": "Galpão Crioulo"
     },
     {
-      "desc": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa.",
-      "start_date": "2026-09-27T09:00:00-03:00",
-      "title": "É de Casa"
+      "desc": "A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes.",
+      "start_date": "2026-09-27T08:00:00-03:00",
+      "title": "AutoEsporte"
     },
     {
-      "desc": "Uma experiência que resgata o valor dos encontros. Porque existem momentos que não se medem pelo relógio, mas pelo estalo da lenha e pelo aroma da carne na brasa.",
-      "start_date": "2026-09-27T11:45:00-03:00",
-      "title": "Tempo Bueno"
+      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
+      "start_date": "2026-09-27T08:30:00-03:00",
+      "title": "Globo Rural"
     },
     {
-      "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-09-27T12:00:00-03:00",
-      "title": "Jornal do Almoço"
+      "desc": "Daniel abre a porteira de sua fazenda para receber grandes astros da música sertaneja. Juntos, eles relembram suas trajetórias, falam sobre suas inspirações e se deixam levar pelas modas de viola.",
+      "start_date": "2026-09-27T10:05:00-03:00",
+      "title": "Viver Sertanejo"
     },
     {
-      "desc": "Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.",
-      "start_date": "2026-09-27T13:00:00-03:00",
-      "title": "Propaganda Eleitoral"
+      "desc": "Fique por dentro de tudo o que rolou durante a semana nos esportes e veja os gols pelo mundo afora. Entrevistas, reportagens sobre ciência esportiva e personagens históricos também fazem parte da atração.",
+      "start_date": "2026-09-27T11:00:00-03:00",
+      "title": "Esporte Espetacular"
     },
     {
-      "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-09-27T13:25:00-03:00",
-      "title": "Jornal do Almoço"
+      "desc": "Membros da agência Monarch enfrentam monstros gigantescos, incluindo o poderoso Godzilla, que entra em choque com Mothra, Rodan e seu maior inimigo, King Ghidorah, o monstro de três cabeças. Essas antigas super-espécies disputam a supremacia, deixando a própria existência da humanidade em risco.",
+      "start_date": "2026-09-27T12:30:00-03:00",
+      "title": "Godzilla II - Rei dos Monstros"
     },
     {
-      "desc": "Confira as últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.",
-      "start_date": "2026-09-27T13:35:00-03:00",
-      "title": "Globo Esporte RS"
+      "desc": "Péricles reúne a família no palco do \"Em Família com Eliana\". Nicole Bahls participa, ao lado do sobrinho, e entra em brincadeiras com Péricles.",
+      "start_date": "2026-09-27T14:25:00-03:00",
+      "title": "Em Família com Eliana"
     },
     {
-      "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
-      "start_date": "2026-09-27T13:50:00-03:00",
-      "title": "Jornal Hoje"
+      "desc": "Após dominar os ringues, Adonis Creed tem prosperado com sua carreira e família. Quando um amigo de infância e ex-prodígio do boxe, Damian, ressurge após longa sentença na prisão, o campeão fica ansioso para provar que merece sua chance. O confronto entre ex-amigos é mais do que apenas uma luta. Para acertar as contas, Adonis deve colocar seu futuro em risco para enfrentar Damian, um lutador que não tem nada a perder.",
+      "start_date": "2026-09-27T15:20:00-03:00",
+      "title": "Creed III"
     },
     {
-      "desc": "De uma forma leve e divertida, muito entretenimento e informação a partir de personagens inspiradores em assuntos como cultura, bem-estar, lazer, música, viagem, gastronomia e sustentabilidade.",
-      "start_date": "2026-09-27T14:35:00-03:00",
-      "title": "Baita Sábado"
+      "desc": "Todo final de semana, Luciano Huck oferece o melhor do entretenimento, com quadros divertidos e emocionantes, muita música, a presença marcante de famosos e matérias especiais pelo Brasil.",
+      "start_date": "2026-09-27T17:00:00-03:00",
+      "title": "Domingão com Huck"
     },
     {
-      "desc": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais.",
-      "start_date": "2026-09-27T15:00:00-03:00",
-      "title": "Caldeirão com Mion"
+      "desc": "Melhores momentos do duelo entre Cowboys e Commanders pela semana 7 da temporada regular 2025-2026.",
+      "start_date": "2026-09-27T19:05:00-03:00",
+      "title": "NFL"
     },
     {
-      "desc": "Acompanhe as emoções da divisão de elite do futebol feminino brasileiro, com 16 clubes na disputa.",
-      "start_date": "2026-09-27T16:20:00-03:00",
-      "title": "Final, Jogo de Ida: Corinthians x São Paulo"
-    },
-    {
-      "desc": "Virgínia exige que Sebastião a acompanhe na recepção a Jendal, e Nilo e Januário se preocupam com o retorno insuficiente da colheita nas terras de Tonho.",
-      "start_date": "2026-09-27T18:30:00-03:00",
-      "title": "A Nobreza do Amor"
-    },
-    {
-      "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
+      "desc": "Todo final de semana, Luciano Huck oferece o melhor do entretenimento, com quadros divertidos e emocionantes, muita música, a presença marcante de famosos e matérias especiais pelo Brasil.",
       "start_date": "2026-09-27T19:20:00-03:00",
-      "title": "RBS Notícias"
+      "title": "Domingão com Huck"
     },
     {
-      "desc": "Bela e Iara encontram Soraia, outra companheira abandonada por Aroldo que, sem saber de seu paradeiro, diz que elas deveriam desistir de procurá-lo.",
-      "start_date": "2026-09-27T19:40:00-03:00",
-      "title": "Por Você"
-    },
-    {
-      "desc": "Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.",
+      "desc": "Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência.",
       "start_date": "2026-09-27T20:30:00-03:00",
-      "title": "Propaganda Eleitoral"
+      "title": "Fantástico"
     },
     {
-      "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-09-27T20:55:00-03:00",
-      "title": "Jornal Nacional"
-    },
-    {
-      "desc": "Pilar avisa a Diná que investigou a vida de Andréa. Rosa mostra a Joel o caderno de receitas de Francesca.",
-      "start_date": "2026-09-27T21:45:00-03:00",
-      "title": "Quem Ama Cuida"
-    },
-    {
-      "desc": "Serginho Groisman promove debates sobre temas relevantes com a participação da plateia, artistas e personalidades de diferentes áreas.",
-      "start_date": "2026-09-27T22:55:00-03:00",
-      "title": "Altas Horas"
+      "desc": "Melhores momentos do duelo entre Cowboys e Commanders pela semana 7 da temporada regular 2025-2026.",
+      "start_date": "2026-09-27T23:35:00-03:00",
+      "title": "NFL"
     }
   ],
   "start_date": "2026-09-27"

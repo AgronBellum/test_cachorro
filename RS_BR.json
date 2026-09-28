@@ -4,13 +4,23 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "Após ser culpado pela morte de Harvey Dent e passar de herói a vilão, Batman desaparece. As coisas mudam com a chegada de uma ladra misteriosa, a Mulher-Gato, e Bane, um terrorista mascarado, que fazem Batman abandonar seu exílio forçado.",
+      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
       "start_date": "2026-09-28T00:40:00-03:00",
-      "title": "Batman - O Cavaleiro das Trevas Ressurge"
+      "title": "Jornal da Globo"
+    },
+    {
+      "desc": "Virgínia exige que Sebastião a acompanhe na recepção a Jendal, e Nilo e Januário se preocupam com o retorno insuficiente da colheita nas terras de Tonho.",
+      "start_date": "2026-09-28T01:30:00-03:00",
+      "title": "A Nobreza do Amor"
+    },
+    {
+      "desc": "Bela e Iara encontram Soraia, outra companheira abandonada por Aroldo que, sem saber de seu paradeiro, diz que elas deveriam desistir de procurá-lo.",
+      "start_date": "2026-09-28T02:10:00-03:00",
+      "title": "Por Você"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-09-28T03:10:00-03:00",
+      "start_date": "2026-09-28T03:00:00-03:00",
       "title": "Vai que Cola"
     },
     {
@@ -19,79 +29,104 @@
       "title": "Hora 1"
     },
     {
-      "desc": "As principais missas realizadas por Vossa Santidade, o Papa.",
-      "start_date": "2026-09-28T05:50:00-03:00",
-      "title": "Santa Missa"
+      "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
+      "start_date": "2026-09-28T06:00:00-03:00",
+      "title": "Bom Dia Rio Grande"
     },
     {
-      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
-      "start_date": "2026-09-28T06:40:00-03:00",
-      "title": "Globo Repórter"
-    },
-    {
-      "desc": "Um programa democrático que aborda as diversas áreas da cultura gaúcha, e também apresenta quadros de turismo, gastronomia e as informações do agronegócio.",
-      "start_date": "2026-09-28T07:30:00-03:00",
-      "title": "Galpão Crioulo"
-    },
-    {
-      "desc": "A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes.",
-      "start_date": "2026-09-28T08:00:00-03:00",
-      "title": "AutoEsporte"
-    },
-    {
-      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
+      "desc": "Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.",
       "start_date": "2026-09-28T08:30:00-03:00",
-      "title": "Globo Rural"
+      "title": "Bom Dia Brasil"
     },
     {
-      "desc": "Daniel abre a porteira de sua fazenda para receber grandes astros da música sertaneja. Juntos, eles relembram suas trajetórias, falam sobre suas inspirações e se deixam levar pelas modas de viola.",
-      "start_date": "2026-09-28T10:05:00-03:00",
-      "title": "Viver Sertanejo"
+      "desc": "O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.",
+      "start_date": "2026-09-28T09:30:00-03:00",
+      "title": "Encontro com Patrícia Poeta"
     },
     {
-      "desc": "Fique por dentro de tudo o que rolou durante a semana nos esportes e veja os gols pelo mundo afora. Entrevistas, reportagens sobre ciência esportiva e personagens históricos também fazem parte da atração.",
-      "start_date": "2026-09-28T11:00:00-03:00",
-      "title": "Esporte Espetacular"
+      "desc": "Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.",
+      "start_date": "2026-09-28T10:35:00-03:00",
+      "title": "Mais Você"
     },
     {
-      "desc": "Membros da agência Monarch enfrentam monstros gigantescos, incluindo o poderoso Godzilla, que entra em choque com Mothra, Rodan e seu maior inimigo, King Ghidorah, o monstro de três cabeças. Essas antigas super-espécies disputam a supremacia, deixando a própria existência da humanidade em risco.",
-      "start_date": "2026-09-28T12:30:00-03:00",
-      "title": "Godzilla II - Rei dos Monstros"
+      "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
+      "start_date": "2026-09-28T11:45:00-03:00",
+      "title": "Jornal do Almoço"
     },
     {
-      "desc": "Péricles reúne a família no palco do \"Em Família com Eliana\". Nicole Bahls participa, ao lado do sobrinho, e entra em brincadeiras com Péricles.",
-      "start_date": "2026-09-28T14:25:00-03:00",
-      "title": "Em Família com Eliana"
+      "desc": "Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.",
+      "start_date": "2026-09-28T13:00:00-03:00",
+      "title": "Propaganda Eleitoral"
     },
     {
-      "desc": "Após dominar os ringues, Adonis Creed tem prosperado com sua carreira e família. Quando um amigo de infância e ex-prodígio do boxe, Damian, ressurge após longa sentença na prisão, o campeão fica ansioso para provar que merece sua chance. O confronto entre ex-amigos é mais do que apenas uma luta. Para acertar as contas, Adonis deve colocar seu futuro em risco para enfrentar Damian, um lutador que não tem nada a perder.",
-      "start_date": "2026-09-28T15:20:00-03:00",
-      "title": "Creed III"
+      "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
+      "start_date": "2026-09-28T13:25:00-03:00",
+      "title": "Jornal do Almoço"
     },
     {
-      "desc": "Todo final de semana, Luciano Huck oferece o melhor do entretenimento, com quadros divertidos e emocionantes, muita música, a presença marcante de famosos e matérias especiais pelo Brasil.",
+      "desc": "Confira as últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.",
+      "start_date": "2026-09-28T13:35:00-03:00",
+      "title": "Globo Esporte RS"
+    },
+    {
+      "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
+      "start_date": "2026-09-28T13:50:00-03:00",
+      "title": "Jornal Hoje"
+    },
+    {
+      "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
+      "start_date": "2026-09-28T15:00:00-03:00",
+      "title": "Além do Tempo - Edição Especial"
+    },
+    {
+      "desc": "Bento e Ciço são dois vaqueiros que trabalham em uma fazenda e mudam de vida quando precisam viajar para João Pessoa, capital da Paraíba.",
+      "start_date": "2026-09-28T15:40:00-03:00",
+      "title": "O Sertão Vai Vir ao Mar"
+    },
+    {
+      "desc": "As principais notícias do dia no Rio Grande do Sul.",
       "start_date": "2026-09-28T17:00:00-03:00",
-      "title": "Domingão com Huck"
+      "title": "Boletim RBS Notícias"
     },
     {
-      "desc": "Reprises, compactos e destaques das partidas da principal liga de futebol americano do planeta.",
+      "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
+      "start_date": "2026-09-28T17:10:00-03:00",
+      "title": "Vale a Pena Ver de Novo - Avenida Brasil"
+    },
+    {
+      "desc": "Virgínia exige que Sebastião a acompanhe na recepção a Jendal, e Nilo e Januário se preocupam com o retorno insuficiente da colheita nas terras de Tonho.",
+      "start_date": "2026-09-28T18:20:00-03:00",
+      "title": "A Nobreza do Amor"
+    },
+    {
+      "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
       "start_date": "2026-09-28T19:05:00-03:00",
-      "title": "NFL"
+      "title": "RBS Notícias"
     },
     {
-      "desc": "Todo final de semana, Luciano Huck oferece o melhor do entretenimento, com quadros divertidos e emocionantes, muita música, a presença marcante de famosos e matérias especiais pelo Brasil.",
-      "start_date": "2026-09-28T19:20:00-03:00",
-      "title": "Domingão com Huck"
+      "desc": "Bela e Iara encontram Soraia, outra companheira abandonada por Aroldo que, sem saber de seu paradeiro, diz que elas deveriam desistir de procurá-lo.",
+      "start_date": "2026-09-28T19:35:00-03:00",
+      "title": "Por Você"
     },
     {
-      "desc": "Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência.",
+      "desc": "Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.",
       "start_date": "2026-09-28T20:30:00-03:00",
-      "title": "Fantástico"
+      "title": "Propaganda Eleitoral"
     },
     {
-      "desc": "Reprises, compactos e destaques das partidas da principal liga de futebol americano do planeta.",
-      "start_date": "2026-09-28T23:35:00-03:00",
-      "title": "NFL"
+      "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
+      "start_date": "2026-09-28T20:55:00-03:00",
+      "title": "Jornal Nacional"
+    },
+    {
+      "desc": "Pilar avisa a Diná que investigou a vida de Andréa. Rosa mostra a Joel o caderno de receitas de Francesca.",
+      "start_date": "2026-09-28T21:45:00-03:00",
+      "title": "Quem Ama Cuida"
+    },
+    {
+      "desc": "Ana, uma mãe que começa a perder a audição, era advogada até então. A partir desse momento, ela passa a atuar em um posto de atendimento especializado para pessoas com deficiência.",
+      "start_date": "2026-09-28T22:55:00-03:00",
+      "title": "90 Decibéis"
     }
   ],
   "start_date": "2026-09-28"

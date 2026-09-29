@@ -4,23 +4,28 @@
   "provider": "mi.tv",
   "epg_list": [
     {
+      "desc": "Marcely acaba de se mudar para a casa do pai Jurandir e de sua avó Ana. Ela precisa se adaptar à nova rotina enquanto ensaia para sua primeira batalha de MCs.",
+      "start_date": "2026-09-29T00:15:00-03:00",
+      "title": "Vatapá ou Maniçoba"
+    },
+    {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-09-29T00:40:00-03:00",
+      "start_date": "2026-09-29T01:10:00-03:00",
       "title": "Jornal da Globo"
     },
     {
       "desc": "Virgínia exige que Sebastião a acompanhe na recepção a Jendal, e Nilo e Januário se preocupam com o retorno insuficiente da colheita nas terras de Tonho.",
-      "start_date": "2026-09-29T01:30:00-03:00",
+      "start_date": "2026-09-29T02:00:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Bela e Iara encontram Soraia, outra companheira abandonada por Aroldo que, sem saber de seu paradeiro, diz que elas deveriam desistir de procurá-lo.",
-      "start_date": "2026-09-29T02:10:00-03:00",
+      "start_date": "2026-09-29T02:40:00-03:00",
       "title": "Por Você"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-09-29T03:00:00-03:00",
+      "start_date": "2026-09-29T03:30:00-03:00",
       "title": "Vai que Cola"
     },
     {
@@ -34,18 +39,23 @@
       "title": "Bom Dia Rio Grande"
     },
     {
+      "desc": "Seleções masculinas de futebol se enfrentam em partidas amistosas pelo mundo.",
+      "start_date": "2026-09-29T06:50:00-03:00",
+      "title": "Austrália x Brasil"
+    },
+    {
       "desc": "Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.",
-      "start_date": "2026-09-29T08:30:00-03:00",
+      "start_date": "2026-09-29T09:05:00-03:00",
       "title": "Bom Dia Brasil"
     },
     {
       "desc": "O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.",
-      "start_date": "2026-09-29T09:30:00-03:00",
+      "start_date": "2026-09-29T09:45:00-03:00",
       "title": "Encontro com Patrícia Poeta"
     },
     {
       "desc": "Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.",
-      "start_date": "2026-09-29T10:35:00-03:00",
+      "start_date": "2026-09-29T10:40:00-03:00",
       "title": "Mais Você"
     },
     {
@@ -79,9 +89,9 @@
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Bento e Ciço são dois vaqueiros que trabalham em uma fazenda e mudam de vida quando precisam viajar para João Pessoa, capital da Paraíba.",
+      "desc": "Três famílias de diferentes culturas na mesma comunidade, mas todos completamente estranhos. Eles levam vidas muito distintas até que mensagens trágicas e acidentes os unem em um caminho de amor, graça e misericórdia.",
       "start_date": "2026-09-29T15:40:00-03:00",
-      "title": "O Sertão Vai Vir ao Mar"
+      "title": "Uma Questão de Fé"
     },
     {
       "desc": "As principais notícias do dia no Rio Grande do Sul.",
@@ -120,13 +130,13 @@
     },
     {
       "desc": "Pilar avisa a Diná que investigou a vida de Andréa. Rosa mostra a Joel o caderno de receitas de Francesca.",
-      "start_date": "2026-09-29T21:45:00-03:00",
+      "start_date": "2026-09-29T21:30:00-03:00",
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "Ana, uma mãe que começa a perder a audição, era advogada até então. A partir desse momento, ela passa a atuar em um posto de atendimento especializado para pessoas com deficiência.",
-      "start_date": "2026-09-29T22:55:00-03:00",
-      "title": "90 Decibéis"
+      "desc": "Candidatos ao governo do estado do Rio Grande do Sul apresentam e debatem suas propostas eleitorais. Participam Gabriel Souza, do MDB, Juliana Brizola, do PDT, Marcelo Maranata, do PSDB, e Luciano Zucco, do PL.",
+      "start_date": "2026-09-29T22:15:00-03:00",
+      "title": "Eleições 2026: Debate dos Candidatos ao Governo do Estado do Rio Grande do Sul - 1º Turno"
     }
   ],
   "start_date": "2026-09-29"

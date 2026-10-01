@@ -5,22 +5,22 @@
   "epg_list": [
     {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-10-01T00:35:00-03:00",
+      "start_date": "2026-10-01T00:40:00-03:00",
       "title": "Jornal da Globo"
     },
     {
-      "desc": "Virgínia exige que Sebastião a acompanhe na recepção a Jendal, e Nilo e Januário se preocupam com o retorno insuficiente da colheita nas terras de Tonho.",
-      "start_date": "2026-10-01T01:25:00-03:00",
+      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
+      "start_date": "2026-10-01T01:30:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
-      "desc": "Bela e Iara encontram Soraia, outra companheira abandonada por Aroldo que, sem saber de seu paradeiro, diz que elas deveriam desistir de procurá-lo.",
-      "start_date": "2026-10-01T02:05:00-03:00",
+      "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
+      "start_date": "2026-10-01T02:10:00-03:00",
       "title": "Por Você"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-10-01T02:55:00-03:00",
+      "start_date": "2026-10-01T03:00:00-03:00",
       "title": "Vai que Cola"
     },
     {
@@ -79,9 +79,9 @@
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Isa, Tom e Linus precisam salvar Einstein, o robô da escola, que ficou maluco após uma atualização. A turma recebe ajuda de um cientista, enfrenta androides superpoderosos e vive uma aventura cheia de ciência, tecnologia e muita diversão.",
+      "desc": "Na Mesopotâmia, séculos atrás, Ahmanet tem seus planos interrompidos quando estava prestes a invocar Set, o deus da morte, para que juntos pudessem governar o mundo. Mumificada, ela é aprisionada numa tumba. Atualmente, o local é descoberto por acidente por Nick Morton e Chris Vail, saqueadores de artefatos antigos que estavam na região em busca de raridades. Ao lado da pesquisadora Jenny Halsey, eles investigam a tumba recém-descoberta e, acidentalmente, despertam Ahmanet.",
       "start_date": "2026-10-01T15:40:00-03:00",
-      "title": "Perfekta: Uma Aventura da Escola de Gênios"
+      "title": "A Múmia"
     },
     {
       "desc": "As principais notícias do dia no Rio Grande do Sul.",
@@ -89,13 +89,13 @@
       "title": "Boletim RBS Notícias"
     },
     {
-      "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
+      "desc": "Nina diz a Tufão que foi vítima de uma armação; Begônia se acusa e livra Nina; Muricy e Ivana criticam atitude de Tufão; Nina e Jorginho discutem; Valdo decide vender as fotos comprometedoras para Carminha; Leleco parte para cima de Darkson.",
       "start_date": "2026-10-01T17:10:00-03:00",
       "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
-      "desc": "Virgínia exige que Sebastião a acompanhe na recepção a Jendal, e Nilo e Januário se preocupam com o retorno insuficiente da colheita nas terras de Tonho.",
-      "start_date": "2026-10-01T18:20:00-03:00",
+      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
+      "start_date": "2026-10-01T18:15:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
@@ -104,7 +104,7 @@
       "title": "RBS Notícias"
     },
     {
-      "desc": "Bela e Iara encontram Soraia, outra companheira abandonada por Aroldo que, sem saber de seu paradeiro, diz que elas deveriam desistir de procurá-lo.",
+      "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
       "start_date": "2026-10-01T19:35:00-03:00",
       "title": "Por Você"
     },
@@ -119,19 +119,9 @@
       "title": "Jornal Nacional"
     },
     {
-      "desc": "Andréa não gosta quando Pilar comunica que organizará seu jantar de noivado com Rafael e Nancy conta a Tiago que Silvana namorou Laurentino.",
-      "start_date": "2026-10-01T21:45:00-03:00",
-      "title": "Quem Ama Cuida"
-    },
-    {
-      "desc": "A jovem enfermeira Manu inicia seu estágio na Unidade 53 sob a liderança da doutora Irene. Em sua primeira grande missão, a dupla precisa agir rapidamente para atender às vítimas de uma grave colisão de veículos em uma comunidade.",
-      "start_date": "2026-10-01T22:55:00-03:00",
-      "title": "Emergência 53"
-    },
-    {
-      "desc": "Especialistas e pensadores debatem quais são os dilemas acerca da passagem dos anos. Desde o aumento da expectativa de vida até as desigualdades que envolvem o tema, o documentário abraça a conexão humana com a idade e o tempo.",
-      "start_date": "2026-10-01T23:45:00-03:00",
-      "title": "Quantos Dias. Quantas Noites"
+      "desc": "Candidatos à Presidência da República exploram seus planos de governo em debate.",
+      "start_date": "2026-10-01T21:30:00-03:00",
+      "title": "Eleições 2026: Debate dos Candidatos à Presidência da República - 1º Turno"
     }
   ],
   "start_date": "2026-10-01"

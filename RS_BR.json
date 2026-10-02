@@ -4,29 +4,29 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-10-02T00:40:00-03:00",
-      "title": "Jornal da Globo"
-    },
-    {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-10-02T01:30:00-03:00",
+      "start_date": "2026-10-02T00:35:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
-      "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-10-02T02:10:00-03:00",
+      "desc": "O passado de duas amigas, cujas vidas mudam com a tragédia que tira a vida de Juli, faz com que Bela se comprometa a cuidar de seus quatro filhos.",
+      "start_date": "2026-10-02T01:15:00-03:00",
       "title": "Por Você"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-10-02T03:00:00-03:00",
+      "start_date": "2026-10-02T02:00:00-03:00",
       "title": "Vai que Cola"
     },
     {
-      "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
-      "start_date": "2026-10-02T04:00:00-03:00",
-      "title": "Hora 1"
+      "desc": "Rita, Nina e Nelita são amigas desde muito jovens e sempre sonharam em ficar ricas. Depois de 50 anos jogando na loteria sem sucesso, finalmente elas ganham o suficiente para arrumar suas vidas e escondem o prêmio de seus maridos.",
+      "start_date": "2026-10-02T02:40:00-03:00",
+      "title": "Amigas de Sorte"
+    },
+    {
+      "desc": "O capitão Sabertooth lidera um bando de piratas em alto-mar. A bordo de seu navio, estão o desajeitado Wally e o jovem Tiny. Em busca do reconhecimento de outros piratas, a dupla se aventura em uma longa e perigosa viagem atrás de um tesouro perdido.",
+      "start_date": "2026-10-02T03:35:00-03:00",
+      "title": "Aventura dos Sete Mares"
     },
     {
       "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
@@ -54,34 +54,24 @@
       "title": "Jornal do Almoço"
     },
     {
-      "desc": "Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.",
-      "start_date": "2026-10-02T13:00:00-03:00",
-      "title": "Propaganda Eleitoral"
-    },
-    {
-      "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-10-02T13:25:00-03:00",
-      "title": "Jornal do Almoço"
-    },
-    {
       "desc": "Confira as últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.",
-      "start_date": "2026-10-02T13:35:00-03:00",
+      "start_date": "2026-10-02T13:00:00-03:00",
       "title": "Globo Esporte RS"
     },
     {
       "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
-      "start_date": "2026-10-02T13:50:00-03:00",
+      "start_date": "2026-10-02T13:25:00-03:00",
       "title": "Jornal Hoje"
     },
     {
       "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
-      "start_date": "2026-10-02T15:00:00-03:00",
+      "start_date": "2026-10-02T14:45:00-03:00",
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Na Mesopotâmia, séculos atrás, Ahmanet tem seus planos interrompidos quando estava prestes a invocar Set, o deus da morte, para que juntos pudessem governar o mundo. Mumificada, ela é aprisionada numa tumba. Atualmente, o local é descoberto por acidente por Nick Morton e Chris Vail, saqueadores de artefatos antigos que estavam na região em busca de raridades. Ao lado da pesquisadora Jenny Halsey, eles investigam a tumba recém-descoberta e, acidentalmente, despertam Ahmanet.",
-      "start_date": "2026-10-02T15:40:00-03:00",
-      "title": "A Múmia"
+      "desc": "A jovem Lisbela adora ir ao cinema e vive sonhando com os galãs de Hollywood dos filmes que assiste. Leléu é um malandro conquistador, que em meio a uma de suas muitas aventuras chega à cidade da moça. Após se conhecerem, eles logo se apaixonam, mas Lisbela está de casamento marcado. Em meio às dúvidas e aos problemas familiares que a nova paixão desperta, há ainda a presença de um matador que está atrás de Leléu, devido a ele ter se envolvido com sua esposa no passado.",
+      "start_date": "2026-10-02T15:25:00-03:00",
+      "title": "Lisbela e o Prisioneiro"
     },
     {
       "desc": "As principais notícias do dia no Rio Grande do Sul.",
@@ -89,39 +79,49 @@
       "title": "Boletim RBS Notícias"
     },
     {
-      "desc": "Nina diz a Tufão que foi vítima de uma armação; Begônia se acusa e livra Nina; Muricy e Ivana criticam atitude de Tufão; Nina e Jorginho discutem; Valdo decide vender as fotos comprometedoras para Carminha; Leleco parte para cima de Darkson.",
-      "start_date": "2026-10-02T17:10:00-03:00",
+      "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
+      "start_date": "2026-10-02T17:05:00-03:00",
       "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-10-02T18:15:00-03:00",
+      "start_date": "2026-10-02T18:25:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-10-02T19:05:00-03:00",
+      "start_date": "2026-10-02T19:10:00-03:00",
       "title": "RBS Notícias"
     },
     {
-      "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-10-02T19:35:00-03:00",
+      "desc": "O passado de duas amigas, cujas vidas mudam com a tragédia que tira a vida de Juli, faz com que Bela se comprometa a cuidar de seus quatro filhos.",
+      "start_date": "2026-10-02T19:40:00-03:00",
       "title": "Por Você"
     },
     {
-      "desc": "Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.",
-      "start_date": "2026-10-02T20:30:00-03:00",
-      "title": "Propaganda Eleitoral"
-    },
-    {
       "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-10-02T20:55:00-03:00",
+      "start_date": "2026-10-02T20:30:00-03:00",
       "title": "Jornal Nacional"
     },
     {
-      "desc": "Candidatos à Presidência da República exploram seus planos de governo em debate.",
-      "start_date": "2026-10-02T21:30:00-03:00",
-      "title": "Eleições 2026: Debate dos Candidatos à Presidência da República - 1º Turno"
+      "desc": "Após ser demitida, Adriana tem sua casa destruída por uma enchente que também leva seu marido. Ainda sem entender como seguir, ela vai parar em um abrigo. Lá, Adriana cruza pela primeira vez com o caminho de Pedro.",
+      "start_date": "2026-10-02T21:20:00-03:00",
+      "title": "Quem Ama Cuida"
+    },
+    {
+      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
+      "start_date": "2026-10-02T22:15:00-03:00",
+      "title": "Globo Repórter"
+    },
+    {
+      "desc": "Randall é confrontado com uma escolha difícil; Kate e Toby se adaptam à nova casa; a amizade de Miguel e Jack se fortalece.",
+      "start_date": "2026-10-02T23:00:00-03:00",
+      "title": "This Is Us - Histórias de Família"
+    },
+    {
+      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
+      "start_date": "2026-10-02T23:50:00-03:00",
+      "title": "Jornal da Globo"
     }
   ],
   "start_date": "2026-10-02"

@@ -5,27 +5,32 @@
   "epg_list": [
     {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-10-08T00:00:00-03:00",
+      "start_date": "2026-10-08T00:25:00-03:00",
       "title": "Jornal da Globo"
     },
     {
+      "desc": "Destaques das principais rodadas da maior liga de futebol americano do mundo.",
+      "start_date": "2026-10-08T01:15:00-03:00",
+      "title": "Radar NFL"
+    },
+    {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-10-08T00:50:00-03:00",
+      "start_date": "2026-10-08T01:20:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-10-08T01:30:00-03:00",
+      "start_date": "2026-10-08T01:55:00-03:00",
       "title": "Por Você"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-10-08T02:15:00-03:00",
+      "start_date": "2026-10-08T02:35:00-03:00",
       "title": "Vai que Cola"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-10-08T03:10:00-03:00",
+      "start_date": "2026-10-08T03:20:00-03:00",
       "title": "Vai que Cola"
     },
     {
@@ -70,58 +75,68 @@
     },
     {
       "desc": "Em Asa Branca, moradores vivem em função dos supostos milagres de Roque Santeiro, que teria morrido como mártir. O falso santo, porém, reaparece em carne e osso 17 anos depois, ameaçando o poder e a riqueza das autoridades locais.",
-      "start_date": "2026-10-08T14:45:00-03:00",
+      "start_date": "2026-10-08T14:35:00-03:00",
       "title": "Roque Santeiro - Edição Especial"
     },
     {
       "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
-      "start_date": "2026-10-08T15:15:00-03:00",
+      "start_date": "2026-10-08T15:05:00-03:00",
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Cheol Woong é um novato designado à Unidade de Resgate de uma estação de bombeiros em Seul. Em sua primeira missão, acompanha Jin Seop, veterano com o título de maior salvador de vidas em incêndios. Durante o resgate, Cheol Woong testemunha Jin Seop desafiar ordens do chefe para salvar os ocupantes. Jin Seop consegue salvar uma garota, mas um colega morre. O medo de Cheol Woong se transforma em raiva e ele culpa Jin Seop.",
-      "start_date": "2026-10-08T15:45:00-03:00",
-      "title": "Os Bombeiros"
+      "desc": "P. T. Barnum, um homem que tem uma tendência natural de enganar seu público, decide montar um circo na esperança de ficar famoso. Durante sua saga, ele ainda precisa lidar com uma questão pendente em sua vida: a paixão cega pela cantora Jenny Lind.",
+      "start_date": "2026-10-08T15:40:00-03:00",
+      "title": "O Rei do Show"
     },
     {
       "desc": "As principais notícias do dia no Rio Grande do Sul.",
-      "start_date": "2026-10-08T17:15:00-03:00",
+      "start_date": "2026-10-08T16:50:00-03:00",
       "title": "Boletim RBS Notícias"
     },
     {
       "desc": "Carminha tenta fazer acordo com Nina, ameaçando mostrar o filme de Nina e Max no barco e denunciá-la pelo seu sequestro; Jorginho sai da cadeia e discute com Tufão; Max atropela Lúcio; Jorginho e Nina abordam Tufão e Leleco; Nina implora para Tufão escutar sua versão.",
-      "start_date": "2026-10-08T17:25:00-03:00",
+      "start_date": "2026-10-08T17:05:00-03:00",
       "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-10-08T18:25:00-03:00",
+      "start_date": "2026-10-08T18:05:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-10-08T19:10:00-03:00",
+      "start_date": "2026-10-08T18:45:00-03:00",
       "title": "RBS Notícias"
     },
     {
       "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-10-08T19:40:00-03:00",
+      "start_date": "2026-10-08T19:15:00-03:00",
       "title": "Por Você"
     },
     {
       "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-10-08T20:30:00-03:00",
+      "start_date": "2026-10-08T20:00:00-03:00",
       "title": "Jornal Nacional"
     },
     {
       "desc": "Após ser demitida, Adriana tem sua casa destruída por uma enchente que também leva seu marido. Ainda sem entender como seguir, ela vai parar em um abrigo. Lá, Adriana cruza pela primeira vez com o caminho de Pedro.",
-      "start_date": "2026-10-08T21:20:00-03:00",
+      "start_date": "2026-10-08T20:55:00-03:00",
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "Surge Arthur, filho de Suzuki, que busca ser reconhecido como filho socioafetivo de Anita. Sua chegada reabre conflitos e transforma a herança em debate sobre identidade.",
-      "start_date": "2026-10-08T22:25:00-03:00",
-      "title": "O Testamento: O Segredo de Anita Harley"
+      "desc": "Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.",
+      "start_date": "2026-10-08T21:20:00-03:00",
+      "title": "Palmeiras x Bahia"
+    },
+    {
+      "desc": "Comentaristas analisam a rodada dos estaduais, Copa do Brasil, Libertadores e muito mais.",
+      "start_date": "2026-10-08T23:30:00-03:00",
+      "title": "Segue o Jogo"
+    },
+    {
+      "desc": "Fábio Porchat explora as boas histórias que as pessoas têm para contar. Em um cenário intimista e com artistas no centro da plateia, ele convida famosos e anônimos a compartilhar experiências, sejam elas inesquecíveis, engraçadas ou até assustadoras.",
+      "start_date": "2026-10-08T23:45:00-03:00",
+      "title": "Que História É Essa, Porchat?"
     }
   ],
   "start_date": "2026-10-08"

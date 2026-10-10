@@ -4,58 +4,63 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
+      "desc": "Revisita mais de um século de confrontos entre Grêmio e Internacional, passando por jogos históricos, personagens marcantes e momentos em que a rivalidade entre os dois clubes ajudou a moldar toda a vida cultural e afetiva do Rio Grande do Sul.",
       "start_date": "2026-10-10T00:35:00-03:00",
-      "title": "Jornal da Globo"
+      "title": "Grenal - O Maior Clássico das Américas"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-10-10T01:25:00-03:00",
+      "start_date": "2026-10-10T02:05:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-10-10T02:05:00-03:00",
+      "start_date": "2026-10-10T02:45:00-03:00",
       "title": "Por Você"
     },
     {
-      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-10-10T02:50:00-03:00",
-      "title": "Vai que Cola"
+      "desc": "Severino encontra um objeto em meio aos escombros de um avião, sem saber que se trata de uma das faces do Medalhão de Uzur. O porteiro do Prédio Azul coloca o objeto no pescoço e acaba se tornando cada vez mais malvado. Com a bruxa Duvíbora e sua filha Dunhoca dispostas a roubá-lo, Pippo, Sol e Bento não têm outra saída a não ser encontrar a metade do bem do medalhão. Para tanto, eles contam com a ajuda da feiticeira Berenice, dos Inspetores de la Casa Naranja e ainda do mago Elergun.",
+      "start_date": "2026-10-10T03:30:00-03:00",
+      "title": "Detetives do Prédio Azul 3 - Uma Aventura no Fim do Mundo"
     },
     {
-      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-10-10T03:25:00-03:00",
-      "title": "Vai que Cola"
+      "desc": "Acompanhe a celebração da santa missa em João Pessoa.",
+      "start_date": "2026-10-10T05:45:00-03:00",
+      "title": "Santa Missa"
     },
     {
-      "desc": "José vai para o Rio de Janeiro cuidar de assuntos de seu falecido pai, Machado, o líder da banda de rock Capa Preta. O homem foi cremado e queria que suas cinzas fossem espalhadas em seu lugar favorito, mas José não faz ideia de onde seja esse lugar, já que foi abandonado pelo pai ainda criança. Tudo muda quando ele conhece Kat, sua vizinha que também perdeu o pai. Os dois embarcam em uma jornada de cura e perdão enquanto o fantasma de Machado aparece para tentar guiar o filho.",
-      "start_date": "2026-10-10T04:05:00-03:00",
-      "title": "De Pai para Filho"
-    },
-    {
-      "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
+      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
       "start_date": "2026-10-10T06:00:00-03:00",
-      "title": "Bom Dia Rio Grande"
+      "title": "Globo Rural"
     },
     {
-      "desc": "Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.",
+      "desc": "As principais notícias do Brasil para começar o final de semana bem-informado.",
+      "start_date": "2026-10-10T06:50:00-03:00",
+      "title": "Bom Dia Sábado"
+    },
+    {
+      "desc": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários.",
+      "start_date": "2026-10-10T07:50:00-03:00",
+      "title": "Pequenas Empresas & Grandes Negócios"
+    },
+    {
+      "desc": "Um programa democrático que aborda as diversas áreas da cultura gaúcha, e também apresenta quadros de turismo, gastronomia e as informações do agronegócio.",
       "start_date": "2026-10-10T08:30:00-03:00",
-      "title": "Bom Dia Brasil"
+      "title": "Galpão Crioulo"
     },
     {
-      "desc": "O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.",
-      "start_date": "2026-10-10T09:30:00-03:00",
-      "title": "Encontro com Patrícia Poeta"
+      "desc": "",
+      "start_date": "2026-10-10T09:00:00-03:00",
+      "title": "TV Globinho - Edição Especial"
     },
     {
-      "desc": "Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.",
+      "desc": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa.",
       "start_date": "2026-10-10T10:35:00-03:00",
-      "title": "Mais Você"
+      "title": "É de Casa"
     },
     {
       "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-10-10T11:45:00-03:00",
+      "start_date": "2026-10-10T11:55:00-03:00",
       "title": "Jornal do Almoço"
     },
     {
@@ -65,57 +70,47 @@
     },
     {
       "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-10-10T13:20:00-03:00",
+      "start_date": "2026-10-10T13:10:00-03:00",
       "title": "Jornal do Almoço"
     },
     {
       "desc": "Confira as últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.",
-      "start_date": "2026-10-10T13:30:00-03:00",
+      "start_date": "2026-10-10T13:20:00-03:00",
       "title": "Globo Esporte RS"
     },
     {
       "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
-      "start_date": "2026-10-10T13:50:00-03:00",
+      "start_date": "2026-10-10T13:40:00-03:00",
       "title": "Jornal Hoje"
     },
     {
-      "desc": "Em Asa Branca, moradores vivem em função dos supostos milagres de Roque Santeiro, que teria morrido como mártir. O falso santo, porém, reaparece em carne e osso 17 anos depois, ameaçando o poder e a riqueza das autoridades locais.",
-      "start_date": "2026-10-10T15:00:00-03:00",
-      "title": "Roque Santeiro - Edição Especial"
+      "desc": "De uma forma leve e divertida, muito entretenimento e informação a partir de personagens inspiradores em assuntos como cultura, bem-estar, lazer, música, viagem, gastronomia e sustentabilidade.",
+      "start_date": "2026-10-10T14:20:00-03:00",
+      "title": "Baita Sábado"
     },
     {
-      "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
-      "start_date": "2026-10-10T15:15:00-03:00",
-      "title": "Além do Tempo - Edição Especial"
+      "desc": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais.",
+      "start_date": "2026-10-10T14:55:00-03:00",
+      "title": "Caldeirão com Mion"
     },
     {
-      "desc": "Haroldo embarca em uma missão mágica com a ajuda de seu giz de cera roxo.",
-      "start_date": "2026-10-10T15:55:00-03:00",
-      "title": "Harold e o Lápis Mágico"
-    },
-    {
-      "desc": "As principais notícias do dia no Rio Grande do Sul.",
-      "start_date": "2026-10-10T17:15:00-03:00",
-      "title": "Boletim RBS Notícias"
-    },
-    {
-      "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
-      "start_date": "2026-10-10T17:30:00-03:00",
-      "title": "Vale a Pena Ver de Novo - Avenida Brasil"
+      "desc": "Seleções femininas de futebol se enfrentam em amistosos internacionais pelo mundo.",
+      "start_date": "2026-10-10T16:20:00-03:00",
+      "title": "Brasil x Argentina"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-10-10T18:25:00-03:00",
+      "start_date": "2026-10-10T18:35:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-10-10T19:10:00-03:00",
+      "start_date": "2026-10-10T19:20:00-03:00",
       "title": "RBS Notícias"
     },
     {
       "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-10-10T19:40:00-03:00",
+      "start_date": "2026-10-10T19:45:00-03:00",
       "title": "Por Você"
     },
     {
@@ -125,28 +120,18 @@
     },
     {
       "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-10-10T20:50:00-03:00",
+      "start_date": "2026-10-10T20:40:00-03:00",
       "title": "Jornal Nacional"
     },
     {
-      "desc": "Após ser demitida, Adriana tem sua casa destruída por uma enchente que também leva seu marido. Ainda sem entender como seguir, ela vai parar em um abrigo. Lá, Adriana cruza pela primeira vez com o caminho de Pedro.",
+      "desc": "Pilar explica seu plano a Tom. Ingrid acolhe Rafael. Iuri decide se afastar de Ingrid, a fim de ajudar Adriana em seu plano e Pedro diz a André que a inocência de Adriana depende de sua atuação.",
       "start_date": "2026-10-10T21:40:00-03:00",
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
+      "desc": "Serginho Groisman promove debates sobre temas relevantes com a participação da plateia, artistas e personalidades de diferentes áreas.",
       "start_date": "2026-10-10T22:45:00-03:00",
-      "title": "Globo Repórter"
-    },
-    {
-      "desc": "Uma prévia das eletrizantes corridas da Fórmula 1, com uma visão prática, técnica e acessível dos aspectos mais importantes da principal categoria do automobilismo mundial.",
-      "start_date": "2026-10-10T23:35:00-03:00",
-      "title": "Grid da Globo"
-    },
-    {
-      "desc": "Rebecca organiza um jantar; Kevin tenta apoiar as pessoas que estão ao seu redor; Randall se preocupa com a adaptação de sua família à nova casa.",
-      "start_date": "2026-10-10T23:45:00-03:00",
-      "title": "This Is Us - Histórias de Família"
+      "title": "Altas Horas"
     }
   ],
   "start_date": "2026-10-10"

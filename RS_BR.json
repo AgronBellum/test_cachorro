@@ -1,138 +1,93 @@
 {
-  "end_date": "2026-10-10",
+  "end_date": "2026-10-11",
   "name": "Globo RBS TV POA",
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "Revisita mais de um século de confrontos entre Grêmio e Internacional, passando por jogos históricos, personagens marcantes e momentos em que a rivalidade entre os dois clubes ajudou a moldar toda a vida cultural e afetiva do Rio Grande do Sul.",
-      "start_date": "2026-10-10T00:35:00-03:00",
-      "title": "Grenal - O Maior Clássico das Américas"
+      "desc": "Frank Morris, um prisioneiro com um histórico de várias fugas, é mandado para Alcatraz, a penitenciária de segurança máxima mais brutal e infame dos EUA, para cumprir o resto de sua sentença. Morris logo percebe o quanto o local é desumano.",
+      "start_date": "2026-10-11T01:25:00-03:00",
+      "title": "Fuga de Alcatraz"
     },
     {
-      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-10-10T02:05:00-03:00",
-      "title": "A Nobreza do Amor"
+      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "start_date": "2026-10-11T03:00:00-03:00",
+      "title": "Vai que Cola"
     },
     {
-      "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-10-10T02:45:00-03:00",
-      "title": "Por Você"
-    },
-    {
-      "desc": "Severino encontra um objeto em meio aos escombros de um avião, sem saber que se trata de uma das faces do Medalhão de Uzur. O porteiro do Prédio Azul coloca o objeto no pescoço e acaba se tornando cada vez mais malvado. Com a bruxa Duvíbora e sua filha Dunhoca dispostas a roubá-lo, Pippo, Sol e Bento não têm outra saída a não ser encontrar a metade do bem do medalhão. Para tanto, eles contam com a ajuda da feiticeira Berenice, dos Inspetores de la Casa Naranja e ainda do mago Elergun.",
-      "start_date": "2026-10-10T03:30:00-03:00",
-      "title": "Detetives do Prédio Azul 3 - Uma Aventura no Fim do Mundo"
+      "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
+      "start_date": "2026-10-11T04:00:00-03:00",
+      "title": "Hora 1"
     },
     {
       "desc": "Acompanhe a celebração da santa missa em João Pessoa.",
-      "start_date": "2026-10-10T05:45:00-03:00",
+      "start_date": "2026-10-11T05:45:00-03:00",
       "title": "Santa Missa"
     },
     {
-      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
-      "start_date": "2026-10-10T06:00:00-03:00",
-      "title": "Globo Rural"
-    },
-    {
-      "desc": "As principais notícias do Brasil para começar o final de semana bem-informado.",
-      "start_date": "2026-10-10T06:50:00-03:00",
-      "title": "Bom Dia Sábado"
-    },
-    {
-      "desc": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários.",
-      "start_date": "2026-10-10T07:50:00-03:00",
-      "title": "Pequenas Empresas & Grandes Negócios"
-    },
-    {
       "desc": "Um programa democrático que aborda as diversas áreas da cultura gaúcha, e também apresenta quadros de turismo, gastronomia e as informações do agronegócio.",
-      "start_date": "2026-10-10T08:30:00-03:00",
+      "start_date": "2026-10-11T06:35:00-03:00",
       "title": "Galpão Crioulo"
     },
     {
-      "desc": "",
-      "start_date": "2026-10-10T09:00:00-03:00",
-      "title": "TV Globinho - Edição Especial"
+      "desc": "A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes.",
+      "start_date": "2026-10-11T07:05:00-03:00",
+      "title": "AutoEsporte"
     },
     {
-      "desc": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa.",
-      "start_date": "2026-10-10T10:35:00-03:00",
-      "title": "É de Casa"
+      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
+      "start_date": "2026-10-11T07:35:00-03:00",
+      "title": "Globo Rural"
     },
     {
-      "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-10-10T11:55:00-03:00",
-      "title": "Jornal do Almoço"
+      "desc": "Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.",
+      "start_date": "2026-10-11T08:40:00-03:00",
+      "title": "GP de Singapura"
     },
     {
-      "desc": "Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.",
-      "start_date": "2026-10-10T13:00:00-03:00",
-      "title": "Propaganda Eleitoral"
+      "desc": "Fique por dentro de tudo o que rolou durante a semana nos esportes e veja os gols pelo mundo afora. Entrevistas, reportagens sobre ciência esportiva e personagens históricos também fazem parte da atração.",
+      "start_date": "2026-10-11T11:00:00-03:00",
+      "title": "Esporte Espetacular"
     },
     {
-      "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-10-10T13:10:00-03:00",
-      "title": "Jornal do Almoço"
+      "desc": "Seiya, um obstinado adolescente de rua, passa seu tempo lutando por dinheiro enquanto procura por sua irmã sequestrada. Quando uma de suas lutas inadvertidamente desperta poderes místicos que ele nunca soube que tinha, Seiya se vê lançado em um mundo de santos guerreiros, treinamento mágico antigo e uma deusa reencarnada que precisa de sua proteção. Se ele quiser sobreviver, precisará abraçar seu destino e sacrificar tudo para ocupar seu lugar de direito entre os Cavaleiros do Zodíaco.",
+      "start_date": "2026-10-11T12:25:00-03:00",
+      "title": "Os Cavaleiros do Zodíaco: Saint Seiya - O Começo"
     },
     {
-      "desc": "Confira as últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.",
-      "start_date": "2026-10-10T13:20:00-03:00",
-      "title": "Globo Esporte RS"
+      "desc": "Eliana visita Sabrina Sato no \"Em Família com Eliana\". No palco, a apresentadora comanda o Show em Família, com Lucy Ramos, Henrique Barreira e Simony como jurados.",
+      "start_date": "2026-10-11T14:25:00-03:00",
+      "title": "Em Família com Eliana"
     },
     {
-      "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
-      "start_date": "2026-10-10T13:40:00-03:00",
-      "title": "Jornal Hoje"
+      "desc": "Todo final de semana, Luciano Huck oferece o melhor do entretenimento, com quadros divertidos e emocionantes, muita música, a presença marcante de famosos e matérias especiais pelo Brasil.",
+      "start_date": "2026-10-11T15:25:00-03:00",
+      "title": "Domingão com Huck"
     },
     {
-      "desc": "De uma forma leve e divertida, muito entretenimento e informação a partir de personagens inspiradores em assuntos como cultura, bem-estar, lazer, música, viagem, gastronomia e sustentabilidade.",
-      "start_date": "2026-10-10T14:20:00-03:00",
-      "title": "Baita Sábado"
+      "desc": "Os principais acontecimentos do Brasileirão, com notícias de clubes e atletas antes das partidas.",
+      "start_date": "2026-10-11T17:00:00-03:00",
+      "title": "Bora Pro Jogo"
     },
     {
-      "desc": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais.",
-      "start_date": "2026-10-10T14:55:00-03:00",
-      "title": "Caldeirão com Mion"
+      "desc": "Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.",
+      "start_date": "2026-10-11T17:15:00-03:00",
+      "title": "Grêmio x Internacional"
     },
     {
-      "desc": "Seleções femininas de futebol se enfrentam em amistosos internacionais pelo mundo.",
-      "start_date": "2026-10-10T16:20:00-03:00",
-      "title": "Brasil x Argentina"
+      "desc": "Todo final de semana, Luciano Huck oferece o melhor do entretenimento, com quadros divertidos e emocionantes, muita música, a presença marcante de famosos e matérias especiais pelo Brasil.",
+      "start_date": "2026-10-11T19:30:00-03:00",
+      "title": "Domingão com Huck"
     },
     {
-      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-10-10T18:35:00-03:00",
-      "title": "A Nobreza do Amor"
+      "desc": "Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência.",
+      "start_date": "2026-10-11T20:30:00-03:00",
+      "title": "Fantástico"
     },
     {
-      "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-10-10T19:20:00-03:00",
-      "title": "RBS Notícias"
-    },
-    {
-      "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-10-10T19:45:00-03:00",
-      "title": "Por Você"
-    },
-    {
-      "desc": "Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.",
-      "start_date": "2026-10-10T20:30:00-03:00",
-      "title": "Propaganda Eleitoral"
-    },
-    {
-      "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-10-10T20:40:00-03:00",
-      "title": "Jornal Nacional"
-    },
-    {
-      "desc": "Após ser demitida, Adriana tem sua casa destruída por uma enchente que também leva seu marido. Ainda sem entender como seguir, ela vai parar em um abrigo. Lá, Adriana cruza pela primeira vez com o caminho de Pedro.",
-      "start_date": "2026-10-10T21:40:00-03:00",
-      "title": "Quem Ama Cuida"
-    },
-    {
-      "desc": "Serginho Groisman promove debates sobre temas relevantes com a participação da plateia, artistas e personalidades de diferentes áreas.",
-      "start_date": "2026-10-10T22:45:00-03:00",
-      "title": "Altas Horas"
+      "desc": "Uma família decide se divertir em uma praia e se vê envolvida em um mistério sinistro. O tempo parece passar de forma diferente no lugar, fazendo com que eles envelheçam anos em alguns minutos.",
+      "start_date": "2026-10-11T23:35:00-03:00",
+      "title": "Tempo"
     }
   ],
-  "start_date": "2026-10-10"
+  "start_date": "2026-10-11"
 }

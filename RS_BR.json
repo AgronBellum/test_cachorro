@@ -4,29 +4,24 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-10-14T00:25:00-03:00",
-      "title": "Jornal da Globo"
-    },
-    {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-10-14T01:15:00-03:00",
+      "start_date": "2026-10-14T00:35:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-10-14T01:55:00-03:00",
+      "start_date": "2026-10-14T01:15:00-03:00",
       "title": "Por Você"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-10-14T02:40:00-03:00",
+      "start_date": "2026-10-14T02:00:00-03:00",
       "title": "Vai que Cola"
     },
     {
-      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-10-14T03:20:00-03:00",
-      "title": "Vai que Cola"
+      "desc": "Roberta e Suzana são irmãs e nutrem um desejo de vingança em relação à avó, que atormentava ambas na infância com conceitos rígidos de etiqueta e educação. Anos depois, elas decidem sequestrá-la e levá-la para a casa de praia da família. Com elas, viajam Renato, um advogado que é amigo de Roberta e não sabe que a avó dela está no porta-malas, e Francisco, médico e marido de Suzana, que estranha a repentina viagem da esposa e acredita que ela está fazendo uso de entorpecentes.",
+      "start_date": "2026-10-14T02:40:00-03:00",
+      "title": "Muito Gelo e Dois Dedos d'Água"
     },
     {
       "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
@@ -85,38 +80,43 @@
     },
     {
       "desc": "A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.",
-      "start_date": "2026-10-14T15:25:00-03:00",
+      "start_date": "2026-10-14T15:15:00-03:00",
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Gavin Stone é um ex-astro infantil forçado a fazer serviço comunitário em uma igreja. Ele finge ser cristão para conseguir o papel de Jesus em uma peça durante a Paixão de Cristo.",
-      "start_date": "2026-10-14T16:00:00-03:00",
-      "title": "A Ressurreição de Gavin Stone"
+      "desc": "Uma mulher decidida, cujo marido tem um colapso mental e desaparece, parte em busca dele pelas ruas com seu filho pequeno, desencadeando um movimento para ajudar pessoas desabrigadas em necessidade e inspirando uma cidade.",
+      "start_date": "2026-10-14T15:45:00-03:00",
+      "title": "5000 Cobertas"
     },
     {
       "desc": "As principais notícias do dia no Rio Grande do Sul.",
-      "start_date": "2026-10-14T17:20:00-03:00",
+      "start_date": "2026-10-14T17:05:00-03:00",
       "title": "Boletim RBS Notícias"
     },
     {
       "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
-      "start_date": "2026-10-14T17:30:00-03:00",
+      "start_date": "2026-10-14T17:15:00-03:00",
       "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-10-14T18:25:00-03:00",
+      "start_date": "2026-10-14T18:05:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-10-14T19:10:00-03:00",
+      "start_date": "2026-10-14T18:45:00-03:00",
       "title": "RBS Notícias"
     },
     {
       "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-10-14T19:40:00-03:00",
+      "start_date": "2026-10-14T19:15:00-03:00",
       "title": "Por Você"
+    },
+    {
+      "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
+      "start_date": "2026-10-14T20:00:00-03:00",
+      "title": "Jornal Nacional"
     },
     {
       "desc": "Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.",
@@ -124,24 +124,24 @@
       "title": "Propaganda Eleitoral"
     },
     {
-      "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-10-14T20:40:00-03:00",
-      "title": "Jornal Nacional"
-    },
-    {
       "desc": "Após ser demitida, Adriana tem sua casa destruída por uma enchente que também leva seu marido. Ainda sem entender como seguir, ela vai parar em um abrigo. Lá, Adriana cruza pela primeira vez com o caminho de Pedro.",
-      "start_date": "2026-10-14T21:40:00-03:00",
+      "start_date": "2026-10-14T20:40:00-03:00",
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "A versão brasileira do programa \"Next Level Chef\", de Gordon Ramsay, seleciona participantes entre chefs profissionais, amadores e da internet, que se dividem e realizam diversas provas, mostrando habilidades e enfrentando desafios.",
-      "start_date": "2026-10-14T22:45:00-03:00",
-      "title": "Chef de Alto Nível"
+      "desc": "Todas as emoções da principal competição de futebol masculino disputada entre clubes da América do Sul, e que garante ao campeão vaga no Mundial de Clubes da FIFA.",
+      "start_date": "2026-10-14T21:15:00-03:00",
+      "title": "Semifinal, Jogo de Ida: Fluminense x Palmeiras"
     },
     {
-      "desc": "No Xingu, Paulo vive o Kuarup com os Yawalapiti, conversa com Tapi e a pajé Mapulu, aprende sobre a luta Huka Huka e reflete sobre tradição e resistência indígena.",
-      "start_date": "2026-10-14T23:40:00-03:00",
-      "title": "Avisa Lá que Eu Vou"
+      "desc": "Comentaristas analisam a rodada dos estaduais, Copa do Brasil, Libertadores e muito mais.",
+      "start_date": "2026-10-14T23:30:00-03:00",
+      "title": "Segue o Jogo"
+    },
+    {
+      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
+      "start_date": "2026-10-14T23:45:00-03:00",
+      "title": "Jornal da Globo"
     }
   ],
   "start_date": "2026-10-14"

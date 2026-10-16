@@ -5,33 +5,18 @@
   "epg_list": [
     {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-10-16T00:30:00-03:00",
+      "start_date": "2026-10-16T00:55:00-03:00",
       "title": "Jornal da Globo"
     },
     {
-      "desc": "Destaques das principais rodadas da maior liga de futebol americano do mundo.",
-      "start_date": "2026-10-16T01:20:00-03:00",
-      "title": "Radar NFL"
+      "desc": "Encerramento da programação.",
+      "start_date": "2026-10-16T01:45:00-03:00",
+      "title": "Manutenção"
     },
     {
-      "desc": "Campbell e Chinua reagem à solicitação de Binta. Sebastião leva Virgínia para ser avaliada por Onildo. Mirinho arma para se livrar de Virgínia, e Marta alerta Diógenes sobre as intenções reais do genro. Manoel se impressiona com os planos de Mirinho para tomar as terras valiosas de Tonho. Mundica percebe que Rosa está usando Manoel para provocar ciúmes em Ciço. Bartô pensa em pedir verba ao governador para construir o santuário de Veneranda.",
-      "start_date": "2026-10-16T01:25:00-03:00",
-      "title": "A Nobreza do Amor"
-    },
-    {
-      "desc": "Bela confronta Vanessa. Zé confessa a Juarez que pediu para Guima o proteger. Iara se incomoda ao ver a proximidade de Juarez e Zé. Gabriel repreende Peixe por expor Bela em seu aniversário. Bela garante a Peixe que lutará contra ele caso o pedido de guarda coloque Glorinha, Ítalo e Samuca em risco. Toy vê quando um homem entra na barraca de Maike e tenta proteger o amigo, sem saber que se trata de seu tio André. Próspero e Clemente fingem ter feito as pazes diante de Melinda e Orestes.",
-      "start_date": "2026-10-16T02:05:00-03:00",
-      "title": "Por Você"
-    },
-    {
-      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-10-16T02:55:00-03:00",
-      "title": "Vai que Cola"
-    },
-    {
-      "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
+      "desc": "O Rio de Janeiro se encontra acuado por uma onda de sequestros na década de 1990. As forças de segurança convocam agentes corruptos e um delegado com fama de genocida para salvar a cidade dos bandidos e até da polícia.",
       "start_date": "2026-10-16T04:00:00-03:00",
-      "title": "Hora 1"
+      "title": "A Divisão"
     },
     {
       "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
@@ -89,9 +74,9 @@
       "title": "Além do Tempo - Edição Especial"
     },
     {
-      "desc": "Dona Hermínia é uma senhora de meia-idade, divorciada do marido, que a trocou por uma mulher mais jovem. Hiperativa, ela não larga do pé de seus filhos, Marcelina e Juliano. Um dia, após descobrir que eles a consideram chata, ela resolve sair de casa sem avisar ninguém, deixando todos preocupados. Dona Hermínia decide visitar a querida tia Zélia para desabafar suas tristezas atuais e recordar os bons tempos do passado.",
+      "desc": "Uma britânica sedutora e charmosa une forças com uma australiana esperta e divertida para enganar um jovem e ingênuo bilionário do ramo da tecnologia no sul da França.",
       "start_date": "2026-10-16T16:00:00-03:00",
-      "title": "Minha Mãe É uma Peça - O Filme"
+      "title": "As Trapaceiras"
     },
     {
       "desc": "As principais notícias do dia no Rio Grande do Sul.",
@@ -139,14 +124,14 @@
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "A versão brasileira do programa \"Next Level Chef\", de Gordon Ramsay, seleciona participantes entre chefs profissionais, amadores e da internet, que se dividem e realizam diversas provas, mostrando habilidades e enfrentando desafios.",
+      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
       "start_date": "2026-10-16T22:50:00-03:00",
-      "title": "Chef de Alto Nível"
+      "title": "Globo Repórter"
     },
     {
-      "desc": "Fábio Porchat explora as boas histórias que as pessoas têm para contar. Em um cenário intimista e com artistas no centro da plateia, ele convida famosos e anônimos a compartilhar experiências, sejam elas inesquecíveis, engraçadas ou até assustadoras.",
-      "start_date": "2026-10-16T23:45:00-03:00",
-      "title": "Que História É Essa, Porchat?"
+      "desc": "Kate e Toby tentam arranjar tempo para o casamento; Jack tenta provar seu valor ao pai de Rebecca; Randall luta para encontrar seu lugar com os outros vereadores.",
+      "start_date": "2026-10-16T23:40:00-03:00",
+      "title": "This Is Us - Histórias de Família"
     }
   ],
   "start_date": "2026-10-16"

@@ -4,24 +4,34 @@
   "provider": "mi.tv",
   "epg_list": [
     {
+      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
+      "start_date": "2026-10-22T00:25:00-03:00",
+      "title": "Jornal da Globo"
+    },
+    {
+      "desc": "Destaques das principais rodadas da maior liga de futebol americano do mundo.",
+      "start_date": "2026-10-22T01:15:00-03:00",
+      "title": "Radar NFL"
+    },
+    {
       "desc": "Aderbal nega a Ana Maria que Casemiro tenha feito um testamento em seu cartório, a fim de chantagear Mirinho. Severino ameaça Mirinho, e Graça se preocupa. Caetana e Ana Maria deduzem que Sebastião tenha escrito todo o testamento de Casemiro.",
-      "start_date": "2026-10-22T00:35:00-03:00",
+      "start_date": "2026-10-22T01:20:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Junqueira provoca Bela e Gabriel, que disfarçam. Dalila e Suelen convocam Glorinha a ser modelo de sua marca. Giovana apresenta Peixe à equipe do hospital. Zé revela que está trabalhando no Ceasa e obriga Juarez a passar a comprar com ele. Otto incentiva Glorinha a participar de uma competição de judô e Ítalo deixa a aula. Leandra convida Toy e Lia para se juntar a ela e Vitor. Gabriel descobre a ficha criminal de Junqueira. Bela encontra o cartão do advogado Diniz entre roupas de Peixe.",
-      "start_date": "2026-10-22T01:15:00-03:00",
+      "start_date": "2026-10-22T02:00:00-03:00",
       "title": "Por Você"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-10-22T02:00:00-03:00",
+      "start_date": "2026-10-22T02:45:00-03:00",
       "title": "Vai que Cola"
     },
     {
-      "desc": "O inspetor Espinosa e a policial Daia ficam encarregados de investigar o assassinato de um executivo que foi morto a tiros no banco de seu carro. Os envolvidos no caso desaparecem misteriosamente e a situação assume proporções inesperadas.",
-      "start_date": "2026-10-22T02:40:00-03:00",
-      "title": "O Silêncio da Chuva"
+      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "start_date": "2026-10-22T03:25:00-03:00",
+      "title": "Vai que Cola"
     },
     {
       "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
@@ -79,39 +89,34 @@
       "title": "Roque Santeiro - Edição Especial"
     },
     {
-      "desc": "Frank, um homem solteiro, cria sozinho sua sobrinha Mary, uma criança-prodígio. A garota se destaca na escola por suas habilidades com a matemática e a avó dela planeja um futuro que pode separá-la do tio.",
+      "desc": "Lily Trevino inesperadamente faz amizade com um estranho online, que compartilha o mesmo nome de seu pai egocêntrico. O apoio deste novo Bob Trevino poderia transformar sua vida.",
       "start_date": "2026-10-22T15:50:00-03:00",
-      "title": "Um Laço de Amor"
+      "title": "Um Pai para Lily"
     },
     {
       "desc": "As principais notícias do dia no Rio Grande do Sul.",
-      "start_date": "2026-10-22T17:00:00-03:00",
+      "start_date": "2026-10-22T17:15:00-03:00",
       "title": "Boletim RBS Notícias"
     },
     {
       "desc": "Carminha foge com Lúcio e deixa o barco de Max afundar com ele dentro; Max é considerado morto; Jorginho fica abalado com crime de Carminha; Max volta para a mansão e surpreende toda a família; Carminha leva um susto ao ver Max.",
-      "start_date": "2026-10-22T17:15:00-03:00",
+      "start_date": "2026-10-22T17:25:00-03:00",
       "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
       "desc": "Aderbal nega a Ana Maria que Casemiro tenha feito um testamento em seu cartório, a fim de chantagear Mirinho. Severino ameaça Mirinho, e Graça se preocupa. Caetana e Ana Maria deduzem que Sebastião tenha escrito todo o testamento de Casemiro.",
-      "start_date": "2026-10-22T18:05:00-03:00",
+      "start_date": "2026-10-22T18:25:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-10-22T18:45:00-03:00",
+      "start_date": "2026-10-22T19:10:00-03:00",
       "title": "RBS Notícias"
     },
     {
       "desc": "Junqueira provoca Bela e Gabriel, que disfarçam. Dalila e Suelen convocam Glorinha a ser modelo de sua marca. Giovana apresenta Peixe à equipe do hospital. Zé revela que está trabalhando no Ceasa e obriga Juarez a passar a comprar com ele. Otto incentiva Glorinha a participar de uma competição de judô e Ítalo deixa a aula. Leandra convida Toy e Lia para se juntar a ela e Vitor. Gabriel descobre a ficha criminal de Junqueira. Bela encontra o cartão do advogado Diniz entre roupas de Peixe.",
-      "start_date": "2026-10-22T19:15:00-03:00",
+      "start_date": "2026-10-22T19:40:00-03:00",
       "title": "Por Você"
-    },
-    {
-      "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-10-22T20:00:00-03:00",
-      "title": "Jornal Nacional"
     },
     {
       "desc": "Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.",
@@ -119,24 +124,19 @@
       "title": "Propaganda Eleitoral"
     },
     {
-      "desc": "Adriana e família comemoram o resultado da revisão criminal. Pilar fica furiosa quando Diná lhe comunica sobre a absolvição de Adriana e Edvaldo declara seu amor a Tilde.",
+      "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
       "start_date": "2026-10-22T20:40:00-03:00",
+      "title": "Jornal Nacional"
+    },
+    {
+      "desc": "Adriana e família comemoram o resultado da revisão criminal. Pilar fica furiosa quando Diná lhe comunica sobre a absolvição de Adriana e Edvaldo declara seu amor a Tilde.",
+      "start_date": "2026-10-22T21:30:00-03:00",
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "Todas as emoções da principal competição de futebol masculino disputada entre clubes da América do Sul, e que garante ao campeão vaga no Mundial de Clubes da FIFA.",
-      "start_date": "2026-10-22T21:15:00-03:00",
-      "title": "Semifinal, Jogo de Volta: Palmeiras x Fluminense"
-    },
-    {
-      "desc": "Comentaristas analisam a rodada dos estaduais, Copa do Brasil, Libertadores e muito mais.",
-      "start_date": "2026-10-22T23:30:00-03:00",
-      "title": "Segue o Jogo"
-    },
-    {
-      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-10-22T23:45:00-03:00",
-      "title": "Jornal da Globo"
+      "desc": "Para as melhores amigas Becky e Hunter, a vida é sobre vencer medos e ultrapassar limites. No entanto, após subir 600 metros até o topo de uma torre de rádio remota e abandonada, elas acabam presas lá em cima. Agora, suas habilidades de escalada são colocadas à prova enquanto lutam desesperadamente para sobreviver aos elementos, a falta de suprimentos e a altura vertiginosa.",
+      "start_date": "2026-10-22T22:35:00-03:00",
+      "title": "A Queda"
     }
   ],
   "start_date": "2026-10-22"

@@ -4,39 +4,29 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
+      "desc": "Rebecca visita Randall na Filadélfia; Beth está preocupada com um pedido de Deja; Kevin tem dúvidas sobre si mesmo.",
       "start_date": "2026-10-23T00:25:00-03:00",
-      "title": "Jornal da Globo"
-    },
-    {
-      "desc": "Destaques das principais rodadas da maior liga de futebol americano do mundo.",
-      "start_date": "2026-10-23T01:15:00-03:00",
-      "title": "Radar NFL"
+      "title": "This Is Us - Histórias de Família"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-10-23T01:20:00-03:00",
+      "start_date": "2026-10-23T01:15:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-10-23T02:00:00-03:00",
+      "start_date": "2026-10-23T01:55:00-03:00",
       "title": "Por Você"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-10-23T02:45:00-03:00",
+      "start_date": "2026-10-23T02:40:00-03:00",
       "title": "Vai que Cola"
     },
     {
-      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "desc": "Um médico e sua equipe têm que realizar três cirurgias muito complicadas - de um traficante, de um policial militar e de uma criança. Os três foram feridos no mesmo tiroteio em uma favela próxima ao hospital.",
       "start_date": "2026-10-23T03:25:00-03:00",
-      "title": "Vai que Cola"
-    },
-    {
-      "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
-      "start_date": "2026-10-23T04:00:00-03:00",
-      "title": "Hora 1"
+      "title": "Sob Pressão"
     },
     {
       "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
@@ -89,18 +79,18 @@
       "title": "Roque Santeiro - Edição Especial"
     },
     {
-      "desc": "Lily Trevino inesperadamente faz amizade com um estranho online, que compartilha o mesmo nome de seu pai egocêntrico. O apoio deste novo Bob Trevino poderia transformar sua vida.",
-      "start_date": "2026-10-23T15:50:00-03:00",
-      "title": "Um Pai para Lily"
+      "desc": "Uma estranha com o mesmo nome de Selminha diz ser herdeira legítima de sua fortuna. Com isso, os bens dela são congelados e sua única fonte de renda passa a ser 30 reais por dia. Ela precisa voltar às origens e sobreviver em sua nova rotina.",
+      "start_date": "2026-10-23T15:40:00-03:00",
+      "title": "Tô Ryca! 2"
     },
     {
       "desc": "As principais notícias do dia no Rio Grande do Sul.",
-      "start_date": "2026-10-23T17:15:00-03:00",
+      "start_date": "2026-10-23T17:10:00-03:00",
       "title": "Boletim RBS Notícias"
     },
     {
       "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
-      "start_date": "2026-10-23T17:25:00-03:00",
+      "start_date": "2026-10-23T17:20:00-03:00",
       "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
@@ -129,14 +119,14 @@
       "title": "Jornal Nacional"
     },
     {
-      "desc": "Após ser demitida, Adriana tem sua casa destruída por uma enchente que também leva seu marido. Ainda sem entender como seguir, ela vai parar em um abrigo. Lá, Adriana cruza pela primeira vez com o caminho de Pedro.",
+      "desc": "Candidatos à Presidência da República expõem seus planos de governo em debate.",
       "start_date": "2026-10-23T21:30:00-03:00",
-      "title": "Quem Ama Cuida"
+      "title": "Eleições 2026: Debate dos Candidatos à Presidência da República - 2º Turno"
     },
     {
-      "desc": "Para as melhores amigas Becky e Hunter, a vida é sobre vencer medos e ultrapassar limites. No entanto, após subir 600 metros até o topo de uma torre de rádio remota e abandonada, elas acabam presas lá em cima. Agora, suas habilidades de escalada são colocadas à prova enquanto lutam desesperadamente para sobreviver aos elementos, a falta de suprimentos e a altura vertiginosa.",
-      "start_date": "2026-10-23T22:35:00-03:00",
-      "title": "A Queda"
+      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
+      "start_date": "2026-10-23T23:35:00-03:00",
+      "title": "Jornal da Globo"
     }
   ],
   "start_date": "2026-10-23"

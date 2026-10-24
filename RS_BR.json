@@ -4,54 +4,59 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "Rebecca visita Randall na Filadélfia; Beth está preocupada com um pedido de Deja; Kevin tem dúvidas sobre si mesmo.",
-      "start_date": "2026-10-24T00:25:00-03:00",
-      "title": "This Is Us - Histórias de Família"
+      "desc": "Decisão da fight do milhão masculina e feminina. Do Ginásio Mauro Pinheiro, em São Paulo, SP.",
+      "start_date": "2026-10-24T00:15:00-03:00",
+      "title": "Jungle Fight 156"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-10-24T01:15:00-03:00",
+      "start_date": "2026-10-24T01:20:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-10-24T01:55:00-03:00",
+      "start_date": "2026-10-24T02:00:00-03:00",
       "title": "Por Você"
     },
     {
-      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-10-24T02:40:00-03:00",
-      "title": "Vai que Cola"
+      "desc": "Um homem que não encontra rumo na vida é confundido com famoso palestrante motivacional. Ao tomar seu lugar, ele tenta achar uma razão para viver.",
+      "start_date": "2026-10-24T02:45:00-03:00",
+      "title": "O Palestrante"
     },
     {
-      "desc": "Um médico e sua equipe têm que realizar três cirurgias muito complicadas - de um traficante, de um policial militar e de uma criança. Os três foram feridos no mesmo tiroteio em uma favela próxima ao hospital.",
-      "start_date": "2026-10-24T03:25:00-03:00",
-      "title": "Sob Pressão"
+      "desc": "Evan Danielson é um executivo que está sofrendo com o declínio da sua carreira. Cada vez mais desesperado, ele resolve ouvir os conselhos da sua filha pequena, que chama o pai para o seu mundo imaginário. Com essa experiência, Evan vai começar a descobrir o caminho para resolver os seus problemas profissionais.",
+      "start_date": "2026-10-24T04:05:00-03:00",
+      "title": "Imagine Só!"
     },
     {
-      "desc": "Mônica, Cebolinha, Magali e Cascão se esquecem de fazer o dever de casa e fogem da escola. Mas nem tudo sai como o esperado, e os pais de Mônica decidem mudá-la de colégio. Mesmo fazendo novos amigos, a turminha sente saudade de estar sempre junta. Cebolinha então resolve bolar um plano infalível com Magali e Cascão para trazer a dona da rua de volta, mesmo que para isso precise recuperar o coelhinho Sansão para a amiga.",
-      "start_date": "2026-10-24T04:45:00-03:00",
-      "title": "Turma da Mônica - Lições"
+      "desc": "Acompanhe a celebração da santa missa em João Pessoa.",
+      "start_date": "2026-10-24T05:50:00-03:00",
+      "title": "Santa Missa"
     },
     {
-      "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
+      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
       "start_date": "2026-10-24T06:00:00-03:00",
-      "title": "Bom Dia Rio Grande"
+      "title": "Globo Rural"
     },
     {
-      "desc": "A cobertura de notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.",
+      "desc": "As principais notícias do Brasil para começar o final de semana bem-informado.",
+      "start_date": "2026-10-24T06:50:00-03:00",
+      "title": "Bom Dia Sábado"
+    },
+    {
+      "desc": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários.",
+      "start_date": "2026-10-24T07:50:00-03:00",
+      "title": "Pequenas Empresas & Grandes Negócios"
+    },
+    {
+      "desc": "Um programa democrático que aborda as diversas áreas da cultura gaúcha, e também apresenta quadros de turismo, gastronomia e as informações do agronegócio.",
       "start_date": "2026-10-24T08:30:00-03:00",
-      "title": "Bom Dia Brasil"
+      "title": "Galpão Crioulo"
     },
     {
-      "desc": "O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.",
-      "start_date": "2026-10-24T09:30:00-03:00",
-      "title": "Encontro com Patrícia Poeta"
-    },
-    {
-      "desc": "Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.",
-      "start_date": "2026-10-24T10:35:00-03:00",
-      "title": "Mais Você"
+      "desc": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa.",
+      "start_date": "2026-10-24T09:00:00-03:00",
+      "title": "É de Casa"
     },
     {
       "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
@@ -59,79 +64,64 @@
       "title": "Jornal do Almoço"
     },
     {
-      "desc": "Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.",
-      "start_date": "2026-10-24T13:00:00-03:00",
-      "title": "Propaganda Eleitoral"
-    },
-    {
-      "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-10-24T13:10:00-03:00",
-      "title": "Jornal do Almoço"
-    },
-    {
       "desc": "As últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.",
-      "start_date": "2026-10-24T13:20:00-03:00",
+      "start_date": "2026-10-24T13:00:00-03:00",
       "title": "Globo Esporte RS"
     },
     {
       "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
-      "start_date": "2026-10-24T13:50:00-03:00",
+      "start_date": "2026-10-24T13:25:00-03:00",
       "title": "Jornal Hoje"
     },
     {
-      "desc": "Em Asa Branca, moradores vivem em função dos supostos milagres de Roque Santeiro, que teria morrido como mártir. O falso santo, porém, reaparece em carne e osso 17 anos depois, ameaçando o poder e a riqueza das autoridades locais.",
-      "start_date": "2026-10-24T15:00:00-03:00",
-      "title": "Roque Santeiro - Edição Especial"
+      "desc": "De uma forma leve e divertida, muito entretenimento e informação a partir de personagens inspiradores em assuntos como cultura, bem-estar, lazer, música, viagem, gastronomia e sustentabilidade.",
+      "start_date": "2026-10-24T14:10:00-03:00",
+      "title": "Baita Sábado"
     },
     {
-      "desc": "Uma estranha com o mesmo nome de Selminha diz ser herdeira legítima de sua fortuna. Com isso, os bens dela são congelados e sua única fonte de renda passa a ser 30 reais por dia. Ela precisa voltar às origens e sobreviver em sua nova rotina.",
-      "start_date": "2026-10-24T15:40:00-03:00",
-      "title": "Tô Ryca! 2"
+      "desc": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais.",
+      "start_date": "2026-10-24T14:40:00-03:00",
+      "title": "Caldeirão com Mion"
     },
     {
-      "desc": "As principais notícias do dia no Rio Grande do Sul.",
-      "start_date": "2026-10-24T17:10:00-03:00",
-      "title": "Boletim RBS Notícias"
+      "desc": "Os principais acontecimentos do Brasileirão, com notícias de clubes e atletas antes das partidas.",
+      "start_date": "2026-10-24T16:00:00-03:00",
+      "title": "Bora Pro Jogo"
     },
     {
-      "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
-      "start_date": "2026-10-24T17:20:00-03:00",
-      "title": "Vale a Pena Ver de Novo - Avenida Brasil"
+      "desc": "Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.",
+      "start_date": "2026-10-24T16:15:00-03:00",
+      "title": "Internacional x Botafogo"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-10-24T18:25:00-03:00",
+      "start_date": "2026-10-24T18:35:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-10-24T19:10:00-03:00",
+      "start_date": "2026-10-24T19:20:00-03:00",
       "title": "RBS Notícias"
     },
     {
       "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-10-24T19:40:00-03:00",
+      "start_date": "2026-10-24T19:45:00-03:00",
       "title": "Por Você"
     },
     {
-      "desc": "Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.",
-      "start_date": "2026-10-24T20:30:00-03:00",
-      "title": "Propaganda Eleitoral"
-    },
-    {
       "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-10-24T20:40:00-03:00",
+      "start_date": "2026-10-24T20:30:00-03:00",
       "title": "Jornal Nacional"
     },
     {
-      "desc": "Candidatos à Presidência da República expõem seus planos de governo em debate.",
-      "start_date": "2026-10-24T21:30:00-03:00",
-      "title": "Eleições 2026: Debate dos Candidatos à Presidência da República - 2º Turno"
+      "desc": "Após ser demitida, Adriana tem sua casa destruída por uma enchente que também leva seu marido. Ainda sem entender como seguir, ela vai parar em um abrigo. Lá, Adriana cruza pela primeira vez com o caminho de Pedro.",
+      "start_date": "2026-10-24T21:20:00-03:00",
+      "title": "Quem Ama Cuida"
     },
     {
-      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-10-24T23:35:00-03:00",
-      "title": "Jornal da Globo"
+      "desc": "Serginho Groisman promove debates sobre temas relevantes com a participação da plateia, artistas e personalidades de diferentes áreas.",
+      "start_date": "2026-10-24T22:25:00-03:00",
+      "title": "Altas Horas"
     }
   ],
   "start_date": "2026-10-24"

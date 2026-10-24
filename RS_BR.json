@@ -1,133 +1,138 @@
 {
-  "end_date": "2026-10-23",
+  "end_date": "2026-10-24",
   "name": "Globo RBS TV POA",
   "provider": "mi.tv",
   "epg_list": [
     {
       "desc": "Rebecca visita Randall na Filadélfia; Beth está preocupada com um pedido de Deja; Kevin tem dúvidas sobre si mesmo.",
-      "start_date": "2026-10-23T00:25:00-03:00",
+      "start_date": "2026-10-24T00:25:00-03:00",
       "title": "This Is Us - Histórias de Família"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-10-23T01:15:00-03:00",
+      "start_date": "2026-10-24T01:15:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-10-23T01:55:00-03:00",
+      "start_date": "2026-10-24T01:55:00-03:00",
       "title": "Por Você"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-10-23T02:40:00-03:00",
+      "start_date": "2026-10-24T02:40:00-03:00",
       "title": "Vai que Cola"
     },
     {
       "desc": "Um médico e sua equipe têm que realizar três cirurgias muito complicadas - de um traficante, de um policial militar e de uma criança. Os três foram feridos no mesmo tiroteio em uma favela próxima ao hospital.",
-      "start_date": "2026-10-23T03:25:00-03:00",
+      "start_date": "2026-10-24T03:25:00-03:00",
       "title": "Sob Pressão"
     },
     {
+      "desc": "Mônica, Cebolinha, Magali e Cascão se esquecem de fazer o dever de casa e fogem da escola. Mas nem tudo sai como o esperado, e os pais de Mônica decidem mudá-la de colégio. Mesmo fazendo novos amigos, a turminha sente saudade de estar sempre junta. Cebolinha então resolve bolar um plano infalível com Magali e Cascão para trazer a dona da rua de volta, mesmo que para isso precise recuperar o coelhinho Sansão para a amiga.",
+      "start_date": "2026-10-24T04:45:00-03:00",
+      "title": "Turma da Mônica - Lições"
+    },
+    {
       "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
-      "start_date": "2026-10-23T06:00:00-03:00",
+      "start_date": "2026-10-24T06:00:00-03:00",
       "title": "Bom Dia Rio Grande"
     },
     {
       "desc": "A cobertura de notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.",
-      "start_date": "2026-10-23T08:30:00-03:00",
+      "start_date": "2026-10-24T08:30:00-03:00",
       "title": "Bom Dia Brasil"
     },
     {
       "desc": "O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.",
-      "start_date": "2026-10-23T09:30:00-03:00",
+      "start_date": "2026-10-24T09:30:00-03:00",
       "title": "Encontro com Patrícia Poeta"
     },
     {
       "desc": "Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.",
-      "start_date": "2026-10-23T10:35:00-03:00",
+      "start_date": "2026-10-24T10:35:00-03:00",
       "title": "Mais Você"
     },
     {
       "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-10-23T11:45:00-03:00",
+      "start_date": "2026-10-24T11:45:00-03:00",
       "title": "Jornal do Almoço"
     },
     {
       "desc": "Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.",
-      "start_date": "2026-10-23T13:00:00-03:00",
+      "start_date": "2026-10-24T13:00:00-03:00",
       "title": "Propaganda Eleitoral"
     },
     {
       "desc": "Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-10-23T13:10:00-03:00",
+      "start_date": "2026-10-24T13:10:00-03:00",
       "title": "Jornal do Almoço"
     },
     {
       "desc": "As últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.",
-      "start_date": "2026-10-23T13:20:00-03:00",
+      "start_date": "2026-10-24T13:20:00-03:00",
       "title": "Globo Esporte RS"
     },
     {
       "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
-      "start_date": "2026-10-23T13:50:00-03:00",
+      "start_date": "2026-10-24T13:50:00-03:00",
       "title": "Jornal Hoje"
     },
     {
       "desc": "Em Asa Branca, moradores vivem em função dos supostos milagres de Roque Santeiro, que teria morrido como mártir. O falso santo, porém, reaparece em carne e osso 17 anos depois, ameaçando o poder e a riqueza das autoridades locais.",
-      "start_date": "2026-10-23T15:00:00-03:00",
+      "start_date": "2026-10-24T15:00:00-03:00",
       "title": "Roque Santeiro - Edição Especial"
     },
     {
       "desc": "Uma estranha com o mesmo nome de Selminha diz ser herdeira legítima de sua fortuna. Com isso, os bens dela são congelados e sua única fonte de renda passa a ser 30 reais por dia. Ela precisa voltar às origens e sobreviver em sua nova rotina.",
-      "start_date": "2026-10-23T15:40:00-03:00",
+      "start_date": "2026-10-24T15:40:00-03:00",
       "title": "Tô Ryca! 2"
     },
     {
       "desc": "As principais notícias do dia no Rio Grande do Sul.",
-      "start_date": "2026-10-23T17:10:00-03:00",
+      "start_date": "2026-10-24T17:10:00-03:00",
       "title": "Boletim RBS Notícias"
     },
     {
       "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
-      "start_date": "2026-10-23T17:20:00-03:00",
+      "start_date": "2026-10-24T17:20:00-03:00",
       "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-10-23T18:25:00-03:00",
+      "start_date": "2026-10-24T18:25:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-10-23T19:10:00-03:00",
+      "start_date": "2026-10-24T19:10:00-03:00",
       "title": "RBS Notícias"
     },
     {
       "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-10-23T19:40:00-03:00",
+      "start_date": "2026-10-24T19:40:00-03:00",
       "title": "Por Você"
     },
     {
       "desc": "Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.",
-      "start_date": "2026-10-23T20:30:00-03:00",
+      "start_date": "2026-10-24T20:30:00-03:00",
       "title": "Propaganda Eleitoral"
     },
     {
       "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-10-23T20:40:00-03:00",
+      "start_date": "2026-10-24T20:40:00-03:00",
       "title": "Jornal Nacional"
     },
     {
       "desc": "Candidatos à Presidência da República expõem seus planos de governo em debate.",
-      "start_date": "2026-10-23T21:30:00-03:00",
+      "start_date": "2026-10-24T21:30:00-03:00",
       "title": "Eleições 2026: Debate dos Candidatos à Presidência da República - 2º Turno"
     },
     {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-10-23T23:35:00-03:00",
+      "start_date": "2026-10-24T23:35:00-03:00",
       "title": "Jornal da Globo"
     }
   ],
-  "start_date": "2026-10-23"
+  "start_date": "2026-10-24"
 }

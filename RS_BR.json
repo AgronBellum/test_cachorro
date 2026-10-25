@@ -4,29 +4,14 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "Decisão da fight do milhão masculina e feminina. Do Ginásio Mauro Pinheiro, em São Paulo, SP.",
-      "start_date": "2026-10-25T00:15:00-03:00",
-      "title": "Jungle Fight 156"
+      "desc": "Compactos, reprises e destaques da principal competição de velocidade entre monopostos do planeta.",
+      "start_date": "2026-10-25T01:25:00-03:00",
+      "title": "Fórmula 1"
     },
     {
-      "desc": "Alika aceita se casar com Jendal para proteger o filho que espera, e Pascoal informa a Jendal que Binta conseguiu fugir de Batanga com ajuda ligada aos ingleses.",
-      "start_date": "2026-10-25T01:20:00-03:00",
-      "title": "A Nobreza do Amor"
-    },
-    {
-      "desc": "Melinda vai com Clemente e Próspero assistir a um jogo entre Flamengo e Palmeiras. Guto e Kátia se beijam, e Giovana vê.",
-      "start_date": "2026-10-25T02:00:00-03:00",
-      "title": "Por Você"
-    },
-    {
-      "desc": "Um homem que não encontra rumo na vida é confundido com famoso palestrante motivacional. Ao tomar seu lugar, ele tenta achar uma razão para viver.",
-      "start_date": "2026-10-25T02:45:00-03:00",
-      "title": "O Palestrante"
-    },
-    {
-      "desc": "Evan Danielson é um executivo que está sofrendo com o declínio da sua carreira. Cada vez mais desesperado, ele resolve ouvir os conselhos da sua filha pequena, que chama o pai para o seu mundo imaginário. Com essa experiência, Evan vai começar a descobrir o caminho para resolver os seus problemas profissionais.",
-      "start_date": "2026-10-25T04:05:00-03:00",
-      "title": "Imagine Só!"
+      "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
+      "start_date": "2026-10-25T04:00:00-03:00",
+      "title": "Hora 1"
     },
     {
       "desc": "Acompanhe a celebração da santa missa em João Pessoa.",
@@ -34,94 +19,79 @@
       "title": "Santa Missa"
     },
     {
-      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
-      "start_date": "2026-10-25T06:00:00-03:00",
-      "title": "Globo Rural"
-    },
-    {
-      "desc": "As principais notícias do Brasil para começar o final de semana bem-informado.",
-      "start_date": "2026-10-25T06:50:00-03:00",
-      "title": "Bom Dia Sábado"
-    },
-    {
-      "desc": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários.",
-      "start_date": "2026-10-25T07:50:00-03:00",
-      "title": "Pequenas Empresas & Grandes Negócios"
+      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
+      "start_date": "2026-10-25T06:40:00-03:00",
+      "title": "Globo Repórter"
     },
     {
       "desc": "Um programa democrático que aborda as diversas áreas da cultura gaúcha, e também apresenta quadros de turismo, gastronomia e as informações do agronegócio.",
-      "start_date": "2026-10-25T08:30:00-03:00",
+      "start_date": "2026-10-25T07:30:00-03:00",
       "title": "Galpão Crioulo"
     },
     {
-      "desc": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa.",
-      "start_date": "2026-10-25T09:00:00-03:00",
-      "title": "É de Casa"
+      "desc": "",
+      "start_date": "2026-10-25T08:00:00-03:00",
+      "title": "Giro Jornalismo"
     },
     {
-      "desc": "As últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-10-25T11:45:00-03:00",
-      "title": "Jornal do Almoço"
+      "desc": "A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes.",
+      "start_date": "2026-10-25T08:10:00-03:00",
+      "title": "AutoEsporte"
     },
     {
-      "desc": "As últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.",
-      "start_date": "2026-10-25T13:00:00-03:00",
-      "title": "Globo Esporte RS"
+      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
+      "start_date": "2026-10-25T08:40:00-03:00",
+      "title": "Globo Rural"
     },
     {
-      "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
-      "start_date": "2026-10-25T13:25:00-03:00",
-      "title": "Jornal Hoje"
+      "desc": "",
+      "start_date": "2026-10-25T10:00:00-03:00",
+      "title": "Giro Jornalismo"
     },
     {
-      "desc": "De uma forma leve e divertida, muito entretenimento e informação a partir de personagens inspiradores em assuntos como cultura, bem-estar, lazer, música, viagem, gastronomia e sustentabilidade.",
-      "start_date": "2026-10-25T14:10:00-03:00",
-      "title": "Baita Sábado"
+      "desc": "Daniel abre a porteira de sua fazenda para receber grandes astros da música sertaneja. Juntos, eles relembram suas trajetórias, falam sobre suas inspirações e se deixam levar pelas modas de viola.",
+      "start_date": "2026-10-25T10:10:00-03:00",
+      "title": "Viver Sertanejo"
     },
     {
-      "desc": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais.",
-      "start_date": "2026-10-25T14:40:00-03:00",
-      "title": "Caldeirão com Mion"
+      "desc": "Tudo o que rolou durante a semana nos esportes e os gols pelo mundo afora. Entrevistas, reportagens sobre ciência esportiva e personagens históricos também fazem parte da atração.",
+      "start_date": "2026-10-25T11:05:00-03:00",
+      "title": "Esporte Espetacular"
     },
     {
-      "desc": "Os principais acontecimentos do Brasileirão, com notícias de clubes e atletas antes das partidas.",
-      "start_date": "2026-10-25T16:00:00-03:00",
-      "title": "Bora Pro Jogo"
+      "desc": "",
+      "start_date": "2026-10-25T12:30:00-03:00",
+      "title": "Giro Jornalismo"
     },
     {
-      "desc": "Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.",
-      "start_date": "2026-10-25T16:15:00-03:00",
-      "title": "Internacional x Botafogo"
+      "desc": "A família Spengler retorna ao icônico quartel de Nova York, onde os Caça-Fantasmas originais atuaram em seus anos de glória. Quando a descoberta de um artefato antigo desencadeia uma força maligna, novos e antigos Caça-Fantasmas precisam se unir para proteger seu lar e salvar o mundo de uma segunda era glacial.",
+      "start_date": "2026-10-25T12:40:00-03:00",
+      "title": "Ghostbusters - Apocalipse de Gelo"
     },
     {
-      "desc": "Alika aceita se casar com Jendal para proteger o filho que espera, e Pascoal informa a Jendal que Binta conseguiu fugir de Batanga com ajuda ligada aos ingleses.",
-      "start_date": "2026-10-25T18:35:00-03:00",
-      "title": "A Nobreza do Amor"
+      "desc": "No \"Em Família com Eliana\", Tadeu Schmidt, Lucy Alves e Luan Pereira em nova etapa do Show em Família.",
+      "start_date": "2026-10-25T14:30:00-03:00",
+      "title": "Em Família com Eliana"
     },
     {
-      "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-10-25T19:20:00-03:00",
-      "title": "RBS Notícias"
+      "desc": "",
+      "start_date": "2026-10-25T15:20:00-03:00",
+      "title": "Giro Jornalismo"
     },
     {
-      "desc": "Melinda vai com Clemente e Próspero assistir a um jogo entre Flamengo e Palmeiras. Guto e Kátia se beijam, e Giovana vê.",
-      "start_date": "2026-10-25T19:45:00-03:00",
-      "title": "Por Você"
+      "desc": "Todo final de semana, Luciano Huck oferece o melhor do entretenimento, com quadros divertidos e emocionantes, muita música, a presença marcante de famosos e matérias especiais pelo Brasil.",
+      "start_date": "2026-10-25T15:30:00-03:00",
+      "title": "Domingão com Huck"
     },
     {
-      "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-10-25T20:30:00-03:00",
-      "title": "Jornal Nacional"
+      "desc": "Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência.",
+      "start_date": "2026-10-25T17:00:00-03:00",
+      "title": "Fantástico"
     },
     {
-      "desc": "Nancy sonda Tiago sobre um possível acordo com Adriana na joalheria. Laurentino pede que Nancy se afaste de Tiago.",
-      "start_date": "2026-10-25T21:20:00-03:00",
-      "title": "Quem Ama Cuida"
-    },
-    {
-      "desc": "Serginho Groisman promove debates sobre temas relevantes com a participação da plateia, artistas e personalidades de diferentes áreas.",
-      "start_date": "2026-10-25T22:25:00-03:00",
-      "title": "Altas Horas"
+      "desc": "Criminosos assassinam Susan Plummer, a melhor amiga de Robert McCall e sua ex-colega de trabalho. Obcecado, Robert pensa apenas em eliminar o bando de assassinos profissionais que destruiu sua vida.",
+      "start_date": "2026-10-25T23:35:00-03:00",
+      "title": "O Protetor 2"
     }
   ],
   "start_date": "2026-10-25"

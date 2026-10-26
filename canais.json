@@ -3,7 +3,7 @@
     "total": 121,
     "success": 121,
     "categories": 8,
-    "date": "2026-10-25T17:58:38.239400Z",
+    "date": "2026-10-26T04:18:08.648798Z",
     "version": "EXTRACTOR_APP_V1"
   },
   "categorias": {
@@ -15,7 +15,7 @@
           "name": "Animal Planet",
           "categoryId": "documentarios",
           "categoryName": "Documentarios",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/bc52ae8e8dd55518ea236473a4716a2a/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/d89190105e629ea6c71ce5a8b501a793/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -27,7 +27,7 @@
           "name": "Discovery Channel",
           "categoryId": "documentarios",
           "categoryName": "Documentarios",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/97960d32082697c4be8a224d3c8704c0/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/bb69ee763996e0342a5293df500c282d/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -39,7 +39,7 @@
           "name": "Discovery H&H",
           "categoryId": "documentarios",
           "categoryName": "Documentarios",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/fe66770e90433fd638d312a59d926d08/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/5f5f9be698e68579e852d4c9ca2f2f3a/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -51,7 +51,7 @@
           "name": "Discovery ID",
           "categoryId": "documentarios",
           "categoryName": "Documentarios",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/3fe48bab009d6968c5d738ed5cf447a8/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/dd3304519932ab73cdd25ddea9cd2ec1/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -63,7 +63,7 @@
           "name": "Discovery Science",
           "categoryId": "documentarios",
           "categoryName": "Documentarios",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/40262713683c780b23678d17e606c7cc/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/a80bb86ff08177bd6a797039e7ad1a18/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -75,7 +75,7 @@
           "name": "Discovery Theater",
           "categoryId": "documentarios",
           "categoryName": "Documentarios",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/4f6c207c16b9d3b4920ad130e6266e17/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/c3e4253a1ce8bfdbf7b2de5553800642/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -87,7 +87,7 @@
           "name": "Discovery Turbo",
           "categoryId": "documentarios",
           "categoryName": "Documentarios",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/35d0eb3c384d4af39ce873c9e194a055/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/edce76bad4cb6a54ce15fbb5c05e6f1c/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -99,7 +99,7 @@
           "name": "Discovery World",
           "categoryId": "documentarios",
           "categoryName": "Documentarios",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/53c1b5e890419d83c97de703b6506745/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/bb0819cc7c4a522b50a8c8e6fe2c3c94/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -111,7 +111,7 @@
           "name": "History",
           "categoryId": "documentarios",
           "categoryName": "Documentarios",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/a0a046bfd48450d334b0531cee32b4dc/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/67a41f41251d5584f4f78a34d12c0766/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -123,7 +123,7 @@
           "name": "History 2",
           "categoryId": "documentarios",
           "categoryName": "Documentarios",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/2837bda4ff5fd31719d23a81521dbc96/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/8c395ac170ee6ed369d408c3437bde16/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -140,7 +140,7 @@
           "name": "AE",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/b1488defaf8d9297d8e78f1a6ad912b5/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/bf9d59ff690f139553292d8a8f5039b0/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -152,7 +152,7 @@
           "name": "AMC",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/822ffd375b37564749f2e0f408ff802d/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/8a3367d736ddb77d8bd8eedc4b9ef1ab/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -164,7 +164,7 @@
           "name": "AXN",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/43d5fcd6d9aee7a185f9f9b3fb3fffc9/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/1c2e6250482f38494d5684e1405b9734/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -176,7 +176,7 @@
           "name": "Adult Swim",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/d15104b46903cc7ff2fe07c76b12ddb4/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/10298565b78428fe20b6784ad7f1c116/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -188,7 +188,7 @@
           "name": "Cinemax",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/82e1605d0204e4a0b0dd6f15bdfeacb0/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/e3c8b1b3b986650bab2dc795ac6c71c7/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -200,7 +200,7 @@
           "name": "GNT",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/2ff6705303c30084c3fd7a946729a4ca/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/430a45e6bda4b403ab610a24a07d9765/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -212,7 +212,7 @@
           "name": "HBO",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/31923f641ba541f97029ff65f46aeee7/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/20aff958d31d8dc651d55ceb9f410d50/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -224,7 +224,7 @@
           "name": "HBO 2",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/0a6e919f5aba1ef2981d79dc00fce94a/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/0388b7bf5b337ca470a3a1baa857df82/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -236,7 +236,7 @@
           "name": "HBO Family",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/51c7dbd426793052af6505de50b65a74/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/beefb6151d5b34f06dc49dc2535f2273/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -248,7 +248,7 @@
           "name": "HBO Mundi",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/0350ac05c3d15f9b2890bd09be9427e1/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/d759cfb2d066d53bbb498b577562fc19/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -260,7 +260,7 @@
           "name": "HBO POP",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/d732cff948801ce4b4a5fc8fd1c61100/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/ac8b9be4bcea3f01ffe10ad79b29090f/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -272,7 +272,7 @@
           "name": "HBO Plus",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/b1234f3c21a20c658e0962d971aebf46/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/c79301f38189dae280e5cb54daadc784/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -284,7 +284,7 @@
           "name": "HBO Xtreme",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/727c26264cc7bfb597e4296606a634c8/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/cf87e1772fd2d3b925a70840820292eb/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -296,7 +296,7 @@
           "name": "HGTV",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/bedb332895a77972ea5a93d736ce26af/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/67de5f35013a676364a7e5e8c3444c46/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -308,7 +308,7 @@
           "name": "Megapix",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/3dc63e8de211db0c675af9ca3ee176b1/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/144c4a229c1462061451d32276bc2de1/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -320,7 +320,7 @@
           "name": "OFF",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/b77a9698ebe7e4fab5d44a94fde28952/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/406c9ba0fcc2b408463573f6b14229e3/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -332,7 +332,7 @@
           "name": "Sony Channel",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/0d36c06ee2133559306e9c3eaa0421fc/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/d81ec5f93eeca4d258fb772f3fc220b9/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -344,7 +344,7 @@
           "name": "Space",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/602709776855f954aa22be7359119232/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/10c118f30ae944e4fc64ef679c0b6f06/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -356,7 +356,7 @@
           "name": "Star Channel",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/bb148be9940256f987c0b057a20a7874/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/865d566832110f87f3b1d3797ec82339/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -368,7 +368,7 @@
           "name": "Studio Universal",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/9e63879359760631233352d5f1ce7ef6/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/40aeb85cfdbcf285bd1acbc85b9d34b7/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -380,7 +380,7 @@
           "name": "TCM",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/943a3a6a0e5270fa9f0789a8c6da8f7a/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/abcb245d78fae595941b76041b430b62/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -392,7 +392,7 @@
           "name": "TLC",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/724b8b4d6ad7390a28d1cf8653f37322/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/b9ba6e3e1b524bc3ea06b19c98a68404/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -404,7 +404,7 @@
           "name": "TNT",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/1f2f029f081330ee0134b00ff4fa3c59/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/08c1e733d043aa30e0783885a7aa5090/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -416,7 +416,7 @@
           "name": "TNT Novelas",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/f1543f9295315926630f28b2e97aed3d/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/9a3d04c088849e810fd5d0ea26ac81ea/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -428,7 +428,7 @@
           "name": "TNT Series",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/87af2167e6eded54a9b13dd34cda2ad7/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/183cb8089eecb64bacbfb4de09845823/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -440,7 +440,7 @@
           "name": "Telecine Action",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/ab950174a703c9add43912cede888bee/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/a20257e0452bc804ea0f7a9c8cf746ab/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -452,7 +452,7 @@
           "name": "Telecine Cult",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/f8946e46c46881eaeed45383029fabe3/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/2d93a6f897919533858a7378142c2f57/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -464,7 +464,7 @@
           "name": "Telecine Fun",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/075c1f497d8cc338c41844cf48cbfba2/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/5b8d9b2f3cf90ff346afb44db3fd0f70/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -476,7 +476,7 @@
           "name": "Telecine Pipoca",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/4df8901488c60dbe6be4f69f12454c63/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/96d9e1998f857ca7fc8fcb0b4359dbc2/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -488,7 +488,7 @@
           "name": "Telecine Premium",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/089d5dab59003583181f11c38181dc40/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/0a2be1e3f7778d9ddf6b0bb409c4a38e/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -500,7 +500,7 @@
           "name": "Telecine Touch",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/362068959e3184c45481177485365a51/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/3dd3c1189a0c3b3614f3b233938b24be/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -512,7 +512,7 @@
           "name": "Universal",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/2bf37faa5766e22c518489011873b2ec/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/2e0280da67b7cec3e3058f19833819df/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -524,7 +524,7 @@
           "name": "Warnerchannel",
           "categoryId": "filmes_series",
           "categoryName": "Filmes e Series",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/155865abc26ee743f825dd0129e791bd/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/28ec6b28dbb35580d68bfd42fc24357c/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -541,7 +541,7 @@
           "name": "Aparecida",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Noticias",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/5f816ee0544fe692e4f9e492194b2e72/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/292020c6482571bceab3baccaeeac44e/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -553,7 +553,7 @@
           "name": "Band News",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Noticias",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/8881cfc0de9802a961a57ff058034758/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/d7092141215ae7f660ec6c399f8217a0/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -565,7 +565,7 @@
           "name": "Band RJ",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Noticias",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/074622d303ea6da9de627cbb11d0ba84/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/41431d1beb83018ef5e041f4abf62942/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -577,7 +577,7 @@
           "name": "Band SP",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Noticias",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/facd7564bafedbfe40c54a4469bff1c8/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/4a268153bb73c0e387843c66473b89d1/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -589,7 +589,7 @@
           "name": "CNN Brasil",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Noticias",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/61b6207558fa05f3a2e58115e73239ca/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/1c8566ce46b7ba587466308132a0d384/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -601,7 +601,7 @@
           "name": "Cancao Nova",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Noticias",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/610b68d424ae374e710d7c1b974b438c/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/27bc5563951f9983d7f6af4b4bf7da68/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -613,7 +613,7 @@
           "name": "Cultura",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Noticias",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/17b947d23afaf0c0d2d71e0f0828a86d/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/81405221b0c825709886a396e9127c4d/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -625,7 +625,7 @@
           "name": "Globo AM",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Noticias",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/5b4de57fd84e5fad253879110a91dd33/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/50134784e2758d1472f3200a026297b3/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -637,7 +637,7 @@
           "name": "Globo CE",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Noticias",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/e01983919ddbdf0530bf061c01dae2e0/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/75412963fd61b27ad2d6610a4a3cb123/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -649,7 +649,7 @@
           "name": "Globo ES",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Noticias",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/b5a487cc1aff8f8dc08725fc8bf04f4a/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/a9b621083910d76fb27dee699ec3b5cf/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -661,7 +661,7 @@
           "name": "Globo MG",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Noticias",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/a87e5105d5a9f1a4dacf268af9794af1/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/1ddc48cae387fc68b976776ea7a1550b/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -673,7 +673,7 @@
           "name": "Globo News",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Noticias",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/61333d315c8d9ea354d5d088ead69f35/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/32e7870f428bdf9dfad374a6d493cc0b/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -685,7 +685,7 @@
           "name": "Globo PB",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Noticias",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/80c713fc4fcbe24c002469857f182ab5/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/2d0f5a4a6aaff81abd64960c22af6e9d/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -697,7 +697,7 @@
           "name": "Globo PE",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Noticias",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/8dd3190e2d1d4b2295718de732e5a9cd/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/e9aeb066dad03466b51910db9927dc67/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -709,7 +709,7 @@
           "name": "Globo RJ",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Noticias",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/9f85a877b522399544c543114f0dcb39/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/0a1eb642b6f6a4fda56adb1a4a6e02a0/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -721,7 +721,7 @@
           "name": "Globo RS",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Noticias",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/d28b39e43d3936b6fbce7708706f4844/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/92ff81917fb631a9d97ad15d0b77839d/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -733,7 +733,7 @@
           "name": "Globo SP",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Noticias",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/30c9eae3b4ff4c0c688ff7d9f29e881c/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/369ae4b11f19c70360fd81641d5a66d2/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -745,7 +745,7 @@
           "name": "Globo Novelas",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Noticias",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/98740beb05484cbd3b4940ccfdb4e75e/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/c362cb7136453096e679870dd2b99121/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -757,7 +757,7 @@
           "name": "MTV",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Noticias",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/5a48e625cb3e255a8f174bb399e8f4aa/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/2be5316d3710d41aab13c5ade06170d9/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -769,7 +769,7 @@
           "name": "Multishow",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Noticias",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/80928cb63724a834c1b2af1a169c3337/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/c62848e245f99c2a14aba59649b9a424/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -781,7 +781,7 @@
           "name": "Record MG",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Noticias",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/3b4888e569687f76c18509c94e692c4c/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/f2c9a94685667e8fa7cef09f0d349a0c/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -793,7 +793,7 @@
           "name": "Record RJ",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Noticias",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/3313d51e15b1ec1b688732ab3252487e/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/ad868a1e4a0ea810ea27fe90709ee408/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -805,7 +805,7 @@
           "name": "Record SP",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Noticias",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/aa80860e36e22c0269074dbe528d2f6b/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/2c7873203f8967633485bb13f49a8929/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -817,7 +817,7 @@
           "name": "SBT RJ",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Noticias",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/0aa7acc0ba3a4ce4a99b3d80bed8be37/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/c4a71af23d98e2bd0db55e3532216f9b/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -829,7 +829,7 @@
           "name": "SBT SP",
           "categoryId": "aberta",
           "categoryName": "TV Aberta e Noticias",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/50830e9e140a2e11156fd2bff7eb7232/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/6b413295f95fdd1dc348d23bef2a6bfa/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -846,7 +846,7 @@
           "name": "Band Sports",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/d7e5ead84a773d18bba25ba26299998f/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/2f2507b00db7dcba4c6b9320dffb26fa/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -858,7 +858,7 @@
           "name": "CazeTV 1",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/a20326882a455da10b33ffe263be9004/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/0dba81a61f228a72783ee7d0d1d021b7/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -870,7 +870,7 @@
           "name": "CazeTV 2",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/1c962f5ed934cd3937dea942c166045c/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/7a81dd41a10c29cfbbba3c0f3ec6d47c/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -882,7 +882,7 @@
           "name": "CazeTV 3",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/5fda37ca0560ca5ce0d595f061ff270d/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/2e9af83e7b527eb98a6d852fc0a24e88/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -894,7 +894,7 @@
           "name": "Combate",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/1489e776120cf6b1304a991b4615037b/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/9d8ae28b42c73cd4e101284fdc403583/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -906,7 +906,7 @@
           "name": "Disney Plus 1",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/0ca460e8319ab4e93ef62bace2812771/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/003ec967a19f65181f4f2a5095bec713/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -918,7 +918,7 @@
           "name": "Disney Plus 2",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/ef26e730b0c53b58c10c0fce99d0ee18/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/c8ec0edda0a024e4e77f32fd950f7ff5/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -930,7 +930,7 @@
           "name": "Disney Plus 3",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/f1dc449b70895899b7d09a4a7971cbd5/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/075604bcdf5c2791cfd6865aa89a3787/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -942,7 +942,7 @@
           "name": "Espn",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/7613ec677882609068f5fa823ebcd837/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/c4366aa74f23ad77e22f8535fcb0b799/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -954,7 +954,7 @@
           "name": "Espn 2",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/928efb6b54a41cac7096c060dd084298/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/e59968dd6394d378932597a26bae63d8/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -966,7 +966,7 @@
           "name": "Espn 3",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/4bbf79e7e2fe8dc716e464ca3eff74b8/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/4b94e300aa30d5789ea5a6d45ff85978/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -978,7 +978,7 @@
           "name": "Espn 4",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/8e9e40d3ad4eb789242b3aa046bcce13/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/7ce3eefaec28fec76b67c5f3598767b3/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -990,7 +990,7 @@
           "name": "Espn 5",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/c713554d7d84c927481601a8329ca446/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/3f25cd90f2fd77e6f9d500efabea72eb/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1002,7 +1002,7 @@
           "name": "Espn 6",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/58d7ea577d77b8219a4835ca23eec014/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/ceb460ed4e67da964bceadc18798c45d/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1014,7 +1014,7 @@
           "name": "Max - 1",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/65829886bc52b036174d0dddf0b7fb06/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/4fa8cc946458ab433608d8597de90e23/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1026,7 +1026,7 @@
           "name": "Max - 2",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/3eb784b29f10aa1eb0af10c005975dc4/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/bf3848baf90a20f6388bab3ddc1e7d26/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1038,7 +1038,7 @@
           "name": "Max - 3",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/0804a58bedf92f564dd864a4b9354353/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/0286c7e05650523d39fb69f64b43b06c/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1050,7 +1050,7 @@
           "name": "Paramount Plus",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/f2b1f670cb653da833b9b4ea5647816b/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/bfe46a1fb91335ebef4a50d0f346f8e0/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1062,7 +1062,7 @@
           "name": "Paramount Plus 2",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/997cc0eadf12b771ff5cc55672a77101/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/adb3f88c94c6d7c10c4bf7c29588fc81/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1074,7 +1074,7 @@
           "name": "Premiere 1",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/1737ce7009a7f84559f98a29737a224e/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/5824d977a95d546d682eb502cd88f1fd/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1086,7 +1086,7 @@
           "name": "Premiere 2",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/40796985a11f1255c3d1de1975cd2037/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/65f72b569a7d81ad7b0ee367b95ef1b0/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1098,7 +1098,7 @@
           "name": "Premiere 3",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/6b552271059af952cc6dc5ba4a713224/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/a8b9795118763ef6101e5c8103dca429/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1110,7 +1110,7 @@
           "name": "Premiere 4",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/dc8cff3f34aa4b64b1a6d11bb4ffafa4/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/e0d7601537b2a06e040af724b51d0966/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1122,7 +1122,7 @@
           "name": "Premiere 5",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/d7c52694ac883d847b66c236b7714fe5/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/a04a8a24af536b551dc199701baa3a74/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1134,7 +1134,7 @@
           "name": "Premiere 6",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/1ba3b81264e07ded330fb0d295d8866d/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/b996edb20eeeba1d703b0ea7881c1501/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1146,7 +1146,7 @@
           "name": "Premiere 7",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/1b1b7de0c8e9e4f95addfd1146abc91a/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/4f91826e8459bd2c011283d307fc12db/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1158,7 +1158,7 @@
           "name": "Premiere 8",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/aa120d4e569f70c5c351f59f6171a91c/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/2c1e3a89cce43960143b89e36f3d150e/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1170,7 +1170,7 @@
           "name": "Prime Video",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/47113e733ad47b6f1487fb51afeac9fb/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/880c71e6e92cfbeb55fa25f199ce54e8/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1182,7 +1182,7 @@
           "name": "Prime Video 2",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/be364b8e0015d4e19b90b87b026adb66/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/34442a9d0b40c6117ce7077d585d143c/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1194,7 +1194,7 @@
           "name": "Sportv",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/2b1af4e1af447fdcc9f11db59ecceff8/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/59b8d4884b0c586ecf6084c50657ac79/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1206,7 +1206,7 @@
           "name": "Sportv 2",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/d55c7068587aa4268b2cc25aba985540/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/3dd5a9c0fd7ee924916db2680416038b/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1218,7 +1218,7 @@
           "name": "Sportv 3",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/c5edb4594da00d99cd7a9d465ec57355/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/c468951bcada1e065eeaf5b2ec1ee34a/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1230,7 +1230,7 @@
           "name": "Sportv 4",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/09c179c389ab4467751c19371489d89b/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/dd501169d8c8d464979b853ce4ef09bb/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1242,7 +1242,7 @@
           "name": "UFC Fight Pass",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/19302025a09c583bd8f0858bde9185f5/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/41c5ef2616d4fa5e6b90c64a21d1d74e/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1254,7 +1254,7 @@
           "name": "XSports",
           "categoryId": "esportes",
           "categoryName": "Esportes",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/a46d7dc12be878a066d05f26f6c459d2/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/e17a65dabab31ff91bf01a58e178939e/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1271,7 +1271,7 @@
           "name": "24H Chaves",
           "categoryId": "desenhos",
           "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/25e451614db05ddc9a7d2351790d07bf/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/6686ed384a71f20bbd79164c5c8233fc/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1283,7 +1283,7 @@
           "name": "24H Dragon Ball Z",
           "categoryId": "desenhos",
           "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/e693d5bbd8b9858788a318ac3498efc4/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/65c0d8c0a48ed57b0d343e4c265a0eac/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1295,7 +1295,7 @@
           "name": "24H Naruto Classico",
           "categoryId": "desenhos",
           "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/0f19fa10f204ff6fb02d0a0bdb84b97f/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/62cf9328aa18b983e6553838c5084726/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1307,7 +1307,7 @@
           "name": "24H Os Simpsons",
           "categoryId": "desenhos",
           "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/c849b156d1c6b8472c70d3b128bc45dc/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/d0a61f94c915517cca4c2f5375ba7e70/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1319,7 +1319,7 @@
           "name": "24H Todo Mundo Odeia o Cris",
           "categoryId": "desenhos",
           "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/bdc2159aa3a904044743778e7bd880ee/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/397970d1cb84a8ac2c40e6960cf46f37/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1331,7 +1331,7 @@
           "name": "Cartoonito",
           "categoryId": "desenhos",
           "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/e351136e3278e33ebf7f815d9dead35b/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/165161b9f180916b9116f1c3333d2e13/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1343,7 +1343,7 @@
           "name": "Cartoon Network",
           "categoryId": "desenhos",
           "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/13698074ed1e6c702a177928cd01d368/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/ec2ba184eb1e709726f1380e9641bd01/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1355,7 +1355,7 @@
           "name": "Discovery Kids",
           "categoryId": "desenhos",
           "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/32293f9bbdf8230d95162a82a0c96ec2/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/6121e04abf244660c3b36f6ed82d70a1/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1367,7 +1367,7 @@
           "name": "Gloob",
           "categoryId": "desenhos",
           "categoryName": "Desenhos e Infantil",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/8a373086d6cf8c129713d9a7c6497ef6/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/10b6f7be137bde2058c1320ca7058694/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1384,7 +1384,7 @@
           "name": "Play Boy",
           "categoryId": "adulto",
           "categoryName": "Adulto",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/62dc2829c1a99def64faafdc9fb7dc5c/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/a99b58557d185a044ad3efeb21623eb6/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1396,7 +1396,7 @@
           "name": "Sexy Hot",
           "categoryId": "adulto",
           "categoryName": "Adulto",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/ff6547e4b044ad2a4c369e47f73944bc/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/1221df62d68d050f8df422df13c37870/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1413,7 +1413,7 @@
           "name": "Food Network",
           "categoryId": "food",
           "categoryName": "Receitas e Culinaria",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/f432ce6375a07d3ff1b9d55e5ed5f1a7/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/3495ae58cd1cf765917b55402aaa4828/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1425,7 +1425,7 @@
           "name": "Master chef",
           "categoryId": "food",
           "categoryName": "Receitas e Culinaria",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/182941ac796bfe97e5ab0c34d264c620/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/157b17be6a69d458324fc5a350411a33/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1442,7 +1442,7 @@
           "name": "A Casa do Patrao - 1",
           "categoryId": "acasadopatrao",
           "categoryName": "A Casa do Patrao",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/2a7a48d0fef1d0456f25a7b53138b56f/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/839756f978904c7abca3834355c151df/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1454,7 +1454,7 @@
           "name": "A Casa do Patrao - 2",
           "categoryId": "acasadopatrao",
           "categoryName": "A Casa do Patrao",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/1e632e6dcb42f2a87e3e1771af40aff0/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/137a7fe1fb210372c6b1d01dd7451069/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1466,7 +1466,7 @@
           "name": "A Casa do Patrao - 3",
           "categoryId": "acasadopatrao",
           "categoryName": "A Casa do Patrao",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/c36ec5daaa46c614eedae386da6f11c1/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/ad8346e205c0d6c54ffc95f6fd8ca88a/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1478,7 +1478,7 @@
           "name": "A Casa do Patrao - 4",
           "categoryId": "acasadopatrao",
           "categoryName": "A Casa do Patrao",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/3ec8ea233ab997f7eb90a73b9d03f695/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/b23592047bb0798e95623bd080983191/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"
@@ -1490,7 +1490,7 @@
           "name": "A Casa do Patrao - 5",
           "categoryId": "acasadopatrao",
           "categoryName": "A Casa do Patrao",
-          "m3u8_url": "https://stream.mgfiles.lat/stream/306132f38ce69340be21e89dd7468aac/error.m3u8",
+          "m3u8_url": "https://stream.mgfiles.lat/stream/670f4d48ac8d351984347d1a8b10fb9a/error.m3u8",
           "headers": {
             "referer": "https://megafrixapi.com/",
             "origin": "https://megafrixapi.com"

@@ -5,18 +5,23 @@
   "epg_list": [
     {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-10-27T01:05:00-03:00",
+      "start_date": "2026-10-27T00:25:00-03:00",
       "title": "Jornal da Globo"
     },
     {
       "desc": "Alika aceita se casar com Jendal para proteger o filho que espera, e Pascoal informa a Jendal que Binta conseguiu fugir de Batanga com ajuda ligada aos ingleses.",
-      "start_date": "2026-10-27T01:55:00-03:00",
+      "start_date": "2026-10-27T01:15:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Melinda vai com Clemente e Próspero assistir a um jogo entre Flamengo e Palmeiras. Guto e Kátia se beijam, e Giovana vê.",
-      "start_date": "2026-10-27T02:35:00-03:00",
+      "start_date": "2026-10-27T01:55:00-03:00",
       "title": "Por Você"
+    },
+    {
+      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "start_date": "2026-10-27T02:40:00-03:00",
+      "title": "Vai que Cola"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
@@ -35,7 +40,7 @@
     },
     {
       "desc": "A cobertura de notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.",
-      "start_date": "2026-10-27T08:20:00-03:00",
+      "start_date": "2026-10-27T08:30:00-03:00",
       "title": "Bom Dia Brasil"
     },
     {
@@ -69,9 +74,9 @@
       "title": "Roque Santeiro - Edição Especial"
     },
     {
-      "desc": "Daikichi, um jovem solteiro de 27 anos, retorna para a casa de sua família para o funeral de seu avô. Lá, ele descobre que o homem teve uma filha fora do casamento, uma garota de seis anos. O resto de sua família vê a menina como um problema e pensa em enviá-la para a adoção, mas Daikichi decide assumir a responsabilidade de criá-la.",
+      "desc": "Madame Mallory é conhecida por sua habilidade na cozinha. Dona de um restaurante famoso no sul da França, se vê ameaçada quando um concorrente indiano abre as portas do outro lado da rua. Na gerência, uma família que fugiu da violência política de seu país. Eles vivem uma verdadeira guerra até que Madame Mallory conhece melhor o filho de seu adversário. Admirada pelo talento culinário do garoto, ela começa a ensiná-lo sobre a gastronomia francesa, sem que ele abandone a tradição indiana.",
       "start_date": "2026-10-27T15:30:00-03:00",
-      "title": "Bunny Drop - Surpresas da Vida"
+      "title": "A 100 Passos de um Sonho"
     },
     {
       "desc": "As principais notícias do dia no Rio Grande do Sul.",
@@ -80,7 +85,7 @@
     },
     {
       "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
-      "start_date": "2026-10-27T17:25:00-03:00",
+      "start_date": "2026-10-27T17:20:00-03:00",
       "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
@@ -109,9 +114,14 @@
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "Elisabeth Sparkle, renomada por um programa de aeróbica, enfrenta um golpe devastador quando seu chefe a demite. Em meio ao seu desespero, um laboratório lhe oferece uma substância que promete transformá-la em uma versão aprimorada.",
+      "desc": "A versão brasileira do programa \"Next Level Chef\", de Gordon Ramsay, seleciona participantes entre chefs profissionais, amadores e da internet, que se dividem e realizam diversas provas, mostrando habilidades e enfrentando desafios.",
       "start_date": "2026-10-27T22:40:00-03:00",
-      "title": "A Substância"
+      "title": "Chef de Alto Nível"
+    },
+    {
+      "desc": "Em Juazeiro do Norte, Paulo desvenda a canonização de Padre Cícero, encontra mestre Espedito Seleiro, resgata a história da Beata Maria e se diverte com figuras locais.",
+      "start_date": "2026-10-27T23:35:00-03:00",
+      "title": "Avisa Lá que Eu Vou"
     }
   ],
   "start_date": "2026-10-27"

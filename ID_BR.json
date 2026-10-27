@@ -1,127 +1,12 @@
 {
-  "end_date": "2026-10-28",
+  "end_date": "2026-10-29",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
     {
       "desc": "",
-      "start_date": "2026-10-26T00:05:00-03:00",
-      "title": "Desesperados pela Verdade"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-26T00:49:00-03:00",
-      "title": "Seu Pior Pesadelo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-26T01:33:00-03:00",
-      "title": "Mentiras Criminosas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-26T02:17:00-03:00",
-      "title": "People Magazine - Além da Notícia"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-26T03:01:00-03:00",
-      "title": "Assassinato de uma Sexta à Noite"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-26T03:45:00-03:00",
-      "title": "Ainda um Mistério"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-26T04:29:00-03:00",
-      "title": "Câmera Crime"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-26T05:13:00-03:00",
-      "title": "Sinais de um Psicopata"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-26T05:14:00-03:00",
-      "title": "Sinais de um Psicopata"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-26T06:25:00-03:00",
-      "title": "DNA Criminoso"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-26T07:53:00-03:00",
-      "title": "Vivendo com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-26T09:21:00-03:00",
-      "title": "Vidas Destruídas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-26T10:49:00-03:00",
-      "title": "Emboscada"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-26T12:17:00-03:00",
-      "title": "Diabólicos - A Face Oculta do Amor"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-26T13:45:00-03:00",
-      "title": "Casados com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-26T15:57:00-03:00",
-      "title": "Garotas Malvadas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-26T18:09:00-03:00",
-      "title": "Olhos Da Lei"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-26T18:57:00-03:00",
-      "title": "Crimes que Viralizaram"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-26T20:25:00-03:00",
-      "title": "Impacto de um Crime"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-26T21:09:00-03:00",
-      "title": "Vivendo com o Inimigo - Criando um Assassino"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-26T21:53:00-03:00",
-      "title": "Corpos na Água"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-26T22:37:00-03:00",
-      "title": "Assassinato de uma Sexta à Noite"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-26T23:21:00-03:00",
-      "title": "Sinais de um Psicopata"
-    },
-    {
-      "desc": "",
       "start_date": "2026-10-27T00:05:00-03:00",
-      "title": "Desesperados pela Verdade"
+      "title": "Na Mira dos Sequestradores"
     },
     {
       "desc": "",
@@ -160,7 +45,7 @@
     },
     {
       "desc": "",
-      "start_date": "2026-10-27T05:14:00-03:00",
+      "start_date": "2026-10-27T05:13:00-03:00",
       "title": "Sinais de um Psicopata"
     },
     {
@@ -191,12 +76,12 @@
     {
       "desc": "",
       "start_date": "2026-10-27T13:45:00-03:00",
-      "title": "Casados com o Inimigo"
+      "title": "Segredos Bem Casados"
     },
     {
       "desc": "",
       "start_date": "2026-10-27T15:57:00-03:00",
-      "title": "Garotas Malvadas"
+      "title": "People Magazine: Por Dentro das Seitas"
     },
     {
       "desc": "",
@@ -211,28 +96,143 @@
     {
       "desc": "",
       "start_date": "2026-10-27T20:25:00-03:00",
-      "title": "Impacto de um Crime"
+      "title": "Crime em Tempo Real"
     },
     {
       "desc": "",
       "start_date": "2026-10-27T21:09:00-03:00",
-      "title": "Vivendo com o Inimigo - Criando um Assassino"
+      "title": "Policial Bom, Policial Mau"
     },
     {
       "desc": "",
       "start_date": "2026-10-27T21:53:00-03:00",
-      "title": "Corpos na Água"
+      "title": "Pelados e Condenados"
     },
     {
       "desc": "",
       "start_date": "2026-10-27T22:37:00-03:00",
-      "title": "Assassinato de uma Sexta à Noite"
+      "title": "Bodycam - Registros Criminosos"
     },
     {
       "desc": "",
       "start_date": "2026-10-27T23:21:00-03:00",
+      "title": "Fúria no Trânsito"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-10-28T00:05:00-03:00",
+      "title": "Na Mira dos Sequestradores"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-10-28T00:49:00-03:00",
+      "title": "Seu Pior Pesadelo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-10-28T01:33:00-03:00",
+      "title": "Mentiras Criminosas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-10-28T02:17:00-03:00",
+      "title": "People Magazine - Além da Notícia"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-10-28T03:01:00-03:00",
+      "title": "Assassinato de uma Sexta à Noite"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-10-28T03:45:00-03:00",
+      "title": "Ainda um Mistério"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-10-28T04:29:00-03:00",
+      "title": "Câmera Crime"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-10-28T05:13:00-03:00",
       "title": "Sinais de um Psicopata"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-10-28T05:13:00-03:00",
+      "title": "Sinais de um Psicopata"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-10-28T06:25:00-03:00",
+      "title": "DNA Criminoso"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-10-28T07:53:00-03:00",
+      "title": "Vivendo com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-10-28T09:21:00-03:00",
+      "title": "Vidas Destruídas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-10-28T10:49:00-03:00",
+      "title": "Emboscada"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-10-28T12:17:00-03:00",
+      "title": "Diabólicos - A Face Oculta do Amor"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-10-28T13:45:00-03:00",
+      "title": "Segredos Bem Casados"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-10-28T15:57:00-03:00",
+      "title": "People Magazine: Por Dentro das Seitas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-10-28T18:09:00-03:00",
+      "title": "Olhos Da Lei"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-10-28T18:57:00-03:00",
+      "title": "Crimes que Viralizaram"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-10-28T20:25:00-03:00",
+      "title": "Crime em Tempo Real"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-10-28T21:09:00-03:00",
+      "title": "Policial Bom, Policial Mau"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-10-28T21:53:00-03:00",
+      "title": "Pelados e Condenados"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-10-28T22:37:00-03:00",
+      "title": "Bodycam - Registros Criminosos"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-10-28T23:21:00-03:00",
+      "title": "Fúria no Trânsito"
     }
   ],
-  "start_date": "2026-10-26"
+  "start_date": "2026-10-27"
 }

@@ -4,24 +4,34 @@
   "provider": "mi.tv",
   "epg_list": [
     {
+      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
+      "start_date": "2026-10-29T00:20:00-03:00",
+      "title": "Jornal da Globo"
+    },
+    {
+      "desc": "Destaques das principais rodadas da maior liga de futebol americano do mundo.",
+      "start_date": "2026-10-29T01:10:00-03:00",
+      "title": "Radar NFL"
+    },
+    {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-10-29T00:35:00-03:00",
+      "start_date": "2026-10-29T01:15:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
-      "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-10-29T01:10:00-03:00",
+      "desc": "Vanessa orienta Zé a pegar o celular de Junqueira e apagar todos os dados. Sílvia e Margô conversam sobre seus interesses amorosos e Kátia demonstra interesse em Guto, e Giovana seduz o segurança.",
+      "start_date": "2026-10-29T01:55:00-03:00",
       "title": "Por Você"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-10-29T01:50:00-03:00",
+      "start_date": "2026-10-29T02:40:00-03:00",
       "title": "Vai que Cola"
     },
     {
-      "desc": "Alice sofre um colapso nervoso de tanto trabalhar e se interna em um spa para se livrar do estresse. Porém, o momento não poderia ser mais inoportuno, pois a rede de sex shop está para abrir sua primeira loja no exterior e Alice vai tentar de tudo para voltar ao trabalho e salvar seu casamento.",
-      "start_date": "2026-10-29T02:35:00-03:00",
-      "title": "De Pernas pro Ar 2"
+      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "start_date": "2026-10-29T03:20:00-03:00",
+      "title": "Vai que Cola"
     },
     {
       "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
@@ -69,59 +79,54 @@
       "title": "Roque Santeiro - Edição Especial"
     },
     {
-      "desc": "Os colegas de trabalho Alexandre, Lima, Rocha, Diguinho e suas famílias são presenteados pela empresa com uma viagem para a Bahia. No entanto, problemas e imprevistos podem levar por água abaixo essa viagem dos sonhos.",
-      "start_date": "2026-10-29T15:25:00-03:00",
-      "title": "Os Farofeiros 2"
+      "desc": "A jornada de cinco adolescentes que devem buscar algo extraordinário quando eles tomam consciência de que a sua pequena cidade Angel Grove - e o mundo - estão à beira de sofrer um ataque alienígena. Escolhidos pelo destino, eles irão descobrir que são os únicos que poderão salvar o planeta. Mas para isso, eles devem superar seus problemas pessoais e juntarem suas forças, antes que seja tarde demais.",
+      "start_date": "2026-10-29T15:30:00-03:00",
+      "title": "Power Rangers"
     },
     {
       "desc": "As principais notícias do dia no Rio Grande do Sul.",
-      "start_date": "2026-10-29T16:55:00-03:00",
+      "start_date": "2026-10-29T17:05:00-03:00",
       "title": "Boletim RBS Notícias"
     },
     {
       "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
-      "start_date": "2026-10-29T17:05:00-03:00",
+      "start_date": "2026-10-29T17:15:00-03:00",
       "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
       "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-10-29T18:05:00-03:00",
+      "start_date": "2026-10-29T18:25:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-10-29T18:45:00-03:00",
+      "start_date": "2026-10-29T19:10:00-03:00",
       "title": "RBS Notícias"
     },
     {
-      "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-10-29T19:15:00-03:00",
+      "desc": "Vanessa orienta Zé a pegar o celular de Junqueira e apagar todos os dados. Sílvia e Margô conversam sobre seus interesses amorosos e Kátia demonstra interesse em Guto, e Giovana seduz o segurança.",
+      "start_date": "2026-10-29T19:40:00-03:00",
       "title": "Por Você"
     },
     {
       "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-10-29T20:00:00-03:00",
+      "start_date": "2026-10-29T20:30:00-03:00",
       "title": "Jornal Nacional"
     },
     {
-      "desc": "Após ser demitida, Adriana tem sua casa destruída por uma enchente que também leva seu marido. Ainda sem entender como seguir, ela vai parar em um abrigo. Lá, Adriana cruza pela primeira vez com o caminho de Pedro.",
-      "start_date": "2026-10-29T20:35:00-03:00",
+      "desc": "Diná escuta a conversa entre Pilar e Tom. André, Pedro e Adriana descobrem que Ulisses usou o nome de Felipe para desviar dinheiro da joalheria. Brigitte não aceita a mesada dos irmãos e deixa claro que lutará pelo dinheiro que foi deixado pelo pai.",
+      "start_date": "2026-10-29T21:30:00-03:00",
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.",
-      "start_date": "2026-10-29T21:20:00-03:00",
-      "title": "Bahia x São Paulo"
+      "desc": "A versão brasileira do programa \"Next Level Chef\", de Gordon Ramsay, seleciona participantes entre chefs profissionais, amadores e da internet, que se dividem e realizam diversas provas, mostrando habilidades e enfrentando desafios.",
+      "start_date": "2026-10-29T22:40:00-03:00",
+      "title": "Chef de Alto Nível"
     },
     {
-      "desc": "Comentaristas analisam a rodada dos estaduais, Copa do Brasil, Libertadores e muito mais.",
-      "start_date": "2026-10-29T23:30:00-03:00",
-      "title": "Segue o Jogo"
-    },
-    {
-      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-10-29T23:45:00-03:00",
-      "title": "Jornal da Globo"
+      "desc": "Fábio Porchat explora as boas histórias que as pessoas têm para contar. Em um cenário intimista e com artistas no centro da plateia, ele convida famosos e anônimos a compartilhar experiências, sejam elas inesquecíveis, engraçadas ou até assustadoras.",
+      "start_date": "2026-10-29T23:35:00-03:00",
+      "title": "Que História É Essa, Porchat?"
     }
   ],
   "start_date": "2026-10-29"

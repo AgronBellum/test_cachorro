@@ -1,121 +1,36 @@
 {
-  "end_date": "2026-11-02",
+  "end_date": "2026-11-03",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
     {
       "desc": "",
-      "start_date": "2026-10-31T00:50:00-03:00",
-      "title": "Silêncio Mortal"
+      "start_date": "2026-11-01T00:03:00-03:00",
+      "title": "Michael Jackson: A Faking It Special"
     },
     {
       "desc": "",
-      "start_date": "2026-10-31T03:02:00-03:00",
-      "title": "Um Assassino entre Amigos"
+      "start_date": "2026-11-01T00:47:00-03:00",
+      "title": "Crimes Misteriosos - Os Quatro Garotos da Pensilvânia"
     },
     {
       "desc": "",
-      "start_date": "2026-10-31T03:46:00-03:00",
-      "title": "Sexta-Feira 13 - Assassinatos Reais"
+      "start_date": "2026-11-01T02:15:00-03:00",
+      "title": "Desaparecidos: As Irmãs Bradley"
     },
     {
       "desc": "",
-      "start_date": "2026-10-31T05:13:00-03:00",
-      "title": "Sinais de um Psicopata"
+      "start_date": "2026-11-01T03:43:00-03:00",
+      "title": "Desaparecidos - Mistério em Maui"
     },
     {
       "desc": "",
-      "start_date": "2026-10-31T05:14:00-03:00",
-      "title": "Sinais de um Psicopata"
+      "start_date": "2026-11-01T04:27:00-03:00",
+      "title": "O Massacre na Universidade de Idaho"
     },
     {
       "desc": "",
-      "start_date": "2026-10-31T06:27:00-03:00",
-      "title": "Detetive Americano com Joe Kenda"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-31T07:11:00-03:00",
-      "title": "Irmandade Ariana: Terror nos Estados Unidos"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-31T07:55:00-03:00",
-      "title": "Influência Mortal - Assassinatos nas Redes Sociais"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-31T08:39:00-03:00",
-      "title": "Rivalidades Fatais"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-31T09:23:00-03:00",
-      "title": "Garotas Malvadas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-31T10:07:00-03:00",
-      "title": "Murder at Carter County Mines"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-31T10:51:00-03:00",
-      "title": "Crimes e Mentiras: O Caso Chris Watts"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-31T11:38:00-03:00",
-      "title": "Lobo em Pele de Cordeiro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-31T13:50:00-03:00",
-      "title": "Vivendo com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-31T16:02:00-03:00",
-      "title": "Silêncio Mortal"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-31T18:14:00-03:00",
-      "title": "Um Assassino entre Amigos"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-31T18:58:00-03:00",
-      "title": "Sexta-Feira 13 - Assassinatos Reais"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-31T20:26:00-03:00",
-      "title": "Lendas Urbanas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-10-31T22:38:00-03:00",
-      "title": "Casa dos Infernos"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-01T00:50:00-03:00",
-      "title": "Silêncio Mortal"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-01T03:02:00-03:00",
-      "title": "Um Assassino entre Amigos"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-01T03:46:00-03:00",
-      "title": "Sexta-Feira 13 - Assassinatos Reais"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-01T05:13:00-03:00",
+      "start_date": "2026-11-01T05:11:00-03:00",
       "title": "Sinais de um Psicopata"
     },
     {
@@ -131,68 +46,203 @@
     {
       "desc": "",
       "start_date": "2026-11-01T07:11:00-03:00",
-      "title": "Irmandade Ariana: Terror nos Estados Unidos"
+      "title": "Luigi Mangione: O Assassino do CEO"
     },
     {
       "desc": "",
       "start_date": "2026-11-01T07:55:00-03:00",
-      "title": "Influência Mortal - Assassinatos nas Redes Sociais"
+      "title": "The Serial Killer Connection"
     },
     {
       "desc": "",
       "start_date": "2026-11-01T08:39:00-03:00",
-      "title": "Rivalidades Fatais"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-01T09:23:00-03:00",
-      "title": "Garotas Malvadas"
+      "title": "O Lado Sombrio de Hollywood"
     },
     {
       "desc": "",
       "start_date": "2026-11-01T10:07:00-03:00",
-      "title": "Murder at Carter County Mines"
+      "title": "Mistério na Neve - O Caso Karen Read"
     },
     {
       "desc": "",
       "start_date": "2026-11-01T10:51:00-03:00",
-      "title": "Crimes e Mentiras: O Caso Chris Watts"
+      "title": "O Lado Sombrio da TV Infantil"
     },
     {
       "desc": "",
-      "start_date": "2026-11-01T11:38:00-03:00",
-      "title": "Lobo em Pele de Cordeiro"
+      "start_date": "2026-11-01T11:35:00-03:00",
+      "title": "Playboy - Fama e Morte"
     },
     {
       "desc": "",
-      "start_date": "2026-11-01T13:50:00-03:00",
-      "title": "Vivendo com o Inimigo"
+      "start_date": "2026-11-01T13:47:00-03:00",
+      "title": "People Magazine - Além da Notícia"
     },
     {
       "desc": "",
-      "start_date": "2026-11-01T16:02:00-03:00",
-      "title": "Silêncio Mortal"
+      "start_date": "2026-11-01T15:59:00-03:00",
+      "title": "Crimes Misteriosos - Os Quatro Garotos da Pensilvânia"
     },
     {
       "desc": "",
-      "start_date": "2026-11-01T18:14:00-03:00",
-      "title": "Um Assassino entre Amigos"
+      "start_date": "2026-11-01T17:27:00-03:00",
+      "title": "Desaparecidos: As Irmãs Bradley"
     },
     {
       "desc": "",
-      "start_date": "2026-11-01T18:58:00-03:00",
-      "title": "Sexta-Feira 13 - Assassinatos Reais"
+      "start_date": "2026-11-01T18:55:00-03:00",
+      "title": "Desaparecidos - Mistério em Maui"
     },
     {
       "desc": "",
-      "start_date": "2026-11-01T20:26:00-03:00",
-      "title": "Lendas Urbanas"
+      "start_date": "2026-11-01T19:39:00-03:00",
+      "title": "O Massacre na Universidade de Idaho"
     },
     {
       "desc": "",
-      "start_date": "2026-11-01T22:38:00-03:00",
-      "title": "Casa dos Infernos"
+      "start_date": "2026-11-01T20:23:00-03:00",
+      "title": "Férias Mortais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-01T21:07:00-03:00",
+      "title": "Influência Mortal - Assassinatos nas Redes Sociais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-01T21:51:00-03:00",
+      "title": "Rivalidades Fatais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-01T22:35:00-03:00",
+      "title": "Garotas Malvadas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-01T23:19:00-03:00",
+      "title": "Assassinatos na Hamburgueria"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-02T00:03:00-03:00",
+      "title": "Michael Jackson: A Faking It Special"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-02T00:47:00-03:00",
+      "title": "Crimes Misteriosos - Os Quatro Garotos da Pensilvânia"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-02T02:15:00-03:00",
+      "title": "Desaparecidos: As Irmãs Bradley"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-02T03:43:00-03:00",
+      "title": "Desaparecidos - Mistério em Maui"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-02T04:27:00-03:00",
+      "title": "O Massacre na Universidade de Idaho"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-02T05:11:00-03:00",
+      "title": "Sinais de um Psicopata"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-02T05:14:00-03:00",
+      "title": "Sinais de um Psicopata"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-02T06:27:00-03:00",
+      "title": "Detetive Americano com Joe Kenda"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-02T07:11:00-03:00",
+      "title": "Luigi Mangione: O Assassino do CEO"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-02T07:55:00-03:00",
+      "title": "The Serial Killer Connection"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-02T08:39:00-03:00",
+      "title": "O Lado Sombrio de Hollywood"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-02T10:07:00-03:00",
+      "title": "Mistério na Neve - O Caso Karen Read"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-02T10:51:00-03:00",
+      "title": "O Lado Sombrio da TV Infantil"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-02T11:35:00-03:00",
+      "title": "Playboy - Fama e Morte"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-02T13:47:00-03:00",
+      "title": "People Magazine - Além da Notícia"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-02T15:59:00-03:00",
+      "title": "Crimes Misteriosos - Os Quatro Garotos da Pensilvânia"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-02T17:27:00-03:00",
+      "title": "Desaparecidos: As Irmãs Bradley"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-02T18:55:00-03:00",
+      "title": "Desaparecidos - Mistério em Maui"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-02T19:39:00-03:00",
+      "title": "O Massacre na Universidade de Idaho"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-02T20:23:00-03:00",
+      "title": "Férias Mortais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-02T21:07:00-03:00",
+      "title": "Influência Mortal - Assassinatos nas Redes Sociais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-02T21:51:00-03:00",
+      "title": "Rivalidades Fatais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-02T22:35:00-03:00",
+      "title": "Garotas Malvadas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-02T23:19:00-03:00",
+      "title": "Assassinatos na Hamburgueria"
     }
   ],
-  "start_date": "2026-10-31"
+  "start_date": "2026-11-01"
 }

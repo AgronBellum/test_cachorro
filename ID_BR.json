@@ -1,161 +1,41 @@
 {
-  "end_date": "2026-11-05",
+  "end_date": "2026-11-06",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
     {
       "desc": "",
-      "start_date": "2026-11-03T00:01:00-03:00",
-      "title": "Na Mira dos Sequestradores"
+      "start_date": "2026-11-04T00:11:00-03:00",
+      "title": "Caçada por Desaparecidos - Chicago"
     },
     {
       "desc": "",
-      "start_date": "2026-11-03T00:44:00-03:00",
+      "start_date": "2026-11-04T00:55:00-03:00",
       "title": "Seu Pior Pesadelo"
     },
     {
       "desc": "",
-      "start_date": "2026-11-03T01:28:00-03:00",
+      "start_date": "2026-11-04T01:38:00-03:00",
       "title": "Mentiras Criminosas"
     },
     {
       "desc": "",
-      "start_date": "2026-11-03T02:11:00-03:00",
+      "start_date": "2026-11-04T02:22:00-03:00",
       "title": "People Magazine - Além da Notícia"
     },
     {
       "desc": "",
-      "start_date": "2026-11-03T02:55:00-03:00",
+      "start_date": "2026-11-04T03:06:00-03:00",
       "title": "Assassinato de uma Sexta à Noite"
     },
     {
       "desc": "",
-      "start_date": "2026-11-03T03:38:00-03:00",
+      "start_date": "2026-11-04T03:50:00-03:00",
       "title": "Ainda um Mistério"
     },
     {
       "desc": "",
-      "start_date": "2026-11-03T04:21:00-03:00",
-      "title": "Câmera Crime"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-03T05:05:00-03:00",
-      "title": "Sinais de um Psicopata"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-03T05:05:00-03:00",
-      "title": "Sinais de um Psicopata"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-03T06:32:00-03:00",
-      "title": "DNA Criminoso"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-03T07:59:00-03:00",
-      "title": "Vivendo com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-03T09:26:00-03:00",
-      "title": "Vidas Destruídas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-03T10:53:00-03:00",
-      "title": "Emboscada"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-03T12:20:00-03:00",
-      "title": "Diabólicos - A Face Oculta do Amor"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-03T13:47:00-03:00",
-      "title": "Segredos Bem Casados"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-03T15:58:00-03:00",
-      "title": "People Magazine - Crimes da Moda"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-03T18:08:00-03:00",
-      "title": "Olhos Da Lei"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-03T18:55:00-03:00",
-      "title": "Crimes que Viralizaram"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-03T20:23:00-03:00",
-      "title": "Crime em Tempo Real"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-03T21:06:00-03:00",
-      "title": "Policial Bom, Policial Mau"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-03T21:50:00-03:00",
-      "title": "Pelados e Condenados"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-03T22:34:00-03:00",
-      "title": "Bodycam - Registros Criminosos"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-03T23:17:00-03:00",
-      "title": "Fúria no Trânsito"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-03T23:21:00-03:00",
-      "title": "Fúria no Trânsito"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-04T00:01:00-03:00",
-      "title": "Na Mira dos Sequestradores"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-04T00:44:00-03:00",
-      "title": "Seu Pior Pesadelo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-04T01:28:00-03:00",
-      "title": "Mentiras Criminosas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-04T02:11:00-03:00",
-      "title": "People Magazine - Além da Notícia"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-04T02:55:00-03:00",
-      "title": "Assassinato de uma Sexta à Noite"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-04T03:38:00-03:00",
-      "title": "Ainda um Mistério"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-04T04:21:00-03:00",
+      "start_date": "2026-11-04T04:33:00-03:00",
       "title": "Câmera Crime"
     },
     {
@@ -165,84 +45,184 @@
     },
     {
       "desc": "",
-      "start_date": "2026-11-04T05:05:00-03:00",
+      "start_date": "2026-11-04T05:16:00-03:00",
       "title": "Sinais de um Psicopata"
     },
     {
       "desc": "",
-      "start_date": "2026-11-04T06:32:00-03:00",
+      "start_date": "2026-11-04T06:44:00-03:00",
       "title": "DNA Criminoso"
     },
     {
       "desc": "",
-      "start_date": "2026-11-04T07:59:00-03:00",
+      "start_date": "2026-11-04T08:11:00-03:00",
       "title": "Vivendo com o Inimigo"
     },
     {
       "desc": "",
-      "start_date": "2026-11-04T09:26:00-03:00",
+      "start_date": "2026-11-04T09:38:00-03:00",
       "title": "Vidas Destruídas"
     },
     {
       "desc": "",
-      "start_date": "2026-11-04T10:53:00-03:00",
+      "start_date": "2026-11-04T11:06:00-03:00",
       "title": "Emboscada"
     },
     {
       "desc": "",
-      "start_date": "2026-11-04T12:20:00-03:00",
+      "start_date": "2026-11-04T12:34:00-03:00",
       "title": "Diabólicos - A Face Oculta do Amor"
     },
     {
       "desc": "",
-      "start_date": "2026-11-04T13:47:00-03:00",
-      "title": "Segredos Bem Casados"
+      "start_date": "2026-11-04T14:02:00-03:00",
+      "title": "O Lado Sombrio de Hollywood"
     },
     {
       "desc": "",
-      "start_date": "2026-11-04T15:58:00-03:00",
-      "title": "People Magazine - Crimes da Moda"
+      "start_date": "2026-11-04T16:48:00-03:00",
+      "title": "Playboy - Fama e Morte"
     },
     {
       "desc": "",
-      "start_date": "2026-11-04T18:08:00-03:00",
+      "start_date": "2026-11-04T18:15:00-03:00",
       "title": "Olhos Da Lei"
     },
     {
       "desc": "",
-      "start_date": "2026-11-04T18:55:00-03:00",
+      "start_date": "2026-11-04T19:03:00-03:00",
       "title": "Crimes que Viralizaram"
     },
     {
       "desc": "",
-      "start_date": "2026-11-04T20:23:00-03:00",
-      "title": "Crime em Tempo Real"
+      "start_date": "2026-11-04T20:31:00-03:00",
+      "title": "People Magazine - Além da Notícia"
     },
     {
       "desc": "",
-      "start_date": "2026-11-04T21:06:00-03:00",
-      "title": "Policial Bom, Policial Mau"
+      "start_date": "2026-11-04T21:59:00-03:00",
+      "title": "Detetive Americano com Joe Kenda"
     },
     {
       "desc": "",
-      "start_date": "2026-11-04T21:50:00-03:00",
-      "title": "Pelados e Condenados"
+      "start_date": "2026-11-04T22:43:00-03:00",
+      "title": "Investigação Criminal"
     },
     {
       "desc": "",
-      "start_date": "2026-11-04T22:34:00-03:00",
-      "title": "Bodycam - Registros Criminosos"
+      "start_date": "2026-11-04T23:27:00-03:00",
+      "title": "Confissões de Assassinos - Verdades Perturbadoras"
     },
     {
       "desc": "",
-      "start_date": "2026-11-04T23:17:00-03:00",
-      "title": "Fúria no Trânsito"
+      "start_date": "2026-11-05T00:11:00-03:00",
+      "title": "Caçada por Desaparecidos - Chicago"
     },
     {
       "desc": "",
-      "start_date": "2026-11-04T23:21:00-03:00",
-      "title": "Fúria no Trânsito"
+      "start_date": "2026-11-05T00:55:00-03:00",
+      "title": "Seu Pior Pesadelo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-05T01:38:00-03:00",
+      "title": "Mentiras Criminosas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-05T02:22:00-03:00",
+      "title": "People Magazine - Além da Notícia"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-05T03:06:00-03:00",
+      "title": "Assassinato de uma Sexta à Noite"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-05T03:50:00-03:00",
+      "title": "Ainda um Mistério"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-05T04:33:00-03:00",
+      "title": "Câmera Crime"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-05T05:05:00-03:00",
+      "title": "Sinais de um Psicopata"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-05T05:16:00-03:00",
+      "title": "Sinais de um Psicopata"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-05T06:44:00-03:00",
+      "title": "DNA Criminoso"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-05T08:11:00-03:00",
+      "title": "Vivendo com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-05T09:38:00-03:00",
+      "title": "Vidas Destruídas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-05T11:06:00-03:00",
+      "title": "Emboscada"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-05T12:34:00-03:00",
+      "title": "Diabólicos - A Face Oculta do Amor"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-05T14:02:00-03:00",
+      "title": "O Lado Sombrio de Hollywood"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-05T16:48:00-03:00",
+      "title": "Playboy - Fama e Morte"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-05T18:15:00-03:00",
+      "title": "Olhos Da Lei"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-05T19:03:00-03:00",
+      "title": "Crimes que Viralizaram"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-05T20:31:00-03:00",
+      "title": "People Magazine - Além da Notícia"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-05T21:59:00-03:00",
+      "title": "Detetive Americano com Joe Kenda"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-05T22:43:00-03:00",
+      "title": "Investigação Criminal"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-05T23:27:00-03:00",
+      "title": "Confissões de Assassinos - Verdades Perturbadoras"
     }
   ],
-  "start_date": "2026-11-03"
+  "start_date": "2026-11-04"
 }

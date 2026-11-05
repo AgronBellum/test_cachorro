@@ -4,24 +4,34 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-11-05T00:35:00-03:00",
+      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
+      "start_date": "2026-11-05T00:20:00-03:00",
+      "title": "Jornal da Globo"
+    },
+    {
+      "desc": "Destaques das principais rodadas da maior liga de futebol americano do mundo.",
+      "start_date": "2026-11-05T01:10:00-03:00",
+      "title": "Radar NFL"
+    },
+    {
+      "desc": "Mirinho revela a Casemiro que deseja se mudar para Recife; Alika tem um sonho com o guerreiro que a salvará; Mirinho promete levar Mundica a Recife.",
+      "start_date": "2026-11-05T01:15:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-11-05T01:15:00-03:00",
+      "start_date": "2026-11-05T01:55:00-03:00",
       "title": "Por Você"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-11-05T02:00:00-03:00",
+      "start_date": "2026-11-05T02:40:00-03:00",
       "title": "Vai que Cola"
     },
     {
-      "desc": "Luzia, uma roteirista brasileira, e Adrián, um ator colombiano, se apaixonam em um festival de cinema em 2009 e vivem um amor ao longo de seis anos, sempre em festivais de cinema ao redor do mundo.",
-      "start_date": "2026-11-05T02:50:00-03:00",
-      "title": "Love Film Festival"
+      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "start_date": "2026-11-05T03:30:00-03:00",
+      "title": "Vai que Cola"
     },
     {
       "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
@@ -69,9 +79,9 @@
       "title": "Roque Santeiro - Edição Especial"
     },
     {
-      "desc": "Uma mulher é forçada a fugir quando suas habilidades superpoderosas são descobertas. Anos após abandonar sua família, o único lugar que resta para ela se esconder é sua própria casa.",
+      "desc": "Um homem rico e tetraplégico contrata um rapaz em liberdade condicional para ser o seu cuidador em sua sofisticada cobertura em Nova York. Uma improvável amizade começa a florescer enquanto ambos redescobrem a alegria de viver a vida ao máximo.",
       "start_date": "2026-11-05T15:25:00-03:00",
-      "title": "Poderes Extraordinários"
+      "title": "Amigos para Sempre"
     },
     {
       "desc": "As principais notícias do dia no Rio Grande do Sul.",
@@ -79,49 +89,44 @@
       "title": "Boletim RBS Notícias"
     },
     {
-      "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
+      "desc": "Lucinda apoia Carminha e diz que a considera uma filha; Verônica, Noêmia e Alexia voltam para o Divino, mas impõem condição para ficarem com Cadinho; Cadinho se casa com as três; Nina anuncia que está grávida; Carminha sai da prisão; Olenka descobre segredo do passado e ajuda Adauto a superar trauma; Carminha e Nina fazem as pazes; Adauto acerta um pênalti decisivo e leva o Divino para a primeira divisão.",
       "start_date": "2026-11-05T17:10:00-03:00",
       "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
-      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-11-05T18:00:00-03:00",
+      "desc": "Mirinho revela a Casemiro que deseja se mudar para Recife; Alika tem um sonho com o guerreiro que a salvará; Mirinho promete levar Mundica a Recife.",
+      "start_date": "2026-11-05T18:20:00-03:00",
       "title": "A Nobreza do Amor"
     },
     {
       "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-11-05T18:40:00-03:00",
+      "start_date": "2026-11-05T19:00:00-03:00",
       "title": "RBS Notícias"
     },
     {
       "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-11-05T19:15:00-03:00",
+      "start_date": "2026-11-05T19:40:00-03:00",
       "title": "Por Você"
     },
     {
       "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-11-05T20:00:00-03:00",
+      "start_date": "2026-11-05T20:30:00-03:00",
       "title": "Jornal Nacional"
     },
     {
       "desc": "Após ser demitida, Adriana tem sua casa destruída por uma enchente que também leva seu marido. Ainda sem entender como seguir, ela vai parar em um abrigo. Lá, Adriana cruza pela primeira vez com o caminho de Pedro.",
-      "start_date": "2026-11-05T20:35:00-03:00",
+      "start_date": "2026-11-05T21:30:00-03:00",
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.",
-      "start_date": "2026-11-05T21:20:00-03:00",
-      "title": "São Paulo x Corinthians"
+      "desc": "A versão brasileira do programa \"Next Level Chef\", de Gordon Ramsay, seleciona participantes entre chefs profissionais, amadores e da internet, que se dividem e realizam diversas provas, mostrando habilidades e enfrentando desafios.",
+      "start_date": "2026-11-05T22:40:00-03:00",
+      "title": "Chef de Alto Nível"
     },
     {
-      "desc": "Comentaristas analisam a rodada dos estaduais, Copa do Brasil, Libertadores e muito mais.",
-      "start_date": "2026-11-05T23:30:00-03:00",
-      "title": "Segue o Jogo"
-    },
-    {
-      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-11-05T23:45:00-03:00",
-      "title": "Jornal da Globo"
+      "desc": "Fábio Porchat explora as boas histórias que as pessoas têm para contar. Em um cenário intimista e com artistas no centro da plateia, ele convida famosos e anônimos a compartilhar experiências, sejam elas inesquecíveis, engraçadas ou até assustadoras.",
+      "start_date": "2026-11-05T23:35:00-03:00",
+      "title": "Que História É Essa, Porchat?"
     }
   ],
   "start_date": "2026-11-05"

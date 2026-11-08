@@ -4,29 +4,24 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "A família Peeples se reúne todos os anos em Hamptons. Mas agora surge algo inesperado: Wade Walker decide pedir a mão da filha dos Peeples em casamento. O problema é que ele não foi convidado para esta reunião, mas decide aparecer por lá assim mesmo.",
-      "start_date": "2026-11-08T00:30:00-03:00",
-      "title": "Peeples"
-    },
-    {
-      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-11-08T02:20:00-03:00",
-      "title": "A Nobreza do Amor"
-    },
-    {
-      "desc": "Ítalo se apresenta na audição da academia Dança em Movimento. Pérola responsabiliza Vanessa por ter dado espaço às irregularidades de Junqueira no hospital. Bela, Lucas, Margô e Glorinha parabenizam Ítalo. Sílvia provoca Bela. Vanessa humilha Zé. Zé pede um novo favor a Juarez. Sabugo questiona Lucas sobre seus sentimentos por Bela.",
-      "start_date": "2026-11-08T03:00:00-03:00",
-      "title": "Por Você"
+      "desc": "A mãe de Jube desaparece durante as férias na Colômbia com o novo namorado, e sua busca por respostas acaba dificultada pela burocracia internacional. Presa a milhares de quilômetros de distância em Los Angeles, June usa criativamente toda a tecnologia mais recente ao seu alcance para tentar encontrá-la antes que seja tarde demais. No entanto, à medida que ela se aprofunda, sua investigação digital logo levanta mais perguntas do que respostas.",
+      "start_date": "2026-11-08T00:20:00-03:00",
+      "title": "Desaparecida"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-11-08T03:45:00-03:00",
+      "start_date": "2026-11-08T02:35:00-03:00",
       "title": "Vai que Cola"
     },
     {
-      "desc": "Depois de perder a herança da família em Las Vegas, Tino precisa se virar para conseguir dinheiro. Ele começa a vender biscoitos na rua até ser atropelado pelo filho de um milionário, que se apaixona por sua filha Teté. O pai do rapaz lhe oferece um trabalho na corretora para que ele possa pagar pelo casamento da filha. No exercício de suas novas funções, Tino leva à falência a maior empresa do Brasil, mergulhando o país em uma grande crise financeira.",
-      "start_date": "2026-11-08T04:25:00-03:00",
-      "title": "Até que a Sorte nos Separe 3"
+      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "start_date": "2026-11-08T03:15:00-03:00",
+      "title": "Vai que Cola"
+    },
+    {
+      "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
+      "start_date": "2026-11-08T04:00:00-03:00",
+      "title": "Hora 1"
     },
     {
       "desc": "Acompanhe a celebração da santa missa em João Pessoa.",
@@ -34,94 +29,64 @@
       "title": "Santa Missa"
     },
     {
-      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
-      "start_date": "2026-11-08T06:00:00-03:00",
-      "title": "Globo Rural"
-    },
-    {
-      "desc": "As principais notícias do Brasil para começar o final de semana bem-informado.",
-      "start_date": "2026-11-08T06:50:00-03:00",
-      "title": "Bom Dia Sábado"
-    },
-    {
-      "desc": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários.",
-      "start_date": "2026-11-08T07:50:00-03:00",
-      "title": "Pequenas Empresas & Grandes Negócios"
+      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
+      "start_date": "2026-11-08T06:45:00-03:00",
+      "title": "Globo Repórter"
     },
     {
       "desc": "Uma atração democrática, que aborda as diversas áreas da cultura gaúcha e apresenta quadros de turismo, gastronomia e informações do agronegócio.",
-      "start_date": "2026-11-08T08:30:00-03:00",
+      "start_date": "2026-11-08T07:35:00-03:00",
       "title": "Galpão Crioulo"
     },
     {
-      "desc": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa.",
-      "start_date": "2026-11-08T09:00:00-03:00",
-      "title": "É de Casa"
+      "desc": "A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes.",
+      "start_date": "2026-11-08T08:05:00-03:00",
+      "title": "AutoEsporte"
     },
     {
-      "desc": "Uma experiência que resgata o valor dos encontros. Porque existem momentos que não se medem pelo relógio, mas pelo estalo da lenha e pelo aroma da carne na brasa.",
-      "start_date": "2026-11-08T11:45:00-03:00",
-      "title": "Tempo Bueno"
+      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
+      "start_date": "2026-11-08T08:35:00-03:00",
+      "title": "Globo Rural"
     },
     {
-      "desc": "As últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-11-08T12:05:00-03:00",
-      "title": "Jornal do Almoço"
+      "desc": "Daniel abre a porteira de sua fazenda para receber grandes astros da música sertaneja. Juntos, eles relembram suas trajetórias, falam sobre suas inspirações e se deixam levar pelas modas de viola.",
+      "start_date": "2026-11-08T10:15:00-03:00",
+      "title": "Viver Sertanejo"
     },
     {
-      "desc": "As últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.",
-      "start_date": "2026-11-08T13:00:00-03:00",
-      "title": "Globo Esporte RS"
-    },
-    {
-      "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
-      "start_date": "2026-11-08T13:25:00-03:00",
-      "title": "Jornal Hoje"
-    },
-    {
-      "desc": "De uma forma leve e divertida, muito entretenimento e informação a partir de personagens inspiradores em assuntos como cultura, bem-estar, lazer, música, viagem, gastronomia e sustentabilidade.",
-      "start_date": "2026-11-08T14:10:00-03:00",
-      "title": "Baita Sábado"
+      "desc": "Tudo o que rolou durante a semana nos esportes e os gols pelo mundo afora. Entrevistas, reportagens sobre ciência esportiva e personagens históricos também fazem parte da atração.",
+      "start_date": "2026-11-08T11:15:00-03:00",
+      "title": "Esporte Espetacular"
     },
     {
       "desc": "Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.",
-      "start_date": "2026-11-08T14:55:00-03:00",
-      "title": "GP de São Paulo - Classificação"
+      "start_date": "2026-11-08T13:30:00-03:00",
+      "title": "GP de São Paulo"
     },
     {
-      "desc": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais.",
-      "start_date": "2026-11-08T16:00:00-03:00",
-      "title": "Caldeirão com Mion"
+      "desc": "Os principais acontecimentos do Brasileirão, com notícias de clubes e atletas antes das partidas.",
+      "start_date": "2026-11-08T16:15:00-03:00",
+      "title": "Bora Pro Jogo"
     },
     {
-      "desc": "O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.",
-      "start_date": "2026-11-08T18:20:00-03:00",
-      "title": "A Nobreza do Amor"
+      "desc": "Equipes de todo o território brasileiro se enfrentam no tradicional mata-mata de futebol masculino de olho na sonhada vaga para a Copa Libertadores da América.",
+      "start_date": "2026-11-08T16:45:00-03:00",
+      "title": "Vasco x Palmeiras"
     },
     {
-      "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-11-08T19:05:00-03:00",
-      "title": "RBS Notícias"
+      "desc": "Todo final de semana, Luciano Huck oferece o melhor do entretenimento, com quadros divertidos e emocionantes, muita música, a presença marcante de famosos e matérias especiais pelo Brasil.",
+      "start_date": "2026-11-08T19:00:00-03:00",
+      "title": "Domingão com Huck"
     },
     {
-      "desc": "Ítalo se apresenta na audição da academia Dança em Movimento. Pérola responsabiliza Vanessa por ter dado espaço às irregularidades de Junqueira no hospital. Bela, Lucas, Margô e Glorinha parabenizam Ítalo. Sílvia provoca Bela. Vanessa humilha Zé. Zé pede um novo favor a Juarez. Sabugo questiona Lucas sobre seus sentimentos por Bela.",
-      "start_date": "2026-11-08T19:40:00-03:00",
-      "title": "Por Você"
-    },
-    {
-      "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
+      "desc": "Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência.",
       "start_date": "2026-11-08T20:30:00-03:00",
-      "title": "Jornal Nacional"
+      "title": "Fantástico"
     },
     {
-      "desc": "Zeni pede mais dinheiro para passar uma informação para Adriana e Pedro. André garante a Dora que não desistirá de ficar com ela. Zeni conta a Adriana e a Pedro que Pilar planeja um sequestro e Pilar pensa em acabar com Zeni. Adriana pede a André informações que ele colheu sobre Diná e pensa em expor o passado da governanta.",
-      "start_date": "2026-11-08T21:30:00-03:00",
-      "title": "Quem Ama Cuida"
-    },
-    {
-      "desc": "Serginho Groisman promove debates sobre temas relevantes com a participação da plateia, artistas e personalidades de diferentes áreas.",
-      "start_date": "2026-11-08T22:40:00-03:00",
-      "title": "Altas Horas"
+      "desc": "Kenya Sade apresenta os melhores momentos do evento com shows de Gilberto Gil, Jorja Smith, FLO, Emicida, Ajuliacosta e Criolo. Toda a atmosfera de um evento que reúne diferentes gerações, estilos e nomes da música brasileira e internacional.",
+      "start_date": "2026-11-08T23:35:00-03:00",
+      "title": "Festival Afropunk 2026"
     }
   ],
   "start_date": "2026-11-08"

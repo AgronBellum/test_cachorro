@@ -1,127 +1,17 @@
 {
-  "end_date": "2026-11-16",
+  "end_date": "2026-11-17",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
     {
       "desc": "",
-      "start_date": "2026-11-14T00:10:00-03:00",
-      "title": "O Caso Sherri Papini"
+      "start_date": "2026-11-15T00:03:00-03:00",
+      "title": "People Magazine - A Promessa da Cura"
     },
     {
       "desc": "",
-      "start_date": "2026-11-14T00:51:00-03:00",
-      "title": "Jamie vs. Britney - O Julgamento da Família Spears"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-14T02:25:00-03:00",
-      "title": "OJ Unseen: Exploitation Of Evil"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-14T05:11:00-03:00",
-      "title": "Sinais de um Psicopata"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-14T05:13:00-03:00",
-      "title": "Sinais de um Psicopata"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-14T06:25:00-03:00",
-      "title": "Detetive Americano com Joe Kenda"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-14T07:09:00-03:00",
-      "title": "Férias Mortais"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-14T07:53:00-03:00",
-      "title": "Influência Mortal - Assassinatos nas Redes Sociais"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-14T08:37:00-03:00",
-      "title": "Rivalidades Fatais"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-14T09:21:00-03:00",
-      "title": "Garotas Malvadas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-14T10:05:00-03:00",
-      "title": "Sentença Anunciada: Valentino Dixon"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-14T10:49:00-03:00",
-      "title": "Crimes e Mentiras: O Assassinato de Gabby Petito"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-14T11:44:00-03:00",
-      "title": "Lobo em Pele de Cordeiro"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-14T13:56:00-03:00",
-      "title": "Vivendo com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-14T16:08:00-03:00",
-      "title": "Jamie vs. Britney - O Julgamento da Família Spears"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-14T17:44:00-03:00",
-      "title": "OJ Unseen: Exploitation Of Evil"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-14T20:30:00-03:00",
-      "title": "Segredos Bem Casados"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-14T21:14:00-03:00",
-      "title": "Amores Tóxicos"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-14T21:58:00-03:00",
-      "title": "Sob Efeito do Amor"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-14T22:42:00-03:00",
-      "title": "Casados com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-14T23:26:00-03:00",
-      "title": "Encontros Infernais"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-15T00:10:00-03:00",
-      "title": "O Caso Sherri Papini"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-15T00:51:00-03:00",
-      "title": "Jamie vs. Britney - O Julgamento da Família Spears"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-15T02:25:00-03:00",
-      "title": "OJ Unseen: Exploitation Of Evil"
+      "start_date": "2026-11-15T01:31:00-03:00",
+      "title": "O Lado Sombrio da TV Infantil"
     },
     {
       "desc": "",
@@ -130,89 +20,169 @@
     },
     {
       "desc": "",
-      "start_date": "2026-11-15T05:13:00-03:00",
+      "start_date": "2026-11-15T05:11:00-03:00",
       "title": "Sinais de um Psicopata"
     },
     {
       "desc": "",
-      "start_date": "2026-11-15T06:25:00-03:00",
+      "start_date": "2026-11-15T06:27:00-03:00",
       "title": "Detetive Americano com Joe Kenda"
     },
     {
       "desc": "",
-      "start_date": "2026-11-15T07:09:00-03:00",
+      "start_date": "2026-11-15T07:11:00-03:00",
+      "title": "Ligadas por um Serial Killer"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-15T08:39:00-03:00",
+      "title": "O Mal na sua Essência: A História de Hadden Clark"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-15T10:07:00-03:00",
+      "title": "Playboy - Fama e Morte"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-15T10:51:00-03:00",
+      "title": "Hillsong - O Escândalo por Trás da Megaigreja"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-15T11:35:00-03:00",
+      "title": "Playboy - Fama e Morte"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-15T13:47:00-03:00",
+      "title": "People Magazine - Além da Notícia"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-15T15:15:00-03:00",
+      "title": "People Magazine - A Promessa da Cura"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-15T16:43:00-03:00",
+      "title": "O Lado Sombrio da TV Infantil"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-15T20:23:00-03:00",
       "title": "Férias Mortais"
     },
     {
       "desc": "",
-      "start_date": "2026-11-15T07:53:00-03:00",
-      "title": "Influência Mortal - Assassinatos nas Redes Sociais"
+      "start_date": "2026-11-15T21:07:00-03:00",
+      "title": "Letalmente Loira"
     },
     {
       "desc": "",
-      "start_date": "2026-11-15T08:37:00-03:00",
+      "start_date": "2026-11-15T21:51:00-03:00",
       "title": "Rivalidades Fatais"
     },
     {
       "desc": "",
-      "start_date": "2026-11-15T09:21:00-03:00",
+      "start_date": "2026-11-15T22:35:00-03:00",
       "title": "Garotas Malvadas"
     },
     {
       "desc": "",
-      "start_date": "2026-11-15T10:05:00-03:00",
-      "title": "Sentença Anunciada: Valentino Dixon"
+      "start_date": "2026-11-15T23:19:00-03:00",
+      "title": "As Matriarcas do Crime"
     },
     {
       "desc": "",
-      "start_date": "2026-11-15T10:49:00-03:00",
-      "title": "Crimes e Mentiras: O Assassinato de Gabby Petito"
+      "start_date": "2026-11-16T00:03:00-03:00",
+      "title": "People Magazine - A Promessa da Cura"
     },
     {
       "desc": "",
-      "start_date": "2026-11-15T11:44:00-03:00",
-      "title": "Lobo em Pele de Cordeiro"
+      "start_date": "2026-11-16T01:31:00-03:00",
+      "title": "O Lado Sombrio da TV Infantil"
     },
     {
       "desc": "",
-      "start_date": "2026-11-15T13:56:00-03:00",
-      "title": "Vivendo com o Inimigo"
+      "start_date": "2026-11-16T05:11:00-03:00",
+      "title": "Sinais de um Psicopata"
     },
     {
       "desc": "",
-      "start_date": "2026-11-15T16:08:00-03:00",
-      "title": "Jamie vs. Britney - O Julgamento da Família Spears"
+      "start_date": "2026-11-16T05:11:00-03:00",
+      "title": "Sinais de um Psicopata"
     },
     {
       "desc": "",
-      "start_date": "2026-11-15T17:44:00-03:00",
-      "title": "OJ Unseen: Exploitation Of Evil"
+      "start_date": "2026-11-16T06:27:00-03:00",
+      "title": "Detetive Americano com Joe Kenda"
     },
     {
       "desc": "",
-      "start_date": "2026-11-15T20:30:00-03:00",
-      "title": "Segredos Bem Casados"
+      "start_date": "2026-11-16T07:11:00-03:00",
+      "title": "Ligadas por um Serial Killer"
     },
     {
       "desc": "",
-      "start_date": "2026-11-15T21:14:00-03:00",
-      "title": "Amores Tóxicos"
+      "start_date": "2026-11-16T08:39:00-03:00",
+      "title": "O Mal na sua Essência: A História de Hadden Clark"
     },
     {
       "desc": "",
-      "start_date": "2026-11-15T21:58:00-03:00",
-      "title": "Sob Efeito do Amor"
+      "start_date": "2026-11-16T10:07:00-03:00",
+      "title": "Playboy - Fama e Morte"
     },
     {
       "desc": "",
-      "start_date": "2026-11-15T22:42:00-03:00",
-      "title": "Casados com o Inimigo"
+      "start_date": "2026-11-16T10:51:00-03:00",
+      "title": "Hillsong - O Escândalo por Trás da Megaigreja"
     },
     {
       "desc": "",
-      "start_date": "2026-11-15T23:26:00-03:00",
-      "title": "Encontros Infernais"
+      "start_date": "2026-11-16T11:35:00-03:00",
+      "title": "Playboy - Fama e Morte"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-16T13:47:00-03:00",
+      "title": "People Magazine - Além da Notícia"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-16T15:15:00-03:00",
+      "title": "People Magazine - A Promessa da Cura"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-16T16:43:00-03:00",
+      "title": "O Lado Sombrio da TV Infantil"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-16T20:23:00-03:00",
+      "title": "Férias Mortais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-16T21:07:00-03:00",
+      "title": "Letalmente Loira"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-16T21:51:00-03:00",
+      "title": "Rivalidades Fatais"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-16T22:35:00-03:00",
+      "title": "Garotas Malvadas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-16T23:19:00-03:00",
+      "title": "As Matriarcas do Crime"
     }
   ],
-  "start_date": "2026-11-14"
+  "start_date": "2026-11-15"
 }

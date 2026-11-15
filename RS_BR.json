@@ -4,29 +4,24 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "Casais se reúnem para um casamento em Las Vegas, mas situações comprometedoras e uma série de mal-entendidos ameaçam os planos para um fim de semana romântico.",
-      "start_date": "2026-11-15T00:30:00-03:00",
-      "title": "Pense como Eles Também"
-    },
-    {
-      "desc": "Entre o interior do Nordeste e a metrópole de São Paulo, dois mundos aparentemente distantes se conectam em uma história sobre amor. Rosenda é uma mulher que desafia o destino para tentar reconstruir a família e reencontrar o próprio caminho.",
-      "start_date": "2026-11-15T02:20:00-03:00",
-      "title": "Lá na Minha Terra"
-    },
-    {
-      "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-11-15T03:00:00-03:00",
-      "title": "Por Você"
+      "desc": "Casi, um defensor público jovem e idealista, perde seu primeiro caso e é suspenso de suas funções. Ao tentar ajudar uma antiga cliente, ele acaba se envolvendo em um esquema ilegal de milhões de dólares.",
+      "start_date": "2026-11-15T00:40:00-03:00",
+      "title": "Justiça Além do Sistema"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-11-15T03:40:00-03:00",
+      "start_date": "2026-11-15T02:45:00-03:00",
       "title": "Vai que Cola"
     },
     {
-      "desc": "Adam Jones já foi um respeitado chef em Paris, mas o abuso de drogas e álcool destruiu sua carreira. Após passar um tempo em Nova Orleans, ele tem uma nova oportunidade em Londres, quando é contratado por seu antigo maître para ser o chef de cozinha de um restaurante requintado. Exigindo a perfeição da sua recém-formada equipe, o amargo e temperamental Jones tem uma segunda chance para realizar seu sonho de ganhar uma terceira estrela Michelin.",
-      "start_date": "2026-11-15T04:20:00-03:00",
-      "title": "Pegando Fogo"
+      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "start_date": "2026-11-15T03:15:00-03:00",
+      "title": "Vai que Cola"
+    },
+    {
+      "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
+      "start_date": "2026-11-15T04:00:00-03:00",
+      "title": "Hora 1"
     },
     {
       "desc": "Acompanhe a celebração da santa missa em João Pessoa.",
@@ -34,94 +29,64 @@
       "title": "Santa Missa"
     },
     {
-      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
-      "start_date": "2026-11-15T06:00:00-03:00",
-      "title": "Globo Rural"
-    },
-    {
-      "desc": "As principais notícias do Brasil para começar o final de semana bem-informado.",
-      "start_date": "2026-11-15T06:25:00-03:00",
-      "title": "Bom Dia Sábado"
-    },
-    {
-      "desc": "Seleções masculinas de futebol se enfrentam em partidas amistosas pelo mundo.",
-      "start_date": "2026-11-15T07:00:00-03:00",
-      "title": "Japão x Brasil"
+      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
+      "start_date": "2026-11-15T06:40:00-03:00",
+      "title": "Globo Repórter"
     },
     {
       "desc": "Uma atração democrática, que aborda as diversas áreas da cultura gaúcha e apresenta quadros de turismo, gastronomia e informações do agronegócio.",
-      "start_date": "2026-11-15T09:20:00-03:00",
+      "start_date": "2026-11-15T07:30:00-03:00",
       "title": "Galpão Crioulo"
     },
     {
-      "desc": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa.",
-      "start_date": "2026-11-15T09:50:00-03:00",
-      "title": "É de Casa"
+      "desc": "A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes.",
+      "start_date": "2026-11-15T08:00:00-03:00",
+      "title": "AutoEsporte"
     },
     {
-      "desc": "As últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-11-15T11:45:00-03:00",
-      "title": "Jornal do Almoço"
+      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
+      "start_date": "2026-11-15T08:30:00-03:00",
+      "title": "Globo Rural"
     },
     {
-      "desc": "As últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.",
-      "start_date": "2026-11-15T13:00:00-03:00",
-      "title": "Globo Esporte RS"
+      "desc": "Daniel abre a porteira de sua fazenda para receber grandes astros da música sertaneja. Juntos, eles relembram suas trajetórias, falam sobre suas inspirações e se deixam levar pelas modas de viola.",
+      "start_date": "2026-11-15T10:05:00-03:00",
+      "title": "Viver Sertanejo"
     },
     {
-      "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
-      "start_date": "2026-11-15T13:25:00-03:00",
-      "title": "Jornal Hoje"
+      "desc": "Tudo o que rolou durante a semana nos esportes e os gols pelo mundo afora. Entrevistas, reportagens sobre ciência esportiva e personagens históricos também fazem parte da atração.",
+      "start_date": "2026-11-15T11:15:00-03:00",
+      "title": "Esporte Espetacular"
     },
     {
-      "desc": "Em Asa Branca, moradores vivem em função dos supostos milagres de Roque Santeiro, que teria morrido como mártir. O falso santo, porém, reaparece em carne e osso 17 anos depois, ameaçando o poder e a riqueza das autoridades locais.",
-      "start_date": "2026-11-15T14:10:00-03:00",
-      "title": "Roque Santeiro - Edição Especial"
+      "desc": "Em um futuro de guerra entre humanos e inteligência artificial, um ex-agente das forças especiais que sofre pelo desaparecimento de sua esposa é recrutado para matar um arquiteto de IA que desenvolveu uma arma que pode eliminar a humanidade.",
+      "start_date": "2026-11-15T12:30:00-03:00",
+      "title": "Resistência"
     },
     {
-      "desc": "De uma forma leve e divertida, muito entretenimento e informação a partir de personagens inspiradores em assuntos como cultura, bem-estar, lazer, música, viagem, gastronomia e sustentabilidade.",
-      "start_date": "2026-11-15T14:40:00-03:00",
-      "title": "Baita Sábado"
+      "desc": "Solange Almeida, Henry Freitas e José Loreto participam da atração. Nova etapa do Show em Família, com quatro famílias já classificadas nas edições anteriores, que voltam ao palco para disputarem o título de família mais musical do Brasil. Desta vez, apenas três passam para a próxima fase.",
+      "start_date": "2026-11-15T14:45:00-03:00",
+      "title": "Em Família com Eliana"
     },
     {
-      "desc": "Uma experiência que resgata o valor dos encontros. Porque existem momentos que não se medem pelo relógio, mas pelo estalo da lenha e pelo aroma da carne na brasa.",
-      "start_date": "2026-11-15T15:50:00-03:00",
-      "title": "Tempo Bueno"
+      "desc": "Todas as emoções da principal competição nacional de futebol feminino em formato mata-mata.",
+      "start_date": "2026-11-15T15:45:00-03:00",
+      "title": "Final, Jogo de Volta: Internacional x Flamengo"
     },
     {
-      "desc": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais.",
-      "start_date": "2026-11-15T16:15:00-03:00",
-      "title": "Caldeirão com Mion"
+      "desc": "Todo final de semana, Luciano Huck oferece o melhor do entretenimento, com quadros divertidos e emocionantes, muita música, a presença marcante de famosos e matérias especiais pelo Brasil.",
+      "start_date": "2026-11-15T18:05:00-03:00",
+      "title": "Domingão com Huck"
     },
     {
-      "desc": "Entre o interior do Nordeste e a metrópole de São Paulo, dois mundos aparentemente distantes se conectam em uma história sobre amor. Rosenda é uma mulher que desafia o destino para tentar reconstruir a família e reencontrar o próprio caminho.",
-      "start_date": "2026-11-15T18:40:00-03:00",
-      "title": "Lá na Minha Terra"
+      "desc": "Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência.",
+      "start_date": "2026-11-15T20:45:00-03:00",
+      "title": "Fantástico"
     },
     {
-      "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-11-15T19:25:00-03:00",
-      "title": "RBS Notícias"
-    },
-    {
-      "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-11-15T19:45:00-03:00",
-      "title": "Por Você"
-    },
-    {
-      "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
-      "start_date": "2026-11-15T20:30:00-03:00",
-      "title": "Jornal Nacional"
-    },
-    {
-      "desc": "Após ser demitida, Adriana tem sua casa destruída por uma enchente que também leva seu marido. Ainda sem entender como seguir, ela vai parar em um abrigo. Lá, Adriana cruza pela primeira vez com o caminho de Pedro.",
-      "start_date": "2026-11-15T21:30:00-03:00",
-      "title": "Quem Ama Cuida"
-    },
-    {
-      "desc": "Serginho Groisman promove debates sobre temas relevantes com a participação da plateia, artistas e personalidades de diferentes áreas.",
-      "start_date": "2026-11-15T22:40:00-03:00",
-      "title": "Altas Horas"
+      "desc": "Homenagem a Ney Matogrosso que revisita os sucessos dos Secos & Molhados e da carreira solo, intercalando apresentações e depoimentos sobre sua trajetória, obra e estética marcante.",
+      "start_date": "2026-11-15T23:35:00-03:00",
+      "title": "Por Dentro - Ney Matogrosso"
     }
   ],
   "start_date": "2026-11-15"

@@ -4,14 +4,19 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "Casi, um defensor público jovem e idealista, perde seu primeiro caso e é suspenso de suas funções. Ao tentar ajudar uma antiga cliente, ele acaba se envolvendo em um esquema ilegal de milhões de dólares.",
-      "start_date": "2026-11-16T00:40:00-03:00",
-      "title": "Justiça Além do Sistema"
+      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
+      "start_date": "2026-11-16T01:00:00-03:00",
+      "title": "Jornal da Globo"
     },
     {
-      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-11-16T02:45:00-03:00",
-      "title": "Vai que Cola"
+      "desc": "Entre o interior do Nordeste e a metrópole de São Paulo, dois mundos aparentemente distantes se conectam em uma história sobre amor. Rosenda é uma mulher que desafia o destino para tentar reconstruir a família e reencontrar o próprio caminho.",
+      "start_date": "2026-11-16T01:50:00-03:00",
+      "title": "Lá na Minha Terra"
+    },
+    {
+      "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
+      "start_date": "2026-11-16T02:30:00-03:00",
+      "title": "Por Você"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
@@ -24,69 +29,94 @@
       "title": "Hora 1"
     },
     {
-      "desc": "Acompanhe a celebração da santa missa em João Pessoa.",
-      "start_date": "2026-11-16T05:50:00-03:00",
-      "title": "Santa Missa"
+      "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
+      "start_date": "2026-11-16T06:00:00-03:00",
+      "title": "Bom Dia Rio Grande"
     },
     {
-      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
-      "start_date": "2026-11-16T06:40:00-03:00",
-      "title": "Globo Repórter"
-    },
-    {
-      "desc": "Uma atração democrática, que aborda as diversas áreas da cultura gaúcha e apresenta quadros de turismo, gastronomia e informações do agronegócio.",
-      "start_date": "2026-11-16T07:30:00-03:00",
-      "title": "Galpão Crioulo"
-    },
-    {
-      "desc": "A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes.",
-      "start_date": "2026-11-16T08:00:00-03:00",
-      "title": "AutoEsporte"
-    },
-    {
-      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
+      "desc": "A cobertura de notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.",
       "start_date": "2026-11-16T08:30:00-03:00",
-      "title": "Globo Rural"
+      "title": "Bom Dia Brasil"
     },
     {
-      "desc": "Daniel abre a porteira de sua fazenda para receber grandes astros da música sertaneja. Juntos, eles relembram suas trajetórias, falam sobre suas inspirações e se deixam levar pelas modas de viola.",
-      "start_date": "2026-11-16T10:05:00-03:00",
-      "title": "Viver Sertanejo"
+      "desc": "O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.",
+      "start_date": "2026-11-16T09:30:00-03:00",
+      "title": "Encontro com Patrícia Poeta"
     },
     {
-      "desc": "Tudo o que rolou durante a semana nos esportes e os gols pelo mundo afora. Entrevistas, reportagens sobre ciência esportiva e personagens históricos também fazem parte da atração.",
-      "start_date": "2026-11-16T11:15:00-03:00",
-      "title": "Esporte Espetacular"
+      "desc": "Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.",
+      "start_date": "2026-11-16T10:35:00-03:00",
+      "title": "Mais Você"
     },
     {
-      "desc": "Em um futuro de guerra entre humanos e inteligência artificial, um ex-agente das forças especiais que sofre pelo desaparecimento de sua esposa é recrutado para matar um arquiteto de IA que desenvolveu uma arma que pode eliminar a humanidade.",
-      "start_date": "2026-11-16T12:30:00-03:00",
-      "title": "Resistência"
+      "desc": "As últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
+      "start_date": "2026-11-16T11:45:00-03:00",
+      "title": "Jornal do Almoço"
     },
     {
-      "desc": "Solange Almeida, Henry Freitas e José Loreto participam da atração. Nova etapa do Show em Família, com quatro famílias já classificadas nas edições anteriores, que voltam ao palco para disputarem o título de família mais musical do Brasil. Desta vez, apenas três passam para a próxima fase.",
+      "desc": "As últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.",
+      "start_date": "2026-11-16T13:00:00-03:00",
+      "title": "Globo Esporte RS"
+    },
+    {
+      "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
+      "start_date": "2026-11-16T13:25:00-03:00",
+      "title": "Jornal Hoje"
+    },
+    {
+      "desc": "Em Asa Branca, moradores vivem em função dos supostos milagres de Roque Santeiro, que teria morrido como mártir. O falso santo, porém, reaparece em carne e osso 17 anos depois, ameaçando o poder e a riqueza das autoridades locais.",
       "start_date": "2026-11-16T14:45:00-03:00",
-      "title": "Em Família com Eliana"
+      "title": "Roque Santeiro - Edição Especial"
     },
     {
-      "desc": "Todas as emoções da principal competição nacional de futebol feminino em formato mata-mata.",
-      "start_date": "2026-11-16T15:45:00-03:00",
-      "title": "Final, Jogo de Volta: Internacional x Flamengo"
+      "desc": "Um pai cria sua filha como pai solteiro após a morte inesperada de sua esposa, que morreu um dia após o nascimento de sua filha. Agora, ele enfrenta dúvidas, medos e dores de cabeça para criá-la.",
+      "start_date": "2026-11-16T15:35:00-03:00",
+      "title": "Paternidade"
     },
     {
-      "desc": "Todo final de semana, Luciano Huck oferece o melhor do entretenimento, com quadros divertidos e emocionantes, muita música, a presença marcante de famosos e matérias especiais pelo Brasil.",
-      "start_date": "2026-11-16T18:05:00-03:00",
-      "title": "Domingão com Huck"
+      "desc": "As principais notícias do dia no Rio Grande do Sul.",
+      "start_date": "2026-11-16T17:05:00-03:00",
+      "title": "Boletim RBS Notícias"
     },
     {
-      "desc": "Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência.",
-      "start_date": "2026-11-16T20:45:00-03:00",
-      "title": "Fantástico"
+      "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
+      "start_date": "2026-11-16T17:15:00-03:00",
+      "title": "Vale a Pena Ver de Novo - Avenida Brasil"
     },
     {
-      "desc": "Homenagem a Ney Matogrosso que revisita os sucessos dos Secos & Molhados e da carreira solo, intercalando apresentações e depoimentos sobre sua trajetória, obra e estética marcante.",
-      "start_date": "2026-11-16T23:35:00-03:00",
-      "title": "Por Dentro - Ney Matogrosso"
+      "desc": "Entre o interior do Nordeste e a metrópole de São Paulo, dois mundos aparentemente distantes se conectam em uma história sobre amor. Rosenda é uma mulher que desafia o destino para tentar reconstruir a família e reencontrar o próprio caminho.",
+      "start_date": "2026-11-16T18:25:00-03:00",
+      "title": "Lá na Minha Terra"
+    },
+    {
+      "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
+      "start_date": "2026-11-16T19:10:00-03:00",
+      "title": "RBS Notícias"
+    },
+    {
+      "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
+      "start_date": "2026-11-16T19:40:00-03:00",
+      "title": "Por Você"
+    },
+    {
+      "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
+      "start_date": "2026-11-16T20:30:00-03:00",
+      "title": "Jornal Nacional"
+    },
+    {
+      "desc": "Após ser demitida, Adriana tem sua casa destruída por uma enchente que também leva seu marido. Ainda sem entender como seguir, ela vai parar em um abrigo. Lá, Adriana cruza pela primeira vez com o caminho de Pedro.",
+      "start_date": "2026-11-16T21:30:00-03:00",
+      "title": "Quem Ama Cuida"
+    },
+    {
+      "desc": "A trajetória da Clínica Maxwell, instituição psiquiátrica localizada em Atibaia, no interior de São Paulo.",
+      "start_date": "2026-11-16T22:40:00-03:00",
+      "title": "A Clínica"
+    },
+    {
+      "desc": "Um campeão de tênis do Grand Slam se vê do outro lado da rede do outrora promissor e agora esgotado Patrick, seu ex-melhor amigo e ex-namorado de sua esposa.",
+      "start_date": "2026-11-16T23:15:00-03:00",
+      "title": "Rivais"
     }
   ],
   "start_date": "2026-11-16"

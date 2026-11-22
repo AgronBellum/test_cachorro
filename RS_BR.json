@@ -4,119 +4,89 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.",
-      "start_date": "2026-11-22T00:35:00-03:00",
-      "title": "GP de Las Vegas"
-    },
-    {
-      "desc": "Entre o interior do Nordeste e a metrópole de São Paulo, dois mundos aparentemente distantes se conectam em uma história sobre amor. Rosenda é uma mulher que desafia o destino para tentar reconstruir a família e reencontrar o próprio caminho.",
-      "start_date": "2026-11-22T03:40:00-03:00",
-      "title": "Lá na Minha Terra"
-    },
-    {
-      "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-11-22T04:20:00-03:00",
-      "title": "Por Você"
+      "desc": "O taxista Max está trabalhando em uma noite aparentemente tranquila de Los Angeles, até que pega como passageiro Vincent, um assassino de aluguel na cidade para completar o plano de um cartel do narcotráfico. Vincent precisa aguardar que as testemunhas de um crime morram e, para isso, conta com Max para despistar a polícia local e o FBI. Obrigado a seguir ordens, Max precisa ainda lutar contra a possibilidade de ser morto, já que Vincent pode usá-lo para proteção pessoal.",
+      "start_date": "2026-11-22T00:25:00-03:00",
+      "title": "Colateral"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-11-22T05:00:00-03:00",
+      "start_date": "2026-11-22T02:30:00-03:00",
       "title": "Vai que Cola"
     },
     {
-      "desc": "Missa realizada pelo padre Marcelo Rossi.",
+      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "start_date": "2026-11-22T03:15:00-03:00",
+      "title": "Vai que Cola"
+    },
+    {
+      "desc": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
+      "start_date": "2026-11-22T04:00:00-03:00",
+      "title": "Hora 1"
+    },
+    {
+      "desc": "Acompanhe a celebração da santa missa em João Pessoa.",
       "start_date": "2026-11-22T05:50:00-03:00",
       "title": "Santa Missa"
     },
     {
-      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
-      "start_date": "2026-11-22T06:00:00-03:00",
-      "title": "Globo Rural"
-    },
-    {
-      "desc": "As principais notícias do Brasil para começar o final de semana bem-informado.",
-      "start_date": "2026-11-22T06:50:00-03:00",
-      "title": "Bom Dia Sábado"
-    },
-    {
-      "desc": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários.",
-      "start_date": "2026-11-22T07:50:00-03:00",
-      "title": "Pequenas Empresas & Grandes Negócios"
+      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
+      "start_date": "2026-11-22T06:40:00-03:00",
+      "title": "Globo Repórter"
     },
     {
       "desc": "Uma atração democrática, que aborda as diversas áreas da cultura gaúcha e apresenta quadros de turismo, gastronomia e informações do agronegócio.",
-      "start_date": "2026-11-22T08:30:00-03:00",
+      "start_date": "2026-11-22T07:30:00-03:00",
       "title": "Galpão Crioulo"
     },
     {
-      "desc": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa.",
-      "start_date": "2026-11-22T09:00:00-03:00",
-      "title": "É de Casa"
+      "desc": "A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes.",
+      "start_date": "2026-11-22T08:00:00-03:00",
+      "title": "AutoEsporte"
     },
     {
-      "desc": "As últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
-      "start_date": "2026-11-22T11:45:00-03:00",
-      "title": "Jornal do Almoço"
+      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
+      "start_date": "2026-11-22T08:35:00-03:00",
+      "title": "Globo Rural"
     },
     {
-      "desc": "As últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.",
-      "start_date": "2026-11-22T12:55:00-03:00",
-      "title": "Globo Esporte RS"
+      "desc": "Daniel abre a porteira de sua fazenda para receber grandes astros da música sertaneja. Juntos, eles relembram suas trajetórias, falam sobre suas inspirações e se deixam levar pelas modas de viola.",
+      "start_date": "2026-11-22T10:15:00-03:00",
+      "title": "Viver Sertanejo"
     },
     {
-      "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
-      "start_date": "2026-11-22T13:20:00-03:00",
-      "title": "Jornal Hoje"
+      "desc": "Tudo o que rolou durante a semana nos esportes e os gols pelo mundo afora. Entrevistas, reportagens sobre ciência esportiva e personagens históricos também fazem parte da atração.",
+      "start_date": "2026-11-22T11:15:00-03:00",
+      "title": "Esporte Espetacular"
     },
     {
-      "desc": "De uma forma leve e divertida, muito entretenimento e informação a partir de personagens inspiradores em assuntos como cultura, bem-estar, lazer, música, viagem, gastronomia e sustentabilidade.",
-      "start_date": "2026-11-22T14:00:00-03:00",
-      "title": "Baita Sábado"
+      "desc": "Em 1800, a general Nanisca treina um grupo de mulheres guerreiras para proteger o reino africano de Daomé de um inimigo estrangeiro.",
+      "start_date": "2026-11-22T12:30:00-03:00",
+      "title": "A Mulher Rei"
     },
     {
-      "desc": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais.",
-      "start_date": "2026-11-22T14:40:00-03:00",
-      "title": "Caldeirão com Mion"
+      "desc": "A trajetória de Claudinho & Buchecha, a dupla de maior sucesso do funk melody brasileiro de todos os tempos. A história de uma amizade que se transforma em força de superação e conquista.",
+      "start_date": "2026-11-22T14:50:00-03:00",
+      "title": "Nosso Sonho"
     },
     {
-      "desc": "Os principais acontecimentos do Brasileirão, com notícias de clubes e atletas antes das partidas.",
-      "start_date": "2026-11-22T16:00:00-03:00",
-      "title": "Bora Pro Jogo"
+      "desc": "No \"Em Família com Eliana\", Sandra Annenberg, Ary Fontoura e a dupla Marcos e Belutti como jurados do Show em Família. Três famílias voltam ao palco em uma competição que busca a família mais musical do Brasil. Em conversa com Eliana, Sandra Annenberg relembra momentos de seus 35 anos de carreira no jornalismo, o que inclui passagens pelo \"Jornal Nacional\", \"Fantástico\", \"Jornal Hoje\", além de sua experiência como correspondente em Londres.",
+      "start_date": "2026-11-22T16:35:00-03:00",
+      "title": "Em Família com Eliana"
     },
     {
-      "desc": "Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.",
-      "start_date": "2026-11-22T16:15:00-03:00",
-      "title": "Palmeiras x Flamengo"
+      "desc": "Todo final de semana, Luciano Huck oferece o melhor do entretenimento, com quadros divertidos e emocionantes, muita música, a presença marcante de famosos e matérias especiais pelo Brasil.",
+      "start_date": "2026-11-22T17:30:00-03:00",
+      "title": "Domingão com Huck"
     },
     {
-      "desc": "Entre o interior do Nordeste e a metrópole de São Paulo, dois mundos aparentemente distantes se conectam em uma história sobre amor. Rosenda é uma mulher que desafia o destino para tentar reconstruir a família e reencontrar o próprio caminho.",
-      "start_date": "2026-11-22T18:40:00-03:00",
-      "title": "Lá na Minha Terra"
-    },
-    {
-      "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
-      "start_date": "2026-11-22T19:25:00-03:00",
-      "title": "RBS Notícias"
-    },
-    {
-      "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-11-22T19:45:00-03:00",
-      "title": "Por Você"
-    },
-    {
-      "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
+      "desc": "Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência.",
       "start_date": "2026-11-22T20:30:00-03:00",
-      "title": "Jornal Nacional"
+      "title": "Fantástico"
     },
     {
-      "desc": "Após ser demitida, Adriana tem sua casa destruída por uma enchente que também leva seu marido. Ainda sem entender como seguir, ela vai parar em um abrigo. Lá, Adriana cruza pela primeira vez com o caminho de Pedro.",
-      "start_date": "2026-11-22T21:30:00-03:00",
-      "title": "Quem Ama Cuida"
-    },
-    {
-      "desc": "Serginho Groisman promove debates sobre temas relevantes com a participação da plateia, artistas e personalidades de diferentes áreas.",
-      "start_date": "2026-11-22T22:45:00-03:00",
-      "title": "Altas Horas"
+      "desc": "O maior festival de música sertaneja do Brasil que acontece nas seis cidades anfitriãs: Londrina, Ribeirão Preto, Pedro Leopoldo, Barretos, Jaguariúna e Caldas Novas.",
+      "start_date": "2026-11-22T23:35:00-03:00",
+      "title": "Circuito Sertanejo"
     }
   ],
   "start_date": "2026-11-22"

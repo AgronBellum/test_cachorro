@@ -4,14 +4,19 @@
   "provider": "mi.tv",
   "epg_list": [
     {
-      "desc": "O taxista Max está trabalhando em uma noite aparentemente tranquila de Los Angeles, até que pega como passageiro Vincent, um assassino de aluguel na cidade para completar o plano de um cartel do narcotráfico. Vincent precisa aguardar que as testemunhas de um crime morram e, para isso, conta com Max para despistar a polícia local e o FBI. Obrigado a seguir ordens, Max precisa ainda lutar contra a possibilidade de ser morto, já que Vincent pode usá-lo para proteção pessoal.",
-      "start_date": "2026-11-23T00:25:00-03:00",
-      "title": "Colateral"
+      "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
+      "start_date": "2026-11-23T01:00:00-03:00",
+      "title": "Jornal da Globo"
     },
     {
-      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "desc": "Entre o interior do Nordeste e a metrópole de São Paulo, dois mundos aparentemente distantes se conectam em uma história sobre amor. Rosenda é uma mulher que desafia o destino para tentar reconstruir a família e reencontrar o próprio caminho.",
+      "start_date": "2026-11-23T01:50:00-03:00",
+      "title": "Lá na Minha Terra"
+    },
+    {
+      "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
       "start_date": "2026-11-23T02:30:00-03:00",
-      "title": "Vai que Cola"
+      "title": "Por Você"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
@@ -24,69 +29,99 @@
       "title": "Hora 1"
     },
     {
-      "desc": "Acompanhe a celebração da santa missa em João Pessoa.",
-      "start_date": "2026-11-23T05:50:00-03:00",
-      "title": "Santa Missa"
+      "desc": "As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no programa, que traz ainda orientações de trânsito.",
+      "start_date": "2026-11-23T06:00:00-03:00",
+      "title": "Bom Dia Rio Grande"
     },
     {
-      "desc": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.",
-      "start_date": "2026-11-23T06:40:00-03:00",
-      "title": "Globo Repórter"
+      "desc": "A cobertura de notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.",
+      "start_date": "2026-11-23T08:30:00-03:00",
+      "title": "Bom Dia Brasil"
     },
     {
-      "desc": "Uma atração democrática, que aborda as diversas áreas da cultura gaúcha e apresenta quadros de turismo, gastronomia e informações do agronegócio.",
-      "start_date": "2026-11-23T07:30:00-03:00",
-      "title": "Galpão Crioulo"
+      "desc": "O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.",
+      "start_date": "2026-11-23T09:30:00-03:00",
+      "title": "Encontro com Patrícia Poeta"
     },
     {
-      "desc": "A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes.",
-      "start_date": "2026-11-23T08:00:00-03:00",
-      "title": "AutoEsporte"
+      "desc": "Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.",
+      "start_date": "2026-11-23T10:35:00-03:00",
+      "title": "Mais Você"
     },
     {
-      "desc": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
-      "start_date": "2026-11-23T08:35:00-03:00",
-      "title": "Globo Rural"
+      "desc": "As últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.",
+      "start_date": "2026-11-23T11:45:00-03:00",
+      "title": "Jornal do Almoço"
     },
     {
-      "desc": "Daniel abre a porteira de sua fazenda para receber grandes astros da música sertaneja. Juntos, eles relembram suas trajetórias, falam sobre suas inspirações e se deixam levar pelas modas de viola.",
-      "start_date": "2026-11-23T10:15:00-03:00",
-      "title": "Viver Sertanejo"
+      "desc": "As últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.",
+      "start_date": "2026-11-23T13:00:00-03:00",
+      "title": "Globo Esporte RS"
     },
     {
-      "desc": "Tudo o que rolou durante a semana nos esportes e os gols pelo mundo afora. Entrevistas, reportagens sobre ciência esportiva e personagens históricos também fazem parte da atração.",
-      "start_date": "2026-11-23T11:15:00-03:00",
-      "title": "Esporte Espetacular"
+      "desc": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
+      "start_date": "2026-11-23T13:25:00-03:00",
+      "title": "Jornal Hoje"
     },
     {
-      "desc": "Em 1800, a general Nanisca treina um grupo de mulheres guerreiras para proteger o reino africano de Daomé de um inimigo estrangeiro.",
-      "start_date": "2026-11-23T12:30:00-03:00",
-      "title": "A Mulher Rei"
+      "desc": "Em Asa Branca, moradores vivem em função dos supostos milagres de Roque Santeiro, que teria morrido como mártir. O falso santo, porém, reaparece em carne e osso 17 anos depois, ameaçando o poder e a riqueza das autoridades locais.",
+      "start_date": "2026-11-23T14:45:00-03:00",
+      "title": "Roque Santeiro - Edição Especial"
     },
     {
-      "desc": "A trajetória de Claudinho & Buchecha, a dupla de maior sucesso do funk melody brasileiro de todos os tempos. A história de uma amizade que se transforma em força de superação e conquista.",
-      "start_date": "2026-11-23T14:50:00-03:00",
-      "title": "Nosso Sonho"
+      "desc": "Trabalhando na empresa de brinquedos Marathon Toys, a jovem executiva Grace está passando por uma crise. Mas, quando sua boneca Eve cria vida, a empresária ganha uma ajuda para dar a volta por cima.",
+      "start_date": "2026-11-23T15:25:00-03:00",
+      "title": "A Boneca que Virou Gente 2"
     },
     {
-      "desc": "No \"Em Família com Eliana\", Sandra Annenberg, Ary Fontoura e a dupla Marcos e Belutti como jurados do Show em Família. Três famílias voltam ao palco em uma competição que busca a família mais musical do Brasil. Em conversa com Eliana, Sandra Annenberg relembra momentos de seus 35 anos de carreira no jornalismo, o que inclui passagens pelo \"Jornal Nacional\", \"Fantástico\", \"Jornal Hoje\", além de sua experiência como correspondente em Londres.",
-      "start_date": "2026-11-23T16:35:00-03:00",
-      "title": "Em Família com Eliana"
+      "desc": "As principais notícias do dia no Rio Grande do Sul.",
+      "start_date": "2026-11-23T16:55:00-03:00",
+      "title": "Boletim RBS Notícias"
     },
     {
-      "desc": "Todo final de semana, Luciano Huck oferece o melhor do entretenimento, com quadros divertidos e emocionantes, muita música, a presença marcante de famosos e matérias especiais pelo Brasil.",
-      "start_date": "2026-11-23T17:30:00-03:00",
-      "title": "Domingão com Huck"
+      "desc": "Maria da Paz é uma jovem humilde que vem de uma família de justiceiros profissionais e se apaixona por um membro do clã rival nos negócios, o advogado Amadeu. A violência e a sede por vingança das famílias travam este grande amor.",
+      "start_date": "2026-11-23T17:05:00-03:00",
+      "title": "Vale a Pena Ver de Novo - A Dona do Pedaço"
     },
     {
-      "desc": "Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência.",
+      "desc": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
+      "start_date": "2026-11-23T17:45:00-03:00",
+      "title": "Vale a Pena Ver de Novo - Avenida Brasil"
+    },
+    {
+      "desc": "Entre o interior do Nordeste e a metrópole de São Paulo, dois mundos aparentemente distantes se conectam em uma história sobre amor. Rosenda é uma mulher que desafia o destino para tentar reconstruir a família e reencontrar o próprio caminho.",
+      "start_date": "2026-11-23T18:25:00-03:00",
+      "title": "Lá na Minha Terra"
+    },
+    {
+      "desc": "Acompanhe os principais assuntos do dia, projetando também o que será manchete no dia seguinte. Falando sobre política, economia, consumo, serviço, esporte, polícia até comportamento e cultura.",
+      "start_date": "2026-11-23T19:10:00-03:00",
+      "title": "RBS Notícias"
+    },
+    {
+      "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
+      "start_date": "2026-11-23T19:40:00-03:00",
+      "title": "Por Você"
+    },
+    {
+      "desc": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
       "start_date": "2026-11-23T20:30:00-03:00",
-      "title": "Fantástico"
+      "title": "Jornal Nacional"
     },
     {
-      "desc": "O maior festival de música sertaneja do Brasil que acontece nas seis cidades anfitriãs: Londrina, Ribeirão Preto, Pedro Leopoldo, Barretos, Jaguariúna e Caldas Novas.",
-      "start_date": "2026-11-23T23:35:00-03:00",
-      "title": "Circuito Sertanejo"
+      "desc": "Após ser demitida, Adriana tem sua casa destruída por uma enchente que também leva seu marido. Ainda sem entender como seguir, ela vai parar em um abrigo. Lá, Adriana cruza pela primeira vez com o caminho de Pedro.",
+      "start_date": "2026-11-23T21:30:00-03:00",
+      "title": "Quem Ama Cuida"
+    },
+    {
+      "desc": "A trajetória da Clínica Maxwell, instituição psiquiátrica localizada em Atibaia, no interior de São Paulo.",
+      "start_date": "2026-11-23T22:40:00-03:00",
+      "title": "A Clínica"
+    },
+    {
+      "desc": "Enquanto busca justiça pelo assassinato de sua esposa grávida, John Kelly descobre uma conspiração internacional que ameaça uma guerra entre EUA e Rússia. O fuzileiro naval das forças especiais combate inimigos e revela os conspiradores.",
+      "start_date": "2026-11-23T23:15:00-03:00",
+      "title": "Sem Remorso"
     }
   ],
   "start_date": "2026-11-23"

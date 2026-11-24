@@ -1,123 +1,8 @@
 {
-  "end_date": "2026-11-25",
+  "end_date": "2026-11-26",
   "name": "Discovery ID",
   "provider": "tvinside.com.br",
   "epg_list": [
-    {
-      "desc": "",
-      "start_date": "2026-11-23T00:04:00-03:00",
-      "title": "Desesperados pela Verdade"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-23T00:48:00-03:00",
-      "title": "Seu Pior Pesadelo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-23T01:32:00-03:00",
-      "title": "Mentiras Criminosas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-23T02:16:00-03:00",
-      "title": "People Magazine - Além da Notícia"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-23T03:00:00-03:00",
-      "title": "Assassinato de uma Sexta à Noite"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-23T03:44:00-03:00",
-      "title": "Ainda um Mistério"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-23T04:28:00-03:00",
-      "title": "Câmera Crime"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-23T05:12:00-03:00",
-      "title": "Sinais de um Psicopata"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-23T05:34:00-03:00",
-      "title": "Sinais de um Psicopata"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-23T06:24:00-03:00",
-      "title": "DNA Criminoso"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-23T07:52:00-03:00",
-      "title": "Vivendo com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-23T09:20:00-03:00",
-      "title": "Vidas Destruídas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-23T10:48:00-03:00",
-      "title": "Emboscada"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-23T12:16:00-03:00",
-      "title": "Diabólicos - A Face Oculta do Amor"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-23T13:44:00-03:00",
-      "title": "Casados com o Inimigo"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-23T15:56:00-03:00",
-      "title": "Garotas Malvadas"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-23T18:08:00-03:00",
-      "title": "Olhos Da Lei"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-23T18:56:00-03:00",
-      "title": "Crimes que Viralizaram"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-23T20:24:00-03:00",
-      "title": "Impacto de um Crime"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-23T21:08:00-03:00",
-      "title": "Vivendo com o Inimigo - Criando um Assassino"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-23T21:52:00-03:00",
-      "title": "Corpos na Água"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-23T22:36:00-03:00",
-      "title": "Assassinato de uma Sexta à Noite"
-    },
-    {
-      "desc": "",
-      "start_date": "2026-11-23T23:20:00-03:00",
-      "title": "Sinais de um Psicopata"
-    },
     {
       "desc": "",
       "start_date": "2026-11-24T00:04:00-03:00",
@@ -232,7 +117,122 @@
       "desc": "",
       "start_date": "2026-11-24T23:20:00-03:00",
       "title": "Sinais de um Psicopata"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-25T00:04:00-03:00",
+      "title": "Desesperados pela Verdade"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-25T00:48:00-03:00",
+      "title": "Seu Pior Pesadelo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-25T01:32:00-03:00",
+      "title": "Mentiras Criminosas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-25T02:16:00-03:00",
+      "title": "People Magazine - Além da Notícia"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-25T03:00:00-03:00",
+      "title": "Assassinato de uma Sexta à Noite"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-25T03:44:00-03:00",
+      "title": "Ainda um Mistério"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-25T04:28:00-03:00",
+      "title": "Câmera Crime"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-25T05:12:00-03:00",
+      "title": "Sinais de um Psicopata"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-25T05:34:00-03:00",
+      "title": "Sinais de um Psicopata"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-25T06:24:00-03:00",
+      "title": "DNA Criminoso"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-25T07:52:00-03:00",
+      "title": "Vivendo com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-25T09:20:00-03:00",
+      "title": "Vidas Destruídas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-25T10:48:00-03:00",
+      "title": "Emboscada"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-25T12:16:00-03:00",
+      "title": "Diabólicos - A Face Oculta do Amor"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-25T13:44:00-03:00",
+      "title": "Casados com o Inimigo"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-25T15:56:00-03:00",
+      "title": "Garotas Malvadas"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-25T18:08:00-03:00",
+      "title": "Olhos Da Lei"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-25T18:56:00-03:00",
+      "title": "Crimes que Viralizaram"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-25T20:24:00-03:00",
+      "title": "Impacto de um Crime"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-25T21:08:00-03:00",
+      "title": "Vivendo com o Inimigo - Criando um Assassino"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-25T21:52:00-03:00",
+      "title": "Corpos na Água"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-25T22:36:00-03:00",
+      "title": "Assassinato de uma Sexta à Noite"
+    },
+    {
+      "desc": "",
+      "start_date": "2026-11-25T23:20:00-03:00",
+      "title": "Sinais de um Psicopata"
     }
   ],
-  "start_date": "2026-11-23"
+  "start_date": "2026-11-24"
 }

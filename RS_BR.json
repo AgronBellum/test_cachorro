@@ -5,22 +5,27 @@
   "epg_list": [
     {
       "desc": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
-      "start_date": "2026-11-24T01:00:00-03:00",
+      "start_date": "2026-11-24T00:25:00-03:00",
       "title": "Jornal da Globo"
     },
     {
       "desc": "Entre o interior do Nordeste e a metrópole de São Paulo, dois mundos aparentemente distantes se conectam em uma história sobre amor. Rosenda é uma mulher que desafia o destino para tentar reconstruir a família e reencontrar o próprio caminho.",
-      "start_date": "2026-11-24T01:50:00-03:00",
+      "start_date": "2026-11-24T01:15:00-03:00",
       "title": "Lá na Minha Terra"
     },
     {
       "desc": "Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.",
-      "start_date": "2026-11-24T02:30:00-03:00",
+      "start_date": "2026-11-24T01:55:00-03:00",
       "title": "Por Você"
     },
     {
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
-      "start_date": "2026-11-24T03:15:00-03:00",
+      "start_date": "2026-11-24T02:40:00-03:00",
+      "title": "Vai que Cola"
+    },
+    {
+      "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "start_date": "2026-11-24T03:25:00-03:00",
       "title": "Vai que Cola"
     },
     {
@@ -69,9 +74,9 @@
       "title": "Roque Santeiro - Edição Especial"
     },
     {
-      "desc": "Trabalhando na empresa de brinquedos Marathon Toys, a jovem executiva Grace está passando por uma crise. Mas, quando sua boneca Eve cria vida, a empresária ganha uma ajuda para dar a volta por cima.",
+      "desc": "Depois de uma trapaça, Jack descobre uma árvore no jardim e percebe que, ao pronunciar uma palavra, uma folha cai. Quando a milésima folha cair, ele morrerá. Agora, Jack precisa aprender a medir as palavras para sobreviver.",
       "start_date": "2026-11-24T15:25:00-03:00",
-      "title": "A Boneca que Virou Gente 2"
+      "title": "As Mil Palavras"
     },
     {
       "desc": "As principais notícias do dia no Rio Grande do Sul.",
@@ -114,14 +119,14 @@
       "title": "Quem Ama Cuida"
     },
     {
-      "desc": "A trajetória da Clínica Maxwell, instituição psiquiátrica localizada em Atibaia, no interior de São Paulo.",
+      "desc": "A versão brasileira do programa \"Next Level Chef\", de Gordon Ramsay, seleciona participantes entre chefs profissionais, amadores e da internet, que se dividem e realizam diversas provas, mostrando habilidades e enfrentando desafios.",
       "start_date": "2026-11-24T22:40:00-03:00",
-      "title": "A Clínica"
+      "title": "Chef de Alto Nível"
     },
     {
-      "desc": "Enquanto busca justiça pelo assassinato de sua esposa grávida, John Kelly descobre uma conspiração internacional que ameaça uma guerra entre EUA e Rússia. O fuzileiro naval das forças especiais combate inimigos e revela os conspiradores.",
-      "start_date": "2026-11-24T23:15:00-03:00",
-      "title": "Sem Remorso"
+      "desc": "Em um especial sobre ciência em Alcântara, Paulo visita o Centro de Lançamento, fala com cientistas, conhece o Tambor de Crioula e ouve anciãs do Quilombo Itamatatiua.",
+      "start_date": "2026-11-24T23:35:00-03:00",
+      "title": "Avisa Lá que Eu Vou"
     }
   ],
   "start_date": "2026-11-24"
